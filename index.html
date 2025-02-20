@@ -29,7 +29,7 @@
     }
     .hero {
       text-align: center;
-      padding: 100px 20px;
+      padding: 60px 20px;
       background: linear-gradient(to right, #1e40af, #2563eb);
       color: white;
       border-radius: 12px;
@@ -48,11 +48,12 @@
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
       border-radius: 10px;
       overflow: hidden;
-      text-transform: uppercase; /* ALL CAPS */
+      text-transform: uppercase;
     }
     th, td {
-      padding: 12px 15px;
+      padding: 10px 12px;
       text-align: left;
+      font-size: 14px;
     }
     th {
       background-color: #1e3a8a;
@@ -99,42 +100,39 @@
       z-index: 999;
     }
     .modal {
-  display: none;
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background: white;
-  padding: 10px; /* Reduced padding */
-  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
-  border-radius: 8px;
-  width: 85%; /* Smaller width */
-  max-width: 300px; /* Reduced max width */
-  z-index: 1000;
-}
-
-.modal h3 {
-  font-size: 14px; /* Smaller title */
-  margin-bottom: 8px;
-}
-
-.modal p {
-  font-size: 12px; /* Smaller text */
-}
-
-.modal button {
-  margin-top: 8px;
-  padding: 5px;
-  font-size: 12px; /* Smaller button */
-}
-
-select {
-  width: 100%;
-  padding: 6px; /* Smaller dropdown */
-  font-size: 12px;
-  margin-top: 8px;
-}
-
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: white;
+      padding: 8px;
+      box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+      border-radius: 6px;
+      width: 90%;
+      max-width: 260px;
+      z-index: 1000;
+    }
+    .modal h3 {
+      font-size: 13px;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+    }
+    .modal p {
+      font-size: 12px;
+      margin: 3px 0;
+    }
+    .modal button {
+      margin-top: 6px;
+      padding: 5px;
+      font-size: 12px;
+    }
+    select {
+      width: 100%;
+      padding: 6px;
+      font-size: 12px;
+      margin-top: 6px;
+    }
   </style>
 </head>
 <body class="bg-gray-100 text-gray-900">
@@ -142,21 +140,17 @@ select {
   <!-- Navigation Bar -->
   <nav class="nav">
     <a href="index.html">Home</a>
-    <!--<a href="lake-effect.html">Lake-Effect Snow</a>-->
     <a href="weather-maps.html">Live Weather Maps</a>
-    <!--<a href="https://x.com/ONWeatherChaser" target="_blank">Twitter</a>-->
   </nav>
 
   <!-- Hero Section -->
   <div class="hero">
-    <h1 class="text-5xl font-bold">*</h1>
-    <p class="text-lg mt-4">Real-time weather alerts and radar.</p>
+    <h1 class="text-3xl font-bold">LIVE WEATHER ALERTS</h1>
   </div>
 
   <div class="container mx-auto p-6 md:p-10">
-    <!-- Weather Alerts -->
-    <div class="max-w-6xl mx-auto bg-white shadow-lg rounded-lg p-8 mb-12">
-      <h2 class="text-3xl font-semibold text-red-700 mb-4">🔴 ACTIVE WEATHER ALERTS</h2>
+    <div class="max-w-6xl mx-auto bg-white shadow-lg rounded-lg p-6 mb-12">
+      <h2 class="text-2xl font-semibold text-red-700 mb-4">🔴 ACTIVE WEATHER ALERTS</h2>
       <div id="weather-alerts" class="mt-4 text-gray-700">
         <p>Loading latest alerts...</p>
       </div>
@@ -177,7 +171,6 @@ select {
   <!-- Footer -->
   <footer class="footer">
     <p>&copy; 2025</p>
-    <p>Version 1.0.0</p>
   </footer>
 
   <script>
@@ -195,7 +188,6 @@ function fetchWeatherAlerts() {
         return;
       }
 
-      // Remove duplicate alerts based on "headline" and "affected_areas"
       const uniqueAlerts = {};
       alertsData.forEach(alert => {
         const key = alert.headline + alert.affected_areas.map(area => area.area_description).join(",");
@@ -204,31 +196,12 @@ function fetchWeatherAlerts() {
 
       const filteredAlerts = Object.values(uniqueAlerts);
 
-      let tableHTML = `
-        <table>
-          <thead>
-            <tr>
-              <th>ALERT</th>
-              <th>AFFECTED AREAS</th>
-            </tr>
-          </thead>
-          <tbody>
-      `;
+      let tableHTML = `<table><thead><tr><th>ALERT</th><th>AFFECTED AREAS</th></tr></thead><tbody>`;
 
       filteredAlerts.forEach(alert => {
-        // Remove duplicate affected areas
         const uniqueAreas = [...new Set(alert.affected_areas.map(area => area.area_description))];
 
-        tableHTML += `
-          <tr>
-            <td>${alert.headline}</td>
-            <td>
-              <ul>
-                ${uniqueAreas.map(area => `<li>${area}</li>`).join('')}
-              </ul>
-            </td>
-          </tr>
-        `;
+        tableHTML += `<tr><td>${alert.headline}</td><td><ul>${uniqueAreas.map(area => `<li>${area}</li>`).join('')}</ul></td></tr>`;
       });
 
       tableHTML += `</tbody></table>`;
@@ -240,28 +213,16 @@ function openModal() {
   const select = document.getElementById("alert-select");
   select.innerHTML = "";
 
-  // Collect unique areas & their descriptions
   const uniqueAreas = new Map();
   alertsData.forEach(alert => {
     alert.affected_areas.forEach(area => {
       if (!uniqueAreas.has(area.area_description)) {
-        uniqueAreas.set(area.area_description, alert.description);
+        uniqueAreas.set(area.area_description, alert.description.match(/What:[\s\S]*?When:[\s\S]*?Additional information:[\s\S]*?$/) || alert.description);
       }
     });
   });
 
-  if (uniqueAreas.size === 1) {
-    // If only one unique area, disable dropdown
-    select.innerHTML = `<option value="${[...uniqueAreas.values()][0]}">${[...uniqueAreas.keys()][0]}</option>`;
-    select.disabled = true;
-  } else {
-    // Populate dropdown with unique affected areas
-    select.innerHTML = [...uniqueAreas.entries()]
-      .map(([area, description]) => `<option value="${description}">${area}</option>`)
-      .join('');
-    select.disabled = false;
-  }
-
+  select.innerHTML = [...uniqueAreas.entries()].map(([area, description]) => `<option value="${description}">${area}</option>`).join('');
   updateDescription();
   document.getElementById("modal-overlay").style.display = "block";
   document.getElementById("alert-modal").style.display = "block";
@@ -277,7 +238,6 @@ function closeModal() {
 }
 
 fetchWeatherAlerts();
-
   </script>
 
 </body>
