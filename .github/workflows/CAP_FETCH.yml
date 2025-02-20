@@ -26,7 +26,7 @@ jobs:
       - name: Install Dependencies
         run: pip install requests beautifulsoup4 lxml
 
-      - name: Ensure JSON_ALERTS Exists
+      - name: Ensure JSON_ALERTS Directory Exists
         run: mkdir -p JSON_ALERTS
 
       - name: Run CAP Alert Fetcher
@@ -38,15 +38,20 @@ jobs:
           if git diff --quiet && git diff --staged --quiet; then
             echo "✅ No changes detected. Exiting gracefully."
             exit 0  # Exit successfully without failing workflow
+          else
+            echo "🚨 Changes detected, proceeding with commit."
           fi
-          echo "🚨 Changes detected, proceeding with commit."
 
       - name: Commit & Push if Changes Found
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git commit -m "🚨 Update CAP alerts [$(date)]"
-          git push origin HEAD:main
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "✅ No changes to commit."
+          else
+            git commit -m "🚨 Update CAP alerts [$(date)]"
+            git push origin HEAD:main
+          fi
 
       - name: Debug Git Status
         run: git status
