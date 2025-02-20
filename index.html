@@ -99,42 +99,39 @@
       z-index: 999;
     }
     .modal {
-  display: none;
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background: white;
-  padding: 10px; /* Reduced padding */
-  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
-  border-radius: 8px;
-  width: 85%; /* Smaller width */
-  max-width: 300px; /* Reduced max width */
-  z-index: 1000;
-}
-
-.modal h3 {
-  font-size: 14px; /* Smaller title */
-  margin-bottom: 8px;
-}
-
-.modal p {
-  font-size: 12px; /* Smaller text */
-}
-
-.modal button {
-  margin-top: 8px;
-  padding: 5px;
-  font-size: 12px; /* Smaller button */
-}
-
-select {
-  width: 100%;
-  padding: 6px; /* Smaller dropdown */
-  font-size: 12px;
-  margin-top: 8px;
-}
-
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: white;
+      padding: 10px;
+      box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+      border-radius: 8px;
+      width: 85%;
+      max-width: 300px;
+      z-index: 1000;
+    }
+    .modal h3 {
+      font-size: 14px;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+    }
+    .modal p {
+      font-size: 12px;
+      margin-bottom: 6px;
+    }
+    .modal button {
+      margin-top: 8px;
+      padding: 5px;
+      font-size: 12px;
+    }
+    select {
+      width: 100%;
+      padding: 6px;
+      font-size: 12px;
+      margin-top: 8px;
+    }
   </style>
 </head>
 <body class="bg-gray-100 text-gray-900">
@@ -142,9 +139,7 @@ select {
   <!-- Navigation Bar -->
   <nav class="nav">
     <a href="index.html">Home</a>
-    <!--<a href="lake-effect.html">Lake-Effect Snow</a>-->
     <a href="weather-maps.html">Live Weather Maps</a>
-    <!--<a href="https://x.com/ONWeatherChaser" target="_blank">Twitter</a>-->
   </nav>
 
   <!-- Hero Section -->
@@ -170,7 +165,12 @@ select {
     <h3>SELECT AFFECTED AREA</h3>
     <select id="alert-select" onchange="updateDescription()"></select>
     <p><strong>Description:</strong></p>
-    <p id="modal-description"></p>
+    <p><strong>What:</strong></p>
+    <p id="modal-what"></p>
+    <p><strong>When:</strong></p>
+    <p id="modal-when"></p>
+    <p><strong>Additional Information:</strong></p>
+    <p id="modal-additional"></p>
     <button onclick="closeModal()">Close</button>
   </div>
 
@@ -181,103 +181,89 @@ select {
   </footer>
 
   <script>
-  let alertsData = [];
+    let alertsData = [];
 
-function fetchWeatherAlerts() {
-  fetch('JSON_ALERTS/active_alerts.json')
-    .then(response => response.json())
-    .then(data => {
-      alertsData = data.alerts || [];
-      const alertsContainer = document.getElementById('weather-alerts');
+    function fetchWeatherAlerts() {
+      fetch('JSON_ALERTS/active_alerts.json')
+        .then(response => response.json())
+        .then(data => {
+          alertsData = data.alerts || [];
+          const alertsContainer = document.getElementById('weather-alerts');
 
-      if (alertsData.length === 0) {
-        alertsContainer.innerHTML = '<div class="alert-box">No active alerts</div>';
-        return;
-      }
+          if (alertsData.length === 0) {
+            alertsContainer.innerHTML = '<div class="alert-box">No active alerts</div>';
+            return;
+          }
 
-      // Remove duplicate alerts based on "headline" and "affected_areas"
-      const uniqueAlerts = {};
+          let tableHTML = `
+            <table>
+              <thead>
+                <tr>
+                  <th>ALERT</th>
+                  <th>AFFECTED AREAS</th>
+                </tr>
+              </thead>
+              <tbody>
+          `;
+
+          alertsData.forEach(alert => {
+            const uniqueAreas = [...new Set(alert.affected_areas.map(area => area.area_description))];
+
+            tableHTML += `
+              <tr>
+                <td>${alert.headline}</td>
+                <td>
+                  <ul>${uniqueAreas.map(area => `<li>${area}</li>`).join('')}</ul>
+                </td>
+              </tr>
+            `;
+          });
+
+          tableHTML += `</tbody></table>`;
+          alertsContainer.innerHTML = tableHTML;
+        });
+    }
+
+    function openModal() {
+      const select = document.getElementById("alert-select");
+      select.innerHTML = "";
+
+      const uniqueAreas = new Map();
       alertsData.forEach(alert => {
-        const key = alert.headline + alert.affected_areas.map(area => area.area_description).join(",");
-        uniqueAlerts[key] = alert; 
+        alert.affected_areas.forEach(area => {
+          if (!uniqueAreas.has(area.area_description)) {
+            uniqueAreas.set(area.area_description, {
+              description: alert.description,
+              what: alert.what || "N/A",
+              when: alert.when || "N/A",
+              additional_info: alert.additional_info || "N/A"
+            });
+          }
+        });
       });
 
-      const filteredAlerts = Object.values(uniqueAlerts);
+      select.innerHTML = [...uniqueAreas.entries()]
+        .map(([area, info]) => `<option value='${JSON.stringify(info)}'>${area}</option>`)
+        .join('');
 
-      let tableHTML = `
-        <table>
-          <thead>
-            <tr>
-              <th>ALERT</th>
-              <th>AFFECTED AREAS</th>
-            </tr>
-          </thead>
-          <tbody>
-      `;
+      updateDescription();
+      document.getElementById("modal-overlay").style.display = "block";
+      document.getElementById("alert-modal").style.display = "block";
+    }
 
-      filteredAlerts.forEach(alert => {
-        // Remove duplicate affected areas
-        const uniqueAreas = [...new Set(alert.affected_areas.map(area => area.area_description))];
+    function updateDescription() {
+      const info = JSON.parse(document.getElementById("alert-select").value);
+      document.getElementById("modal-what").innerText = info.what;
+      document.getElementById("modal-when").innerText = info.when;
+      document.getElementById("modal-additional").innerText = info.additional_info;
+    }
 
-        tableHTML += `
-          <tr>
-            <td>${alert.headline}</td>
-            <td>
-              <ul>
-                ${uniqueAreas.map(area => `<li>${area}</li>`).join('')}
-              </ul>
-            </td>
-          </tr>
-        `;
-      });
+    function closeModal() {
+      document.getElementById("alert-modal").style.display = "none";
+      document.getElementById("modal-overlay").style.display = "none";
+    }
 
-      tableHTML += `</tbody></table>`;
-      alertsContainer.innerHTML = tableHTML;
-    });
-}
-
-function openModal() {
-  const select = document.getElementById("alert-select");
-  select.innerHTML = "";
-
-  // Collect unique areas & their descriptions
-  const uniqueAreas = new Map();
-  alertsData.forEach(alert => {
-    alert.affected_areas.forEach(area => {
-      if (!uniqueAreas.has(area.area_description)) {
-        uniqueAreas.set(area.area_description, alert.description);
-      }
-    });
-  });
-
-  if (uniqueAreas.size === 1) {
-    // If only one unique area, disable dropdown
-    select.innerHTML = `<option value="${[...uniqueAreas.values()][0]}">${[...uniqueAreas.keys()][0]}</option>`;
-    select.disabled = true;
-  } else {
-    // Populate dropdown with unique affected areas
-    select.innerHTML = [...uniqueAreas.entries()]
-      .map(([area, description]) => `<option value="${description}">${area}</option>`)
-      .join('');
-    select.disabled = false;
-  }
-
-  updateDescription();
-  document.getElementById("modal-overlay").style.display = "block";
-  document.getElementById("alert-modal").style.display = "block";
-}
-
-function updateDescription() {
-  document.getElementById("modal-description").innerText = document.getElementById("alert-select").value;
-}
-
-function closeModal() {
-  document.getElementById("alert-modal").style.display = "none";
-  document.getElementById("modal-overlay").style.display = "none";
-}
-
-fetchWeatherAlerts();
-
+    fetchWeatherAlerts();
   </script>
 
 </body>
