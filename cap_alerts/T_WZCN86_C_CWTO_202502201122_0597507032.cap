@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+    <identifier>urn:oid:2.49.0.1.124.0597507032.2025</identifier>
+    <sender>cap-pac@canada.ca</sender>
+    <sent>2025-02-20T11:25:48-00:00</sent>
+    <status>Actual</status>
+    <msgType>Update</msgType>
+    <source>Env. Can. - Can. Met. Ctr. – Montréal</source>
+    <scope>Public</scope>
+    <code>profile:CAP-CP:0.4</code>
+    <code>layer:SOREM:1.0</code>
+    <code>layer:EC-MSC-SMC:1.0</code>
+    <code>layer:EC-MSC-SMC:1.1</code>
+    <code>layer:SOREM:2.0</code>
+    <note>Service Notice - September 2024: The Environment and Climate Change Canada (ECCC) CAP Service undergoes changes from time to time as the business of alerting evolves. For Fall 2024, changes are expected to include... 1) location adjustments to the new Coastal Flooding Warning Program that has been implemented back in Spring 2024, 2) Marine Warning Program and Hurricane Warning Program (for tropical cyclone information statements only) will start to use water zone splits, 3) new parameters in CAP will be created to represent the weather event's start time and the weather event's end time, 4) ECCC's initiative to upgrade the presentation of alerts into a risk-colour tiered structure is in progress. Existing elements’ values will be updated and new parameters will be added in a future release, and 5) other minor improvements and corrections. For more information on these changes: https://comm.collab.science.gc.ca/mailman3/hyperkitty/list/dd_info@comm.collab.science.gc.ca/ | Notification de service - septembre 2024: Le service du PAC d’Environnement et Changement climatique Canada (ECCC) subit périodiquement des changements à mesure que le système d’alerte évolue. Pour l’automne 2024, il y aura des changements incluant... 1) des ajustements aux zones du nouveau programme d’avertissement d’inondations côtières qui a été mis en œuvre au printemps 2024, 2) le programme d’avertissement marine et le programme d’avertissement des ouragans (seulement pour le bulletin d'information sur les cyclones tropicaux) commenceront à utiliser des divisions de zones maritimes, 3) de nouveaux paramètres seront créés dans le PAC pour représenter l'heure de début et l'heure de fin de l'événement météorologique, 4) l'initiative d'ECCC visant à améliorer la présentation des alertes en les classant selon une structure de niveaux de risque par couleur est en cours. Les valeurs des éléments existants seront mises à jour et de nouveaux paramètres seront ajoutés dans une prochaine version, et 5) d’autres améliorations et corrections mineures. Pour plus d’informations sur ces changements: https://comm.collab.science.gc.ca/mailman3/hyperkitty/list/dd_info@comm.collab.science.gc.ca/</note>
+    <references>cap-pac@canada.ca,urn:oid:2.49.0.1.124.0643221444.2025,2025-02-20T09:55:40-00:00</references>
+    <info>
+        <language>en-CA</language>
+        <category>Met</category>
+        <event>weather</event>
+        <responseType>Monitor</responseType>
+        <urgency>Future</urgency>
+        <severity>Moderate</severity>
+        <certainty>Likely</certainty>
+        <audience>general public</audience>
+        <eventCode>
+            <valueName>profile:CAP-CP:Event:0.4</valueName>
+            <value>weather</value>
+        </eventCode>
+        <effective>2025-02-20T11:25:48-00:00</effective>
+        <onset>2025-02-20T11:22:00-00:00</onset>
+        <expires>2025-02-21T03:25:48-00:00</expires>
+        <senderName>Environment Canada</senderName>
+        <headline>weather advisory in effect</headline>
+        <description>
+Winter weather travel advisory in effect.
+
+What:
+Reduced visibility at times in snow and local blowing snow.
+Drifted snow on roadways impacting travel.
+Additional local snowfall accumulations of 10 cm.
+
+When:
+Continues into Friday.
+
+Additional information:
+Lake effect snow will persist into Friday. Gusty winds up to 50 km/h may produce local blowing snow at times this afternoon into tonight.
+
+###
+
+Motorists should expect hazardous winter driving conditions and adjust travel plans accordingly. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.
+
+For road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.
+</description>
+        <instruction>
+Be prepared to adjust your driving with changing road conditions. Slow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance. If visibility is reduced while driving, turn on your lights and maintain a safe following distance.
+</instruction>
+        <web>https://weather.gc.ca/</web>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.0:Alert_Type</valueName>
+            <value>advisory</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.0:Broadcast_Intrusive</valueName>
+            <value>no</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:SOREM:1.0:Broadcast_Immediately</valueName>
+            <value>No</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:Parent_URI</valueName>
+            <value>msc/alert/environment/hazard/alert-3.0-ascii/consolidated-xml-2.0/20250220112222544/WZ_86_87_CWTO/WHA/94800786684273221202502200503_WZ_86_87_CWTO/actual/en_proper_complete_c-fr_proper_complete_c/NinJo</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:CAP_count</valueName>
+            <value>A:2097 M:11123 C:11844</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.0:Alert_Location_Status</valueName>
+            <value>active</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.0:Alert_Name</valueName>
+            <value>weather advisory</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.0:Alert_Coverage</valueName>
+            <value>Southern Ontario</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:Designation_Code</valueName>
+            <value>WZ_86_87_CWTO</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:SOREM:2.0:WirelessImmediate</valueName>
+            <value>No</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:Alert_Location_Status</valueName>
+            <value>active</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:Newly_Active_Areas</valueName>
+            <value/>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:Event_End_Time</valueName>
+            <value>2025-02-21T19:42:00.000Z</value>
+        </parameter>
+        <area>
+            <areaDesc>Goderich - Bluewater - Southern Huron County</areaDesc>
+            <polygon>43.3073,-81.753 43.3068,-81.7453 43.3101,-81.7431 43.3155,-81.7554 43.333,-81.7783 43.8383,-81.8031 43.8105,-81.721 43.7269,-81.5005 43.6013,-81.2052 43.5994,-81.2023 43.5027,-81.2872 43.5317,-81.3488 43.4205,-81.4401 43.3818,-81.3424 43.3915,-81.3085 43.3592,-81.2894 43.3129,-81.3165 43.2638,-81.3636 43.2764,-81.4 43.293,-81.4306 43.2889,-81.4689 43.2787,-81.4627 43.2706,-81.4655 43.2506,-81.6138 43.2393,-81.7485 43.2368,-81.7716 43.2379,-81.7738 43.2428,-81.7968 43.2957,-81.78 43.2931,-81.755 43.3073,-81.753</polygon>
+            <geocode>
+                <valueName>layer:EC-MSC-SMC:1.0:CLC</valueName>
+                <value>046330</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540005</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540010</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540025</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540028</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540040</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540063</value>
+            </geocode>
+        </area>
+    </info>
+    <info>
+        <language>fr-CA</language>
+        <category>Met</category>
+        <event>météo</event>
+        <responseType>Monitor</responseType>
+        <urgency>Future</urgency>
+        <severity>Moderate</severity>
+        <certainty>Likely</certainty>
+        <audience>grand public</audience>
+        <eventCode>
+            <valueName>profile:CAP-CP:Event:0.4</valueName>
+            <value>weather</value>
+        </eventCode>
+        <effective>2025-02-20T11:25:48-00:00</effective>
+        <onset>2025-02-20T11:22:00-00:00</onset>
+        <expires>2025-02-21T03:25:48-00:00</expires>
+        <senderName>Environnement Canada</senderName>
+        <headline>avis météorologique en vigueur</headline>
+        <description>
+Avis de conditions routières hivernales en vigueur.
+
+Quoi :
+Visibilité réduite par moments sous la neige et dans la poudrerie par endroits.
+Poudrerie basse et lames de neige sur les routes, ce qui perturbera les déplacements.
+Accumulation de neige supplémentaire de 10 cm par endroits.
+
+Période :
+Jusqu'à vendredi.
+
+Renseignements supplémentaires :
+De la neige due à l'effet de lac persistera jusqu'à vendredi. Les vents soufflant en rafales jusqu'à 50 km/h pourraient occasionner de la poudrerie par endroits et par moments cet après-midi, ce soir et cette nuit.
+
+###
+
+Les automobilistes doivent s'attendre à des conditions routières hivernales dangereuses et modifier leurs plans en conséquence. Les surfaces comme les routes, les rues, les trottoirs et les terrains de stationnement peuvent devenir difficiles à sillonner en raison de l'accumulation de neige.
+
+Pour les conditions routières et d'autres renseignements à l'intention des voyageurs du ministère des Transports, visitez https://www.ontario.ca/511, https://www.twitter.com/511Ontario, ou composez le 5-1-1.
+
+Veuillez continuer à surveiller les alertes et les prévisions émises par Environnement Canada. Pour signaler du temps violent, envoyez un courriel à meteoON@ec.gc.ca ou publiez un message sur X en utilisant #ONMeteo.
+</description>
+        <instruction>
+Adaptez votre conduite aux conditions routières changeantes. Réduisez votre vitesse de conduite sur les routes glissantes. Surveillez les feux arrière des véhicules devant vous et gardez une distance sécuritaire entre les véhicules. Allumez vos phares lorsque la visibilité est réduite et gardez une distance sécuritaire entre les véhicules.
+</instruction>
+        <web>https://meteo.gc.ca/</web>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.0:Alert_Type</valueName>
+            <value>advisory</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.0:Broadcast_Intrusive</valueName>
+            <value>no</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:SOREM:1.0:Broadcast_Immediately</valueName>
+            <value>No</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:Parent_URI</valueName>
+            <value>msc/alert/environment/hazard/alert-3.0-ascii/consolidated-xml-2.0/20250220112222544/WZ_86_87_CWTO/WHA/94800786684273221202502200503_WZ_86_87_CWTO/actual/en_proper_complete_c-fr_proper_complete_c/NinJo</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:CAP_count</valueName>
+            <value>A:2097 M:11123 C:11844</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.0:Alert_Location_Status</valueName>
+            <value>active</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.0:Alert_Name</valueName>
+            <value>avis météorologique</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.0:Alert_Coverage</valueName>
+            <value>sud de l'Ontario</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:Designation_Code</valueName>
+            <value>WZ_86_87_CWTO</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:SOREM:2.0:WirelessImmediate</valueName>
+            <value>No</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:Alert_Location_Status</valueName>
+            <value>active</value>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:Newly_Active_Areas</valueName>
+            <value/>
+        </parameter>
+        <parameter>
+            <valueName>layer:EC-MSC-SMC:1.1:Event_End_Time</valueName>
+            <value>2025-02-21T19:42:00.000Z</value>
+        </parameter>
+        <area>
+            <areaDesc>Goderich - Bluewater - comté de Huron Sud</areaDesc>
+            <polygon>43.3073,-81.753 43.3068,-81.7453 43.3101,-81.7431 43.3155,-81.7554 43.333,-81.7783 43.8383,-81.8031 43.8105,-81.721 43.7269,-81.5005 43.6013,-81.2052 43.5994,-81.2023 43.5027,-81.2872 43.5317,-81.3488 43.4205,-81.4401 43.3818,-81.3424 43.3915,-81.3085 43.3592,-81.2894 43.3129,-81.3165 43.2638,-81.3636 43.2764,-81.4 43.293,-81.4306 43.2889,-81.4689 43.2787,-81.4627 43.2706,-81.4655 43.2506,-81.6138 43.2393,-81.7485 43.2368,-81.7716 43.2379,-81.7738 43.2428,-81.7968 43.2957,-81.78 43.2931,-81.755 43.3073,-81.753</polygon>
+            <geocode>
+                <valueName>layer:EC-MSC-SMC:1.0:CLC</valueName>
+                <value>046330</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540005</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540010</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540025</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540028</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540040</value>
+            </geocode>
+            <geocode>
+                <valueName>profile:CAP-CP:Location:0.3</valueName>
+                <value>3540063</value>
+            </geocode>
+        </area>
+    </info>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="Environment Canada">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<Reference URI="">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<DigestValue>w4EX0EGab9UvAqne2rUKZhrbJcrXkji1BNfipSgjplY=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>a+bXC/+ViBQFAQopGe66mTw3mF1VPCoHLCSxNK6iZcdxZ3TAAijJywAIL9Bfivwz
+/BoGaxg5rAVlcsO1fea97eAgYE1kOvvRKvSiZByQzu9wzQh1GZwgs7252IiMUHY/
+M7E25pi/OfxeR4IRHVL6rL3VU/7R2rvqqvcM8SZZrKO6+QXk8F1kKvlTob/MkrD0
+gDu2pZGfDA5obuauG7w0cM1pPyvDy7aXbfbDn5vobJrlVhrukLtfgoX8cxbxQTUu
+7V/dldlxIqvwuZK6NGXQmrco6euERIReMhYgSd/G7GGyI0rjTL5sfOemdLnvuEgH
+v5jMOJL2QGlxUQn+UHvEnw==</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>MIIHDDCCBfSgAwIBAgIQM2dJyev0XEPJoQlSaOQgYDANBgkqhkiG9w0BAQsFADCB
+ujELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsT
+H1NlZSB3d3cuZW50cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAy
+MDEyIEVudHJ1c3QsIEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwG
+A1UEAxMlRW50cnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxSzAeFw0y
+NDA0MTkwOTQ3MDZaFw0yNTA1MTkwOTQ3MDRaMGwxCzAJBgNVBAYTAkNBMQ8wDQYD
+VQQIEwZRdWViZWMxETAPBgNVBAcTCEdhdGluZWF1MR8wHQYDVQQKExZTaGFyZWQg
+U2VydmljZXMgQ2FuYWRhMRgwFgYDVQQDDA8qLndlYXRoZXIuZ2MuY2EwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDARd6fBVAjKlOvocp442ydQbSCoxHW
+91i1r5TkucsGLkzm92HQsj4eVNCl6Uti3hd3yYL1QxFTImdyUs2ETlDoU/hVFEey
+IevKo3m3ufuv9YryXGtoRcthMITEPrIy6vOyNbGaxJw1J6/AkOs7oAm3kUlx6PS8
+vOnuoyik1r6Q9qx1XP9Z05cIyyIBhsyjdS124Jj01quCjz5COPMXKU1LlaU8LeSA
+qILe9DyC3XWluZGxZH+tGiw42mpiCD3JGlCsXQujU5y4jg2fq8/ePsM3OUzM/Dxs
+kGMMN7LAG9/H4CINJ+aXZQvlgTfIZp2eWLvHy5dnsbi3VAJOEtgRVzedAgMBAAGj
+ggNZMIIDVTAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSSLKB4osVSIvgfhk+6NayJ
+BDAXuDAfBgNVHSMEGDAWgBSConB03bxTP8971PfNf6dgxgpMvzBoBggrBgEFBQcB
+AQRcMFowIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLmVudHJ1c3QubmV0MDMGCCsG
+AQUFBzAChidodHRwOi8vYWlhLmVudHJ1c3QubmV0L2wxay1jaGFpbjI1Ni5jZXIw
+MwYDVR0fBCwwKjAooCagJIYiaHR0cDovL2NybC5lbnRydXN0Lm5ldC9sZXZlbDFr
+LmNybDCBnQYDVR0RBIGVMIGSgg8qLndlYXRoZXIuZ2MuY2GCDXdlYXRoZXIuZ2Mu
+Y2GCC21ldGVvLmdjLmNhgg0qLm1ldGVvLmdjLmNhghUqLmFscGhhLndlYXRoZXIu
+Z2MuY2GCEyouYWxwaGEubWV0ZW8uZ2MuY2GCFCouYmV0YS53ZWF0aGVyLmdjLmNh
+ghIqLmJldGEubWV0ZW8uZ2MuY2EwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjATBgNVHSAEDDAKMAgGBmeBDAECAjCCAYAGCisG
+AQQB1nkCBAIEggFwBIIBbAFqAHYAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzE
+uVCkR+cAAAGO9cCizQAABAMARzBFAiEA7hlkvyyYsnhbas5WDwoTkdGWf92Ukckw
+rGyUqMPZQjkCID8oQlHWS11haifx+i9tBr0epmrzkh2/bbneb9WNrlUvAHcATnWj
+J1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGO9cCi2AAABAMASDBGAiEA
+iE1jLaXrlPxrkIiq7NU0gH/sDiUlHCmMrT79KUy2V+YCIQCb2GrTID6NO3hb8bGs
+ctd8ipYRuu1FnDY8X3MGVDcWnAB3AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocy
+Hf0eN45QAAABjvXAovkAAAQDAEgwRgIhALRWB9aVOe3Zi9j6MEVKJl1NKQKIycr3
+8IfKeHxckblpAiEA85xjN3iBFvEVT4yIxO4qKRelbpFGomgSrYnfwTSUwHIwDQYJ
+KoZIhvcNAQELBQADggEBADGEK5tU92TqoTWPh1lfSRTDVCpk5qhqmIuaTeYQMonV
+AgHF5rktrUhXmMzRJEef8XRwLvApT4zOn+TV+NOUpi8q6tDWxx7dE8+moIf6tXq8
+d4OQ+VDO/C6nz/xA8FqvxAbPfqCJ6DqgitSyXhF01XkNMfVcknGAzhc/HemuukI1
+3DTuaATlbaXkHjSp+O0mXCykCIgH/9eMuOoFMzhdQhtJiLf2MMVclJ72/YzgVveA
+XrSTVE5F4BYdp9hX+0BTg5zNgg1wwvVVOwuIOTFqSSJCzGHjl/1i8IyyPLKB3ilt
+B+0V7IdmIxlvPbL//qNkzyUVufkewAoLMqCOUIZA0eY=</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></alert>
