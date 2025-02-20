@@ -99,49 +99,42 @@
       z-index: 999;
     }
     .modal {
-      display: none;
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background: white;
-      padding: 20px;
-      box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
-      border-radius: 10px;
-      width: 90%;
-      max-width: 400px;
-      z-index: 1000;
-    }
-    .modal h3 {
-      font-size: 16px;
-      color: #1e3a8a;
-      margin-bottom: 10px;
-      text-transform: uppercase;
-    }
-    .modal p {
-      font-size: 14px;
-      margin: 5px 0;
-    }
-    .modal button {
-      margin-top: 10px;
-      padding: 6px;
-      background: #2563eb;
-      color: white;
-      border: none;
-      border-radius: 6px;
-      cursor: pointer;
-      font-size: 13px;
-      width: 100%;
-      transition: background 0.2s;
-    }
-    .modal button:hover {
-      background: #1d4ed8;
-    }
-    select {
-      width: 100%;
-      padding: 8px;
-      margin-top: 10px;
-    }
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 10px; /* Reduced padding */
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  width: 85%; /* Smaller width */
+  max-width: 300px; /* Reduced max width */
+  z-index: 1000;
+}
+
+.modal h3 {
+  font-size: 14px; /* Smaller title */
+  margin-bottom: 8px;
+}
+
+.modal p {
+  font-size: 12px; /* Smaller text */
+}
+
+.modal button {
+  margin-top: 8px;
+  padding: 5px;
+  font-size: 12px; /* Smaller button */
+}
+
+select {
+  width: 100%;
+  padding: 6px; /* Smaller dropdown */
+  font-size: 12px;
+  margin-top: 8px;
+}
+
   </style>
 </head>
 <body class="bg-gray-100 text-gray-900">
