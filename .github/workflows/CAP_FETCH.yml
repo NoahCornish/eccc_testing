@@ -33,13 +33,13 @@ jobs:
         run: python cap_fetch.py
 
       - name: Check for Changes
-  run: |
-    git add JSON_ALERTS/*.json
-    if git diff --quiet && git diff --staged --quiet; then
-      echo "No changes detected. Exiting gracefully."
-      exit 0  # Exit successfully (instead of failing)
-    fi
-    echo "Changes detected."
+        run: |
+          git add JSON_ALERTS/*.json
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "✅ No changes detected. Exiting gracefully."
+            exit 0  # Exit successfully without failing workflow
+          fi
+          echo "🚨 Changes detected, proceeding with commit."
 
       - name: Commit & Push if Changes Found
         run: |
