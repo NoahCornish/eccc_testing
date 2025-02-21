@@ -1,0 +1,149 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2843586764.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-02-21T03:06:25-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0643221444.2025,2025-02-20T09:55:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0597507032.2025,2025-02-20T11:25:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1725142758.2025,2025-02-20T23:13:49-00:00",
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-02-21T03:06:25-00:00",
+    "expires": "2025-02-21T16:04:25-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nReduced visibility at times in snow and local blowing snow.\nDrifted snow on roadways impacting travel.\nAdditional local snowfall accumulations of 5 to 10 cm.\n\nWhen:\nContinuing through Friday morning.\n\nAdditional information:\nLake effect snow will persist into Friday. Gusty winds up to 50 km/h may produce local blowing snow at times this evening into tonight.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBe prepared to adjust your driving with changing road conditions. Slow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance. If visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Goderich - Bluewater - Southern Huron County",
+            "polygon": [
+                {
+                    "lat": 43.3073,
+                    "lon": -81.753
+                },
+                {
+                    "lat": 43.3068,
+                    "lon": -81.7453
+                },
+                {
+                    "lat": 43.3101,
+                    "lon": -81.7431
+                },
+                {
+                    "lat": 43.3155,
+                    "lon": -81.7554
+                },
+                {
+                    "lat": 43.333,
+                    "lon": -81.7783
+                },
+                {
+                    "lat": 43.8383,
+                    "lon": -81.8031
+                },
+                {
+                    "lat": 43.8105,
+                    "lon": -81.721
+                },
+                {
+                    "lat": 43.7269,
+                    "lon": -81.5005
+                },
+                {
+                    "lat": 43.6013,
+                    "lon": -81.2052
+                },
+                {
+                    "lat": 43.5994,
+                    "lon": -81.2023
+                },
+                {
+                    "lat": 43.5027,
+                    "lon": -81.2872
+                },
+                {
+                    "lat": 43.5317,
+                    "lon": -81.3488
+                },
+                {
+                    "lat": 43.4205,
+                    "lon": -81.4401
+                },
+                {
+                    "lat": 43.3818,
+                    "lon": -81.3424
+                },
+                {
+                    "lat": 43.3915,
+                    "lon": -81.3085
+                },
+                {
+                    "lat": 43.3592,
+                    "lon": -81.2894
+                },
+                {
+                    "lat": 43.3129,
+                    "lon": -81.3165
+                },
+                {
+                    "lat": 43.2638,
+                    "lon": -81.3636
+                },
+                {
+                    "lat": 43.2764,
+                    "lon": -81.4
+                },
+                {
+                    "lat": 43.293,
+                    "lon": -81.4306
+                },
+                {
+                    "lat": 43.2889,
+                    "lon": -81.4689
+                },
+                {
+                    "lat": 43.2787,
+                    "lon": -81.4627
+                },
+                {
+                    "lat": 43.2706,
+                    "lon": -81.4655
+                },
+                {
+                    "lat": 43.2506,
+                    "lon": -81.6138
+                },
+                {
+                    "lat": 43.2393,
+                    "lon": -81.7485
+                },
+                {
+                    "lat": 43.2368,
+                    "lon": -81.7716
+                },
+                {
+                    "lat": 43.2379,
+                    "lon": -81.7738
+                },
+                {
+                    "lat": 43.2428,
+                    "lon": -81.7968
+                },
+                {
+                    "lat": 43.2957,
+                    "lon": -81.78
+                },
+                {
+                    "lat": 43.2931,
+                    "lon": -81.755
+                },
+                {
+                    "lat": 43.3073,
+                    "lon": -81.753
+                }
+            ]
+        }
+    ]
+}
