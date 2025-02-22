@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0468380111.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-02-22T20:27:28-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3295551578.2025,2025-02-21T20:53:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1780705306.2025,2025-02-22T03:02:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3022360390.2025,2025-02-22T10:40:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4238658771.2025,2025-02-22T13:12:36-00:00",
+    "headline": "weather advisory ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-02-22T20:27:28-00:00",
+    "expires": "2025-02-22T21:27:28-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Agawa - Lake Superior Park",
+            "polygon": [
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                },
+                {
+                    "lat": 47.8957,
+                    "lon": -84.8608
+                },
+                {
+                    "lat": 47.963,
+                    "lon": -84.6559
+                },
+                {
+                    "lat": 48.0973,
+                    "lon": -84.2418
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                },
+                {
+                    "lat": 48.1106,
+                    "lon": -83.996
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                }
+            ]
+        }
+    ]
+}
