@@ -1,22 +1,22 @@
 {
     "alerts": [
         {
-            "identifier": "urn:oid:2.49.0.1.124.0334475812.2025",
+            "identifier": "urn:oid:2.49.0.1.124.3805311969.2025",
             "sender": "cap-pac@canada.ca",
-            "sent": "2025-02-23T21:08:30-00:00",
+            "sent": "2025-02-24T05:11:47-00:00",
             "status": "Actual",
-            "msgType": "Alert",
+            "msgType": "Update",
             "scope": "Public",
-            "references": null,
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0334475812.2025,2025-02-23T21:08:30-00:00",
             "headline": "weather advisory in effect",
             "event": "weather",
             "urgency": "Future",
             "severity": "Moderate",
             "certainty": "Likely",
-            "effective": "2025-02-23T21:08:30-00:00",
-            "expires": "2025-02-24T13:08:30-00:00",
-            "description": "\nWinter weather travel advisory in effect for tonight. \n\nWhat:\nLocal snowfall accumulations of 8 to 15 cm are possible.\nReduced visibility at times in heavy snow.\n\nWhen:\nThis evening through Monday morning.\n\nAdditional information: \nSnow, heavy at times, will begin this evening near Lake Nipigon and after midnight for areas east of Lake Superior. The snow is expected to taper off Monday morning.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
-            "instruction": "\nSlow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance. If visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+            "effective": "2025-02-24T05:11:47-00:00",
+            "expires": "2025-02-24T17:02:47-00:00",
+            "description": "\nWinter weather travel advisory in effect for this morning.\n\nWhat:\nLocal snowfall accumulations of 8 to 15 cm are possible.\nReduced visibility at times in heavy snow.\n\nWhen:\nThis morning.\n\nAdditional information:\nSnow, heavy at times, has begun near Lake Nipigon and will move over areas east of Lake Superior early this morning. The snow is expected to taper off later this morning.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
             "affected_areas": [
                 {
                     "area_description": "Beardmore - Jellicoe - Macdiarmid",
