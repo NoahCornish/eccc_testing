@@ -1,0 +1,109 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2773686977.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-02-24T13:45:11-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-02-24T13:45:11-00:00",
+    "expires": "2025-02-24T20:04:11-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nReduced visibility at times in heavy snow.\nLocal snowfall accumulations of up to 5 cm.\n\nWhen:\nThis morning.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. Slow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Greater Sudbury and vicinity",
+            "polygon": [
+                {
+                    "lat": 46.2785,
+                    "lon": -80.4935
+                },
+                {
+                    "lat": 46.2675,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.106,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.0992,
+                    "lon": -80.9338
+                },
+                {
+                    "lat": 46.1701,
+                    "lon": -80.9338
+                },
+                {
+                    "lat": 46.1701,
+                    "lon": -81.4263
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -81.4263
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9683,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.7261,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.7151,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.6307,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.6307,
+                    "lon": -80.276
+                },
+                {
+                    "lat": 46.2601,
+                    "lon": -80.276
+                },
+                {
+                    "lat": 46.2785,
+                    "lon": -80.4935
+                }
+            ]
+        }
+    ]
+}
