@@ -1,0 +1,213 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3567117995.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-02-26T04:54:49-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0513431762.2025,2025-02-26T04:53:13-00:00",
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-02-26T04:53:13-00:00",
+    "expires": "2025-02-26T16:59:13-00:00",
+    "description": "\nNear zero visibility in fog is expected or occurring.\n\nDense fog patches have developed. Conditions are expected to improve after sunrise.\n\n###\n\nVisibility may be significantly and suddenly reduced to near zero. Travel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "Chatham-Kent - Rondeau Park",
+            "polygon": [
+                {
+                    "lat": 42.2401,
+                    "lon": -82.0268
+                },
+                {
+                    "lat": 42.1118,
+                    "lon": -82.3596
+                },
+                {
+                    "lat": 42.0436,
+                    "lon": -82.4335
+                },
+                {
+                    "lat": 42.0647,
+                    "lon": -82.4607
+                },
+                {
+                    "lat": 42.0778,
+                    "lon": -82.4642
+                },
+                {
+                    "lat": 42.0909,
+                    "lon": -82.4615
+                },
+                {
+                    "lat": 42.0915,
+                    "lon": -82.4793
+                },
+                {
+                    "lat": 42.096,
+                    "lon": -82.48
+                },
+                {
+                    "lat": 42.1124,
+                    "lon": -82.4586
+                },
+                {
+                    "lat": 42.1561,
+                    "lon": -82.4601
+                },
+                {
+                    "lat": 42.1947,
+                    "lon": -82.4536
+                },
+                {
+                    "lat": 42.1952,
+                    "lon": -82.4438
+                },
+                {
+                    "lat": 42.1947,
+                    "lon": -82.4341
+                },
+                {
+                    "lat": 42.2196,
+                    "lon": -82.4374
+                },
+                {
+                    "lat": 42.2432,
+                    "lon": -82.431
+                },
+                {
+                    "lat": 42.2375,
+                    "lon": -82.4592
+                },
+                {
+                    "lat": 42.2669,
+                    "lon": -82.4995
+                },
+                {
+                    "lat": 42.289,
+                    "lon": -82.4812
+                },
+                {
+                    "lat": 42.32,
+                    "lon": -82.4788
+                },
+                {
+                    "lat": 42.3249,
+                    "lon": -82.4463
+                },
+                {
+                    "lat": 42.3476,
+                    "lon": -82.4889
+                },
+                {
+                    "lat": 42.4783,
+                    "lon": -82.4404
+                },
+                {
+                    "lat": 42.4901,
+                    "lon": -82.436
+                },
+                {
+                    "lat": 42.4982,
+                    "lon": -82.4529
+                },
+                {
+                    "lat": 42.5351,
+                    "lon": -82.4386
+                },
+                {
+                    "lat": 42.5651,
+                    "lon": -82.4483
+                },
+                {
+                    "lat": 42.5756,
+                    "lon": -82.4881
+                },
+                {
+                    "lat": 42.5931,
+                    "lon": -82.5071
+                },
+                {
+                    "lat": 42.6337,
+                    "lon": -82.4767
+                },
+                {
+                    "lat": 42.6364,
+                    "lon": -82.2818
+                },
+                {
+                    "lat": 42.627,
+                    "lon": -82.1003
+                },
+                {
+                    "lat": 42.6276,
+                    "lon": -82.065
+                },
+                {
+                    "lat": 42.6246,
+                    "lon": -82.0234
+                },
+                {
+                    "lat": 42.6357,
+                    "lon": -82.0259
+                },
+                {
+                    "lat": 42.6486,
+                    "lon": -82.0159
+                },
+                {
+                    "lat": 42.6506,
+                    "lon": -82.008
+                },
+                {
+                    "lat": 42.6531,
+                    "lon": -81.926
+                },
+                {
+                    "lat": 42.651,
+                    "lon": -81.8354
+                },
+                {
+                    "lat": 42.63,
+                    "lon": -81.8308
+                },
+                {
+                    "lat": 42.6081,
+                    "lon": -81.835
+                },
+                {
+                    "lat": 42.5782,
+                    "lon": -81.7925
+                },
+                {
+                    "lat": 42.5492,
+                    "lon": -81.7512
+                },
+                {
+                    "lat": 42.4727,
+                    "lon": -81.6662
+                },
+                {
+                    "lat": 42.4497,
+                    "lon": -81.6432
+                },
+                {
+                    "lat": 42.3626,
+                    "lon": -81.7639
+                },
+                {
+                    "lat": 42.2365,
+                    "lon": -81.8364
+                },
+                {
+                    "lat": 42.2401,
+                    "lon": -82.0268
+                }
+            ]
+        }
+    ]
+}
