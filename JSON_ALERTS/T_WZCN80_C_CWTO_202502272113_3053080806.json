@@ -1,0 +1,93 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3053080806.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-02-27T21:18:16-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "snowfall warning in effect",
+    "event": "snowfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-02-27T21:18:16-00:00",
+    "expires": "2025-02-28T13:18:16-00:00",
+    "description": "\nSignificant snowfall expected Friday.\n\nWhat:\nTotal snowfall accumulations near 15 cm.\nPeak snowfall rates of 2 to 4 cm per hour.\nReduced visibility in heavy snow.\n\nWhen:\nFriday morning into Friday evening.\n\nAdditional information:\nAn Alberta Clipper will bring snow, heavy at times, to the area. The heaviest snowfall is expected Friday afternoon, thus likely impacting the afternoon commute.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBe prepared to adjust your driving with changing road conditions. If visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Bruce Peninsula - Sauble Beach - Tobermory",
+            "polygon": [
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                },
+                {
+                    "lat": 44.6414,
+                    "lon": -81.1122
+                },
+                {
+                    "lat": 44.6267,
+                    "lon": -81.1132
+                },
+                {
+                    "lat": 44.5511,
+                    "lon": -81.1203
+                },
+                {
+                    "lat": 44.5357,
+                    "lon": -81.1971
+                },
+                {
+                    "lat": 44.5229,
+                    "lon": -81.2724
+                },
+                {
+                    "lat": 44.5846,
+                    "lon": -81.2887
+                },
+                {
+                    "lat": 44.5944,
+                    "lon": -81.2913
+                },
+                {
+                    "lat": 44.5866,
+                    "lon": -81.4622
+                },
+                {
+                    "lat": 45.3535,
+                    "lon": -81.8404
+                },
+                {
+                    "lat": 45.3822,
+                    "lon": -81.4145
+                },
+                {
+                    "lat": 45.2717,
+                    "lon": -81.1853
+                },
+                {
+                    "lat": 45.0703,
+                    "lon": -81.0827
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                }
+            ]
+        }
+    ]
+}
