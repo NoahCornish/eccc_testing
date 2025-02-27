@@ -1,0 +1,77 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2481383134.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-02-27T20:21:52-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3903854625.2025,2025-02-26T21:51:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1372662719.2025,2025-02-27T04:29:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0509691249.2025,2025-02-27T10:25:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3477791182.2025,2025-02-27T13:06:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1941014831.2025,2025-02-27T16:45:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0922311145.2025,2025-02-27T20:05:03-00:00",
+    "headline": "weather advisory ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-02-27T20:21:52-00:00",
+    "expires": "2025-02-27T21:21:52-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Timmins - Cochrane - Iroquois Falls",
+            "polygon": [
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.5243,
+                    "lon": -79.5062
+                },
+                {
+                    "lat": 48.4498,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.3417,
+                    "lon": -79.5072
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 48.9319,
+                    "lon": -79.5076
+                },
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                }
+            ]
+        }
+    ]
+}
