@@ -1,0 +1,149 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3432093905.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-02T09:56:45-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3874178350.2025,2025-03-02T07:04:15-00:00",
+    "headline": "snow squall warning ended",
+    "event": "snow squall",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-02T09:56:45-00:00",
+    "expires": "2025-03-02T10:56:45-00:00",
+    "description": "\nSnow squall conditions are no longer expected.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Goderich - Bluewater - Southern Huron County",
+            "polygon": [
+                {
+                    "lat": 43.3073,
+                    "lon": -81.753
+                },
+                {
+                    "lat": 43.3068,
+                    "lon": -81.7453
+                },
+                {
+                    "lat": 43.3101,
+                    "lon": -81.7431
+                },
+                {
+                    "lat": 43.3155,
+                    "lon": -81.7554
+                },
+                {
+                    "lat": 43.333,
+                    "lon": -81.7783
+                },
+                {
+                    "lat": 43.8383,
+                    "lon": -81.8031
+                },
+                {
+                    "lat": 43.8105,
+                    "lon": -81.721
+                },
+                {
+                    "lat": 43.7269,
+                    "lon": -81.5005
+                },
+                {
+                    "lat": 43.6013,
+                    "lon": -81.2052
+                },
+                {
+                    "lat": 43.5994,
+                    "lon": -81.2023
+                },
+                {
+                    "lat": 43.5027,
+                    "lon": -81.2872
+                },
+                {
+                    "lat": 43.5317,
+                    "lon": -81.3488
+                },
+                {
+                    "lat": 43.4205,
+                    "lon": -81.4401
+                },
+                {
+                    "lat": 43.3818,
+                    "lon": -81.3424
+                },
+                {
+                    "lat": 43.3915,
+                    "lon": -81.3085
+                },
+                {
+                    "lat": 43.3592,
+                    "lon": -81.2894
+                },
+                {
+                    "lat": 43.3129,
+                    "lon": -81.3165
+                },
+                {
+                    "lat": 43.2638,
+                    "lon": -81.3636
+                },
+                {
+                    "lat": 43.2764,
+                    "lon": -81.4
+                },
+                {
+                    "lat": 43.293,
+                    "lon": -81.4306
+                },
+                {
+                    "lat": 43.2889,
+                    "lon": -81.4689
+                },
+                {
+                    "lat": 43.2787,
+                    "lon": -81.4627
+                },
+                {
+                    "lat": 43.2706,
+                    "lon": -81.4655
+                },
+                {
+                    "lat": 43.2506,
+                    "lon": -81.6138
+                },
+                {
+                    "lat": 43.2393,
+                    "lon": -81.7485
+                },
+                {
+                    "lat": 43.2368,
+                    "lon": -81.7716
+                },
+                {
+                    "lat": 43.2379,
+                    "lon": -81.7738
+                },
+                {
+                    "lat": 43.2428,
+                    "lon": -81.7968
+                },
+                {
+                    "lat": 43.2957,
+                    "lon": -81.78
+                },
+                {
+                    "lat": 43.2931,
+                    "lon": -81.755
+                },
+                {
+                    "lat": 43.3073,
+                    "lon": -81.753
+                }
+            ]
+        }
+    ]
+}
