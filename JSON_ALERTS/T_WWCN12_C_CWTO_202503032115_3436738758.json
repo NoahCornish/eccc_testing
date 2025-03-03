@@ -1,0 +1,437 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3436738758.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-03T21:27:00-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3059320960.2025,2025-03-03T17:18:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2046015083.2025,2025-03-03T20:43:39-00:00",
+    "headline": "winter storm watch in effect",
+    "event": "winter storm",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-03T21:27:00-00:00",
+    "expires": "2025-03-04T13:27:00-00:00",
+    "description": "\nWinter storm possible Tuesday evening into Thursday.\n\nWhat:\nTotal snowfall amounts near 15 cm possible. \nRisk of freezing rain.  \n\nWhen:\nIntensifying Tuesday evening and diminishing Thursday. \n\nAdditional information:\nPeriods of light snow or rain, possibly mixed with freezing rain, will begin Tuesday and intensify Tuesday evening. Current indications suggest that the rain-snow transition line will stretch from north of Sault Ste. Marie northeast to Temiskaming shores. Along this transition line, there is a risk freezing rain on Wednesday and Thursday. North of the transition line, accumulating snow can be expected. The track of the low pressure system responsible is still somewhat uncertain which will affect exact snowfall amounts and precipitation types.\n\n###\n\nRapidly accumulating snow could make travel difficult over some locations. Surfaces such as highways, roads, walkways and parking lots may become icy and slippery. Poor weather conditions may contribute to transportation delays.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nAvoid travel if possible.\n",
+    "affected_areas": [
+        {
+            "area_description": "Searchmont - Montreal River Harbour - Batchawana Bay",
+            "polygon": [
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6321,
+                    "lon": -84.7351
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                }
+            ]
+        },
+        {
+            "area_description": "Sault Ste. Marie - St. Joseph Island",
+            "polygon": [
+                {
+                    "lat": 46.1874,
+                    "lon": -83.7076
+                },
+                {
+                    "lat": 46.1199,
+                    "lon": -83.7566
+                },
+                {
+                    "lat": 46.1212,
+                    "lon": -83.822
+                },
+                {
+                    "lat": 46.0658,
+                    "lon": -83.905
+                },
+                {
+                    "lat": 46.0553,
+                    "lon": -83.9495
+                },
+                {
+                    "lat": 46.0963,
+                    "lon": -83.9746
+                },
+                {
+                    "lat": 46.1959,
+                    "lon": -84.0972
+                },
+                {
+                    "lat": 46.3104,
+                    "lon": -84.1263
+                },
+                {
+                    "lat": 46.3253,
+                    "lon": -84.1115
+                },
+                {
+                    "lat": 46.3787,
+                    "lon": -84.1426
+                },
+                {
+                    "lat": 46.4183,
+                    "lon": -84.1542
+                },
+                {
+                    "lat": 46.5045,
+                    "lon": -84.112
+                },
+                {
+                    "lat": 46.5297,
+                    "lon": -84.1317
+                },
+                {
+                    "lat": 46.5267,
+                    "lon": -84.1725
+                },
+                {
+                    "lat": 46.5343,
+                    "lon": -84.2218
+                },
+                {
+                    "lat": 46.4968,
+                    "lon": -84.2602
+                },
+                {
+                    "lat": 46.491,
+                    "lon": -84.2943
+                },
+                {
+                    "lat": 46.5045,
+                    "lon": -84.3384
+                },
+                {
+                    "lat": 46.5073,
+                    "lon": -84.3741
+                },
+                {
+                    "lat": 46.4904,
+                    "lon": -84.439
+                },
+                {
+                    "lat": 46.4577,
+                    "lon": -84.4681
+                },
+                {
+                    "lat": 46.4765,
+                    "lon": -84.5588
+                },
+                {
+                    "lat": 46.5491,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 46.6233,
+                    "lon": -84.6124
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.1874,
+                    "lon": -83.7076
+                }
+            ]
+        },
+        {
+            "area_description": "Greater Sudbury and vicinity",
+            "polygon": [
+                {
+                    "lat": 46.2785,
+                    "lon": -80.4935
+                },
+                {
+                    "lat": 46.2675,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.106,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.0992,
+                    "lon": -80.9338
+                },
+                {
+                    "lat": 46.1701,
+                    "lon": -80.9338
+                },
+                {
+                    "lat": 46.1701,
+                    "lon": -81.4263
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -81.4263
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9683,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.7261,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.7151,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.6307,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.6307,
+                    "lon": -80.276
+                },
+                {
+                    "lat": 46.2601,
+                    "lon": -80.276
+                },
+                {
+                    "lat": 46.2785,
+                    "lon": -80.4935
+                }
+            ]
+        },
+        {
+            "area_description": "Elliot Lake - Ranger Lake",
+            "polygon": [
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                }
+            ]
+        },
+        {
+            "area_description": "Temiskaming Shores - Temagami",
+            "polygon": [
+                {
+                    "lat": 46.8582,
+                    "lon": -79.141
+                },
+                {
+                    "lat": 46.7207,
+                    "lon": -79.0624
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.1058
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.1099
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.151
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.7151,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.7261,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.9683,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5988,
+                    "lon": -79.4946
+                },
+                {
+                    "lat": 47.5697,
+                    "lon": -79.4188
+                },
+                {
+                    "lat": 47.5214,
+                    "lon": -79.432
+                },
+                {
+                    "lat": 47.4815,
+                    "lon": -79.4988
+                },
+                {
+                    "lat": 47.341,
+                    "lon": -79.4216
+                },
+                {
+                    "lat": 47.302,
+                    "lon": -79.4135
+                },
+                {
+                    "lat": 47.2434,
+                    "lon": -79.3589
+                },
+                {
+                    "lat": 47.1056,
+                    "lon": -79.3868
+                },
+                {
+                    "lat": 47.0127,
+                    "lon": -79.2923
+                },
+                {
+                    "lat": 47.0002,
+                    "lon": -79.2888
+                },
+                {
+                    "lat": 46.952,
+                    "lon": -79.275
+                },
+                {
+                    "lat": 46.8737,
+                    "lon": -79.1873
+                },
+                {
+                    "lat": 46.8582,
+                    "lon": -79.141
+                }
+            ]
+        }
+    ]
+}
