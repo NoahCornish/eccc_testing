@@ -1,0 +1,94 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3355098263.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-04T22:46:40-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3924281045.2025,2025-03-04T11:19:55-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3533953840.2025,2025-03-04T16:43:43-00:00",
+    "headline": "winter storm warning in effect",
+    "event": "winter storm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-04T22:46:40-00:00",
+    "expires": "2025-03-05T14:46:40-00:00",
+    "description": "\nWinter storm tonight into Thursday.\n\nWhat:\nTotal snowfall amounts of 20 to 30 cm. \nPeak snowfall rates of 2 to 4 cm per hour. \nPoor visibility in heavy snow and local blowing snow. \nRisk of freezing rain.\n\nWhen:\nBeginning tonight and diminishing late Thursday.\n\nAdditional information:\nA winter storm will affect much of northeastern Ontario. Northerly winds gusting to 50 km/h will result in areas of blowing snow giving reduced visibility. There is a chance that snow will become mixed with ice pellets, freezing rain or rain Wednesday afternoon into Wednesday night before changing back to snow. If this occurs the total snowfall amounts could be less. The snow is expected to taper to flurries late Thursday.\n\nTravel is expected to be very difficult at times. Road closures are possible.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow. Visibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nConsider postponing non-essential travel until conditions improve.\n",
+    "affected_areas": [
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
