@@ -1,0 +1,65 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0388230278.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-04T11:28:15-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0729509016.2025,2025-03-04T06:44:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3409027245.2025,2025-03-04T06:50:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0791773885.2025,2025-03-04T10:14:57-00:00",
+    "headline": "freezing rain warning changed",
+    "event": "freezing rain",
+    "urgency": "Immediate",
+    "severity": "Moderate",
+    "certainty": "Unknown",
+    "effective": "2025-03-04T11:28:15-00:00",
+    "expires": "2025-03-04T11:28:15-00:00",
+    "description": "\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Searchmont - Montreal River Harbour - Batchawana Bay",
+            "polygon": [
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6321,
+                    "lon": -84.7351
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                }
+            ]
+        }
+    ]
+}
