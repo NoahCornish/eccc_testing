@@ -1,0 +1,260 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2387057561.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-05T22:17:23-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-05T22:17:23-00:00",
+    "expires": "2025-03-06T14:17:23-00:00",
+    "description": "\nWinter weather travel advisory in effect for tonight into Thursday morning.\n\nWhat: \nIcy and slippery conditions beginning this evening as temperatures rapidly fall below the freezing mark. \nReduced visibility in snow and local blowing snow. \nSnowfall amounts of 4 to 8 cm.\n\nWhen: \nContinuing into Thursday evening.  \n\nAdditional information: \nNortherly winds gusting to 50 km/h will result in areas of blowing snow giving reduced visibility. Snow may become mixed with ice pellets and freezing rain tonight before changing back to snow by early Thursday morning. The snow is expected to taper to flurries Thursday afternoon.  Travel is expected to be difficult at times.\n\n###\n\nTravel may be hazardous due to sudden changes in the weather. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBe prepared to adjust your driving with changing road conditions. Slow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance. If visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Elliot Lake - Ranger Lake",
+            "polygon": [
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                }
+            ]
+        },
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Temiskaming Shores - Temagami",
+            "polygon": [
+                {
+                    "lat": 46.8582,
+                    "lon": -79.141
+                },
+                {
+                    "lat": 46.7207,
+                    "lon": -79.0624
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.1058
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.1099
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.151
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.7151,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.7261,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.9683,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5988,
+                    "lon": -79.4946
+                },
+                {
+                    "lat": 47.5697,
+                    "lon": -79.4188
+                },
+                {
+                    "lat": 47.5214,
+                    "lon": -79.432
+                },
+                {
+                    "lat": 47.4815,
+                    "lon": -79.4988
+                },
+                {
+                    "lat": 47.341,
+                    "lon": -79.4216
+                },
+                {
+                    "lat": 47.302,
+                    "lon": -79.4135
+                },
+                {
+                    "lat": 47.2434,
+                    "lon": -79.3589
+                },
+                {
+                    "lat": 47.1056,
+                    "lon": -79.3868
+                },
+                {
+                    "lat": 47.0127,
+                    "lon": -79.2923
+                },
+                {
+                    "lat": 47.0002,
+                    "lon": -79.2888
+                },
+                {
+                    "lat": 46.952,
+                    "lon": -79.275
+                },
+                {
+                    "lat": 46.8737,
+                    "lon": -79.1873
+                },
+                {
+                    "lat": 46.8582,
+                    "lon": -79.141
+                }
+            ]
+        }
+    ]
+}
