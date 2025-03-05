@@ -1,0 +1,344 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3828040819.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-05T21:35:15-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4081669685.2025,2025-03-05T09:03:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1453309281.2025,2025-03-05T14:37:15-00:00",
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-03-05T14:37:15-00:00",
+    "expires": "2025-03-06T06:37:15-00:00",
+    "description": "\nRainfall, combined with melting snow today. The frozen ground has a reduced ability to absorb this rainfall. Rapidly falling temperatures, strong winds, snow and local blowing snow Thursday.\n\nWhat:\nRainfall amounts of 15 to 25 mm. Locally higher amounts possible.\nRapidly falling temperatures with rain changing to snow resulting in surfaces becoming icy and slippery.\nReduced visibility in snow and local blowing snow.\n\nWhen:\nRain through tonight. Rapidly falling temperatures, snow and local blowing snow Thursday.\n\nAdditional information:\nRain, heavy at times, and mild temperatures are expected today. Localized flooding in low-lying areas and water pooling on roads is possible.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\nRapidly falling temperatures and a transition to snow is expected Thursday morning over central Ontario, and Thursday afternoon into Thursday evening for eastern Ontario.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Tamworth - Sydenham - South Frontenac",
+            "polygon": [
+                {
+                    "lat": 44.4314,
+                    "lon": -76.3086
+                },
+                {
+                    "lat": 44.3805,
+                    "lon": -76.3389
+                },
+                {
+                    "lat": 44.3673,
+                    "lon": -76.3605
+                },
+                {
+                    "lat": 44.3493,
+                    "lon": -76.3583
+                },
+                {
+                    "lat": 44.3509,
+                    "lon": -76.3951
+                },
+                {
+                    "lat": 44.3451,
+                    "lon": -76.4198
+                },
+                {
+                    "lat": 44.3394,
+                    "lon": -76.4492
+                },
+                {
+                    "lat": 44.3333,
+                    "lon": -76.5091
+                },
+                {
+                    "lat": 44.3295,
+                    "lon": -76.5681
+                },
+                {
+                    "lat": 44.3624,
+                    "lon": -76.5725
+                },
+                {
+                    "lat": 44.3382,
+                    "lon": -76.7584
+                },
+                {
+                    "lat": 44.323,
+                    "lon": -76.9553
+                },
+                {
+                    "lat": 44.4199,
+                    "lon": -77.0591
+                },
+                {
+                    "lat": 44.5679,
+                    "lon": -77.1888
+                },
+                {
+                    "lat": 44.5696,
+                    "lon": -77.1996
+                },
+                {
+                    "lat": 44.5891,
+                    "lon": -77.2189
+                },
+                {
+                    "lat": 44.6386,
+                    "lon": -76.9247
+                },
+                {
+                    "lat": 44.6941,
+                    "lon": -76.7086
+                },
+                {
+                    "lat": 44.7211,
+                    "lon": -76.5256
+                },
+                {
+                    "lat": 44.6034,
+                    "lon": -76.3634
+                },
+                {
+                    "lat": 44.4856,
+                    "lon": -76.2502
+                },
+                {
+                    "lat": 44.4599,
+                    "lon": -76.2749
+                },
+                {
+                    "lat": 44.4314,
+                    "lon": -76.3086
+                }
+            ]
+        },
+        {
+            "area_description": "Stirling - Tweed - Madoc",
+            "polygon": [
+                {
+                    "lat": 44.5891,
+                    "lon": -77.2189
+                },
+                {
+                    "lat": 44.5696,
+                    "lon": -77.1996
+                },
+                {
+                    "lat": 44.5679,
+                    "lon": -77.1888
+                },
+                {
+                    "lat": 44.5128,
+                    "lon": -77.1404
+                },
+                {
+                    "lat": 44.4199,
+                    "lon": -77.0591
+                },
+                {
+                    "lat": 44.4018,
+                    "lon": -77.1392
+                },
+                {
+                    "lat": 44.2901,
+                    "lon": -77.0894
+                },
+                {
+                    "lat": 44.2585,
+                    "lon": -77.2964
+                },
+                {
+                    "lat": 44.2584,
+                    "lon": -77.2969
+                },
+                {
+                    "lat": 44.3476,
+                    "lon": -77.3409
+                },
+                {
+                    "lat": 44.2689,
+                    "lon": -77.6517
+                },
+                {
+                    "lat": 44.4359,
+                    "lon": -77.7293
+                },
+                {
+                    "lat": 44.4679,
+                    "lon": -77.7478
+                },
+                {
+                    "lat": 44.4985,
+                    "lon": -77.7584
+                },
+                {
+                    "lat": 44.582,
+                    "lon": -77.2622
+                },
+                {
+                    "lat": 44.5891,
+                    "lon": -77.2189
+                }
+            ]
+        },
+        {
+            "area_description": "Bancroft - Hastings Highlands - Denbigh",
+            "polygon": [
+                {
+                    "lat": 45.1436,
+                    "lon": -77.5439
+                },
+                {
+                    "lat": 45.1951,
+                    "lon": -77.3822
+                },
+                {
+                    "lat": 45.2371,
+                    "lon": -77.2156
+                },
+                {
+                    "lat": 45.1653,
+                    "lon": -77.169
+                },
+                {
+                    "lat": 45.0992,
+                    "lon": -77.1375
+                },
+                {
+                    "lat": 45.0989,
+                    "lon": -77.1384
+                },
+                {
+                    "lat": 45.0317,
+                    "lon": -77.1001
+                },
+                {
+                    "lat": 44.96,
+                    "lon": -77.0739
+                },
+                {
+                    "lat": 44.9608,
+                    "lon": -77.5499
+                },
+                {
+                    "lat": 44.9715,
+                    "lon": -77.991
+                },
+                {
+                    "lat": 45.061,
+                    "lon": -78.0429
+                },
+                {
+                    "lat": 45.1488,
+                    "lon": -78.0863
+                },
+                {
+                    "lat": 45.2295,
+                    "lon": -78.1415
+                },
+                {
+                    "lat": 45.3099,
+                    "lon": -78.1781
+                },
+                {
+                    "lat": 45.3596,
+                    "lon": -78.0152
+                },
+                {
+                    "lat": 45.3955,
+                    "lon": -77.8474
+                },
+                {
+                    "lat": 45.4191,
+                    "lon": -77.7659
+                },
+                {
+                    "lat": 45.4384,
+                    "lon": -77.6878
+                },
+                {
+                    "lat": 45.3743,
+                    "lon": -77.6514
+                },
+                {
+                    "lat": 45.3158,
+                    "lon": -77.6232
+                },
+                {
+                    "lat": 45.314,
+                    "lon": -77.6294
+                },
+                {
+                    "lat": 45.3123,
+                    "lon": -77.6359
+                },
+                {
+                    "lat": 45.2335,
+                    "lon": -77.5874
+                },
+                {
+                    "lat": 45.1436,
+                    "lon": -77.5439
+                }
+            ]
+        },
+        {
+            "area_description": "Kaladar - Bannockburn - Bon Echo Park",
+            "polygon": [
+                {
+                    "lat": 44.582,
+                    "lon": -77.2622
+                },
+                {
+                    "lat": 44.4985,
+                    "lon": -77.7584
+                },
+                {
+                    "lat": 44.7205,
+                    "lon": -77.8789
+                },
+                {
+                    "lat": 44.9228,
+                    "lon": -77.965
+                },
+                {
+                    "lat": 44.9467,
+                    "lon": -77.9796
+                },
+                {
+                    "lat": 44.9715,
+                    "lon": -77.991
+                },
+                {
+                    "lat": 44.9742,
+                    "lon": -77.5497
+                },
+                {
+                    "lat": 44.9602,
+                    "lon": -77.0818
+                },
+                {
+                    "lat": 44.96,
+                    "lon": -77.0739
+                },
+                {
+                    "lat": 44.8144,
+                    "lon": -77.0008
+                },
+                {
+                    "lat": 44.6386,
+                    "lon": -76.9247
+                },
+                {
+                    "lat": 44.5891,
+                    "lon": -77.2189
+                },
+                {
+                    "lat": 44.582,
+                    "lon": -77.2622
+                }
+            ]
+        }
+    ]
+}
