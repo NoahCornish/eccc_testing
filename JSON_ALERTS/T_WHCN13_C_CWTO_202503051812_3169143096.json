@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3169143096.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-05T18:12:37-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4187583219.2025,2025-03-05T17:12:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2818325329.2025,2025-03-05T17:57:42-00:00",
+    "headline": "squall watch in effect",
+    "event": "squall",
+    "urgency": "Expected",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-03-05T17:57:42-00:00",
+    "expires": "2025-03-06T01:01:42-00:00",
+    "description": "\nConditions are favourable for the development of squalls with wind gusts up to 45 knots and frequent lightning.\n\nShowers and thunderstorms are expected to continue to track north and east through the afternoon.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Eastern Lake Erie",
+            "polygon": [
+                {
+                    "lat": 42.3935,
+                    "lon": -80.0799
+                },
+                {
+                    "lat": 42.2591,
+                    "lon": -80.9327
+                },
+                {
+                    "lat": 42.66,
+                    "lon": -81.1553
+                },
+                {
+                    "lat": 42.784,
+                    "lon": -81.2109
+                },
+                {
+                    "lat": 42.7293,
+                    "lon": -80.5966
+                },
+                {
+                    "lat": 42.9012,
+                    "lon": -80.3291
+                },
+                {
+                    "lat": 42.9814,
+                    "lon": -79.6261
+                },
+                {
+                    "lat": 42.9623,
+                    "lon": -79.0529
+                },
+                {
+                    "lat": 42.9389,
+                    "lon": -78.8933
+                },
+                {
+                    "lat": 42.9052,
+                    "lon": -78.9059
+                },
+                {
+                    "lat": 42.8283,
+                    "lon": -78.9353
+                },
+                {
+                    "lat": 42.3935,
+                    "lon": -80.0799
+                }
+            ]
+        }
+    ]
+}
