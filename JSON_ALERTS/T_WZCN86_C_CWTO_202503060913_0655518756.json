@@ -1,0 +1,61 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0655518756.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-06T09:13:18-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3205830700.2025,2025-03-05T15:18:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0865304857.2025,2025-03-05T22:44:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0685870183.2025,2025-03-05T22:50:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1976526937.2025,2025-03-05T23:05:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3653722073.2025,2025-03-05T23:21:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2655909331.2025,2025-03-05T23:50:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2814185572.2025,2025-03-06T00:26:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3160642448.2025,2025-03-06T00:58:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3660069262.2025,2025-03-06T01:16:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1717967890.2025,2025-03-06T02:08:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3739131757.2025,2025-03-06T04:15:50-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3064304639.2025,2025-03-06T05:24:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3151902626.2025,2025-03-06T07:32:52-00:00",
+    "headline": "fog advisory ended",
+    "event": "fog",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-06T09:13:18-00:00",
+    "expires": "2025-03-06T10:13:18-00:00",
+    "description": "\nVisibilities have improved and are no longer expected to meet fog advisory criteria.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Bayfield Inlet - Dunchurch",
+            "polygon": [
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                },
+                {
+                    "lat": 45.8899,
+                    "lon": -80.7251
+                },
+                {
+                    "lat": 45.8856,
+                    "lon": -80.5706
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.5363,
+                    "lon": -80.4369
+                },
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                },
+                {
+                    "lat": 45.8248,
+                    "lon": -80.8486
+                },
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                }
+            ]
+        }
+    ]
+}
