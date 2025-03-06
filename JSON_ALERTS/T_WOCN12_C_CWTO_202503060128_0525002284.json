@@ -1,0 +1,82 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0525002284.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-06T01:33:37-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3210529987.2025,2025-03-04T16:25:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3209002953.2025,2025-03-04T22:38:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0674956907.2025,2025-03-05T10:09:50-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0644397635.2025,2025-03-05T17:58:10-00:00",
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-06T01:33:37-00:00",
+    "expires": "2025-03-06T13:04:37-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nAdditional snowfall amounts up to 4 cm.\nReduced visibility in areas of heavier snow and blowing snow.\n\nWhen:\nNow into early Thursday morning.\n\nAdditional information:\nAreas north of Lake Superior are on the western edge of a winter storm.  Northeasterly winds gusting to 50 km/h will result in areas of blowing snow giving reduced visibility.\n\nNote that winter storm warnings are in effect for regions to the east where significantly higher snowfall amounts are expected.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly. Poor weather conditions may contribute to transportation delays.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nConsider postponing non-essential travel until conditions improve.\n",
+    "affected_areas": [
+        {
+            "area_description": "Geraldton - Longlac - Caramat",
+            "polygon": [
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                }
+            ]
+        },
+        {
+            "area_description": "Marathon - Schreiber",
+            "polygon": [
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                }
+            ]
+        }
+    ]
+}
