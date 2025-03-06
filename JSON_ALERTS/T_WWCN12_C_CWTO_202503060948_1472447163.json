@@ -1,0 +1,65 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1472447163.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-06T09:55:07-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4163575994.2025,2025-03-04T11:28:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3879390071.2025,2025-03-04T19:48:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2590129382.2025,2025-03-04T23:53:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1890007645.2025,2025-03-05T03:38:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2023905212.2025,2025-03-05T09:46:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1235182577.2025,2025-03-05T17:33:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3635360666.2025,2025-03-05T17:44:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2965410854.2025,2025-03-05T22:26:58-00:00",
+    "headline": "winter storm warning in effect",
+    "event": "winter storm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-06T09:55:07-00:00",
+    "expires": "2025-03-06T17:06:07-00:00",
+    "description": "\nWinter storm ending today.\n\nWhat:\nAdditional snowfall amounts of 5 cm.\n\nWhen:\nThis morning.\n\nAdditional information:\nSnow will taper off later this morning. Northerly winds gusting to 50 km/h may result in local blowing snow.\n\nIn addition, lake effect snow could affect the area beginning this evening.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become icy and slippery.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nConsider postponing non-essential travel until conditions improve. Take extra care when walking or driving in affected areas.\n",
+    "affected_areas": [
+        {
+            "area_description": "Searchmont - Montreal River Harbour - Batchawana Bay",
+            "polygon": [
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6321,
+                    "lon": -84.7351
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                }
+            ]
+        }
+    ]
+}
