@@ -1,0 +1,453 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3317324015.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-07T09:19:47-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1529037634.2025,2025-03-06T23:32:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3493881564.2025,2025-03-07T02:17:57-00:00",
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-07T09:19:47-00:00",
+    "expires": "2025-03-08T01:19:47-00:00",
+    "description": "\nWinter weather travel advisory in effect for today and this evening.\n\nWhat:\nReduced visibility at times in bursts of heavy snow and blowing snow.\nLocal snowfall accumulations up to 5 cm today.\nAdditional local snowfall accumulations up to 5 cm this evening.\n\nWhen:\nToday through this evening.\n\nAdditional information:\nLake effect snow off Lake Huron and Georgian Bay is expected today through this evening. The snow is forecast to ease tonight.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly. Poor weather conditions may contribute to transportation delays. Visibility will be suddenly reduced to near zero at times in heavy snow and blowing snow.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake extra care when walking or driving in affected areas. Slow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "Midland - Coldwater - Orr Lake",
+            "polygon": [
+                {
+                    "lat": 45.0191,
+                    "lon": -80.1856
+                },
+                {
+                    "lat": 44.933,
+                    "lon": -80.1213
+                },
+                {
+                    "lat": 44.862,
+                    "lon": -80.053
+                },
+                {
+                    "lat": 44.872,
+                    "lon": -79.9107
+                },
+                {
+                    "lat": 44.7847,
+                    "lon": -79.823
+                },
+                {
+                    "lat": 44.7864,
+                    "lon": -79.7087
+                },
+                {
+                    "lat": 44.7803,
+                    "lon": -79.5662
+                },
+                {
+                    "lat": 44.5519,
+                    "lon": -79.6293
+                },
+                {
+                    "lat": 44.6487,
+                    "lon": -79.9704
+                },
+                {
+                    "lat": 44.6517,
+                    "lon": -79.9812
+                },
+                {
+                    "lat": 44.6441,
+                    "lon": -80.2774
+                },
+                {
+                    "lat": 44.8567,
+                    "lon": -80.3295
+                },
+                {
+                    "lat": 45.0191,
+                    "lon": -80.1856
+                }
+            ]
+        },
+        {
+            "area_description": "Orillia - Lagoon City - Washago",
+            "polygon": [
+                {
+                    "lat": 44.4607,
+                    "lon": -79.2606
+                },
+                {
+                    "lat": 44.4157,
+                    "lon": -79.5001
+                },
+                {
+                    "lat": 44.3903,
+                    "lon": -79.6043
+                },
+                {
+                    "lat": 44.3869,
+                    "lon": -79.6284
+                },
+                {
+                    "lat": 44.3911,
+                    "lon": -79.6291
+                },
+                {
+                    "lat": 44.3954,
+                    "lon": -79.6299
+                },
+                {
+                    "lat": 44.5519,
+                    "lon": -79.6293
+                },
+                {
+                    "lat": 44.7803,
+                    "lon": -79.5662
+                },
+                {
+                    "lat": 44.784,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 44.7928,
+                    "lon": -79.3992
+                },
+                {
+                    "lat": 44.7904,
+                    "lon": -79.2988
+                },
+                {
+                    "lat": 44.7824,
+                    "lon": -79.2851
+                },
+                {
+                    "lat": 44.7938,
+                    "lon": -79.2358
+                },
+                {
+                    "lat": 44.8001,
+                    "lon": -79.2089
+                },
+                {
+                    "lat": 44.5413,
+                    "lon": -79.0933
+                },
+                {
+                    "lat": 44.5,
+                    "lon": -79.0746
+                },
+                {
+                    "lat": 44.4862,
+                    "lon": -79.1085
+                },
+                {
+                    "lat": 44.4911,
+                    "lon": -79.1329
+                },
+                {
+                    "lat": 44.4596,
+                    "lon": -79.1418
+                },
+                {
+                    "lat": 44.4551,
+                    "lon": -79.1665
+                },
+                {
+                    "lat": 44.469,
+                    "lon": -79.1724
+                },
+                {
+                    "lat": 44.4675,
+                    "lon": -79.1889
+                },
+                {
+                    "lat": 44.4607,
+                    "lon": -79.2606
+                }
+            ]
+        },
+        {
+            "area_description": "Barrie - Collingwood - Hillsdale",
+            "polygon": [
+                {
+                    "lat": 44.3215,
+                    "lon": -79.9097
+                },
+                {
+                    "lat": 44.3169,
+                    "lon": -79.9122
+                },
+                {
+                    "lat": 44.3142,
+                    "lon": -79.9203
+                },
+                {
+                    "lat": 44.299,
+                    "lon": -80.0028
+                },
+                {
+                    "lat": 44.2756,
+                    "lon": -80.1126
+                },
+                {
+                    "lat": 44.2542,
+                    "lon": -80.2285
+                },
+                {
+                    "lat": 44.2663,
+                    "lon": -80.2335
+                },
+                {
+                    "lat": 44.2815,
+                    "lon": -80.2349
+                },
+                {
+                    "lat": 44.5273,
+                    "lon": -80.2918
+                },
+                {
+                    "lat": 44.6441,
+                    "lon": -80.2774
+                },
+                {
+                    "lat": 44.6517,
+                    "lon": -79.9812
+                },
+                {
+                    "lat": 44.6487,
+                    "lon": -79.9704
+                },
+                {
+                    "lat": 44.5519,
+                    "lon": -79.6293
+                },
+                {
+                    "lat": 44.3954,
+                    "lon": -79.6299
+                },
+                {
+                    "lat": 44.3911,
+                    "lon": -79.6291
+                },
+                {
+                    "lat": 44.3869,
+                    "lon": -79.6284
+                },
+                {
+                    "lat": 44.3903,
+                    "lon": -79.6043
+                },
+                {
+                    "lat": 44.3691,
+                    "lon": -79.6204
+                },
+                {
+                    "lat": 44.3731,
+                    "lon": -79.6057
+                },
+                {
+                    "lat": 44.3693,
+                    "lon": -79.5932
+                },
+                {
+                    "lat": 44.3684,
+                    "lon": -79.5904
+                },
+                {
+                    "lat": 44.3683,
+                    "lon": -79.5903
+                },
+                {
+                    "lat": 44.361,
+                    "lon": -79.578
+                },
+                {
+                    "lat": 44.3453,
+                    "lon": -79.5858
+                },
+                {
+                    "lat": 44.3309,
+                    "lon": -79.6123
+                },
+                {
+                    "lat": 44.3296,
+                    "lon": -79.6546
+                },
+                {
+                    "lat": 44.3199,
+                    "lon": -79.6497
+                },
+                {
+                    "lat": 44.3128,
+                    "lon": -79.6551
+                },
+                {
+                    "lat": 44.2937,
+                    "lon": -79.6752
+                },
+                {
+                    "lat": 44.2965,
+                    "lon": -79.7277
+                },
+                {
+                    "lat": 44.3579,
+                    "lon": -79.7446
+                },
+                {
+                    "lat": 44.3322,
+                    "lon": -79.7858
+                },
+                {
+                    "lat": 44.3385,
+                    "lon": -79.852
+                },
+                {
+                    "lat": 44.3491,
+                    "lon": -79.8612
+                },
+                {
+                    "lat": 44.3391,
+                    "lon": -79.8818
+                },
+                {
+                    "lat": 44.342,
+                    "lon": -79.8984
+                },
+                {
+                    "lat": 44.3215,
+                    "lon": -79.9097
+                }
+            ]
+        },
+        {
+            "area_description": "Bruce Peninsula - Sauble Beach - Tobermory",
+            "polygon": [
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                },
+                {
+                    "lat": 44.6414,
+                    "lon": -81.1122
+                },
+                {
+                    "lat": 44.6267,
+                    "lon": -81.1132
+                },
+                {
+                    "lat": 44.5511,
+                    "lon": -81.1203
+                },
+                {
+                    "lat": 44.5357,
+                    "lon": -81.1971
+                },
+                {
+                    "lat": 44.5229,
+                    "lon": -81.2724
+                },
+                {
+                    "lat": 44.5846,
+                    "lon": -81.2887
+                },
+                {
+                    "lat": 44.5944,
+                    "lon": -81.2913
+                },
+                {
+                    "lat": 44.5866,
+                    "lon": -81.4622
+                },
+                {
+                    "lat": 45.3535,
+                    "lon": -81.8404
+                },
+                {
+                    "lat": 45.3822,
+                    "lon": -81.4145
+                },
+                {
+                    "lat": 45.2717,
+                    "lon": -81.1853
+                },
+                {
+                    "lat": 45.0703,
+                    "lon": -81.0827
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                }
+            ]
+        },
+        {
+            "area_description": "Owen Sound - Blue Mountains - Northern Grey County",
+            "polygon": [
+                {
+                    "lat": 44.7557,
+                    "lon": -81.1515
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.6441,
+                    "lon": -80.2774
+                },
+                {
+                    "lat": 44.5273,
+                    "lon": -80.2918
+                },
+                {
+                    "lat": 44.2815,
+                    "lon": -80.2349
+                },
+                {
+                    "lat": 44.4005,
+                    "lon": -81.0823
+                },
+                {
+                    "lat": 44.3993,
+                    "lon": -81.1044
+                },
+                {
+                    "lat": 44.4501,
+                    "lon": -81.1219
+                },
+                {
+                    "lat": 44.538,
+                    "lon": -81.1304
+                },
+                {
+                    "lat": 44.7557,
+                    "lon": -81.1515
+                }
+            ]
+        }
+    ]
+}
