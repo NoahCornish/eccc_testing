@@ -1631,6 +1631,185 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2808575473.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-09T20:39:54-00:00",
+            "status": "Actual",
+            "msgType": "Alert",
+            "scope": "Public",
+            "references": null,
+            "headline": "special weather statement in effect",
+            "event": "weather",
+            "urgency": "Future",
+            "severity": "Minor",
+            "certainty": "Possible",
+            "effective": "2025-03-09T20:39:54-00:00",
+            "expires": "2025-03-10T12:39:54-00:00",
+            "description": "\nPotential for heavy snowfall Monday.\n\nWhat:\nSnowfall amounts of 5 to 10 cm, though higher amounts are possible.\n\nWhen:\nMonday morning into Monday evening.\n\nAdditional information:\nThe area will be grazed by the northern edge of weather system. At this point, the heaviest snowfall is expected to remain south of the area, although snowfall amounts of up to 10 cm still appear likely.\n\nThere is considerable uncertainty regarding the exact track of the weather system. If the track shifts farther north, snowfall amounts of 15 cm or more will be possible. The area is being monitored for a potential snowfall warning.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "Pikangikum - Poplar Hill - MacDowell",
+                    "polygon": [
+                        {
+                            "lat": 51.6128,
+                            "lon": -95.1536
+                        },
+                        {
+                            "lat": 52.0344,
+                            "lon": -95.169
+                        },
+                        {
+                            "lat": 52.4201,
+                            "lon": -95.1536
+                        },
+                        {
+                            "lat": 52.4841,
+                            "lon": -95.1536
+                        },
+                        {
+                            "lat": 52.4148,
+                            "lon": -93.4852
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 51.3669,
+                            "lon": -93.4873
+                        },
+                        {
+                            "lat": 51.4154,
+                            "lon": -93.733
+                        },
+                        {
+                            "lat": 51.4733,
+                            "lon": -93.9542
+                        },
+                        {
+                            "lat": 51.5309,
+                            "lon": -94.5283
+                        },
+                        {
+                            "lat": 51.6128,
+                            "lon": -95.1536
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Pickle Lake - Cat Lake",
+                    "polygon": [
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 52.2797,
+                            "lon": -89.8479
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Fort Hope - Lansdowne House - Ogoki",
+                    "polygon": [
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        },
+                        {
+                            "lat": 51.0571,
+                            "lon": -84.4653
+                        },
+                        {
+                            "lat": 51.0622,
+                            "lon": -84.57
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8342
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.4893,
+                            "lon": -83.2673
+                        },
+                        {
+                            "lat": 51.2539,
+                            "lon": -83.9119
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
