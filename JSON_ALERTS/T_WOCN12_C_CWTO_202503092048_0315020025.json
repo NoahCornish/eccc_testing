@@ -1,0 +1,69 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0315020025.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-09T20:52:51-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1788980384.2025,2025-03-09T15:33:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1352462810.2025,2025-03-09T19:38:19-00:00",
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-09T20:52:51-00:00",
+    "expires": "2025-03-10T03:19:51-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nSnowfall totals of 5 to 10 cm.\nBrief periods of heavy snow with reduced visibility.\n\nWhen:\nEnding later this afternoon or early evening.\n\nAdditional information:\nA weather system will advance quickly southeastward through portions of northern Ontario today. Due to the fairly brief nature of this snowfall, which should last roughly four to six hours at any one location, total snowfall amounts are not expected to exceed 10 cm. However, the snow may fall heavily at times giving poor visibility. As a result, travel conditions are expected to be hazardous.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "Elliot Lake - Ranger Lake",
+            "polygon": [
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                }
+            ]
+        }
+    ]
+}
