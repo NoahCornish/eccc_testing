@@ -1,0 +1,271 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3821159133.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-09T17:59:21-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-09T17:59:21-00:00",
+    "expires": "2025-03-10T05:07:21-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nSnowfall totals of 5 to locally 10 cm.\nBrief periods of heavy snow with reduced visibility.\n\nWhen:\nBeginning this afternoon and ending this evening.\n\nAdditional information:\nA weather system will advance quickly southeastward through portions of northeastern and central Ontario today. Due to the fairly brief nature of this snowfall, which should last roughly four to six hours at any one location, total snowfall amounts are not expected to be overly high. However, the snow may fall heavily at times giving poor visibility. As a result, travel conditions are expected to be hazardous.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "South River - Burk's Falls",
+            "polygon": [
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.9047,
+                    "lon": -79.6173
+                },
+                {
+                    "lat": 45.9261,
+                    "lon": -79.5385
+                },
+                {
+                    "lat": 45.9989,
+                    "lon": -79.2711
+                },
+                {
+                    "lat": 45.5697,
+                    "lon": -79.0368
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                }
+            ]
+        },
+        {
+            "area_description": "Deep River - Whitney - Eastern Algonquin Park",
+            "polygon": [
+                {
+                    "lat": 46.2469,
+                    "lon": -77.73
+                },
+                {
+                    "lat": 46.1853,
+                    "lon": -77.5416
+                },
+                {
+                    "lat": 46.1329,
+                    "lon": -77.4318
+                },
+                {
+                    "lat": 46.1304,
+                    "lon": -77.4267
+                },
+                {
+                    "lat": 46.0303,
+                    "lon": -77.2184
+                },
+                {
+                    "lat": 45.9952,
+                    "lon": -77.2193
+                },
+                {
+                    "lat": 45.9791,
+                    "lon": -77.2837
+                },
+                {
+                    "lat": 45.9853,
+                    "lon": -77.3276
+                },
+                {
+                    "lat": 45.9842,
+                    "lon": -77.3375
+                },
+                {
+                    "lat": 45.9791,
+                    "lon": -77.3596
+                },
+                {
+                    "lat": 45.9628,
+                    "lon": -77.4295
+                },
+                {
+                    "lat": 45.8209,
+                    "lon": -77.3594
+                },
+                {
+                    "lat": 45.7951,
+                    "lon": -77.454
+                },
+                {
+                    "lat": 45.7878,
+                    "lon": -77.4788
+                },
+                {
+                    "lat": 45.7802,
+                    "lon": -77.5089
+                },
+                {
+                    "lat": 45.772,
+                    "lon": -77.5029
+                },
+                {
+                    "lat": 45.7624,
+                    "lon": -77.5019
+                },
+                {
+                    "lat": 45.7192,
+                    "lon": -77.6499
+                },
+                {
+                    "lat": 45.672,
+                    "lon": -77.8406
+                },
+                {
+                    "lat": 45.6142,
+                    "lon": -77.8046
+                },
+                {
+                    "lat": 45.5496,
+                    "lon": -77.7799
+                },
+                {
+                    "lat": 45.5293,
+                    "lon": -77.8443
+                },
+                {
+                    "lat": 45.5106,
+                    "lon": -77.9107
+                },
+                {
+                    "lat": 45.453,
+                    "lon": -77.8739
+                },
+                {
+                    "lat": 45.3955,
+                    "lon": -77.8474
+                },
+                {
+                    "lat": 45.3476,
+                    "lon": -78.0122
+                },
+                {
+                    "lat": 45.3099,
+                    "lon": -78.1781
+                },
+                {
+                    "lat": 45.4228,
+                    "lon": -78.2483
+                },
+                {
+                    "lat": 45.561,
+                    "lon": -78.3131
+                },
+                {
+                    "lat": 46.1756,
+                    "lon": -78.6213
+                },
+                {
+                    "lat": 46.2441,
+                    "lon": -78.3696
+                },
+                {
+                    "lat": 46.2468,
+                    "lon": -78.3597
+                },
+                {
+                    "lat": 46.2607,
+                    "lon": -78.3417
+                },
+                {
+                    "lat": 46.2631,
+                    "lon": -78.3382
+                },
+                {
+                    "lat": 46.2912,
+                    "lon": -78.3344
+                },
+                {
+                    "lat": 46.2834,
+                    "lon": -78.3073
+                },
+                {
+                    "lat": 46.2986,
+                    "lon": -78.264
+                },
+                {
+                    "lat": 46.3022,
+                    "lon": -78.1399
+                },
+                {
+                    "lat": 46.2762,
+                    "lon": -78.0595
+                },
+                {
+                    "lat": 46.2755,
+                    "lon": -77.9794
+                },
+                {
+                    "lat": 46.2253,
+                    "lon": -77.7912
+                },
+                {
+                    "lat": 46.2404,
+                    "lon": -77.7484
+                },
+                {
+                    "lat": 46.2469,
+                    "lon": -77.73
+                }
+            ]
+        },
+        {
+            "area_description": "Western Algonquin Park - Lake of Two Rivers",
+            "polygon": [
+                {
+                    "lat": 45.4143,
+                    "lon": -78.8593
+                },
+                {
+                    "lat": 45.531,
+                    "lon": -78.918
+                },
+                {
+                    "lat": 45.5074,
+                    "lon": -79.0029
+                },
+                {
+                    "lat": 45.5697,
+                    "lon": -79.0368
+                },
+                {
+                    "lat": 45.9989,
+                    "lon": -79.2711
+                },
+                {
+                    "lat": 46.1756,
+                    "lon": -78.6213
+                },
+                {
+                    "lat": 45.561,
+                    "lon": -78.3131
+                },
+                {
+                    "lat": 45.4802,
+                    "lon": -78.5804
+                },
+                {
+                    "lat": 45.4143,
+                    "lon": -78.8593
+                }
+            ]
+        }
+    ]
+}
