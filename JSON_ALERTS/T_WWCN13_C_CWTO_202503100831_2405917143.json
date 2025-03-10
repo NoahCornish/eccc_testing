@@ -1,0 +1,89 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2405917143.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-10T08:36:02-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "snowfall warning in effect",
+    "event": "snowfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-10T08:36:02-00:00",
+    "expires": "2025-03-11T00:36:02-00:00",
+    "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\nWhat:\nSnowfall amounts of 15 to 25 cm.\nPeak snowfall rates of 3 to 5 cm per hour.\nReduced visibility in areas of heavy snow and blowing snow.\n\nWhen:\nBeginning early this evening and diminishing Tuesday morning.\n\nAdditional information:\nA weather system will cross northern Ontario from west to east today into Tuesday morning. Snow is expected to develop late this afternoon or early evening and quickly become heavy. The heaviest snowfall is expected tonight.\n\nIn addition, northeasterly winds gusting up to 50 km/h will result in areas of blowing snow giving reduced visibility, particularly later tonight into Tuesday morning.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "Moosonee",
+            "polygon": [
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                },
+                {
+                    "lat": 51.8769,
+                    "lon": -80.8373
+                },
+                {
+                    "lat": 51.9724,
+                    "lon": -80.6927
+                },
+                {
+                    "lat": 51.6003,
+                    "lon": -80.3594
+                },
+                {
+                    "lat": 51.3971,
+                    "lon": -80.2894
+                },
+                {
+                    "lat": 51.3571,
+                    "lon": -80.0462
+                },
+                {
+                    "lat": 51.2605,
+                    "lon": -79.8263
+                },
+                {
+                    "lat": 51.4271,
+                    "lon": -79.8297
+                },
+                {
+                    "lat": 51.5496,
+                    "lon": -79.5979
+                },
+                {
+                    "lat": 51.4684,
+                    "lon": -79.5164
+                },
+                {
+                    "lat": 51.0628,
+                    "lon": -79.496
+                },
+                {
+                    "lat": 50.7219,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                },
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                }
+            ]
+        }
+    ]
+}
