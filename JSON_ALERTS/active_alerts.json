@@ -6054,6 +6054,305 @@
             ]
         },
         {
+            "identifier": "urn:oid:2.49.0.1.124.4035803724.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-10T17:53:26-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3642302026.2025,2025-03-09T20:19:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1480736006.2025,2025-03-10T03:52:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1518043720.2025,2025-03-10T09:45:13-00:00",
+            "headline": "weather advisory in effect",
+            "event": "weather",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-10T17:53:26-00:00",
+            "expires": "2025-03-11T09:53:26-00:00",
+            "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nSnowfall amounts of 10 to 15 cm.\nPoor visibility in areas of heavier snow.\n\nWhen:\nContinuing into tonight.\n\nAdditional information:\nA low pressure system will bring a narrow band of heavy snow across portions of northern Ontario today. At this point, the axis of the heaviest snowfall is expected to remain north of the region. However, snowfall amounts of 10 to 15 cm are still possible, particularly for areas from near Lake Nipigon towards Kapuskasing, including Highway 11. Precipitation may also become mixed with or change to rain for a period of time.\n\nIf the track of the low pressure system shifts farther south than currently expected, higher snowfall amounts will be possible.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Beardmore - Jellicoe - Macdiarmid",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.1383,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.1129,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Gull Bay - Black Sturgeon Lake",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.1129,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.1101,
+                            "lon": -88.6636
+                        },
+                        {
+                            "lat": 49.5235,
+                            "lon": -90.0178
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Geraldton - Longlac - Caramat",
+                    "polygon": [
+                        {
+                            "lat": 48.8844,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 49.1383,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9546,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 48.8844,
+                            "lon": -85.9469
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Manitouwadge - Hornepayne",
+                    "polygon": [
+                        {
+                            "lat": 48.5501,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5499,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5511,
+                            "lon": -84.0089
+                        },
+                        {
+                            "lat": 48.8844,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 49.9546,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 49.1609,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 48.5526,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 48.5501,
+                            "lon": -84.002
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
+                    "polygon": [
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        },
+                        {
+                            "lat": 49.1609,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.0149
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 49.1637,
+                            "lon": -81.4426
+                        },
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2547367997.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-10T17:55:18-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2808575473.2025,2025-03-09T20:39:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3201805483.2025,2025-03-10T03:59:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2914153295.2025,2025-03-10T09:49:31-00:00",
+            "headline": "special weather statement in effect",
+            "event": "weather",
+            "urgency": "Future",
+            "severity": "Minor",
+            "certainty": "Possible",
+            "effective": "2025-03-10T17:55:18-00:00",
+            "expires": "2025-03-11T06:08:18-00:00",
+            "description": "\nSnow continues into this evening.\n\nWhat:\nSnowfall amounts of 5 to 10 cm.\n\nWhen:\nContinuing into this evening.\n\nAdditional information:\nThe area will be grazed by the northern edge of weather system. At this point, the heaviest snowfall is expected to remain south of the area.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "Pickle Lake - Cat Lake",
+                    "polygon": [
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 52.2797,
+                            "lon": -89.8479
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Fort Hope - Lansdowne House - Ogoki",
+                    "polygon": [
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        },
+                        {
+                            "lat": 51.0571,
+                            "lon": -84.4653
+                        },
+                        {
+                            "lat": 51.0622,
+                            "lon": -84.57
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8342
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.4893,
+                            "lon": -83.2673
+                        },
+                        {
+                            "lat": 51.2539,
+                            "lon": -83.9119
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "identifier": "urn:oid:2.49.0.1.124.0680717550.2025",
             "sender": "cap-pac@canada.ca",
             "sent": "2025-03-10T17:33:15-00:00",
@@ -6423,6 +6722,148 @@
                         {
                             "lat": 50.7218,
                             "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3324631149.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-10T17:49:28-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3995162543.2025,2025-03-10T08:36:02-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-10T17:49:28-00:00",
+            "expires": "2025-03-11T09:49:28-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\nWhat:\nSnowfall amounts of 15 to 25 cm.\nPeak snowfall rates of 3 to 5 cm per hour.\nReduced visibility in areas of heavy snow and blowing snow.\n\nWhen:\nBeginning early this evening and diminishing Tuesday morning.\n\nAdditional information:\nA weather system will cross northern Ontario from west to east today into Tuesday morning. Snow is expected to develop late this afternoon or early evening and quickly become heavy. The heaviest snowfall is expected tonight.\n\nIn addition, northeasterly winds gusting up to 50 km/h will result in areas of blowing snow giving reduced visibility, particularly later tonight into Tuesday morning.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Little Abitibi - Kesagami Lake",
+                    "polygon": [
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 50.7219,
+                            "lon": -79.5166
+                        },
+                        {
+                            "lat": 50.5155,
+                            "lon": -79.5167
+                        },
+                        {
+                            "lat": 49.2829,
+                            "lon": -79.5172
+                        },
+                        {
+                            "lat": 49.1428,
+                            "lon": -79.5172
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.0765831514.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-10T17:49:28-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2405917143.2025,2025-03-10T08:36:02-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-10T17:49:28-00:00",
+            "expires": "2025-03-11T09:49:28-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\nWhat:\nSnowfall amounts of 15 to 25 cm.\nPeak snowfall rates of 3 to 5 cm per hour.\nReduced visibility in areas of heavy snow and blowing snow.\n\nWhen:\nBeginning early this evening and diminishing Tuesday morning.\n\nAdditional information:\nA weather system will cross northern Ontario from west to east today into Tuesday morning. Snow is expected to develop late this afternoon or early evening and quickly become heavy. The heaviest snowfall is expected tonight.\n\nIn addition, northeasterly winds gusting up to 50 km/h will result in areas of blowing snow giving reduced visibility, particularly later tonight into Tuesday morning.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Moosonee",
+                    "polygon": [
+                        {
+                            "lat": 51.8738,
+                            "lon": -80.8407
+                        },
+                        {
+                            "lat": 51.8769,
+                            "lon": -80.8373
+                        },
+                        {
+                            "lat": 51.9724,
+                            "lon": -80.6927
+                        },
+                        {
+                            "lat": 51.6003,
+                            "lon": -80.3594
+                        },
+                        {
+                            "lat": 51.3971,
+                            "lon": -80.2894
+                        },
+                        {
+                            "lat": 51.3571,
+                            "lon": -80.0462
+                        },
+                        {
+                            "lat": 51.2605,
+                            "lon": -79.8263
+                        },
+                        {
+                            "lat": 51.4271,
+                            "lon": -79.8297
+                        },
+                        {
+                            "lat": 51.5496,
+                            "lon": -79.5979
+                        },
+                        {
+                            "lat": 51.4684,
+                            "lon": -79.5164
+                        },
+                        {
+                            "lat": 51.0628,
+                            "lon": -79.496
+                        },
+                        {
+                            "lat": 50.7219,
+                            "lon": -79.5166
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 51.3164,
+                            "lon": -82.1507
+                        },
+                        {
+                            "lat": 51.8738,
+                            "lon": -80.8407
                         }
                     ]
                 }
