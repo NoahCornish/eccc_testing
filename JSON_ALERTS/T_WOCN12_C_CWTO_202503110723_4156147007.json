@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4156147007.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-11T07:29:09-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3642302026.2025,2025-03-09T20:19:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1480736006.2025,2025-03-10T03:52:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1518043720.2025,2025-03-10T09:45:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4035803724.2025,2025-03-10T17:53:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0297351818.2025,2025-03-11T01:13:32-00:00",
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-11T07:29:09-00:00",
+    "expires": "2025-03-11T11:05:09-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nSnowfall amounts of 10 to 15 cm.\nPoor visibility in areas of heavier snow.\n\nWhen:\nEnding early this morning.\n\nAdditional information:\nA low pressure system will bring a narrow band of heavy snow across portions of northern Ontario tonight. The axis of the heaviest snowfall will remain just north of the highway 11 corridor. However, snowfall amounts of 10 to 15 cm are still possible, particularly for areas along the highway 11 corridor.\n\nThe snow will ease early this morning.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
+            "polygon": [
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.0149
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                }
+            ]
+        }
+    ]
+}
