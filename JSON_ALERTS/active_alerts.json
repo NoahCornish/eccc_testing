@@ -1636,6 +1636,95 @@
             ]
         },
         {
+            "identifier": "urn:oid:2.49.0.1.124.3036288273.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T05:34:05-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2194109721.2025,2025-03-09T20:01:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0886636228.2025,2025-03-10T03:49:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0485766452.2025,2025-03-10T09:38:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3325063969.2025,2025-03-10T17:43:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3782504139.2025,2025-03-11T00:25:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1418041991.2025,2025-03-11T00:34:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4283650618.2025,2025-03-11T05:31:19-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-11T05:31:19-00:00",
+            "expires": "2025-03-11T11:59:19-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm continues.\n\nWhat:\nSnowfall amounts of 15 to 25 cm.\nPeak snowfall rates of 3 to 5 cm per hour.\nReduced visibility in areas of heavy snow and blowing snow.\n\nWhen:\nContinuing tonight.\n\nAdditional information:\nA weather system will continue to cross northern Ontario from west to east tonight into Tuesday morning. The heaviest snowfall will continue over the next few hours, easing early Tuesday morning.\n\nIn addition, northerly winds gusting up to 50 km/h will result in areas of blowing snow giving reduced visibility tonight into Tuesday morning.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Fraserdale - Pledger Lake",
+                    "polygon": [
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.0149
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.3077,
+                            "lon": -84.1527
+                        },
+                        {
+                            "lat": 51.3876,
+                            "lon": -83.8976
+                        },
+                        {
+                            "lat": 51.4751,
+                            "lon": -83.7667
+                        },
+                        {
+                            "lat": 51.498,
+                            "lon": -83.6224
+                        },
+                        {
+                            "lat": 51.624,
+                            "lon": -83.3889
+                        },
+                        {
+                            "lat": 51.817,
+                            "lon": -83.221
+                        },
+                        {
+                            "lat": 51.9629,
+                            "lon": -82.9587
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "identifier": "urn:oid:2.49.0.1.124.4283650618.2025",
             "sender": "cap-pac@canada.ca",
             "sent": "2025-03-11T05:31:19-00:00",
@@ -1719,6 +1808,290 @@
                         {
                             "lat": 50.7218,
                             "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2233281213.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T05:32:31-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3995162543.2025,2025-03-10T08:36:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3324631149.2025,2025-03-10T17:49:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2095540090.2025,2025-03-11T00:32:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1015658345.2025,2025-03-11T00:42:07-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-11T05:32:31-00:00",
+            "expires": "2025-03-11T15:59:31-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Little Abitibi - Kesagami Lake",
+                    "polygon": [
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 50.7219,
+                            "lon": -79.5166
+                        },
+                        {
+                            "lat": 50.5155,
+                            "lon": -79.5167
+                        },
+                        {
+                            "lat": 49.2829,
+                            "lon": -79.5172
+                        },
+                        {
+                            "lat": 49.1428,
+                            "lon": -79.5172
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2285361024.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T05:35:57-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3995162543.2025,2025-03-10T08:36:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3324631149.2025,2025-03-10T17:49:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2095540090.2025,2025-03-11T00:32:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1015658345.2025,2025-03-11T00:42:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2233281213.2025,2025-03-11T05:32:31-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-11T05:32:31-00:00",
+            "expires": "2025-03-11T15:59:31-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\nWhat:\nSnowfall amounts of 15 to 25 cm.\nPeak snowfall rates of 3 to 5 cm per hour.\nReduced visibility in areas of heavy snow and blowing snow.\n\nWhen:\nContinuing tonight and ending Tuesday morning.\n\nAdditional information:\nA weather system will continue to cross northern Ontario from west to east tonight into Tuesday morning. The heaviest snowfall is expected tonight easing early Tuesday morning.\n\nIn addition, northeasterly winds gusting up to 50 km/h will result in areas of blowing snow giving reduced visibility later tonight into Tuesday morning.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Little Abitibi - Kesagami Lake",
+                    "polygon": [
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 50.7219,
+                            "lon": -79.5166
+                        },
+                        {
+                            "lat": 50.5155,
+                            "lon": -79.5167
+                        },
+                        {
+                            "lat": 49.2829,
+                            "lon": -79.5172
+                        },
+                        {
+                            "lat": 49.1428,
+                            "lon": -79.5172
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1608593621.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T05:32:31-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2405917143.2025,2025-03-10T08:36:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0765831514.2025,2025-03-10T17:49:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2650193717.2025,2025-03-11T00:32:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3419264641.2025,2025-03-11T00:42:07-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-11T05:32:31-00:00",
+            "expires": "2025-03-11T15:59:31-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Moosonee",
+                    "polygon": [
+                        {
+                            "lat": 51.8738,
+                            "lon": -80.8407
+                        },
+                        {
+                            "lat": 51.8769,
+                            "lon": -80.8373
+                        },
+                        {
+                            "lat": 51.9724,
+                            "lon": -80.6927
+                        },
+                        {
+                            "lat": 51.6003,
+                            "lon": -80.3594
+                        },
+                        {
+                            "lat": 51.3971,
+                            "lon": -80.2894
+                        },
+                        {
+                            "lat": 51.3571,
+                            "lon": -80.0462
+                        },
+                        {
+                            "lat": 51.2605,
+                            "lon": -79.8263
+                        },
+                        {
+                            "lat": 51.4271,
+                            "lon": -79.8297
+                        },
+                        {
+                            "lat": 51.5496,
+                            "lon": -79.5979
+                        },
+                        {
+                            "lat": 51.4684,
+                            "lon": -79.5164
+                        },
+                        {
+                            "lat": 51.0628,
+                            "lon": -79.496
+                        },
+                        {
+                            "lat": 50.7219,
+                            "lon": -79.5166
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 51.3164,
+                            "lon": -82.1507
+                        },
+                        {
+                            "lat": 51.8738,
+                            "lon": -80.8407
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2098710765.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T05:35:57-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2405917143.2025,2025-03-10T08:36:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0765831514.2025,2025-03-10T17:49:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2650193717.2025,2025-03-11T00:32:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3419264641.2025,2025-03-11T00:42:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1608593621.2025,2025-03-11T05:32:31-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-11T05:32:31-00:00",
+            "expires": "2025-03-11T15:59:31-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\nWhat:\nSnowfall amounts of 15 to 25 cm.\nPeak snowfall rates of 3 to 5 cm per hour.\nReduced visibility in areas of heavy snow and blowing snow.\n\nWhen:\nContinuing tonight and ending Tuesday morning.\n\nAdditional information:\nA weather system will continue to cross northern Ontario from west to east tonight into Tuesday morning. The heaviest snowfall is expected tonight easing early Tuesday morning.\n\nIn addition, northeasterly winds gusting up to 50 km/h will result in areas of blowing snow giving reduced visibility later tonight into Tuesday morning.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Moosonee",
+                    "polygon": [
+                        {
+                            "lat": 51.8738,
+                            "lon": -80.8407
+                        },
+                        {
+                            "lat": 51.8769,
+                            "lon": -80.8373
+                        },
+                        {
+                            "lat": 51.9724,
+                            "lon": -80.6927
+                        },
+                        {
+                            "lat": 51.6003,
+                            "lon": -80.3594
+                        },
+                        {
+                            "lat": 51.3971,
+                            "lon": -80.2894
+                        },
+                        {
+                            "lat": 51.3571,
+                            "lon": -80.0462
+                        },
+                        {
+                            "lat": 51.2605,
+                            "lon": -79.8263
+                        },
+                        {
+                            "lat": 51.4271,
+                            "lon": -79.8297
+                        },
+                        {
+                            "lat": 51.5496,
+                            "lon": -79.5979
+                        },
+                        {
+                            "lat": 51.4684,
+                            "lon": -79.5164
+                        },
+                        {
+                            "lat": 51.0628,
+                            "lon": -79.496
+                        },
+                        {
+                            "lat": 50.7219,
+                            "lon": -79.5166
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 51.3164,
+                            "lon": -82.1507
+                        },
+                        {
+                            "lat": 51.8738,
+                            "lon": -80.8407
                         }
                     ]
                 }
