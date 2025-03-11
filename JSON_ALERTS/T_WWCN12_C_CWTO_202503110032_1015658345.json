@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1015658345.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-11T00:42:07-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3995162543.2025,2025-03-10T08:36:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3324631149.2025,2025-03-10T17:49:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2095540090.2025,2025-03-11T00:32:36-00:00",
+    "headline": "snowfall warning in effect",
+    "event": "snowfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-11T00:32:36-00:00",
+    "expires": "2025-03-11T15:59:36-00:00",
+    "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\nWhat:\nSnowfall amounts of 15 to 25 cm.\nPeak snowfall rates of 3 to 5 cm per hour.\nReduced visibility in areas of heavy snow and blowing snow.\n\nWhen:\nContinuing this evening for Little Abitibi - Kesagami Lake ending Tuesday morning.\nBeginning this evening for Moosonee ending Tuesday morning.\n\nAdditional information:\nA weather system will continue to cross northern Ontario from west to east tonight into Tuesday morning. Snow is expected to push into Moosonee later this evening and quickly become heavy. The heaviest snowfall is expected tonight easing early Tuesday morning.\n\nIn addition, northeasterly winds gusting up to 50 km/h will result in areas of blowing snow giving reduced visibility later tonight into Tuesday morning.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "Little Abitibi - Kesagami Lake",
+            "polygon": [
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 50.7219,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 50.5155,
+                    "lon": -79.5167
+                },
+                {
+                    "lat": 49.2829,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                }
+            ]
+        }
+    ]
+}
