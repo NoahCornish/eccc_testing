@@ -3044,6 +3044,254 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2837206884.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T08:53:56-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2194109721.2025,2025-03-09T20:01:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0886636228.2025,2025-03-10T03:49:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0485766452.2025,2025-03-10T09:38:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3325063969.2025,2025-03-10T17:43:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3782504139.2025,2025-03-11T00:25:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1418041991.2025,2025-03-11T00:34:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4283650618.2025,2025-03-11T05:31:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3036288273.2025,2025-03-11T05:34:05-00:00",
+            "headline": "snowfall warning ended",
+            "event": "snowfall",
+            "urgency": "Past",
+            "severity": "Minor",
+            "certainty": "Observed",
+            "effective": "2025-03-11T08:53:56-00:00",
+            "expires": "2025-03-11T09:53:56-00:00",
+            "description": "\nSignificant snowfall is no longer expected.\n\n\n###\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "Fraserdale - Pledger Lake",
+                    "polygon": [
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.0149
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.3077,
+                            "lon": -84.1527
+                        },
+                        {
+                            "lat": 51.3876,
+                            "lon": -83.8976
+                        },
+                        {
+                            "lat": 51.4751,
+                            "lon": -83.7667
+                        },
+                        {
+                            "lat": 51.498,
+                            "lon": -83.6224
+                        },
+                        {
+                            "lat": 51.624,
+                            "lon": -83.3889
+                        },
+                        {
+                            "lat": 51.817,
+                            "lon": -83.221
+                        },
+                        {
+                            "lat": 51.9629,
+                            "lon": -82.9587
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1760072885.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T08:59:06-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3995162543.2025,2025-03-10T08:36:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3324631149.2025,2025-03-10T17:49:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2095540090.2025,2025-03-11T00:32:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1015658345.2025,2025-03-11T00:42:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2233281213.2025,2025-03-11T05:32:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2285361024.2025,2025-03-11T05:35:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2682168218.2025,2025-03-11T07:25:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1338336271.2025,2025-03-11T07:28:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4180764956.2025,2025-03-11T08:56:25-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-11T08:56:25-00:00",
+            "expires": "2025-03-11T15:59:25-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\nWhat:\nAdditional snowfall amounts of up to 5 cm locally.\nReduced visibility in areas of blowing snow.\n\nWhen:\nEnding this morning.\n\nAdditional information:\nThe snow will end from west to east this morning.\n\nIn addition, northeasterly winds gusting up to 50 km/h will result in areas of blowing snow giving reduced visibility this morning.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Little Abitibi - Kesagami Lake",
+                    "polygon": [
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 50.7219,
+                            "lon": -79.5166
+                        },
+                        {
+                            "lat": 50.5155,
+                            "lon": -79.5167
+                        },
+                        {
+                            "lat": 49.2829,
+                            "lon": -79.5172
+                        },
+                        {
+                            "lat": 49.1428,
+                            "lon": -79.5172
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.4180764956.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T08:56:25-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3995162543.2025,2025-03-10T08:36:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3324631149.2025,2025-03-10T17:49:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2095540090.2025,2025-03-11T00:32:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1015658345.2025,2025-03-11T00:42:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2233281213.2025,2025-03-11T05:32:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2285361024.2025,2025-03-11T05:35:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2682168218.2025,2025-03-11T07:25:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1338336271.2025,2025-03-11T07:28:09-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-11T08:56:25-00:00",
+            "expires": "2025-03-11T15:59:25-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Little Abitibi - Kesagami Lake",
+                    "polygon": [
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 50.7219,
+                            "lon": -79.5166
+                        },
+                        {
+                            "lat": 50.5155,
+                            "lon": -79.5167
+                        },
+                        {
+                            "lat": 49.2829,
+                            "lon": -79.5172
+                        },
+                        {
+                            "lat": 49.1428,
+                            "lon": -79.5172
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3692608599.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T09:01:02-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3642302026.2025,2025-03-09T20:19:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1480736006.2025,2025-03-10T03:52:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1518043720.2025,2025-03-10T09:45:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4035803724.2025,2025-03-10T17:53:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0297351818.2025,2025-03-11T01:13:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4156147007.2025,2025-03-11T07:29:09-00:00",
+            "headline": "weather advisory ended",
+            "event": "weather",
+            "urgency": "Past",
+            "severity": "Minor",
+            "certainty": "Observed",
+            "effective": "2025-03-11T09:01:02-00:00",
+            "expires": "2025-03-11T10:01:02-00:00",
+            "description": "\n\n###\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
+                    "polygon": [
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        },
+                        {
+                            "lat": 49.1609,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.0149
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 49.1637,
+                            "lon": -81.4426
+                        },
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

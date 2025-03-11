@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3692608599.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-11T09:01:02-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3642302026.2025,2025-03-09T20:19:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1480736006.2025,2025-03-10T03:52:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1518043720.2025,2025-03-10T09:45:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4035803724.2025,2025-03-10T17:53:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0297351818.2025,2025-03-11T01:13:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4156147007.2025,2025-03-11T07:29:09-00:00",
+    "headline": "weather advisory ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-11T09:01:02-00:00",
+    "expires": "2025-03-11T10:01:02-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
+            "polygon": [
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.0149
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                }
+            ]
+        }
+    ]
+}
