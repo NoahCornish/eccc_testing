@@ -1,6 +1,100 @@
 {
     "alerts": [
         {
+            "identifier": "urn:oid:2.49.0.1.124.0297351818.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T01:13:32-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3642302026.2025,2025-03-09T20:19:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1480736006.2025,2025-03-10T03:52:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1518043720.2025,2025-03-10T09:45:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4035803724.2025,2025-03-10T17:53:26-00:00",
+            "headline": "weather advisory in effect",
+            "event": "weather",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-11T01:13:32-00:00",
+            "expires": "2025-03-11T11:19:32-00:00",
+            "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nSnowfall amounts of 10 to 15 cm.\nPoor visibility in areas of heavier snow.\n\nWhen:\nContinuing tonight.\n\nAdditional information:\nA low pressure system will bring a narrow band of heavy snow across portions of northern Ontario tonight. At this point, the axis of the heaviest snowfall is expected to remain just north of the highway 11 corridor. However, snowfall amounts of 10 to 15 cm are still possible, particularly for areas along the highway 11 corridor. Areas south of highway 11 in the Manitouwadge - Hornepayne area are expected to see up to 5 cm with lesser amounts south of Hornepayne.\n\nThe snow will ease late tonight or early Tuesday morning.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Manitouwadge - Hornepayne",
+                    "polygon": [
+                        {
+                            "lat": 48.5501,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5499,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5511,
+                            "lon": -84.0089
+                        },
+                        {
+                            "lat": 48.8844,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 49.9546,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 49.1609,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 48.5526,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 48.5501,
+                            "lon": -84.002
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
+                    "polygon": [
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        },
+                        {
+                            "lat": 49.1609,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.0149
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 49.1637,
+                            "lon": -81.4426
+                        },
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "identifier": "urn:oid:2.49.0.1.124.2094386908.2025",
             "sender": "cap-pac@canada.ca",
             "sent": "2025-03-11T00:53:55-00:00",
@@ -1377,6 +1471,112 @@
                         {
                             "lat": 51.8738,
                             "lon": -80.8407
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3737863222.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T01:26:16-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3803662476.2025,2025-03-09T19:49:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3216792806.2025,2025-03-10T03:47:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0392595660.2025,2025-03-10T09:33:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0730384468.2025,2025-03-10T09:59:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3807583833.2025,2025-03-10T17:34:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2803743828.2025,2025-03-11T00:15:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0910158621.2025,2025-03-11T00:17:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4009131808.2025,2025-03-11T01:24:08-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-11T01:24:08-00:00",
+            "expires": "2025-03-11T06:59:08-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 20 cm continues.\n\nWhat:\nSnowfall amounts of 15 to 20 cm.\nPeak snowfall rates of 2 to 3 cm per hour.\nReduced visibility in areas of heavy snow.\n\nWhen:\nContinuing this evening.\n\nAdditional information:\nA weather system will cross northern Ontario from west to east this evening. Snow, heavy at times, slowly taper off this evening.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Armstrong - Auden - Wabakimi Park",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.4009131808.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-11T01:24:08-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3803662476.2025,2025-03-09T19:49:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3216792806.2025,2025-03-10T03:47:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0392595660.2025,2025-03-10T09:33:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0730384468.2025,2025-03-10T09:59:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3807583833.2025,2025-03-10T17:34:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2803743828.2025,2025-03-11T00:15:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0910158621.2025,2025-03-11T00:17:53-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-11T01:24:08-00:00",
+            "expires": "2025-03-11T06:59:08-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 20 cm continues.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Armstrong - Auden - Wabakimi Park",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
                         }
                     ]
                 }
