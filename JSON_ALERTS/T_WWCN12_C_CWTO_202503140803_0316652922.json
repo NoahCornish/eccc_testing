@@ -1,0 +1,89 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0316652922.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-14T08:10:20-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-14T08:10:20-00:00",
+    "expires": "2025-03-15T00:06:20-00:00",
+    "description": "\nPatchy freezing rain likely late this morning and afternoon.\n\nWhat: \nPatchy freezing rain giving locally 1 to 2 mm of ice accretion.\nIcy and slippery surfaces.\n\nWhen:\nLate this morning into the afternoon.\n\nAdditional information: \nPatchy freezing rain is expected to affect portions of the area later this morning into the afternoon. Freezing rain amounts are not expected to be overly significant, but untreated surfaces are likely to become icy and slippery. Temperatures should rise above the freezing mark later this afternoon.\n\nFor areas well to the north of Fraserdale, temperatures may remain just below the freezing mark until later tonight. As a result, the threat of freezing rain may continue tonight.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become icy and slippery.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake extra care when walking or driving in affected areas.\n",
+    "affected_areas": [
+        {
+            "area_description": "Fraserdale - Pledger Lake",
+            "polygon": [
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.0149
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.3876,
+                    "lon": -83.8976
+                },
+                {
+                    "lat": 51.4751,
+                    "lon": -83.7667
+                },
+                {
+                    "lat": 51.498,
+                    "lon": -83.6224
+                },
+                {
+                    "lat": 51.624,
+                    "lon": -83.3889
+                },
+                {
+                    "lat": 51.817,
+                    "lon": -83.221
+                },
+                {
+                    "lat": 51.9629,
+                    "lon": -82.9587
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                }
+            ]
+        }
+    ]
+}
