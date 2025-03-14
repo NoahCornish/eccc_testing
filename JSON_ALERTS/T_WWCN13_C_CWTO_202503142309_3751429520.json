@@ -1,0 +1,81 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3751429520.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-14T23:09:44-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-14T23:09:44-00:00",
+    "expires": "2025-03-15T15:09:44-00:00",
+    "description": "\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become icy and slippery. Ice build-up may cause tree branches to break.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
+            "polygon": [
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.6707,
+                    "lon": -95.1632
+                },
+                {
+                    "lat": 52.8415,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.8419,
+                    "lon": -95.153
+                },
+                {
+                    "lat": 53.2523,
+                    "lon": -94.5197
+                },
+                {
+                    "lat": 53.5766,
+                    "lon": -93.9327
+                },
+                {
+                    "lat": 53.7427,
+                    "lon": -93.68
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 53.7604,
+                    "lon": -92.0407
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 52.9541,
+                    "lon": -90.9516
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.3546,
+                    "lon": -93.4886
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                }
+            ]
+        }
+    ]
+}
