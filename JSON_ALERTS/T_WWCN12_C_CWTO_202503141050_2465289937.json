@@ -1,0 +1,131 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2465289937.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-14T10:52:15-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0403751874.2025,2025-03-14T01:09:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3458761606.2025,2025-03-14T09:08:53-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-14T10:52:15-00:00",
+    "expires": "2025-03-14T15:31:15-00:00",
+    "description": "\nPatchy freezing rain likely this morning.\n\nWhat:\nPatchy freezing rain giving locally 1 to 2 mm of ice accretion.\nIcy and slippery surfaces.\n\nWhen:\nEnding this morning.\n\nAdditional information:\nPatchy freezing rain is expected early this morning. Freezing rain amounts are not expected to be overly significant, but untreated surfaces are likely to become icy and slippery. Temperatures will rise above the freezing mark as the morning progresses.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become icy and slippery.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake extra care when walking or driving in affected areas.\n",
+    "affected_areas": [
+        {
+            "area_description": "Ignace - English River",
+            "polygon": [
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                },
+                {
+                    "lat": 48.9922,
+                    "lon": -91.2145
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                }
+            ]
+        },
+        {
+            "area_description": "Upsala - Raith",
+            "polygon": [
+                {
+                    "lat": 48.5979,
+                    "lon": -89.6538
+                },
+                {
+                    "lat": 48.9922,
+                    "lon": -91.2145
+                },
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 49.5235,
+                    "lon": -90.0178
+                },
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                },
+                {
+                    "lat": 48.7365,
+                    "lon": -89.3858
+                },
+                {
+                    "lat": 48.5979,
+                    "lon": -89.6538
+                }
+            ]
+        },
+        {
+            "area_description": "Marathon - Schreiber",
+            "polygon": [
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                }
+            ]
+        }
+    ]
+}
