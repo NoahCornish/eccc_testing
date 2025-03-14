@@ -1,0 +1,57 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3912019933.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-14T02:28:14-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Extreme",
+    "certainty": "Likely",
+    "effective": "2025-03-14T02:28:14-00:00",
+    "expires": "2025-03-14T18:28:14-00:00",
+    "description": "\nProlonged freezing rain event is likely, beginning Friday morning continuing through Saturday.\n\nWhat: \nFreezing rain with ice accumulations of 2 to 5 mm.\n\nWhen:\nPatchy freezing rain Friday morning into Friday night.\nWidespread freezing rain Saturday morning continuing through Saturday afternoon.\n\nAdditional information: \nPatchy freezing rain possibly mixed with ice pellets or snow is expected Friday. Freezing rain will become heavier and more widespread early Saturday morning, continuing through the afternoon. Freezing rain will change to snow early Saturday evening. There is potential that areas near and south of Pickle Lake could change over to rain during this event, which would limit ice accumulation in these areas.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots will become icy, slippery and extremely hazardous. Extended and widespread utility outages are possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBeware of branches or electrical wires that could break under the weight of ice.\n",
+    "affected_areas": [
+        {
+            "area_description": "Pickle Lake - Cat Lake",
+            "polygon": [
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.2797,
+                    "lon": -89.8479
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                }
+            ]
+        }
+    ]
+}
