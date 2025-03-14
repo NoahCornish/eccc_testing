@@ -1,0 +1,94 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1482447857.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-14T13:13:43-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0403751874.2025,2025-03-14T01:09:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3458761606.2025,2025-03-14T09:08:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2465289937.2025,2025-03-14T10:52:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2519672698.2025,2025-03-14T12:11:46-00:00",
+    "headline": "freezing rain warning ended",
+    "event": "freezing rain",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-14T13:13:43-00:00",
+    "expires": "2025-03-14T14:13:43-00:00",
+    "description": "\nFreezing rain conditions are no longer expected.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Ignace - English River",
+            "polygon": [
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                },
+                {
+                    "lat": 48.9922,
+                    "lon": -91.2145
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                }
+            ]
+        },
+        {
+            "area_description": "Upsala - Raith",
+            "polygon": [
+                {
+                    "lat": 48.5979,
+                    "lon": -89.6538
+                },
+                {
+                    "lat": 48.9922,
+                    "lon": -91.2145
+                },
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 49.5235,
+                    "lon": -90.0178
+                },
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                },
+                {
+                    "lat": 48.7365,
+                    "lon": -89.3858
+                },
+                {
+                    "lat": 48.5979,
+                    "lon": -89.6538
+                }
+            ]
+        }
+    ]
+}
