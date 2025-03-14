@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2361414356.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-14T15:17:12-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1693831422.2025,2025-03-14T09:40:06-00:00",
+    "headline": "winter storm watch in effect",
+    "event": "winter storm",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-14T15:17:12-00:00",
+    "expires": "2025-03-15T07:17:12-00:00",
+    "description": "\nWinter storm conditions possible tonight and Saturday. Patchy freezing rain is possible today.\n\nWhat: \nFreezing rain with ice accumulations of 2 to 4 mm.\nSnowfall amounts near 15 cm possible. \nReduced visibility in snow and blowing snow.\n\nWhen: \nTonight into Saturday night.\n\nAdditional information: \nPatchy freezing rain is possible today. Freezing rain will become heavier and more widespread tonight and will be mixed with ice pellets at times. There is potential that areas over southern portions of the region may change over to rain this afternoon and this evening. All precipitation will change over to snow by late Saturday morning, with gusty winds leading to reduced visibility in blowing snow.\n\nThere remains some uncertainty with the track of this low pressure system which may affect snowfall amounts and precipitation types.\n\n###\n\nRapidly accumulating snow could make travel difficult over some locations. Visibility may be suddenly reduced at times in heavy snow. Surfaces such as highways, roads, walkways and parking lots may become icy and slippery.\n\nWinter storm watches are issued when multiple types of severe winter weather are expected to occur together.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Pikangikum - Poplar Hill - MacDowell",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.0344,
+                    "lon": -95.169
+                },
+                {
+                    "lat": 52.4201,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4148,
+                    "lon": -93.4852
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.4154,
+                    "lon": -93.733
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.5309,
+                    "lon": -94.5283
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        }
+    ]
+}
