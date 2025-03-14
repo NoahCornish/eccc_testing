@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3644926531.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-14T20:43:40-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "winter storm warning in effect",
+    "event": "winter storm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-14T20:43:40-00:00",
+    "expires": "2025-03-15T12:43:40-00:00",
+    "description": "\nHazardous winter conditions are expected.\n\nWhat: \nFreezing rain with ice accumulations of 2 to 4 mm.\nSnowfall amounts near 15 cm possible. \nReduced visibility in snow and blowing snow.\n\nWhen: \nTonight into Saturday night.\n\nAdditional information: \nA Colorado Low is expected to bring a wintry mix of precipitation across the region tonight. Patchy freezing rain is possible this evening. Freezing rain will become heavier and more widespread tonight and will be mixed with ice pellets at times. There is also the potential that southern portions of the region may change over to rain this evening. All precipitation will change over to snow by late Saturday morning, with gusty winds leading to reduced visibility in blowing snow.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow. Surfaces such as highways, roads, walkways and parking lots may become icy and slippery.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions.\n",
+    "affected_areas": [
+        {
+            "area_description": "Pikangikum - Poplar Hill - MacDowell",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.0344,
+                    "lon": -95.169
+                },
+                {
+                    "lat": 52.4201,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4148,
+                    "lon": -93.4852
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.4154,
+                    "lon": -93.733
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.5309,
+                    "lon": -94.5283
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        }
+    ]
+}
