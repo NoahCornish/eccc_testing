@@ -1,0 +1,297 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2093611007.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-14T02:43:54-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0665827317.2025,2025-03-13T22:01:29-00:00",
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-03-14T02:43:54-00:00",
+    "expires": "2025-03-14T18:43:54-00:00",
+    "description": "\nIcy conditions Friday night into Sunday. Rain for some areas on Saturday.\n\nWhat:\nIce accumulations of 1 to 4 mm possible.\nSignificant warm up with rain over some areas.\n\nWhen:\nBeginning Friday night and continuing through Saturday night.\n\nAdditional information:\nPatchy freezing rain ahead of an approaching low pressure system may become more widespread on Saturday. The track of this low pressure system is still somewhat uncertain which will affect the precipitation types and amounts. Freezing rain warnings will be issued for some regions as confidence increases.\n\nThe precipitation could transition to periods of rain as temperatures rise above freezing Saturday afternoon from Pickle Lake extending northeast to Attawapiskat. The combination of melting snow and rain could result in water pooling in some areas.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Attawapiskat",
+            "polygon": [
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                },
+                {
+                    "lat": 54.0004,
+                    "lon": -82.2294
+                },
+                {
+                    "lat": 53.9804,
+                    "lon": -81.9568
+                },
+                {
+                    "lat": 53.3416,
+                    "lon": -81.9632
+                },
+                {
+                    "lat": 53.0256,
+                    "lon": -82.2216
+                },
+                {
+                    "lat": 52.4881,
+                    "lon": -81.4236
+                },
+                {
+                    "lat": 52.4649,
+                    "lon": -81.6114
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                }
+            ]
+        },
+        {
+            "area_description": "Peawanuck",
+            "polygon": [
+                {
+                    "lat": 56.0007,
+                    "lon": -86.9972
+                },
+                {
+                    "lat": 55.7283,
+                    "lon": -85.6784
+                },
+                {
+                    "lat": 55.3741,
+                    "lon": -84.958
+                },
+                {
+                    "lat": 55.3859,
+                    "lon": -83.9602
+                },
+                {
+                    "lat": 55.2286,
+                    "lon": -82.9498
+                },
+                {
+                    "lat": 55.1832,
+                    "lon": -82.7847
+                },
+                {
+                    "lat": 55.1755,
+                    "lon": -82.2786
+                },
+                {
+                    "lat": 55.0671,
+                    "lon": -82.007
+                },
+                {
+                    "lat": 54.6123,
+                    "lon": -82.0824
+                },
+                {
+                    "lat": 53.9804,
+                    "lon": -81.9568
+                },
+                {
+                    "lat": 54.0004,
+                    "lon": -82.2294
+                },
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.9096,
+                    "lon": -87.0016
+                },
+                {
+                    "lat": 56.0007,
+                    "lon": -86.9972
+                }
+            ]
+        },
+        {
+            "area_description": "Summer Beaver - Wunnummin Lake - Kingfisher Lake",
+            "polygon": [
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 52.7534,
+                    "lon": -87.9569
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.237,
+                    "lon": -89.76
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.9445,
+                    "lon": -91.0141
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 53.4188,
+                    "lon": -89.3718
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                }
+            ]
+        },
+        {
+            "area_description": "Webequie",
+            "polygon": [
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.7599,
+                    "lon": -88.0338
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 54.1733,
+                    "lon": -87.5227
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                }
+            ]
+        },
+        {
+            "area_description": "Fort Hope - Lansdowne House - Ogoki",
+            "polygon": [
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                },
+                {
+                    "lat": 51.0571,
+                    "lon": -84.4653
+                },
+                {
+                    "lat": 51.0622,
+                    "lon": -84.57
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8342
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.4893,
+                    "lon": -83.2673
+                },
+                {
+                    "lat": 51.2539,
+                    "lon": -83.9119
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                }
+            ]
+        }
+    ]
+}
