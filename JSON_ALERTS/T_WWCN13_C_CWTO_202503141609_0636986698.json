@@ -1,0 +1,89 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0636986698.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-14T16:12:21-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3992925383.2025,2025-03-14T10:26:40-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-03-14T16:12:21-00:00",
+    "expires": "2025-03-15T08:12:21-00:00",
+    "description": "\nFreezing rain this afternoon into Saturday night.\n\nWhat:\nIce accumulation of 2 to 5 mm possible.\n\nWhen:\nThis afternoon and continuing through Saturday night.\n\nAdditional information:\nPatchy freezing rain or freezing drizzle is possible today. Freezing rain will become more widespread tonight and will be mixed with ice pellets and snow at times. Temperatures are expected to rise above the freezing mark on Saturday for most areas, however it is possible that Lansdowne House may remain below the freezing mark throughout the day. Where temperatures rise above the freezing mark lower ice accumulations are expected.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots will become icy, slippery and hazardous. Ice build-up may cause tree branches to break. Utility outages may occur.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBeware of branches or electrical wires that could break under the weight of ice.\n",
+    "affected_areas": [
+        {
+            "area_description": "Fort Hope - Lansdowne House - Ogoki",
+            "polygon": [
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                },
+                {
+                    "lat": 51.0571,
+                    "lon": -84.4653
+                },
+                {
+                    "lat": 51.0622,
+                    "lon": -84.57
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8342
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.4893,
+                    "lon": -83.2673
+                },
+                {
+                    "lat": 51.2539,
+                    "lon": -83.9119
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                }
+            ]
+        }
+    ]
+}

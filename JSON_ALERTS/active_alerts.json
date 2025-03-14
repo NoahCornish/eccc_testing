@@ -14898,6 +14898,603 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2611717330.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-14T16:14:17-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0665827317.2025,2025-03-13T22:01:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2093611007.2025,2025-03-14T02:43:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2573737367.2025,2025-03-14T10:38:51-00:00",
+            "headline": "special weather statement in effect",
+            "event": "weather",
+            "urgency": "Future",
+            "severity": "Minor",
+            "certainty": "Possible",
+            "effective": "2025-03-14T16:14:17-00:00",
+            "expires": "2025-03-15T08:14:17-00:00",
+            "description": "\nWintry conditions tonight into Sunday. Rain for some areas on Saturday.\n\nWhat:\nIce accumulations of 1 to 4 mm possible.\nWarm up with rain over some areas.\n\nWhen:\nBeginning tonight and continuing through Saturday night.\n\nAdditional information:\nSnow at times mixed with ice pellets will move into the region this afternoon or tonight. While there is a risk of freezing rain tonight for some areas, more widespread freezing rain is expected to develop Saturday morning or afternoon. \nPrecipitation towards Attawapiskat will change over to rain Saturday afternoon as temperature rises above the freezing mark. The combination of melting snow and rain could result in water pooling in some areas. \n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "Attawapiskat",
+                    "polygon": [
+                        {
+                            "lat": 54.0006,
+                            "lon": -82.2369
+                        },
+                        {
+                            "lat": 54.0004,
+                            "lon": -82.2294
+                        },
+                        {
+                            "lat": 53.9804,
+                            "lon": -81.9568
+                        },
+                        {
+                            "lat": 53.3416,
+                            "lon": -81.9632
+                        },
+                        {
+                            "lat": 53.0256,
+                            "lon": -82.2216
+                        },
+                        {
+                            "lat": 52.4881,
+                            "lon": -81.4236
+                        },
+                        {
+                            "lat": 52.4649,
+                            "lon": -81.6114
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 54.0287,
+                            "lon": -83.7002
+                        },
+                        {
+                            "lat": 54.0006,
+                            "lon": -82.2369
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Peawanuck",
+                    "polygon": [
+                        {
+                            "lat": 56.0007,
+                            "lon": -86.9972
+                        },
+                        {
+                            "lat": 55.7283,
+                            "lon": -85.6784
+                        },
+                        {
+                            "lat": 55.3741,
+                            "lon": -84.958
+                        },
+                        {
+                            "lat": 55.3859,
+                            "lon": -83.9602
+                        },
+                        {
+                            "lat": 55.2286,
+                            "lon": -82.9498
+                        },
+                        {
+                            "lat": 55.1832,
+                            "lon": -82.7847
+                        },
+                        {
+                            "lat": 55.1755,
+                            "lon": -82.2786
+                        },
+                        {
+                            "lat": 55.0671,
+                            "lon": -82.007
+                        },
+                        {
+                            "lat": 54.6123,
+                            "lon": -82.0824
+                        },
+                        {
+                            "lat": 53.9804,
+                            "lon": -81.9568
+                        },
+                        {
+                            "lat": 54.0004,
+                            "lon": -82.2294
+                        },
+                        {
+                            "lat": 54.0006,
+                            "lon": -82.2369
+                        },
+                        {
+                            "lat": 54.0287,
+                            "lon": -83.7002
+                        },
+                        {
+                            "lat": 55.0039,
+                            "lon": -87.008
+                        },
+                        {
+                            "lat": 55.0075,
+                            "lon": -87.0122
+                        },
+                        {
+                            "lat": 55.9096,
+                            "lon": -87.0016
+                        },
+                        {
+                            "lat": 56.0007,
+                            "lon": -86.9972
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Summer Beaver - Wunnummin Lake - Kingfisher Lake",
+                    "polygon": [
+                        {
+                            "lat": 53.2172,
+                            "lon": -87.9958
+                        },
+                        {
+                            "lat": 52.7534,
+                            "lon": -87.9569
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.237,
+                            "lon": -89.76
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 52.9445,
+                            "lon": -91.0141
+                        },
+                        {
+                            "lat": 53.543,
+                            "lon": -90.5082
+                        },
+                        {
+                            "lat": 53.4188,
+                            "lon": -89.3718
+                        },
+                        {
+                            "lat": 53.2172,
+                            "lon": -87.9958
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Webequie",
+                    "polygon": [
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.7599,
+                            "lon": -88.0338
+                        },
+                        {
+                            "lat": 53.2172,
+                            "lon": -87.9958
+                        },
+                        {
+                            "lat": 54.1733,
+                            "lon": -87.5227
+                        },
+                        {
+                            "lat": 55.0075,
+                            "lon": -87.0122
+                        },
+                        {
+                            "lat": 55.0039,
+                            "lon": -87.008
+                        },
+                        {
+                            "lat": 54.0287,
+                            "lon": -83.7002
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.0988389966.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-14T16:08:23-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0316652922.2025,2025-03-14T08:10:20-00:00",
+            "headline": "freezing rain warning in effect",
+            "event": "freezing rain",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-14T16:08:23-00:00",
+            "expires": "2025-03-15T08:08:23-00:00",
+            "description": "\nPatchy freezing rain continues.\n\nWhat: \nPatchy freezing rain giving locally 1 to 2 mm of ice accretion.\nIcy and slippery surfaces.\n\nWhen:\nContinuing into Saturday morning.\n\nAdditional information: \nPatchy freezing rain is expected to continue into Saturday morning. Freezing rain amounts are not expected to be overly significant, but untreated surfaces are likely to become icy and slippery.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become icy and slippery.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nTake extra care when walking or driving in affected areas.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Fraserdale - Pledger Lake",
+                    "polygon": [
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.0149
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.3077,
+                            "lon": -84.1527
+                        },
+                        {
+                            "lat": 51.3876,
+                            "lon": -83.8976
+                        },
+                        {
+                            "lat": 51.4751,
+                            "lon": -83.7667
+                        },
+                        {
+                            "lat": 51.498,
+                            "lon": -83.6224
+                        },
+                        {
+                            "lat": 51.624,
+                            "lon": -83.3889
+                        },
+                        {
+                            "lat": 51.817,
+                            "lon": -83.221
+                        },
+                        {
+                            "lat": 51.9629,
+                            "lon": -82.9587
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3470681378.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-14T16:06:29-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3912019933.2025,2025-03-14T02:28:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3998740327.2025,2025-03-14T09:59:28-00:00",
+            "headline": "freezing rain warning in effect",
+            "event": "freezing rain",
+            "urgency": "Future",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-03-14T16:06:29-00:00",
+            "expires": "2025-03-15T08:06:29-00:00",
+            "description": "\nProlonged freezing rain event continuing through Saturday.\n\nWhat: \nFreezing rain with ice accumulations of 2 to 5 mm.\n\nWhen:\nContinuing through Saturday.\n\nAdditional information: \nPatchy freezing rain possibly mixed with ice pellets or snow is expected today. Freezing rain will become heavier and more widespread early Saturday morning, continuing through the afternoon. Freezing rain will change to snow early Saturday evening. There is potential that areas near and south of Pickle Lake could change over to rain during this event, which would limit ice accumulation in these areas.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots will become icy, slippery and hazardous. Ice build-up may cause tree branches to break. Utility outages may occur.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nConsider postponing non-essential travel until conditions improve. Beware of branches or electrical wires that could break under the weight of ice.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Pickle Lake - Cat Lake",
+                    "polygon": [
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 52.2797,
+                            "lon": -89.8479
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.0636986698.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-14T16:12:21-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3992925383.2025,2025-03-14T10:26:40-00:00",
+            "headline": "freezing rain warning in effect",
+            "event": "freezing rain",
+            "urgency": "Future",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-03-14T16:12:21-00:00",
+            "expires": "2025-03-15T08:12:21-00:00",
+            "description": "\nFreezing rain this afternoon into Saturday night.\n\nWhat:\nIce accumulation of 2 to 5 mm possible.\n\nWhen:\nThis afternoon and continuing through Saturday night.\n\nAdditional information:\nPatchy freezing rain or freezing drizzle is possible today. Freezing rain will become more widespread tonight and will be mixed with ice pellets and snow at times. Temperatures are expected to rise above the freezing mark on Saturday for most areas, however it is possible that Lansdowne House may remain below the freezing mark throughout the day. Where temperatures rise above the freezing mark lower ice accumulations are expected.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots will become icy, slippery and hazardous. Ice build-up may cause tree branches to break. Utility outages may occur.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nBeware of branches or electrical wires that could break under the weight of ice.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Fort Hope - Lansdowne House - Ogoki",
+                    "polygon": [
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        },
+                        {
+                            "lat": 51.0571,
+                            "lon": -84.4653
+                        },
+                        {
+                            "lat": 51.0622,
+                            "lon": -84.57
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8342
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.4893,
+                            "lon": -83.2673
+                        },
+                        {
+                            "lat": 51.2539,
+                            "lon": -83.9119
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2892345588.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-14T16:15:41-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1039878384.2025,2025-03-14T10:22:24-00:00",
+            "headline": "freezing rain warning in effect",
+            "event": "freezing rain",
+            "urgency": "Future",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-03-14T16:15:41-00:00",
+            "expires": "2025-03-15T08:15:41-00:00",
+            "description": "\nFreezing rain tonight into Saturday morning.\n\nWhat:\nIce accumulations of 1 to 3 mm possible.\n\nWhen:\nBeginning tonight and continuing into Saturday morning.\n\nAdditional information:\nSnow will develop this afternoon and change to freezing rain at times mixed with ice pellets this evening. Freezing rain is expected to change over to rain Saturday morning as temperatures rise above the freezing mark.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots will become icy, slippery and hazardous. Utility outages may occur.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nTake extra care when walking or driving in affected areas.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Fort Albany",
+                    "polygon": [
+                        {
+                            "lat": 51.3164,
+                            "lon": -82.1507
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 52.4649,
+                            "lon": -81.6114
+                        },
+                        {
+                            "lat": 52.4881,
+                            "lon": -81.4236
+                        },
+                        {
+                            "lat": 51.9724,
+                            "lon": -80.6927
+                        },
+                        {
+                            "lat": 51.8769,
+                            "lon": -80.8373
+                        },
+                        {
+                            "lat": 51.8738,
+                            "lon": -80.8407
+                        },
+                        {
+                            "lat": 51.3164,
+                            "lon": -82.1507
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Moosonee",
+                    "polygon": [
+                        {
+                            "lat": 51.8738,
+                            "lon": -80.8407
+                        },
+                        {
+                            "lat": 51.8769,
+                            "lon": -80.8373
+                        },
+                        {
+                            "lat": 51.9724,
+                            "lon": -80.6927
+                        },
+                        {
+                            "lat": 51.6003,
+                            "lon": -80.3594
+                        },
+                        {
+                            "lat": 51.3971,
+                            "lon": -80.2894
+                        },
+                        {
+                            "lat": 51.3571,
+                            "lon": -80.0462
+                        },
+                        {
+                            "lat": 51.2605,
+                            "lon": -79.8263
+                        },
+                        {
+                            "lat": 51.4271,
+                            "lon": -79.8297
+                        },
+                        {
+                            "lat": 51.5496,
+                            "lon": -79.5979
+                        },
+                        {
+                            "lat": 51.4684,
+                            "lon": -79.5164
+                        },
+                        {
+                            "lat": 51.0628,
+                            "lon": -79.496
+                        },
+                        {
+                            "lat": 50.7219,
+                            "lon": -79.5166
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 51.3164,
+                            "lon": -82.1507
+                        },
+                        {
+                            "lat": 51.8738,
+                            "lon": -80.8407
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
