@@ -1,0 +1,90 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2502000631.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-15T22:33:40-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3843479896.2025,2025-03-14T20:39:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2242324987.2025,2025-03-15T02:10:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3377772175.2025,2025-03-15T02:19:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0947289796.2025,2025-03-15T06:42:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0987432031.2025,2025-03-15T06:46:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2795708255.2025,2025-03-15T07:47:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2599166369.2025,2025-03-15T07:54:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0931177191.2025,2025-03-15T09:07:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3581681686.2025,2025-03-15T09:26:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1221432975.2025,2025-03-15T15:32:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1220334219.2025,2025-03-15T21:16:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0680238957.2025,2025-03-15T21:23:29-00:00",
+    "headline": "winter storm warning in effect",
+    "event": "winter storm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-15T22:33:40-00:00",
+    "expires": "2025-03-16T05:59:40-00:00",
+    "description": "\nHazardous winter conditions are expected.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions.\n",
+    "affected_areas": [
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Dryden - Vermilion Bay",
+            "polygon": [
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 49.0996,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                }
+            ]
+        }
+    ]
+}
