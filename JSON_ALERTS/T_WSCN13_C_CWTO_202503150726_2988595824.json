@@ -1,0 +1,93 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2988595824.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-15T07:26:01-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0665827317.2025,2025-03-13T22:01:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2093611007.2025,2025-03-14T02:43:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2573737367.2025,2025-03-14T10:38:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2611717330.2025,2025-03-14T16:14:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1476296159.2025,2025-03-14T21:02:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4175427993.2025,2025-03-15T02:39:18-00:00",
+    "headline": "special weather statement ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-15T07:26:01-00:00",
+    "expires": "2025-03-15T08:26:01-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Peawanuck",
+            "polygon": [
+                {
+                    "lat": 56.0007,
+                    "lon": -86.9972
+                },
+                {
+                    "lat": 55.7283,
+                    "lon": -85.6784
+                },
+                {
+                    "lat": 55.3741,
+                    "lon": -84.958
+                },
+                {
+                    "lat": 55.3859,
+                    "lon": -83.9602
+                },
+                {
+                    "lat": 55.2286,
+                    "lon": -82.9498
+                },
+                {
+                    "lat": 55.1832,
+                    "lon": -82.7847
+                },
+                {
+                    "lat": 55.1755,
+                    "lon": -82.2786
+                },
+                {
+                    "lat": 55.0671,
+                    "lon": -82.007
+                },
+                {
+                    "lat": 54.6123,
+                    "lon": -82.0824
+                },
+                {
+                    "lat": 53.9804,
+                    "lon": -81.9568
+                },
+                {
+                    "lat": 54.0004,
+                    "lon": -82.2294
+                },
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.9096,
+                    "lon": -87.0016
+                },
+                {
+                    "lat": 56.0007,
+                    "lon": -86.9972
+                }
+            ]
+        }
+    ]
+}
