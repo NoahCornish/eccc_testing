@@ -1,0 +1,134 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2476091093.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-15T06:49:45-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3644926531.2025,2025-03-14T20:43:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0724973923.2025,2025-03-15T02:13:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4145988643.2025,2025-03-15T02:22:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0432770533.2025,2025-03-15T06:22:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4155390937.2025,2025-03-15T06:28:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1374077594.2025,2025-03-15T06:42:28-00:00",
+    "headline": "winter storm warning in effect",
+    "event": "winter storm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-15T06:42:28-00:00",
+    "expires": "2025-03-15T22:42:28-00:00",
+    "description": "\nHazardous winter conditions are expected.\n\nWhat: \nIce pellets with a risk of freezing rain transitioning to snow Saturday. \nSnowfall amounts near 15 cm possible by Saturday evening.\nReduced visibility in snow and blowing snow.\n\nWhen: \nSaturday.\n\nAdditional information: \nInitially patchy freezing rain or ice pellets tonight will transition to more widespread ice pellets early Saturday morning. By late Saturday morning, ice pellets will transition to snow from west to east as temperatures rapidly drop. Strong northwesterly winds gusting up to 60 km/h will also develop late Saturday morning resulting in reduced visibility in blowing snow Saturday afternoon.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow. Surfaces such as highways, roads, walkways and parking lots may become icy and slippery.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions.\n",
+    "affected_areas": [
+        {
+            "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
+            "polygon": [
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.6707,
+                    "lon": -95.1632
+                },
+                {
+                    "lat": 52.8415,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.8419,
+                    "lon": -95.153
+                },
+                {
+                    "lat": 53.2523,
+                    "lon": -94.5197
+                },
+                {
+                    "lat": 53.5766,
+                    "lon": -93.9327
+                },
+                {
+                    "lat": 53.7427,
+                    "lon": -93.68
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 53.7604,
+                    "lon": -92.0407
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 52.9541,
+                    "lon": -90.9516
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.3546,
+                    "lon": -93.4886
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Pikangikum - Poplar Hill - MacDowell",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.0344,
+                    "lon": -95.169
+                },
+                {
+                    "lat": 52.4201,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4148,
+                    "lon": -93.4852
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.4154,
+                    "lon": -93.733
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.5309,
+                    "lon": -94.5283
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        }
+    ]
+}
