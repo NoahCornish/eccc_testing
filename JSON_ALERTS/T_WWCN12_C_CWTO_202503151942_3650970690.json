@@ -1,0 +1,69 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3650970690.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-15T20:07:56-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "flash freeze warning in effect",
+    "event": "flash freeze",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-15T20:07:56-00:00",
+    "expires": "2025-03-16T05:07:56-00:00",
+    "description": "\nTemperatures are forecast to fall rapidly. Ponding water, slush, and any falling precipitation will freeze as the temperature drops.\n\nWhat:\nA combination of rain and snowmelt is expected to freeze suddenly.\n\nWhen:\nLate this evening and overnight.\n\nAdditional information:\nAs a cold front moves through the area, rain is forecast to change to snow. Snow will make icy surfaces difficult to detect.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots will become icy, slippery and hazardous.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake extra care when walking or driving in affected areas.\n",
+    "affected_areas": [
+        {
+            "area_description": "Nakina - Aroland - Pagwa",
+            "polygon": [
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.2465,
+                    "lon": -84.7492
+                },
+                {
+                    "lat": 51.1721,
+                    "lon": -84.5361
+                },
+                {
+                    "lat": 51.2908,
+                    "lon": -84.362
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                }
+            ]
+        }
+    ]
+}
