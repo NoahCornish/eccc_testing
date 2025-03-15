@@ -1,0 +1,81 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3186789065.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-15T02:25:00-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3751429520.2025,2025-03-14T23:09:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3112540827.2025,2025-03-14T23:14:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2085960464.2025,2025-03-15T02:14:35-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-15T02:14:35-00:00",
+    "expires": "2025-03-15T15:59:35-00:00",
+    "description": "\nFreezing rain continuing into Saturday morning.\n\nWhat:\nIce build-up of 1 to 3 mm possible on some surfaces.\n\nWhen:\nContinuing through Saturday morning.\n\nAdditional information:\nSnow at times mixed with ice pellets and risk of freezing rain is expected tonight. Mostly freezing rain is expected over eastern portions of the region, including Weagamow Lake. To the west, mostly snow and ice pellets is expected. Freezing rain is expected to transition to snow and ice pellets Saturday morning.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become icy and slippery. Ice build-up may cause tree branches to break.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
+            "polygon": [
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.6707,
+                    "lon": -95.1632
+                },
+                {
+                    "lat": 52.8415,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.8419,
+                    "lon": -95.153
+                },
+                {
+                    "lat": 53.2523,
+                    "lon": -94.5197
+                },
+                {
+                    "lat": 53.5766,
+                    "lon": -93.9327
+                },
+                {
+                    "lat": 53.7427,
+                    "lon": -93.68
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 53.7604,
+                    "lon": -92.0407
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 52.9541,
+                    "lon": -90.9516
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.3546,
+                    "lon": -93.4886
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                }
+            ]
+        }
+    ]
+}
