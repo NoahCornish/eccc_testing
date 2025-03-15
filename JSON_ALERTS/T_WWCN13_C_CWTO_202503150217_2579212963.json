@@ -1,0 +1,106 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2579212963.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-15T02:35:16-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2795495604.2025,2025-03-14T20:59:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3883391021.2025,2025-03-15T02:17:20-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-15T02:17:20-00:00",
+    "expires": "2025-03-15T18:17:20-00:00",
+    "description": "\nFreezing rain Saturday and Saturday evening.\n\nWhat:\nIce build-up of 2 to 4 mm possible on some surfaces.\n\nWhen:\nBeginning early Saturday morning and continuing through Saturday evening.\n\nAdditional information:\nSnow at times mixed with ice pellets with a risk of freezing rain is expected tonight. A more widespread area of freezing rain is expected to develop Saturday morning. Freezing rain may be mixed with ice pellets at times. Freezing rain and ice pellets is expected to transition to snow Saturday night.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become icy and slippery. Ice build-up may cause tree branches to break. Utility outages may occur.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Summer Beaver - Wunnummin Lake - Kingfisher Lake",
+            "polygon": [
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 52.7534,
+                    "lon": -87.9569
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.237,
+                    "lon": -89.76
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.9445,
+                    "lon": -91.0141
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 53.4188,
+                    "lon": -89.3718
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                }
+            ]
+        },
+        {
+            "area_description": "Webequie",
+            "polygon": [
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.7599,
+                    "lon": -88.0338
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 54.1733,
+                    "lon": -87.5227
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                }
+            ]
+        }
+    ]
+}
