@@ -1,0 +1,118 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1446279635.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-16T22:41:00-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3503354922.2025,2025-03-15T20:41:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2727726882.2025,2025-03-16T01:40:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0351136453.2025,2025-03-16T05:58:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4053270169.2025,2025-03-16T09:31:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1665385191.2025,2025-03-16T12:52:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1472028407.2025,2025-03-16T16:05:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1711134387.2025,2025-03-16T21:23:49-00:00",
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-16T22:41:00-00:00",
+    "expires": "2025-03-17T03:02:00-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nSnowfall amounts of 5 to 10 cm. Higher amounts possible north of Ranger Lake.\nReduced visibility in snow and local blowing snow.\n\nWhen:\nEnding early this evening.\n\nAdditional information:\nSnow will taper to flurries early this evening. Snowfall amounts are expected to be considerably lesser for locations east of Thessalon.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBe prepared to adjust your driving with changing road conditions. If visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Elliot Lake - Ranger Lake",
+            "polygon": [
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                }
+            ]
+        },
+        {
+            "area_description": "Blind River - Thessalon",
+            "polygon": [
+                {
+                    "lat": 46.1752,
+                    "lon": -83.5976
+                },
+                {
+                    "lat": 46.1874,
+                    "lon": -83.7076
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.0965,
+                    "lon": -82.0476
+                },
+                {
+                    "lat": 45.9754,
+                    "lon": -82.0969
+                },
+                {
+                    "lat": 45.9443,
+                    "lon": -82.178
+                },
+                {
+                    "lat": 46.0103,
+                    "lon": -82.3291
+                },
+                {
+                    "lat": 46.0319,
+                    "lon": -83.3864
+                },
+                {
+                    "lat": 46.1752,
+                    "lon": -83.5976
+                }
+            ]
+        }
+    ]
+}
