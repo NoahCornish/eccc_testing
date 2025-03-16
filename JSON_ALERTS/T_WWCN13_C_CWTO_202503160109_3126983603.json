@@ -1,0 +1,65 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3126983603.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-16T01:09:21-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2795495604.2025,2025-03-14T20:59:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3883391021.2025,2025-03-15T02:17:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2579212963.2025,2025-03-15T02:35:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1695829170.2025,2025-03-15T07:26:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0446838369.2025,2025-03-15T07:32:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0787694481.2025,2025-03-15T09:05:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2571514460.2025,2025-03-15T09:21:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3867630221.2025,2025-03-15T16:14:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1815588339.2025,2025-03-15T22:49:45-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-16T01:09:21-00:00",
+    "expires": "2025-03-16T07:59:21-00:00",
+    "description": "\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become icy and slippery. Ice build-up may cause tree branches to break. Utility outages may occur.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Webequie",
+            "polygon": [
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.7599,
+                    "lon": -88.0338
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 54.1733,
+                    "lon": -87.5227
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                }
+            ]
+        }
+    ]
+}
