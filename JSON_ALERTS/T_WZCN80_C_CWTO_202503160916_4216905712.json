@@ -1,0 +1,236 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4216905712.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-16T09:16:54-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2983299472.2025,2025-03-15T19:23:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2765258150.2025,2025-03-16T01:29:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2464665189.2025,2025-03-16T01:37:28-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-03-16T09:16:54-00:00",
+    "expires": "2025-03-17T01:16:54-00:00",
+    "description": "\nRain, heavy at times is expected. The frozen ground has a reduced ability to absorb this rainfall.\n\n###\n\nLocalized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "South River - Burk's Falls",
+            "polygon": [
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.9047,
+                    "lon": -79.6173
+                },
+                {
+                    "lat": 45.9261,
+                    "lon": -79.5385
+                },
+                {
+                    "lat": 45.9989,
+                    "lon": -79.2711
+                },
+                {
+                    "lat": 45.5697,
+                    "lon": -79.0368
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                }
+            ]
+        },
+        {
+            "area_description": "Bayfield Inlet - Dunchurch",
+            "polygon": [
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                },
+                {
+                    "lat": 45.8899,
+                    "lon": -80.7251
+                },
+                {
+                    "lat": 45.8856,
+                    "lon": -80.5706
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.5363,
+                    "lon": -80.4369
+                },
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                },
+                {
+                    "lat": 45.8248,
+                    "lon": -80.8486
+                },
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                }
+            ]
+        },
+        {
+            "area_description": "Town of Parry Sound - Rosseau - Killbear Park",
+            "polygon": [
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                },
+                {
+                    "lat": 45.5363,
+                    "lon": -80.4369
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.1399,
+                    "lon": -79.3895
+                },
+                {
+                    "lat": 45.0916,
+                    "lon": -79.876
+                },
+                {
+                    "lat": 45.0927,
+                    "lon": -79.8766
+                },
+                {
+                    "lat": 45.0943,
+                    "lon": -79.8792
+                },
+                {
+                    "lat": 45.1035,
+                    "lon": -79.9004
+                },
+                {
+                    "lat": 45.1017,
+                    "lon": -79.9244
+                },
+                {
+                    "lat": 45.1118,
+                    "lon": -79.9596
+                },
+                {
+                    "lat": 45.1193,
+                    "lon": -79.9605
+                },
+                {
+                    "lat": 45.1284,
+                    "lon": -79.9816
+                },
+                {
+                    "lat": 45.1139,
+                    "lon": -80.0356
+                },
+                {
+                    "lat": 45.1263,
+                    "lon": -80.1017
+                },
+                {
+                    "lat": 45.0191,
+                    "lon": -80.1856
+                },
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                }
+            ]
+        },
+        {
+            "area_description": "Bruce Peninsula - Sauble Beach - Tobermory",
+            "polygon": [
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                },
+                {
+                    "lat": 44.6414,
+                    "lon": -81.1122
+                },
+                {
+                    "lat": 44.6267,
+                    "lon": -81.1132
+                },
+                {
+                    "lat": 44.5511,
+                    "lon": -81.1203
+                },
+                {
+                    "lat": 44.5357,
+                    "lon": -81.1971
+                },
+                {
+                    "lat": 44.5229,
+                    "lon": -81.2724
+                },
+                {
+                    "lat": 44.5846,
+                    "lon": -81.2887
+                },
+                {
+                    "lat": 44.5944,
+                    "lon": -81.2913
+                },
+                {
+                    "lat": 44.5866,
+                    "lon": -81.4622
+                },
+                {
+                    "lat": 45.3535,
+                    "lon": -81.8404
+                },
+                {
+                    "lat": 45.3822,
+                    "lon": -81.4145
+                },
+                {
+                    "lat": 45.2717,
+                    "lon": -81.1853
+                },
+                {
+                    "lat": 45.0703,
+                    "lon": -81.0827
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                }
+            ]
+        }
+    ]
+}
