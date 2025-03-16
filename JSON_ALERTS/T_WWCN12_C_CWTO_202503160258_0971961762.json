@@ -1,0 +1,69 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0971961762.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-16T02:58:21-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3650970690.2025,2025-03-15T20:07:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2665779230.2025,2025-03-16T01:25:55-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2821005827.2025,2025-03-16T01:31:18-00:00",
+    "headline": "flash freeze warning ended",
+    "event": "flash freeze",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-16T02:58:21-00:00",
+    "expires": "2025-03-16T03:58:21-00:00",
+    "description": "\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Nakina - Aroland - Pagwa",
+            "polygon": [
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.2465,
+                    "lon": -84.7492
+                },
+                {
+                    "lat": 51.1721,
+                    "lon": -84.5361
+                },
+                {
+                    "lat": 51.2908,
+                    "lon": -84.362
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                }
+            ]
+        }
+    ]
+}
