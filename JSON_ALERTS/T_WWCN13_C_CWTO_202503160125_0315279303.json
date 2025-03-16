@@ -1,0 +1,175 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0315279303.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-16T01:25:20-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1553672355.2025,2025-03-15T06:24:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1133567299.2025,2025-03-15T06:37:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3446613754.2025,2025-03-15T06:43:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4174345674.2025,2025-03-15T06:52:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1687795021.2025,2025-03-15T09:04:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0598054782.2025,2025-03-15T09:10:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4136457067.2025,2025-03-15T16:03:43-00:00",
+    "headline": "winter storm warning in effect",
+    "event": "winter storm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-16T01:25:20-00:00",
+    "expires": "2025-03-16T12:59:20-00:00",
+    "description": "\nHazardous winter conditions are expected.\n\n###\n\nRapidly accumulating snow could make travel difficult over some locations. Visibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nConsider postponing non-essential travel until conditions improve. Take extra care when walking or driving in affected areas.\n",
+    "affected_areas": [
+        {
+            "area_description": "Fort Severn",
+            "polygon": [
+                {
+                    "lat": 56.8474,
+                    "lon": -88.9894
+                },
+                {
+                    "lat": 56.9017,
+                    "lon": -88.9057
+                },
+                {
+                    "lat": 56.724,
+                    "lon": -88.6479
+                },
+                {
+                    "lat": 56.4915,
+                    "lon": -87.9073
+                },
+                {
+                    "lat": 56.1029,
+                    "lon": -87.4589
+                },
+                {
+                    "lat": 56.0007,
+                    "lon": -86.9972
+                },
+                {
+                    "lat": 55.9096,
+                    "lon": -87.0016
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.2549,
+                    "lon": -87.9707
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 55.7142,
+                    "lon": -89.6861
+                },
+                {
+                    "lat": 55.9307,
+                    "lon": -90.4723
+                },
+                {
+                    "lat": 56.1351,
+                    "lon": -90.1757
+                },
+                {
+                    "lat": 56.3004,
+                    "lon": -89.8863
+                },
+                {
+                    "lat": 56.8474,
+                    "lon": -88.9894
+                }
+            ]
+        },
+        {
+            "area_description": "Sachigo Lake - Bearskin Lake",
+            "polygon": [
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 53.7297,
+                    "lon": -92.0252
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 54.5171,
+                    "lon": -92.6285
+                },
+                {
+                    "lat": 55.1549,
+                    "lon": -91.653
+                },
+                {
+                    "lat": 55.5552,
+                    "lon": -91.0742
+                },
+                {
+                    "lat": 55.9307,
+                    "lon": -90.4723
+                },
+                {
+                    "lat": 55.7283,
+                    "lon": -89.6616
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 54.5866,
+                    "lon": -89.6215
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                }
+            ]
+        },
+        {
+            "area_description": "Big Trout Lake - Kasabonika",
+            "polygon": [
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 53.3863,
+                    "lon": -89.3769
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 54.5994,
+                    "lon": -89.6775
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 55.2628,
+                    "lon": -87.921
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 54.1558,
+                    "lon": -87.4504
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                }
+            ]
+        }
+    ]
+}
