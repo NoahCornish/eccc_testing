@@ -1,0 +1,448 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2455893464.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-16T21:27:37-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3643216211.2025,2025-03-13T21:26:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3193539261.2025,2025-03-14T02:33:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4096576416.2025,2025-03-14T09:14:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1779891491.2025,2025-03-14T16:22:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4260488916.2025,2025-03-14T16:24:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2141371563.2025,2025-03-14T22:33:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1250461001.2025,2025-03-15T09:44:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2928837714.2025,2025-03-15T19:37:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3626418153.2025,2025-03-15T20:28:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2861583128.2025,2025-03-16T06:53:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4159530634.2025,2025-03-16T18:48:23-00:00",
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-03-16T21:27:37-00:00",
+    "expires": "2025-03-17T02:10:37-00:00",
+    "description": "\nRainfall expected today. The frozen ground has a reduced ability to absorb this rainfall. \n\nWhat: \nTotal rainfall amounts of 15 to 25 mm.\n\nWhen: \nThrough this afternoon.\n\nAdditional information: \nShowers with a risk of thunderstorms are expected. \n\nLocalized flooding in low-lying areas and water pooling on roads are possible. \n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Kaladar - Bannockburn - Bon Echo Park",
+            "polygon": [
+                {
+                    "lat": 44.582,
+                    "lon": -77.2622
+                },
+                {
+                    "lat": 44.4985,
+                    "lon": -77.7584
+                },
+                {
+                    "lat": 44.7205,
+                    "lon": -77.8789
+                },
+                {
+                    "lat": 44.9228,
+                    "lon": -77.965
+                },
+                {
+                    "lat": 44.9467,
+                    "lon": -77.9796
+                },
+                {
+                    "lat": 44.9715,
+                    "lon": -77.991
+                },
+                {
+                    "lat": 44.9742,
+                    "lon": -77.5497
+                },
+                {
+                    "lat": 44.9602,
+                    "lon": -77.0818
+                },
+                {
+                    "lat": 44.96,
+                    "lon": -77.0739
+                },
+                {
+                    "lat": 44.8144,
+                    "lon": -77.0008
+                },
+                {
+                    "lat": 44.6386,
+                    "lon": -76.9247
+                },
+                {
+                    "lat": 44.5891,
+                    "lon": -77.2189
+                },
+                {
+                    "lat": 44.582,
+                    "lon": -77.2622
+                }
+            ]
+        },
+        {
+            "area_description": "Petawawa - Pembroke - Cobden",
+            "polygon": [
+                {
+                    "lat": 45.9342,
+                    "lon": -76.8372
+                },
+                {
+                    "lat": 45.7897,
+                    "lon": -76.5822
+                },
+                {
+                    "lat": 45.7001,
+                    "lon": -76.5608
+                },
+                {
+                    "lat": 45.6457,
+                    "lon": -76.6023
+                },
+                {
+                    "lat": 45.6413,
+                    "lon": -76.6861
+                },
+                {
+                    "lat": 45.6379,
+                    "lon": -76.6915
+                },
+                {
+                    "lat": 45.6364,
+                    "lon": -76.6962
+                },
+                {
+                    "lat": 45.6226,
+                    "lon": -76.7197
+                },
+                {
+                    "lat": 45.4419,
+                    "lon": -77.0247
+                },
+                {
+                    "lat": 45.6232,
+                    "lon": -77.2619
+                },
+                {
+                    "lat": 45.7951,
+                    "lon": -77.454
+                },
+                {
+                    "lat": 45.8209,
+                    "lon": -77.3594
+                },
+                {
+                    "lat": 45.9628,
+                    "lon": -77.4295
+                },
+                {
+                    "lat": 45.9791,
+                    "lon": -77.3596
+                },
+                {
+                    "lat": 45.9842,
+                    "lon": -77.3375
+                },
+                {
+                    "lat": 45.9853,
+                    "lon": -77.3276
+                },
+                {
+                    "lat": 45.9791,
+                    "lon": -77.2837
+                },
+                {
+                    "lat": 45.9952,
+                    "lon": -77.2193
+                },
+                {
+                    "lat": 45.9632,
+                    "lon": -77.2179
+                },
+                {
+                    "lat": 45.9485,
+                    "lon": -77.0795
+                },
+                {
+                    "lat": 45.9342,
+                    "lon": -76.8372
+                }
+            ]
+        },
+        {
+            "area_description": "Barry's Bay - Killaloe",
+            "polygon": [
+                {
+                    "lat": 45.186,
+                    "lon": -76.7945
+                },
+                {
+                    "lat": 45.154,
+                    "lon": -76.9755
+                },
+                {
+                    "lat": 45.1453,
+                    "lon": -76.9706
+                },
+                {
+                    "lat": 45.1219,
+                    "lon": -77.0499
+                },
+                {
+                    "lat": 45.0992,
+                    "lon": -77.1375
+                },
+                {
+                    "lat": 45.1677,
+                    "lon": -77.1801
+                },
+                {
+                    "lat": 45.2371,
+                    "lon": -77.2156
+                },
+                {
+                    "lat": 45.1901,
+                    "lon": -77.3695
+                },
+                {
+                    "lat": 45.1436,
+                    "lon": -77.5439
+                },
+                {
+                    "lat": 45.2404,
+                    "lon": -77.6039
+                },
+                {
+                    "lat": 45.3123,
+                    "lon": -77.6359
+                },
+                {
+                    "lat": 45.3142,
+                    "lon": -77.6295
+                },
+                {
+                    "lat": 45.3158,
+                    "lon": -77.6232
+                },
+                {
+                    "lat": 45.3708,
+                    "lon": -77.6553
+                },
+                {
+                    "lat": 45.4384,
+                    "lon": -77.6878
+                },
+                {
+                    "lat": 45.4161,
+                    "lon": -77.7638
+                },
+                {
+                    "lat": 45.3955,
+                    "lon": -77.8474
+                },
+                {
+                    "lat": 45.4509,
+                    "lon": -77.8794
+                },
+                {
+                    "lat": 45.5106,
+                    "lon": -77.9107
+                },
+                {
+                    "lat": 45.5314,
+                    "lon": -77.8441
+                },
+                {
+                    "lat": 45.5496,
+                    "lon": -77.7799
+                },
+                {
+                    "lat": 45.6111,
+                    "lon": -77.8159
+                },
+                {
+                    "lat": 45.672,
+                    "lon": -77.8406
+                },
+                {
+                    "lat": 45.7209,
+                    "lon": -77.6685
+                },
+                {
+                    "lat": 45.7624,
+                    "lon": -77.5019
+                },
+                {
+                    "lat": 45.7712,
+                    "lon": -77.5076
+                },
+                {
+                    "lat": 45.7802,
+                    "lon": -77.5089
+                },
+                {
+                    "lat": 45.7883,
+                    "lon": -77.4812
+                },
+                {
+                    "lat": 45.7951,
+                    "lon": -77.454
+                },
+                {
+                    "lat": 45.6293,
+                    "lon": -77.2372
+                },
+                {
+                    "lat": 45.4419,
+                    "lon": -77.0247
+                },
+                {
+                    "lat": 45.4417,
+                    "lon": -77.025
+                },
+                {
+                    "lat": 45.3169,
+                    "lon": -76.8633
+                },
+                {
+                    "lat": 45.1823,
+                    "lon": -76.7091
+                },
+                {
+                    "lat": 45.1628,
+                    "lon": -76.7367
+                },
+                {
+                    "lat": 45.143,
+                    "lon": -76.7701
+                },
+                {
+                    "lat": 45.186,
+                    "lon": -76.7945
+                }
+            ]
+        },
+        {
+            "area_description": "Plevna - Sharbot Lake - Western Lanark County",
+            "polygon": [
+                {
+                    "lat": 45.186,
+                    "lon": -76.7945
+                },
+                {
+                    "lat": 45.143,
+                    "lon": -76.7701
+                },
+                {
+                    "lat": 45.1648,
+                    "lon": -76.7391
+                },
+                {
+                    "lat": 45.1823,
+                    "lon": -76.7091
+                },
+                {
+                    "lat": 44.991,
+                    "lon": -76.4674
+                },
+                {
+                    "lat": 44.797,
+                    "lon": -76.2499
+                },
+                {
+                    "lat": 44.7684,
+                    "lon": -76.218
+                },
+                {
+                    "lat": 44.7618,
+                    "lon": -76.2065
+                },
+                {
+                    "lat": 44.7122,
+                    "lon": -76.2501
+                },
+                {
+                    "lat": 44.6969,
+                    "lon": -76.2827
+                },
+                {
+                    "lat": 44.7058,
+                    "lon": -76.2928
+                },
+                {
+                    "lat": 44.7223,
+                    "lon": -76.3135
+                },
+                {
+                    "lat": 44.7554,
+                    "lon": -76.3573
+                },
+                {
+                    "lat": 44.795,
+                    "lon": -76.4026
+                },
+                {
+                    "lat": 44.7572,
+                    "lon": -76.4611
+                },
+                {
+                    "lat": 44.7211,
+                    "lon": -76.5256
+                },
+                {
+                    "lat": 44.676,
+                    "lon": -76.7013
+                },
+                {
+                    "lat": 44.6386,
+                    "lon": -76.9247
+                },
+                {
+                    "lat": 44.7977,
+                    "lon": -77.0047
+                },
+                {
+                    "lat": 44.96,
+                    "lon": -77.0739
+                },
+                {
+                    "lat": 45.0254,
+                    "lon": -77.1144
+                },
+                {
+                    "lat": 45.0989,
+                    "lon": -77.1384
+                },
+                {
+                    "lat": 45.0992,
+                    "lon": -77.1375
+                },
+                {
+                    "lat": 45.1245,
+                    "lon": -77.0525
+                },
+                {
+                    "lat": 45.1453,
+                    "lon": -76.9706
+                },
+                {
+                    "lat": 45.154,
+                    "lon": -76.9755
+                },
+                {
+                    "lat": 45.1853,
+                    "lon": -76.9929
+                },
+                {
+                    "lat": 45.2168,
+                    "lon": -77.0056
+                },
+                {
+                    "lat": 45.2493,
+                    "lon": -76.8279
+                },
+                {
+                    "lat": 45.2222,
+                    "lon": -76.8151
+                },
+                {
+                    "lat": 45.186,
+                    "lon": -76.7945
+                }
+            ]
+        }
+    ]
+}
