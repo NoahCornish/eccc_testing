@@ -1,0 +1,147 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2879837062.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-16T22:39:42-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1083081256.2025,2025-03-15T20:17:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3953436694.2025,2025-03-16T01:28:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1699288124.2025,2025-03-16T01:35:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0532151535.2025,2025-03-16T04:54:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2481369338.2025,2025-03-16T04:59:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1561929010.2025,2025-03-16T04:59:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3455578705.2025,2025-03-16T05:04:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0934726448.2025,2025-03-16T09:11:50-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1403862819.2025,2025-03-16T09:16:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4183420568.2025,2025-03-16T13:34:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3797282596.2025,2025-03-16T13:40:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1861075307.2025,2025-03-16T16:01:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2126352528.2025,2025-03-16T21:18:28-00:00",
+    "headline": "snowfall warning in effect",
+    "event": "snowfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-16T22:39:42-00:00",
+    "expires": "2025-03-17T05:59:42-00:00",
+    "description": "\nSnowfall with total amounts of about 15 cm is expected.\n\n###\n\nRapidly accumulating snow could make travel difficult over some locations. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop. Take frequent breaks and avoid strain when clearing snow.\n",
+    "affected_areas": [
+        {
+            "area_description": "Little Abitibi - Kesagami Lake",
+            "polygon": [
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 50.7219,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 50.5155,
+                    "lon": -79.5167
+                },
+                {
+                    "lat": 49.2829,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                }
+            ]
+        },
+        {
+            "area_description": "Timmins - Cochrane - Iroquois Falls",
+            "polygon": [
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.5243,
+                    "lon": -79.5062
+                },
+                {
+                    "lat": 48.4498,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.3417,
+                    "lon": -79.5072
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 48.9319,
+                    "lon": -79.5076
+                },
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                }
+            ]
+        },
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
