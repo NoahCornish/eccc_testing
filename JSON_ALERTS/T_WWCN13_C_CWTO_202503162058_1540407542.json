@@ -1,0 +1,89 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1540407542.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-16T21:07:04-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1698715222.2025,2025-03-16T13:34:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2369668659.2025,2025-03-16T16:03:08-00:00",
+    "headline": "snowfall warning in effect",
+    "event": "snowfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-16T21:07:04-00:00",
+    "expires": "2025-03-17T06:08:04-00:00",
+    "description": "\nSnowfall with total amounts of about 15 cm is expected.\n\nWhat:\nSnowfall amounts near 15 cm. Lesser amounts are expected northwest of Kapuskasing to the community of Moosonee.\nPeak snowfall rates of 2 to 5 cm per hour.\nReduced visibility in snow and local blowing snow.\n\nWhen:\nEnding this evening.\n\nAdditional information:\nSnow will fall heavily at times before coming to an end this evening. Northwesterly winds gusting to 50 km/h may result in local blowing snow.\n\n###\n\nRapidly accumulating snow could make travel difficult over some locations. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop. Take frequent breaks and avoid strain when clearing snow.\n",
+    "affected_areas": [
+        {
+            "area_description": "Moosonee",
+            "polygon": [
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                },
+                {
+                    "lat": 51.8769,
+                    "lon": -80.8373
+                },
+                {
+                    "lat": 51.9724,
+                    "lon": -80.6927
+                },
+                {
+                    "lat": 51.6003,
+                    "lon": -80.3594
+                },
+                {
+                    "lat": 51.3971,
+                    "lon": -80.2894
+                },
+                {
+                    "lat": 51.3571,
+                    "lon": -80.0462
+                },
+                {
+                    "lat": 51.2605,
+                    "lon": -79.8263
+                },
+                {
+                    "lat": 51.4271,
+                    "lon": -79.8297
+                },
+                {
+                    "lat": 51.5496,
+                    "lon": -79.5979
+                },
+                {
+                    "lat": 51.4684,
+                    "lon": -79.5164
+                },
+                {
+                    "lat": 51.0628,
+                    "lon": -79.496
+                },
+                {
+                    "lat": 50.7219,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                },
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                }
+            ]
+        }
+    ]
+}
