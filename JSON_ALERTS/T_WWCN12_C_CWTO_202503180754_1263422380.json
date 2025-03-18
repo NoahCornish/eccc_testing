@@ -1,0 +1,188 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1263422380.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-18T08:05:20-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3309430197.2025,2025-03-17T22:14:48-00:00",
+    "headline": "winter storm watch in effect",
+    "event": "winter storm",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-18T08:05:20-00:00",
+    "expires": "2025-03-19T00:05:20-00:00",
+    "description": "\nWinter storm possible Wednesday into Thursday. \n\nWhat: \nTotal snowfall amounts of 10 to 30 cm possible. \nRisk of freezing rain. \n\nWhen: \nIntensifying Wednesday afternoon and tapering off Thursday afternoon. \n\nAdditional information: \nScattered flurries, showers or possibly freezing drizzle will give way to more organized precipitation near midday Wednesday. Current indications suggest that a rain-snow transition line will stretch from Batchawana Bay northeast towards Earlton. Along this transition line, freezing rain will be possible. North of the transition line, accumulating snow can be expected. The position of this rain-snow transition line may still shift north or south which will affect exact snowfall amounts and precipitation types.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become icy and slippery. Poor weather conditions may contribute to transportation delays.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nAvoid travel if possible.\n",
+    "affected_areas": [
+        {
+            "area_description": "Searchmont - Montreal River Harbour - Batchawana Bay",
+            "polygon": [
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6321,
+                    "lon": -84.7351
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                }
+            ]
+        },
+        {
+            "area_description": "Elliot Lake - Ranger Lake",
+            "polygon": [
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                }
+            ]
+        },
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
