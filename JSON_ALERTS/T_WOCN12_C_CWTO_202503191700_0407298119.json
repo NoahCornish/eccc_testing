@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0407298119.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-19T17:11:51-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-19T17:11:51-00:00",
+    "expires": "2025-03-20T09:11:51-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat: \nTotal snowfall amounts of 10 to 15 cm. \nPoor visibility in heavy snow and local blowing snow. \n\nWhen: \nBeginning this evening and tapering off Thursday afternoon. \n\nAdditional information: \nThe winter storm warning has been downgraded to a winter weather travel advisory. The track of the low and the swath of heaviest snow has shifted south. The region is still expected to see snow develop this evening with any accumulation being confined to areas east of Kapuskasing.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly. Travel may be hazardous due to sudden changes in the weather. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow. Visibility will be suddenly reduced to near zero at times in heavy snow and blowing snow.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions.\n",
+    "affected_areas": [
+        {
+            "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
+            "polygon": [
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.0149
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                }
+            ]
+        }
+    ]
+}
