@@ -1,0 +1,69 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1878888541.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-19T22:35:57-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2151094491.2025,2025-03-19T17:25:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2216923627.2025,2025-03-19T22:29:20-00:00",
+    "headline": "winter storm warning in effect",
+    "event": "winter storm",
+    "urgency": "Expected",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-03-19T22:29:20-00:00",
+    "expires": "2025-03-20T14:29:20-00:00",
+    "description": "\nA winter storm continues tonight.\n\nWhat: \nTotal snowfall amounts of 20 to 40 cm possible for northern sections. \nFreezing rain with light ice build-up possible.\n\nWhen: \nContinuing tonight and tapering off Thursday afternoon. \n\nAdditional information: \nRain or a rain snow mix will continue to become more widespread over the next few hours, transitioning to snow for northern sections this evening. A rain-snow transition line will stretch from, or just south of, Sault Ste. Marie northeast towards Kirkland Lake. Along this transition line, freezing rain or ice pellets is possible. North of the transition line, precipitation will be heavy snow. South of this line, precipitation will mainly fall as rain. This includes Elliot Lake. Precipitation is expected to change over to all snow tonight before tapering off Thursday afternoon.\n\nAreas north of Elliot Lake are expected to see 20 to 40 cm of snow with the Elliot Lake area expected to see near 5 to 10 cm on Thursday. \n\nThe position of this rain-snow transition line may still shift north or south which will affect exact precipitation amounts and types.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow. Visibility may be suddenly reduced at times in heavy snow. Surfaces such as highways, roads, walkways and parking lots may become icy and slippery.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nConsider postponing non-essential travel until conditions improve. Prepare for quickly changing and deteriorating travel conditions.\n",
+    "affected_areas": [
+        {
+            "area_description": "Elliot Lake - Ranger Lake",
+            "polygon": [
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                }
+            ]
+        }
+    ]
+}
