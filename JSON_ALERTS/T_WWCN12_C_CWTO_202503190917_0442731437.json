@@ -1,0 +1,94 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0442731437.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-19T09:30:40-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0399667668.2025,2025-03-18T20:26:56-00:00",
+    "headline": "winter storm warning in effect",
+    "event": "winter storm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-19T09:30:40-00:00",
+    "expires": "2025-03-20T01:30:40-00:00",
+    "description": "\nA winter storm is expected beginning this afternoon.\n\nWhat: \nTotal snowfall amounts of 10 to 20 cm possible. \nFreezing rain with 2 to 5 mm of ice build-up possible.\n\nWhen: \nBeginning this afternoon and tapering off Thursday afternoon. \n\nAdditional information: \nScattered flurries, rain showers or possibly freezing drizzle will give way to more organized precipitation this afternoon. Current indications suggest that a rain-snow transition line will stretch from Sault Ste. Marie northeast towards Kirkland Lake. Along this transition line, freezing rain is expected. North of the transition line, precipitation will be heavy snow possibly mixed with ice pellets. South of this line, precipitation will mainly fall as rain. Precipitation is expected to change over to snow tonight before tapering off Thursday afternoon. \n\nThe position of this rain-snow transition line may still shift north or south which will affect exact precipitation amounts and types.\n\n###\n\nRapidly accumulating snow could make travel difficult over some locations. Surfaces such as highways, roads, walkways and parking lots may become icy and slippery. Poor weather conditions may contribute to transportation delays.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nConsider postponing non-essential travel until conditions improve.\n",
+    "affected_areas": [
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
