@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3451940310.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-20T06:22:47-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0407298119.2025,2025-03-19T17:11:51-00:00",
+    "headline": "weather advisory ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-20T06:22:47-00:00",
+    "expires": "2025-03-20T07:22:47-00:00",
+    "description": "\nThe majority of the snowfall from this system has remained south of the Kapuskasing region.\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
+            "polygon": [
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.0149
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                }
+            ]
+        }
+    ]
+}

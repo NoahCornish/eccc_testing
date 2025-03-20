@@ -1,0 +1,94 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1237429175.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-20T06:22:13-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0399667668.2025,2025-03-18T20:26:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0442731437.2025,2025-03-19T09:30:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1224585541.2025,2025-03-19T17:31:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1498097765.2025,2025-03-19T22:13:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2393534242.2025,2025-03-19T22:20:32-00:00",
+    "headline": "winter storm warning in effect",
+    "event": "winter storm",
+    "urgency": "Expected",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-03-20T06:22:13-00:00",
+    "expires": "2025-03-20T22:22:13-00:00",
+    "description": "\nWinter storm continues.\n\nWhat: \nTotal snowfall amounts of 20 to 40 cm possible. \nFreezing rain with light ice build-up possible.\n\nWhen: \nContinuing through the morning. Tapering off this afternoon.\n\nAdditional information: \nNorthern portions of the region will continue to see heavy snow through the morning. Southern portions of the region may experience a period of freezing rain before the changeover to snow early this morning.\n\n###\n\nRapidly accumulating snow will make travel difficult. Visibility may be suddenly reduced at times in heavy snow. Surfaces such as highways, roads, walkways and parking lots may become icy and slippery.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nConsider postponing non-essential travel until conditions improve. Prepare for quickly changing and deteriorating travel conditions.\n",
+    "affected_areas": [
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
