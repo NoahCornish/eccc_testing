@@ -1,0 +1,385 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1021606171.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-22T08:55:20-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3654004755.2025,2025-03-21T22:23:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3912508344.2025,2025-03-22T01:46:18-00:00",
+    "headline": "winter storm watch in effect",
+    "event": "winter storm",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-22T08:55:20-00:00",
+    "expires": "2025-03-23T00:55:20-00:00",
+    "description": "\nSignificant snowfall expected.\n\nWhat:\nTotal snowfall accumulations of 15 to 25 cm. The highest amounts are likely over areas of higher terrain.\nReduced visibility in heavy snow.\n\nWhen:\nSunday morning through Monday.\n\nAdditional information:\nSnow, heavy at times, is expected with an Alberta clipper later this weekend. There remains some uncertainty with total snowfall accumulations. Winter storm warnings or snowfall warnings may be issued as the event approaches.\n\n###\n\nRapidly accumulating snow could make travel difficult over some locations. Visibility may be suddenly reduced at times in heavy snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nAvoid travel if possible.\n",
+    "affected_areas": [
+        {
+            "area_description": "City of Thunder Bay",
+            "polygon": [
+                {
+                    "lat": 48.5448,
+                    "lon": -89.0388
+                },
+                {
+                    "lat": 48.5001,
+                    "lon": -89.0231
+                },
+                {
+                    "lat": 48.4482,
+                    "lon": -89.0071
+                },
+                {
+                    "lat": 48.3079,
+                    "lon": -89.1102
+                },
+                {
+                    "lat": 48.3096,
+                    "lon": -89.1933
+                },
+                {
+                    "lat": 48.3065,
+                    "lon": -89.2028
+                },
+                {
+                    "lat": 48.3101,
+                    "lon": -89.2143
+                },
+                {
+                    "lat": 48.3119,
+                    "lon": -89.271
+                },
+                {
+                    "lat": 48.334,
+                    "lon": -89.3597
+                },
+                {
+                    "lat": 48.3528,
+                    "lon": -89.3957
+                },
+                {
+                    "lat": 48.3838,
+                    "lon": -89.4298
+                },
+                {
+                    "lat": 48.4198,
+                    "lon": -89.4449
+                },
+                {
+                    "lat": 48.484,
+                    "lon": -89.432
+                },
+                {
+                    "lat": 48.519,
+                    "lon": -89.4061
+                },
+                {
+                    "lat": 48.551,
+                    "lon": -89.3458
+                },
+                {
+                    "lat": 48.59,
+                    "lon": -89.1847
+                },
+                {
+                    "lat": 48.5859,
+                    "lon": -89.1228
+                },
+                {
+                    "lat": 48.568,
+                    "lon": -89.0639
+                },
+                {
+                    "lat": 48.5448,
+                    "lon": -89.0388
+                }
+            ]
+        },
+        {
+            "area_description": "Cloud Bay - Dorion",
+            "polygon": [
+                {
+                    "lat": 48.2896,
+                    "lon": -88.9702
+                },
+                {
+                    "lat": 48.5107,
+                    "lon": -88.828
+                },
+                {
+                    "lat": 48.4482,
+                    "lon": -89.0071
+                },
+                {
+                    "lat": 48.5001,
+                    "lon": -89.0231
+                },
+                {
+                    "lat": 48.5448,
+                    "lon": -89.0388
+                },
+                {
+                    "lat": 48.568,
+                    "lon": -89.0639
+                },
+                {
+                    "lat": 48.5859,
+                    "lon": -89.1228
+                },
+                {
+                    "lat": 48.59,
+                    "lon": -89.1847
+                },
+                {
+                    "lat": 48.551,
+                    "lon": -89.3458
+                },
+                {
+                    "lat": 48.519,
+                    "lon": -89.4061
+                },
+                {
+                    "lat": 48.484,
+                    "lon": -89.432
+                },
+                {
+                    "lat": 48.4198,
+                    "lon": -89.4449
+                },
+                {
+                    "lat": 48.3838,
+                    "lon": -89.4298
+                },
+                {
+                    "lat": 48.3528,
+                    "lon": -89.3957
+                },
+                {
+                    "lat": 48.334,
+                    "lon": -89.3597
+                },
+                {
+                    "lat": 48.3119,
+                    "lon": -89.271
+                },
+                {
+                    "lat": 48.3101,
+                    "lon": -89.2143
+                },
+                {
+                    "lat": 48.3065,
+                    "lon": -89.2028
+                },
+                {
+                    "lat": 48.3096,
+                    "lon": -89.1933
+                },
+                {
+                    "lat": 48.3079,
+                    "lon": -89.1102
+                },
+                {
+                    "lat": 48.2327,
+                    "lon": -88.9231
+                },
+                {
+                    "lat": 48.034,
+                    "lon": -89.2481
+                },
+                {
+                    "lat": 47.9704,
+                    "lon": -89.6069
+                },
+                {
+                    "lat": 48.0095,
+                    "lon": -89.6337
+                },
+                {
+                    "lat": 48.7365,
+                    "lon": -89.3858
+                },
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                },
+                {
+                    "lat": 48.6611,
+                    "lon": -88.1405
+                },
+                {
+                    "lat": 48.475,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 48.3327,
+                    "lon": -88.5412
+                },
+                {
+                    "lat": 48.2896,
+                    "lon": -88.9702
+                }
+            ]
+        },
+        {
+            "area_description": "Kakabeka Falls - Whitefish Lake - Arrow Lake",
+            "polygon": [
+                {
+                    "lat": 48.1209,
+                    "lon": -90.5764
+                },
+                {
+                    "lat": 48.5979,
+                    "lon": -89.6538
+                },
+                {
+                    "lat": 48.7365,
+                    "lon": -89.3858
+                },
+                {
+                    "lat": 48.0095,
+                    "lon": -89.6337
+                },
+                {
+                    "lat": 48.004,
+                    "lon": -89.637
+                },
+                {
+                    "lat": 47.9988,
+                    "lon": -89.6967
+                },
+                {
+                    "lat": 48.0182,
+                    "lon": -89.768
+                },
+                {
+                    "lat": 47.9796,
+                    "lon": -89.8823
+                },
+                {
+                    "lat": 48.0223,
+                    "lon": -89.9932
+                },
+                {
+                    "lat": 48.0847,
+                    "lon": -90.0326
+                },
+                {
+                    "lat": 48.1081,
+                    "lon": -90.1505
+                },
+                {
+                    "lat": 48.0958,
+                    "lon": -90.276
+                },
+                {
+                    "lat": 48.0883,
+                    "lon": -90.374
+                },
+                {
+                    "lat": 48.101,
+                    "lon": -90.4648
+                },
+                {
+                    "lat": 48.094,
+                    "lon": -90.5005
+                },
+                {
+                    "lat": 48.0939,
+                    "lon": -90.5626
+                },
+                {
+                    "lat": 48.1066,
+                    "lon": -90.5718
+                },
+                {
+                    "lat": 48.1174,
+                    "lon": -90.5578
+                },
+                {
+                    "lat": 48.1216,
+                    "lon": -90.5616
+                },
+                {
+                    "lat": 48.1194,
+                    "lon": -90.5774
+                },
+                {
+                    "lat": 48.1209,
+                    "lon": -90.5764
+                }
+            ]
+        },
+        {
+            "area_description": "Nipigon - Rossport",
+            "polygon": [
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                },
+                {
+                    "lat": 49.1129,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 48.475,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 48.6611,
+                    "lon": -88.1405
+                },
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                }
+            ]
+        },
+        {
+            "area_description": "Marathon - Schreiber",
+            "polygon": [
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                }
+            ]
+        }
+    ]
+}
