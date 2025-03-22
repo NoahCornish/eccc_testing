@@ -1,0 +1,77 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1844669003.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-22T05:10:50-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1734717986.2025,2025-03-21T09:43:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2370523882.2025,2025-03-21T15:23:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0293794492.2025,2025-03-21T21:07:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0619910100.2025,2025-03-22T01:06:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2507550561.2025,2025-03-22T03:31:20-00:00",
+    "headline": "flash freeze warning ended",
+    "event": "flash freeze",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-22T05:10:50-00:00",
+    "expires": "2025-03-22T06:10:50-00:00",
+    "description": "\nFlash freeze conditions have ended.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Timmins - Cochrane - Iroquois Falls",
+            "polygon": [
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.5243,
+                    "lon": -79.5062
+                },
+                {
+                    "lat": 48.4498,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.3417,
+                    "lon": -79.5072
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 48.9319,
+                    "lon": -79.5076
+                },
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                }
+            ]
+        }
+    ]
+}
