@@ -1,0 +1,151 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1038641812.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-22T02:21:59-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1619629688.2025,2025-03-21T09:25:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2207349984.2025,2025-03-21T10:02:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1153933513.2025,2025-03-21T15:46:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2410608416.2025,2025-03-21T17:45:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0269870579.2025,2025-03-21T21:12:02-00:00",
+    "headline": "snow squall watch in effect",
+    "event": "snow squall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-22T02:21:59-00:00",
+    "expires": "2025-03-22T06:02:59-00:00",
+    "description": "\nBrief, intense snowfall is expected to develop. Under the snow squall, visibilities will be significantly reduced due to the heavy snow combined with blowing snow.\n\nWhat:\nNear zero visibility in heavy snow and blowing snow.\nPeak snowfall rates of 3 to 5 cm per hour.\nTotal snowfall amounts of 5 to 10 cm.\n\nWhen:\nThis evening.\n\nAdditional Information:\nA strong cold front will move northwest to southeast across the area. A brief but intense line of flurries is expected to develop along the cold front. Blowing snow can also occur with strong northerly wind gusts behind the cold front.\n\n###\n\nSnow squalls cause weather conditions to vary considerably; changes from clear skies to heavy snow within just a few kilometres are common. Travel may be hazardous due to sudden changes in the weather. Visibility may be significantly and suddenly reduced to near zero.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Timmins - Cochrane - Iroquois Falls",
+            "polygon": [
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.5243,
+                    "lon": -79.5062
+                },
+                {
+                    "lat": 48.4498,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.3417,
+                    "lon": -79.5072
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 48.9319,
+                    "lon": -79.5076
+                },
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                }
+            ]
+        },
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
