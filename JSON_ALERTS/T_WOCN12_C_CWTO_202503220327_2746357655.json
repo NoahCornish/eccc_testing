@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2746357655.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-22T03:29:34-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2915768319.2025,2025-03-20T22:55:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2704165077.2025,2025-03-21T02:03:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3403122173.2025,2025-03-21T10:05:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0371762397.2025,2025-03-21T15:19:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1688199036.2025,2025-03-21T21:07:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1731009921.2025,2025-03-22T01:47:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1423291411.2025,2025-03-22T02:25:19-00:00",
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-22T03:29:34-00:00",
+    "expires": "2025-03-22T07:01:34-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nTotal snowfall amounts near 10 cm, mainly over areas of higher terrain.\nPeak snowfall rates of 2 to 3 cm per hour.\nReduced visibility in heavy snow and blowing snow.\n\nWhen:\nTapering off this evening.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake extra care when walking or driving in affected areas. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "Agawa - Lake Superior Park",
+            "polygon": [
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                },
+                {
+                    "lat": 47.8957,
+                    "lon": -84.8608
+                },
+                {
+                    "lat": 47.963,
+                    "lon": -84.6559
+                },
+                {
+                    "lat": 48.0973,
+                    "lon": -84.2418
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                },
+                {
+                    "lat": 48.1106,
+                    "lon": -83.996
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                }
+            ]
+        }
+    ]
+}
