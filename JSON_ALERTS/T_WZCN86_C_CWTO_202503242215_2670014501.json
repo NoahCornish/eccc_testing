@@ -1,0 +1,216 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2670014501.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-24T22:17:29-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-24T22:17:29-00:00",
+    "expires": "2025-03-25T06:01:29-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nAdditional snowfall amounts up to 5 cm.\nReduced visibility in areas of heavier snow.\n\nWhen:\nSnow will taper to light flurries this evening.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "South River - Burk's Falls",
+            "polygon": [
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.9047,
+                    "lon": -79.6173
+                },
+                {
+                    "lat": 45.9261,
+                    "lon": -79.5385
+                },
+                {
+                    "lat": 45.9989,
+                    "lon": -79.2711
+                },
+                {
+                    "lat": 45.5697,
+                    "lon": -79.0368
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                }
+            ]
+        },
+        {
+            "area_description": "Bayfield Inlet - Dunchurch",
+            "polygon": [
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                },
+                {
+                    "lat": 45.8899,
+                    "lon": -80.7251
+                },
+                {
+                    "lat": 45.8856,
+                    "lon": -80.5706
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.5363,
+                    "lon": -80.4369
+                },
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                },
+                {
+                    "lat": 45.8248,
+                    "lon": -80.8486
+                },
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                }
+            ]
+        },
+        {
+            "area_description": "Huntsville - Baysville",
+            "polygon": [
+                {
+                    "lat": 45.3891,
+                    "lon": -78.9392
+                },
+                {
+                    "lat": 45.1515,
+                    "lon": -78.8118
+                },
+                {
+                    "lat": 45.1471,
+                    "lon": -78.8439
+                },
+                {
+                    "lat": 45.1449,
+                    "lon": -78.8427
+                },
+                {
+                    "lat": 45.1057,
+                    "lon": -78.9997
+                },
+                {
+                    "lat": 45.1399,
+                    "lon": -79.3895
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.5697,
+                    "lon": -79.0368
+                },
+                {
+                    "lat": 45.5074,
+                    "lon": -79.0029
+                },
+                {
+                    "lat": 45.531,
+                    "lon": -78.918
+                },
+                {
+                    "lat": 45.4143,
+                    "lon": -78.8593
+                },
+                {
+                    "lat": 45.3891,
+                    "lon": -78.9392
+                }
+            ]
+        },
+        {
+            "area_description": "Town of Parry Sound - Rosseau - Killbear Park",
+            "polygon": [
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                },
+                {
+                    "lat": 45.5363,
+                    "lon": -80.4369
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.1399,
+                    "lon": -79.3895
+                },
+                {
+                    "lat": 45.0916,
+                    "lon": -79.876
+                },
+                {
+                    "lat": 45.0927,
+                    "lon": -79.8766
+                },
+                {
+                    "lat": 45.0943,
+                    "lon": -79.8792
+                },
+                {
+                    "lat": 45.1035,
+                    "lon": -79.9004
+                },
+                {
+                    "lat": 45.1017,
+                    "lon": -79.9244
+                },
+                {
+                    "lat": 45.1118,
+                    "lon": -79.9596
+                },
+                {
+                    "lat": 45.1193,
+                    "lon": -79.9605
+                },
+                {
+                    "lat": 45.1284,
+                    "lon": -79.9816
+                },
+                {
+                    "lat": 45.1139,
+                    "lon": -80.0356
+                },
+                {
+                    "lat": 45.1263,
+                    "lon": -80.1017
+                },
+                {
+                    "lat": 45.0191,
+                    "lon": -80.1856
+                },
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                }
+            ]
+        }
+    ]
+}
