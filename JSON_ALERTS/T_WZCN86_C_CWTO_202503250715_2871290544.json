@@ -1,0 +1,94 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2871290544.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-25T07:15:20-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2670014501.2025,2025-03-24T22:17:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1408090319.2025,2025-03-25T03:43:15-00:00",
+    "headline": "weather advisory ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-25T07:15:20-00:00",
+    "expires": "2025-03-25T08:15:20-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "South River - Burk's Falls",
+            "polygon": [
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.9047,
+                    "lon": -79.6173
+                },
+                {
+                    "lat": 45.9261,
+                    "lon": -79.5385
+                },
+                {
+                    "lat": 45.9989,
+                    "lon": -79.2711
+                },
+                {
+                    "lat": 45.5697,
+                    "lon": -79.0368
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                }
+            ]
+        },
+        {
+            "area_description": "Bayfield Inlet - Dunchurch",
+            "polygon": [
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                },
+                {
+                    "lat": 45.8899,
+                    "lon": -80.7251
+                },
+                {
+                    "lat": 45.8856,
+                    "lon": -80.5706
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.5363,
+                    "lon": -80.4369
+                },
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                },
+                {
+                    "lat": 45.8248,
+                    "lon": -80.8486
+                },
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                }
+            ]
+        }
+    ]
+}
