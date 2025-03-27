@@ -23119,6 +23119,831 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3470375533.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-27T19:48:26-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1350916532.2025,2025-03-26T18:24:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3283661220.2025,2025-03-27T07:28:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2488752259.2025,2025-03-27T15:35:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3603866139.2025,2025-03-27T19:00:56-00:00",
+            "headline": "special weather statement ended",
+            "event": "weather",
+            "urgency": "Past",
+            "severity": "Minor",
+            "certainty": "Observed",
+            "effective": "2025-03-27T19:48:26-00:00",
+            "expires": "2025-03-27T20:48:26-00:00",
+            "description": "\n\n###\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "Beardmore - Jellicoe - Macdiarmid",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.1383,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.1129,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Gull Bay - Black Sturgeon Lake",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.1129,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.1101,
+                            "lon": -88.6636
+                        },
+                        {
+                            "lat": 49.5235,
+                            "lon": -90.0178
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Nipigon - Rossport",
+                    "polygon": [
+                        {
+                            "lat": 49.1101,
+                            "lon": -88.6636
+                        },
+                        {
+                            "lat": 49.1129,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.1383,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 48.4447,
+                            "lon": -87.4467
+                        },
+                        {
+                            "lat": 48.475,
+                            "lon": -87.9958
+                        },
+                        {
+                            "lat": 48.6611,
+                            "lon": -88.1405
+                        },
+                        {
+                            "lat": 49.1101,
+                            "lon": -88.6636
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Marathon - Schreiber",
+                    "polygon": [
+                        {
+                            "lat": 48.4447,
+                            "lon": -87.4467
+                        },
+                        {
+                            "lat": 49.1383,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 48.8844,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 48.7455,
+                            "lon": -86.0931
+                        },
+                        {
+                            "lat": 48.5796,
+                            "lon": -86.2679
+                        },
+                        {
+                            "lat": 48.5745,
+                            "lon": -86.2839
+                        },
+                        {
+                            "lat": 48.2984,
+                            "lon": -86.5309
+                        },
+                        {
+                            "lat": 48.4447,
+                            "lon": -87.4467
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2700865676.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-27T19:58:37-00:00",
+            "status": "Actual",
+            "msgType": "Alert",
+            "scope": "Public",
+            "references": null,
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-27T19:58:37-00:00",
+            "expires": "2025-03-28T11:58:37-00:00",
+            "description": "\nSignificant snowfall expected Friday into Friday night. \n\nWhat:\nTotal snowfall amounts of 10 to 20 cm.\nReduced visibility in heavy snow.\nDifficult travel conditions and possible road closures.\n\nWhen:\nBeginning Friday morning or afternoon, and ending Saturday morning.\n\nAdditional information:\nSnow is expected to begin affecting northeastern Ontario during the day Friday before intensifying late in the day or Friday evening. Snow will taper off by Saturday morning. \n\nAfter a brief break Saturday, another winter storm will likely affect the region on Sunday with a threat of significant snowfall, freezing rain and ice pellets. More details on precipitation amounts will come in future updates.\n\n###\n\nRapidly accumulating snow could make travel difficult over some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Wawa - Pukaskwa Park",
+                    "polygon": [
+                        {
+                            "lat": 47.4654,
+                            "lon": -86.1345
+                        },
+                        {
+                            "lat": 48.2984,
+                            "lon": -86.5309
+                        },
+                        {
+                            "lat": 48.5745,
+                            "lon": -86.2839
+                        },
+                        {
+                            "lat": 48.5796,
+                            "lon": -86.2679
+                        },
+                        {
+                            "lat": 48.7455,
+                            "lon": -86.0931
+                        },
+                        {
+                            "lat": 48.2896,
+                            "lon": -85.2219
+                        },
+                        {
+                            "lat": 48.0978,
+                            "lon": -84.2401
+                        },
+                        {
+                            "lat": 48.0973,
+                            "lon": -84.2418
+                        },
+                        {
+                            "lat": 47.963,
+                            "lon": -84.6559
+                        },
+                        {
+                            "lat": 47.8957,
+                            "lon": -84.8608
+                        },
+                        {
+                            "lat": 47.824,
+                            "lon": -85.1481
+                        },
+                        {
+                            "lat": 47.2346,
+                            "lon": -84.9134
+                        },
+                        {
+                            "lat": 47.3094,
+                            "lon": -85.809
+                        },
+                        {
+                            "lat": 47.4654,
+                            "lon": -86.1345
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Agawa - Lake Superior Park",
+                    "polygon": [
+                        {
+                            "lat": 47.824,
+                            "lon": -85.1481
+                        },
+                        {
+                            "lat": 47.8957,
+                            "lon": -84.8608
+                        },
+                        {
+                            "lat": 47.963,
+                            "lon": -84.6559
+                        },
+                        {
+                            "lat": 48.0973,
+                            "lon": -84.2418
+                        },
+                        {
+                            "lat": 48.0978,
+                            "lon": -84.2401
+                        },
+                        {
+                            "lat": 48.0981,
+                            "lon": -84.2352
+                        },
+                        {
+                            "lat": 48.1106,
+                            "lon": -83.996
+                        },
+                        {
+                            "lat": 48.1107,
+                            "lon": -83.9939
+                        },
+                        {
+                            "lat": 47.2516,
+                            "lon": -83.9912
+                        },
+                        {
+                            "lat": 47.2522,
+                            "lon": -84.6283
+                        },
+                        {
+                            "lat": 47.2346,
+                            "lon": -84.9134
+                        },
+                        {
+                            "lat": 47.824,
+                            "lon": -85.1481
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Chapleau - Missinaibi Lake",
+                    "polygon": [
+                        {
+                            "lat": 47.2211,
+                            "lon": -83.9911
+                        },
+                        {
+                            "lat": 47.2516,
+                            "lon": -83.9912
+                        },
+                        {
+                            "lat": 48.1107,
+                            "lon": -83.9939
+                        },
+                        {
+                            "lat": 48.5499,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5501,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5526,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 49.1609,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        },
+                        {
+                            "lat": 48.2543,
+                            "lon": -82.6293
+                        },
+                        {
+                            "lat": 47.221,
+                            "lon": -82.631
+                        },
+                        {
+                            "lat": 47.2211,
+                            "lon": -83.9911
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Gogama - Foleyet",
+                    "polygon": [
+                        {
+                            "lat": 47.581,
+                            "lon": -81.0762
+                        },
+                        {
+                            "lat": 46.97,
+                            "lon": -81.0754
+                        },
+                        {
+                            "lat": 46.9696,
+                            "lon": -81.939
+                        },
+                        {
+                            "lat": 46.9695,
+                            "lon": -82.6356
+                        },
+                        {
+                            "lat": 47.221,
+                            "lon": -82.631
+                        },
+                        {
+                            "lat": 48.2543,
+                            "lon": -82.6293
+                        },
+                        {
+                            "lat": 48.2526,
+                            "lon": -81.0729
+                        },
+                        {
+                            "lat": 47.581,
+                            "lon": -81.0762
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Temiskaming Shores - Temagami",
+                    "polygon": [
+                        {
+                            "lat": 46.8582,
+                            "lon": -79.141
+                        },
+                        {
+                            "lat": 46.7207,
+                            "lon": -79.0624
+                        },
+                        {
+                            "lat": 46.7145,
+                            "lon": -79.1058
+                        },
+                        {
+                            "lat": 46.7147,
+                            "lon": -79.1099
+                        },
+                        {
+                            "lat": 46.7147,
+                            "lon": -79.151
+                        },
+                        {
+                            "lat": 46.7145,
+                            "lon": -79.5386
+                        },
+                        {
+                            "lat": 46.7151,
+                            "lon": -80.3679
+                        },
+                        {
+                            "lat": 46.7261,
+                            "lon": -80.566
+                        },
+                        {
+                            "lat": 46.8912,
+                            "lon": -80.566
+                        },
+                        {
+                            "lat": 46.8912,
+                            "lon": -80.8125
+                        },
+                        {
+                            "lat": 46.9683,
+                            "lon": -80.8125
+                        },
+                        {
+                            "lat": 46.97,
+                            "lon": -81.0754
+                        },
+                        {
+                            "lat": 47.581,
+                            "lon": -81.0762
+                        },
+                        {
+                            "lat": 47.5715,
+                            "lon": -79.6092
+                        },
+                        {
+                            "lat": 47.5701,
+                            "lon": -79.5175
+                        },
+                        {
+                            "lat": 47.5988,
+                            "lon": -79.4946
+                        },
+                        {
+                            "lat": 47.5697,
+                            "lon": -79.4188
+                        },
+                        {
+                            "lat": 47.5214,
+                            "lon": -79.432
+                        },
+                        {
+                            "lat": 47.4815,
+                            "lon": -79.4988
+                        },
+                        {
+                            "lat": 47.341,
+                            "lon": -79.4216
+                        },
+                        {
+                            "lat": 47.302,
+                            "lon": -79.4135
+                        },
+                        {
+                            "lat": 47.2434,
+                            "lon": -79.3589
+                        },
+                        {
+                            "lat": 47.1056,
+                            "lon": -79.3868
+                        },
+                        {
+                            "lat": 47.0127,
+                            "lon": -79.2923
+                        },
+                        {
+                            "lat": 47.0002,
+                            "lon": -79.2888
+                        },
+                        {
+                            "lat": 46.952,
+                            "lon": -79.275
+                        },
+                        {
+                            "lat": 46.8737,
+                            "lon": -79.1873
+                        },
+                        {
+                            "lat": 46.8582,
+                            "lon": -79.141
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3410718527.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-03-27T20:08:16-00:00",
+            "status": "Actual",
+            "msgType": "Alert",
+            "scope": "Public",
+            "references": null,
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-03-27T20:08:16-00:00",
+            "expires": "2025-03-28T12:08:16-00:00",
+            "description": "\nSignificant snowfall and ice pellets with a threat of freezing rain expected Friday into Friday night. \n\nWhat:\nTotal snowfall and ice pellet amounts of 10 to 20 cm.\nReduced visibility in heavy snow.\nRisk of freezing rain.\nDifficult travel conditions and possible road closures.\n\nWhen:\nBeginning Friday morning or afternoon, and ending Saturday morning.\n\nAdditional information:\nSnow is expected to begin affecting northeastern Ontario during the day Friday before intensifying late in the day or Friday evening. The snow will likely become mixed with or change to ice pellets for portions of the region which would reduce snowfall amounts. There is also a threat of freezing rain. Snow will taper off by Saturday morning. \n\nAfter a brief break during the day Saturday, another winter storm will likely affect the region on Sunday with a threat of significant snowfall, freezing rain and ice pellets. More details on precipitation amounts will come in future updates.\n\n###\n\nRapidly accumulating snow could make travel difficult over some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Greater Sudbury and vicinity",
+                    "polygon": [
+                        {
+                            "lat": 46.2785,
+                            "lon": -80.4935
+                        },
+                        {
+                            "lat": 46.2675,
+                            "lon": -80.6965
+                        },
+                        {
+                            "lat": 46.106,
+                            "lon": -80.6965
+                        },
+                        {
+                            "lat": 46.0992,
+                            "lon": -80.9338
+                        },
+                        {
+                            "lat": 46.1701,
+                            "lon": -80.9338
+                        },
+                        {
+                            "lat": 46.1701,
+                            "lon": -81.4263
+                        },
+                        {
+                            "lat": 46.2733,
+                            "lon": -81.4263
+                        },
+                        {
+                            "lat": 46.2733,
+                            "lon": -82.0579
+                        },
+                        {
+                            "lat": 46.6086,
+                            "lon": -82.0579
+                        },
+                        {
+                            "lat": 46.6086,
+                            "lon": -81.939
+                        },
+                        {
+                            "lat": 46.9696,
+                            "lon": -81.939
+                        },
+                        {
+                            "lat": 46.97,
+                            "lon": -81.0754
+                        },
+                        {
+                            "lat": 46.9683,
+                            "lon": -80.8125
+                        },
+                        {
+                            "lat": 46.8912,
+                            "lon": -80.8125
+                        },
+                        {
+                            "lat": 46.8912,
+                            "lon": -80.566
+                        },
+                        {
+                            "lat": 46.7261,
+                            "lon": -80.566
+                        },
+                        {
+                            "lat": 46.7151,
+                            "lon": -80.3679
+                        },
+                        {
+                            "lat": 46.6307,
+                            "lon": -80.3679
+                        },
+                        {
+                            "lat": 46.6307,
+                            "lon": -80.276
+                        },
+                        {
+                            "lat": 46.2601,
+                            "lon": -80.276
+                        },
+                        {
+                            "lat": 46.2785,
+                            "lon": -80.4935
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Elliot Lake - Ranger Lake",
+                    "polygon": [
+                        {
+                            "lat": 46.9695,
+                            "lon": -82.6356
+                        },
+                        {
+                            "lat": 46.9696,
+                            "lon": -81.939
+                        },
+                        {
+                            "lat": 46.6086,
+                            "lon": -81.939
+                        },
+                        {
+                            "lat": 46.6086,
+                            "lon": -82.0579
+                        },
+                        {
+                            "lat": 46.2733,
+                            "lon": -82.0579
+                        },
+                        {
+                            "lat": 46.2733,
+                            "lon": -82.82
+                        },
+                        {
+                            "lat": 46.4826,
+                            "lon": -83.8414
+                        },
+                        {
+                            "lat": 46.781,
+                            "lon": -83.9907
+                        },
+                        {
+                            "lat": 47.2211,
+                            "lon": -83.9911
+                        },
+                        {
+                            "lat": 47.221,
+                            "lon": -82.631
+                        },
+                        {
+                            "lat": 46.9695,
+                            "lon": -82.6356
+                        }
+                    ]
+                },
+                {
+                    "area_description": "West Nipissing - French River",
+                    "polygon": [
+                        {
+                            "lat": 46.2785,
+                            "lon": -80.4935
+                        },
+                        {
+                            "lat": 46.2601,
+                            "lon": -80.276
+                        },
+                        {
+                            "lat": 46.6307,
+                            "lon": -80.276
+                        },
+                        {
+                            "lat": 46.6307,
+                            "lon": -80.3679
+                        },
+                        {
+                            "lat": 46.7151,
+                            "lon": -80.3679
+                        },
+                        {
+                            "lat": 46.7145,
+                            "lon": -79.5386
+                        },
+                        {
+                            "lat": 46.554,
+                            "lon": -79.5386
+                        },
+                        {
+                            "lat": 46.3273,
+                            "lon": -79.5554
+                        },
+                        {
+                            "lat": 46.1138,
+                            "lon": -79.5388
+                        },
+                        {
+                            "lat": 45.9261,
+                            "lon": -79.5385
+                        },
+                        {
+                            "lat": 45.9047,
+                            "lon": -79.6173
+                        },
+                        {
+                            "lat": 45.901,
+                            "lon": -79.7785
+                        },
+                        {
+                            "lat": 45.8856,
+                            "lon": -80.5706
+                        },
+                        {
+                            "lat": 46.0178,
+                            "lon": -80.5701
+                        },
+                        {
+                            "lat": 46.106,
+                            "lon": -80.6965
+                        },
+                        {
+                            "lat": 46.2675,
+                            "lon": -80.6965
+                        },
+                        {
+                            "lat": 46.2785,
+                            "lon": -80.4935
+                        }
+                    ]
+                },
+                {
+                    "area_description": "North Bay - Powassan - Mattawa",
+                    "polygon": [
+                        {
+                            "lat": 46.3783,
+                            "lon": -78.6857
+                        },
+                        {
+                            "lat": 46.344,
+                            "lon": -78.6878
+                        },
+                        {
+                            "lat": 46.3403,
+                            "lon": -78.5836
+                        },
+                        {
+                            "lat": 46.3158,
+                            "lon": -78.4765
+                        },
+                        {
+                            "lat": 46.3144,
+                            "lon": -78.3748
+                        },
+                        {
+                            "lat": 46.2912,
+                            "lon": -78.3344
+                        },
+                        {
+                            "lat": 46.2631,
+                            "lon": -78.3382
+                        },
+                        {
+                            "lat": 46.2607,
+                            "lon": -78.3417
+                        },
+                        {
+                            "lat": 46.2468,
+                            "lon": -78.3597
+                        },
+                        {
+                            "lat": 46.2441,
+                            "lon": -78.3696
+                        },
+                        {
+                            "lat": 46.1756,
+                            "lon": -78.6213
+                        },
+                        {
+                            "lat": 45.9989,
+                            "lon": -79.2711
+                        },
+                        {
+                            "lat": 45.9261,
+                            "lon": -79.5385
+                        },
+                        {
+                            "lat": 46.1138,
+                            "lon": -79.5388
+                        },
+                        {
+                            "lat": 46.3273,
+                            "lon": -79.5554
+                        },
+                        {
+                            "lat": 46.554,
+                            "lon": -79.5386
+                        },
+                        {
+                            "lat": 46.7145,
+                            "lon": -79.5386
+                        },
+                        {
+                            "lat": 46.7147,
+                            "lon": -79.151
+                        },
+                        {
+                            "lat": 46.7147,
+                            "lon": -79.1099
+                        },
+                        {
+                            "lat": 46.7145,
+                            "lon": -79.1058
+                        },
+                        {
+                            "lat": 46.7207,
+                            "lon": -79.0624
+                        },
+                        {
+                            "lat": 46.6951,
+                            "lon": -79.0486
+                        },
+                        {
+                            "lat": 46.6586,
+                            "lon": -78.984
+                        },
+                        {
+                            "lat": 46.5625,
+                            "lon": -78.953
+                        },
+                        {
+                            "lat": 46.4674,
+                            "lon": -78.8477
+                        },
+                        {
+                            "lat": 46.403,
+                            "lon": -78.7063
+                        },
+                        {
+                            "lat": 46.3783,
+                            "lon": -78.6857
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
