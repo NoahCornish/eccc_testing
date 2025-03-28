@@ -1,0 +1,126 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3910524548.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-28T22:25:17-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0919572692.2025,2025-03-27T19:27:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1106675784.2025,2025-03-28T03:47:50-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4007079904.2025,2025-03-28T08:17:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2487255741.2025,2025-03-28T15:20:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0274826780.2025,2025-03-28T20:48:53-00:00",
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-28T22:25:17-00:00",
+    "expires": "2025-03-29T03:02:17-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nAdditional snowfall accumulations up to 5 cm.\nReduced visibility in areas of heavier snow.\nDifficult travel conditions.\n\nWhen:\nTapering off this evening.\n\nAdditional information:\nSnow associated with a low pressure system continues to affect areas near Lake Superior early this evening. Travel along portions of Highway 17 may be affected.\n\n###\n\nMotorists should expect hazardous winter driving conditions and adjust travel plans accordingly.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBe prepared to adjust your driving with changing road conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "White River - Dubreuilville",
+            "polygon": [
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.2896,
+                    "lon": -85.2219
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 48.1106,
+                    "lon": -83.996
+                },
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                }
+            ]
+        },
+        {
+            "area_description": "Wawa - Pukaskwa Park",
+            "polygon": [
+                {
+                    "lat": 47.4654,
+                    "lon": -86.1345
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.2896,
+                    "lon": -85.2219
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.0973,
+                    "lon": -84.2418
+                },
+                {
+                    "lat": 47.963,
+                    "lon": -84.6559
+                },
+                {
+                    "lat": 47.8957,
+                    "lon": -84.8608
+                },
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.3094,
+                    "lon": -85.809
+                },
+                {
+                    "lat": 47.4654,
+                    "lon": -86.1345
+                }
+            ]
+        }
+    ]
+}
