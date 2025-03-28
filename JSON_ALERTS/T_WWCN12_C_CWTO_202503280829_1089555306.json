@@ -1,0 +1,65 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1089555306.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-28T08:35:24-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-03-28T08:35:24-00:00",
+    "expires": "2025-03-29T00:35:24-00:00",
+    "description": "\nIce build-up due to freezing rain is expected or occurring.\n\nSignificant freezing rain along with ice pellets and snow is expected.\n\nWhat:\nProlonged period of freezing rain with ice accretion of 5 to 10 mm.\nIcy and slippery conditions.\nUtility outages and tree damage possible.\nSnowfall and ice pellet accumulations of 10 to 15 cm.\n \nWhen:\nFreezing rain beginning late this afternoon or evening and ending early Saturday morning.\n\nAdditional information:\nSnow is expected to move into the region during the day, but should quickly become mixed with ice pellets as the day progresses. The threat of several hours of freezing rain tonight is possible.\n\nEasterly winds gusting up to 50 km/h could exacerbate the situation if there is ice build-up on tree limbs and power lines.\n\nAfter a brief break during the day Saturday, another winter storm will likely affect the region on Sunday with a threat of significant snowfall, freezing rain and ice pellets. More details on precipitation amounts will come in future updates.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots will become icy, slippery and hazardous. Ice build-up may cause tree branches to break. Utility outages may occur.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nSlow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Searchmont - Montreal River Harbour - Batchawana Bay",
+            "polygon": [
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6321,
+                    "lon": -84.7351
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                }
+            ]
+        }
+    ]
+}
