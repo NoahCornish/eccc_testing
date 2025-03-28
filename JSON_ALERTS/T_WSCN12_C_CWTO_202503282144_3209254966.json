@@ -1,0 +1,57 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3209254966.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-28T21:44:01-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4284225472.2025,2025-03-26T18:23:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2268185198.2025,2025-03-27T07:50:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2335963735.2025,2025-03-27T20:16:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0420910732.2025,2025-03-28T03:52:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2518957138.2025,2025-03-28T09:17:00-00:00",
+    "headline": "special weather statement ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-28T21:44:01-00:00",
+    "expires": "2025-03-28T22:44:01-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
