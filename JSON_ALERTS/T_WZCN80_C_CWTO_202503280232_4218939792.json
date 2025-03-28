@@ -1,0 +1,656 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4218939792.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-28T02:38:25-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1054716132.2025,2025-03-28T02:18:01-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-03-28T02:38:25-00:00",
+    "expires": "2025-03-28T18:38:25-00:00",
+    "description": "\nMajor ice storm this weekend.\n\nWhat:\nProlonged period of freezing rain.\nSignificant ice accretion. General ice accretion amounts of 5 to 15 mm, with amounts in excess of 15 mm possible.\nWidespread power outages.\nIcy and slippery conditions.\nPossible snow and ice pellet accumulations of 4 to 12 cm.\n\nWhen:\nFriday evening into Sunday afternoon.\n\nAdditional Information:\nThe area will receive significant freezing rain over the upcoming weekend. Precipitation is expected to begin as snow or ice pellets with some accumulations, before changing over to freezing rain Friday night. Freezing rain may become lighter for a period of time for some areas on Saturday or Saturday night. Freezing rain will change to rain late in the day on Sunday as temperatures rise above the freezing mark.\n\n###\n\nIce build-up may cause tree branches to break.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake extra care when walking or driving in affected areas. Consider postponing non-essential travel until conditions improve. Public Safety Canada encourages everyone to make an emergency plan and get an emergency kit with drinking water, food, medicine, a first-aid kit and a flashlight. For information on emergency plans and kits go to https://www.getprepared.gc.ca/.\n",
+    "affected_areas": [
+        {
+            "area_description": "Merrickville-Wolford - Kemptville",
+            "polygon": [
+                {
+                    "lat": 44.8704,
+                    "lon": -75.4171
+                },
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                },
+                {
+                    "lat": 44.7611,
+                    "lon": -75.852
+                },
+                {
+                    "lat": 44.8775,
+                    "lon": -76.0072
+                },
+                {
+                    "lat": 44.8871,
+                    "lon": -76.0205
+                },
+                {
+                    "lat": 44.9003,
+                    "lon": -76.0388
+                },
+                {
+                    "lat": 44.9221,
+                    "lon": -76.0521
+                },
+                {
+                    "lat": 44.9272,
+                    "lon": -76.0401
+                },
+                {
+                    "lat": 44.9035,
+                    "lon": -75.9696
+                },
+                {
+                    "lat": 44.9041,
+                    "lon": -75.9067
+                },
+                {
+                    "lat": 44.9769,
+                    "lon": -75.8408
+                },
+                {
+                    "lat": 44.9801,
+                    "lon": -75.8379
+                },
+                {
+                    "lat": 44.9849,
+                    "lon": -75.8336
+                },
+                {
+                    "lat": 45.0826,
+                    "lon": -75.669
+                },
+                {
+                    "lat": 45.125,
+                    "lon": -75.6288
+                },
+                {
+                    "lat": 45.0845,
+                    "lon": -75.595
+                },
+                {
+                    "lat": 44.9826,
+                    "lon": -75.5007
+                },
+                {
+                    "lat": 44.8704,
+                    "lon": -75.4171
+                }
+            ]
+        },
+        {
+            "area_description": "Westport - Charleston Lake",
+            "polygon": [
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                },
+                {
+                    "lat": 44.4856,
+                    "lon": -76.2502
+                },
+                {
+                    "lat": 44.599,
+                    "lon": -76.3932
+                },
+                {
+                    "lat": 44.7211,
+                    "lon": -76.5256
+                },
+                {
+                    "lat": 44.7588,
+                    "lon": -76.4677
+                },
+                {
+                    "lat": 44.795,
+                    "lon": -76.4026
+                },
+                {
+                    "lat": 44.758,
+                    "lon": -76.3538
+                },
+                {
+                    "lat": 44.7223,
+                    "lon": -76.3135
+                },
+                {
+                    "lat": 44.7348,
+                    "lon": -76.2868
+                },
+                {
+                    "lat": 44.7682,
+                    "lon": -76.2517
+                },
+                {
+                    "lat": 44.7938,
+                    "lon": -76.2525
+                },
+                {
+                    "lat": 44.7954,
+                    "lon": -76.2512
+                },
+                {
+                    "lat": 44.797,
+                    "lon": -76.2499
+                },
+                {
+                    "lat": 44.8697,
+                    "lon": -76.1924
+                },
+                {
+                    "lat": 44.92,
+                    "lon": -76.081
+                },
+                {
+                    "lat": 44.9221,
+                    "lon": -76.0521
+                },
+                {
+                    "lat": 44.9003,
+                    "lon": -76.0388
+                },
+                {
+                    "lat": 44.8871,
+                    "lon": -76.0205
+                },
+                {
+                    "lat": 44.8775,
+                    "lon": -76.0072
+                },
+                {
+                    "lat": 44.7611,
+                    "lon": -75.852
+                },
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                }
+            ]
+        },
+        {
+            "area_description": "Brockville - Prescott",
+            "polygon": [
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                },
+                {
+                    "lat": 44.8704,
+                    "lon": -75.4171
+                },
+                {
+                    "lat": 44.8098,
+                    "lon": -75.3666
+                },
+                {
+                    "lat": 44.8059,
+                    "lon": -75.356
+                },
+                {
+                    "lat": 44.8031,
+                    "lon": -75.3534
+                },
+                {
+                    "lat": 44.794,
+                    "lon": -75.3661
+                },
+                {
+                    "lat": 44.7843,
+                    "lon": -75.3729
+                },
+                {
+                    "lat": 44.7827,
+                    "lon": -75.3848
+                },
+                {
+                    "lat": 44.7748,
+                    "lon": -75.3978
+                },
+                {
+                    "lat": 44.7741,
+                    "lon": -75.4178
+                },
+                {
+                    "lat": 44.7567,
+                    "lon": -75.4247
+                },
+                {
+                    "lat": 44.7461,
+                    "lon": -75.4381
+                },
+                {
+                    "lat": 44.7264,
+                    "lon": -75.4729
+                },
+                {
+                    "lat": 44.6851,
+                    "lon": -75.5408
+                },
+                {
+                    "lat": 44.6201,
+                    "lon": -75.6209
+                },
+                {
+                    "lat": 44.5671,
+                    "lon": -75.704
+                },
+                {
+                    "lat": 44.5412,
+                    "lon": -75.7306
+                },
+                {
+                    "lat": 44.5444,
+                    "lon": -75.7337
+                },
+                {
+                    "lat": 44.5488,
+                    "lon": -75.7361
+                },
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                }
+            ]
+        },
+        {
+            "area_description": "Bayfield Inlet - Dunchurch",
+            "polygon": [
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                },
+                {
+                    "lat": 45.8899,
+                    "lon": -80.7251
+                },
+                {
+                    "lat": 45.8856,
+                    "lon": -80.5706
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.5363,
+                    "lon": -80.4369
+                },
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                },
+                {
+                    "lat": 45.8248,
+                    "lon": -80.8486
+                },
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                }
+            ]
+        },
+        {
+            "area_description": "Huntsville - Baysville",
+            "polygon": [
+                {
+                    "lat": 45.3891,
+                    "lon": -78.9392
+                },
+                {
+                    "lat": 45.1515,
+                    "lon": -78.8118
+                },
+                {
+                    "lat": 45.1471,
+                    "lon": -78.8439
+                },
+                {
+                    "lat": 45.1449,
+                    "lon": -78.8427
+                },
+                {
+                    "lat": 45.1057,
+                    "lon": -78.9997
+                },
+                {
+                    "lat": 45.1399,
+                    "lon": -79.3895
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.5697,
+                    "lon": -79.0368
+                },
+                {
+                    "lat": 45.5074,
+                    "lon": -79.0029
+                },
+                {
+                    "lat": 45.531,
+                    "lon": -78.918
+                },
+                {
+                    "lat": 45.4143,
+                    "lon": -78.8593
+                },
+                {
+                    "lat": 45.3891,
+                    "lon": -78.9392
+                }
+            ]
+        },
+        {
+            "area_description": "Oxtongue Lake - Fort Irwin - Northern Haliburton County",
+            "polygon": [
+                {
+                    "lat": 45.1471,
+                    "lon": -78.8439
+                },
+                {
+                    "lat": 45.1444,
+                    "lon": -78.8709
+                },
+                {
+                    "lat": 45.38,
+                    "lon": -78.9977
+                },
+                {
+                    "lat": 45.3844,
+                    "lon": -78.9711
+                },
+                {
+                    "lat": 45.4033,
+                    "lon": -78.9118
+                },
+                {
+                    "lat": 45.4143,
+                    "lon": -78.8593
+                },
+                {
+                    "lat": 45.4922,
+                    "lon": -78.5971
+                },
+                {
+                    "lat": 45.561,
+                    "lon": -78.3131
+                },
+                {
+                    "lat": 45.4309,
+                    "lon": -78.2334
+                },
+                {
+                    "lat": 45.3099,
+                    "lon": -78.1781
+                },
+                {
+                    "lat": 45.2305,
+                    "lon": -78.1235
+                },
+                {
+                    "lat": 45.1488,
+                    "lon": -78.0863
+                },
+                {
+                    "lat": 45.143,
+                    "lon": -78.4692
+                },
+                {
+                    "lat": 45.1471,
+                    "lon": -78.8439
+                }
+            ]
+        },
+        {
+            "area_description": "Bancroft - Hastings Highlands - Denbigh",
+            "polygon": [
+                {
+                    "lat": 45.1436,
+                    "lon": -77.5439
+                },
+                {
+                    "lat": 45.1951,
+                    "lon": -77.3822
+                },
+                {
+                    "lat": 45.2371,
+                    "lon": -77.2156
+                },
+                {
+                    "lat": 45.1653,
+                    "lon": -77.169
+                },
+                {
+                    "lat": 45.0992,
+                    "lon": -77.1375
+                },
+                {
+                    "lat": 45.0989,
+                    "lon": -77.1384
+                },
+                {
+                    "lat": 45.0317,
+                    "lon": -77.1001
+                },
+                {
+                    "lat": 44.96,
+                    "lon": -77.0739
+                },
+                {
+                    "lat": 44.9608,
+                    "lon": -77.5499
+                },
+                {
+                    "lat": 44.9715,
+                    "lon": -77.991
+                },
+                {
+                    "lat": 45.061,
+                    "lon": -78.0429
+                },
+                {
+                    "lat": 45.1488,
+                    "lon": -78.0863
+                },
+                {
+                    "lat": 45.2295,
+                    "lon": -78.1415
+                },
+                {
+                    "lat": 45.3099,
+                    "lon": -78.1781
+                },
+                {
+                    "lat": 45.3596,
+                    "lon": -78.0152
+                },
+                {
+                    "lat": 45.3955,
+                    "lon": -77.8474
+                },
+                {
+                    "lat": 45.4191,
+                    "lon": -77.7659
+                },
+                {
+                    "lat": 45.4384,
+                    "lon": -77.6878
+                },
+                {
+                    "lat": 45.3743,
+                    "lon": -77.6514
+                },
+                {
+                    "lat": 45.3158,
+                    "lon": -77.6232
+                },
+                {
+                    "lat": 45.314,
+                    "lon": -77.6294
+                },
+                {
+                    "lat": 45.3123,
+                    "lon": -77.6359
+                },
+                {
+                    "lat": 45.2335,
+                    "lon": -77.5874
+                },
+                {
+                    "lat": 45.1436,
+                    "lon": -77.5439
+                }
+            ]
+        },
+        {
+            "area_description": "Plevna - Sharbot Lake - Western Lanark County",
+            "polygon": [
+                {
+                    "lat": 45.186,
+                    "lon": -76.7945
+                },
+                {
+                    "lat": 45.143,
+                    "lon": -76.7701
+                },
+                {
+                    "lat": 45.1648,
+                    "lon": -76.7391
+                },
+                {
+                    "lat": 45.1823,
+                    "lon": -76.7091
+                },
+                {
+                    "lat": 44.991,
+                    "lon": -76.4674
+                },
+                {
+                    "lat": 44.797,
+                    "lon": -76.2499
+                },
+                {
+                    "lat": 44.7684,
+                    "lon": -76.218
+                },
+                {
+                    "lat": 44.7618,
+                    "lon": -76.2065
+                },
+                {
+                    "lat": 44.7122,
+                    "lon": -76.2501
+                },
+                {
+                    "lat": 44.6969,
+                    "lon": -76.2827
+                },
+                {
+                    "lat": 44.7058,
+                    "lon": -76.2928
+                },
+                {
+                    "lat": 44.7223,
+                    "lon": -76.3135
+                },
+                {
+                    "lat": 44.7554,
+                    "lon": -76.3573
+                },
+                {
+                    "lat": 44.795,
+                    "lon": -76.4026
+                },
+                {
+                    "lat": 44.7572,
+                    "lon": -76.4611
+                },
+                {
+                    "lat": 44.7211,
+                    "lon": -76.5256
+                },
+                {
+                    "lat": 44.676,
+                    "lon": -76.7013
+                },
+                {
+                    "lat": 44.6386,
+                    "lon": -76.9247
+                },
+                {
+                    "lat": 44.7977,
+                    "lon": -77.0047
+                },
+                {
+                    "lat": 44.96,
+                    "lon": -77.0739
+                },
+                {
+                    "lat": 45.0254,
+                    "lon": -77.1144
+                },
+                {
+                    "lat": 45.0989,
+                    "lon": -77.1384
+                },
+                {
+                    "lat": 45.0992,
+                    "lon": -77.1375
+                },
+                {
+                    "lat": 45.1245,
+                    "lon": -77.0525
+                },
+                {
+                    "lat": 45.1453,
+                    "lon": -76.9706
+                },
+                {
+                    "lat": 45.154,
+                    "lon": -76.9755
+                },
+                {
+                    "lat": 45.1853,
+                    "lon": -76.9929
+                },
+                {
+                    "lat": 45.2168,
+                    "lon": -77.0056
+                },
+                {
+                    "lat": 45.2493,
+                    "lon": -76.8279
+                },
+                {
+                    "lat": 45.2222,
+                    "lon": -76.8151
+                },
+                {
+                    "lat": 45.186,
+                    "lon": -76.7945
+                }
+            ]
+        }
+    ]
+}
