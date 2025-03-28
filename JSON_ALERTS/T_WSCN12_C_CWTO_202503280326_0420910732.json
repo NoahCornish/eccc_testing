@@ -1,0 +1,57 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0420910732.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-28T03:52:57-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4284225472.2025,2025-03-26T18:23:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2268185198.2025,2025-03-27T07:50:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2335963735.2025,2025-03-27T20:16:24-00:00",
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-03-28T03:52:57-00:00",
+    "expires": "2025-03-28T19:52:57-00:00",
+    "description": "\nSignificant snowfall possible late Friday into Friday night. Another winter storm possible on Sunday.\n\nWhat:\nSnowfall accumulations possibly exceeding 10 cm Friday. Additional precipitation likely on Sunday.\nReduced visibility in areas of heavier snow.\nDifficult travel conditions and possible road closures.\n\nWhen:\nBeginning Friday afternoon and ending early Saturday morning. Second weather system to affect the area Sunday.\n\nAdditional information:\nSnow is expected to begin affecting northeastern Ontario during the day Friday before intensifying late in the day or Friday evening. At this point, the heaviest snowfall will likely remain south of the region, although amounts exceeding 10 cm are still possible. Snow will taper off by Saturday morning. \n\nAfter a brief break Saturday, another winter storm will likely affect the region on Sunday with a threat of significant snowfall, freezing rain and ice pellets. More details on precipitation amounts will come in future updates.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
