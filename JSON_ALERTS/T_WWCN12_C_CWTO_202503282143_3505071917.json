@@ -1,0 +1,65 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3505071917.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-28T21:51:44-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1089555306.2025,2025-03-28T08:35:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3285527944.2025,2025-03-28T16:54:35-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-03-28T21:51:44-00:00",
+    "expires": "2025-03-29T13:51:44-00:00",
+    "description": "\nIce build-up due to freezing rain is expected or occurring.\n\nFreezing rain along with ice pellets and snow is expected. Note that a snowfall warning is also in effect for the region.\n\nWhat:\nThreat of a few hours of freezing rain.\nIcy and slippery conditions.\n \nWhen:\nFrom late this afternoon until early Saturday morning.\n\nAdditional information:\nThe threat of several hours of freezing rain and ice pellets tonight is possible, particularly for areas closer to Sault Ste Marie.\n\nNote that for areas closer to Montreal River, more of the precipitation is expected to fall in the form of snow. Refer to the snowfall warning that is in effect for more information.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots will become icy, slippery and hazardous. Ice build-up may cause tree branches to break. Utility outages may occur.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nSlow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Searchmont - Montreal River Harbour - Batchawana Bay",
+            "polygon": [
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6321,
+                    "lon": -84.7351
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                }
+            ]
+        }
+    ]
+}
