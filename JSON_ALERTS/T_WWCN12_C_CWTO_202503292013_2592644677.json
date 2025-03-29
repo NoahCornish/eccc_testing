@@ -1,0 +1,546 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2592644677.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-29T20:25:54-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1940114211.2025,2025-03-29T16:34:37-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Extreme",
+    "certainty": "Likely",
+    "effective": "2025-03-29T20:25:54-00:00",
+    "expires": "2025-03-30T12:25:54-00:00",
+    "description": "\nIce storm beginning overnight or early Sunday morning.\n\nWhat:\nFreezing rain with significant ice accretion of 10 to 20 mm.\nIcy and slippery conditions.\nUtility outages and tree damage.\nSnowfall amounts up to 10 cm, particularly for locations north of Highway 17 and north of the city of Sault Ste. Marie.\n\nWhen:\nOvernight or early Sunday morning through early Monday morning.\n\nAdditional information:\nPrecipitation may begin as snow or ice pellets before changing to freezing rain overnight into early Sunday morning. Freezing rain may briefly change over to rain Sunday afternoon into Sunday night for locations near the North Channel. Precipitation will transition to ice pellets and then snow from west to east Monday morning.\n\nEasterly winds will become northerly on Monday morning with gusts up to 50 km/h. This may exacerbate the situation if there is ice build-up on tree limbs and power lines.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots will become icy, slippery and extremely hazardous. Extended and widespread utility outages are possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBeware of branches or electrical wires that could break under the weight of ice.\n",
+    "affected_areas": [
+        {
+            "area_description": "Sault Ste. Marie - St. Joseph Island",
+            "polygon": [
+                {
+                    "lat": 46.1874,
+                    "lon": -83.7076
+                },
+                {
+                    "lat": 46.1199,
+                    "lon": -83.7566
+                },
+                {
+                    "lat": 46.1212,
+                    "lon": -83.822
+                },
+                {
+                    "lat": 46.0658,
+                    "lon": -83.905
+                },
+                {
+                    "lat": 46.0553,
+                    "lon": -83.9495
+                },
+                {
+                    "lat": 46.0963,
+                    "lon": -83.9746
+                },
+                {
+                    "lat": 46.1959,
+                    "lon": -84.0972
+                },
+                {
+                    "lat": 46.3104,
+                    "lon": -84.1263
+                },
+                {
+                    "lat": 46.3253,
+                    "lon": -84.1115
+                },
+                {
+                    "lat": 46.3787,
+                    "lon": -84.1426
+                },
+                {
+                    "lat": 46.4183,
+                    "lon": -84.1542
+                },
+                {
+                    "lat": 46.5045,
+                    "lon": -84.112
+                },
+                {
+                    "lat": 46.5297,
+                    "lon": -84.1317
+                },
+                {
+                    "lat": 46.5267,
+                    "lon": -84.1725
+                },
+                {
+                    "lat": 46.5343,
+                    "lon": -84.2218
+                },
+                {
+                    "lat": 46.4968,
+                    "lon": -84.2602
+                },
+                {
+                    "lat": 46.491,
+                    "lon": -84.2943
+                },
+                {
+                    "lat": 46.5045,
+                    "lon": -84.3384
+                },
+                {
+                    "lat": 46.5073,
+                    "lon": -84.3741
+                },
+                {
+                    "lat": 46.4904,
+                    "lon": -84.439
+                },
+                {
+                    "lat": 46.4577,
+                    "lon": -84.4681
+                },
+                {
+                    "lat": 46.4765,
+                    "lon": -84.5588
+                },
+                {
+                    "lat": 46.5491,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 46.6233,
+                    "lon": -84.6124
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.1874,
+                    "lon": -83.7076
+                }
+            ]
+        },
+        {
+            "area_description": "Greater Sudbury and vicinity",
+            "polygon": [
+                {
+                    "lat": 46.2785,
+                    "lon": -80.4935
+                },
+                {
+                    "lat": 46.2675,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.106,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.0992,
+                    "lon": -80.9338
+                },
+                {
+                    "lat": 46.1701,
+                    "lon": -80.9338
+                },
+                {
+                    "lat": 46.1701,
+                    "lon": -81.4263
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -81.4263
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9683,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.7261,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.7151,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.6307,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.6307,
+                    "lon": -80.276
+                },
+                {
+                    "lat": 46.2601,
+                    "lon": -80.276
+                },
+                {
+                    "lat": 46.2785,
+                    "lon": -80.4935
+                }
+            ]
+        },
+        {
+            "area_description": "West Nipissing - French River",
+            "polygon": [
+                {
+                    "lat": 46.2785,
+                    "lon": -80.4935
+                },
+                {
+                    "lat": 46.2601,
+                    "lon": -80.276
+                },
+                {
+                    "lat": 46.6307,
+                    "lon": -80.276
+                },
+                {
+                    "lat": 46.6307,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.7151,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.554,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.3273,
+                    "lon": -79.5554
+                },
+                {
+                    "lat": 46.1138,
+                    "lon": -79.5388
+                },
+                {
+                    "lat": 45.9261,
+                    "lon": -79.5385
+                },
+                {
+                    "lat": 45.9047,
+                    "lon": -79.6173
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.8856,
+                    "lon": -80.5706
+                },
+                {
+                    "lat": 46.0178,
+                    "lon": -80.5701
+                },
+                {
+                    "lat": 46.106,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.2675,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.2785,
+                    "lon": -80.4935
+                }
+            ]
+        },
+        {
+            "area_description": "North Bay - Powassan - Mattawa",
+            "polygon": [
+                {
+                    "lat": 46.3783,
+                    "lon": -78.6857
+                },
+                {
+                    "lat": 46.344,
+                    "lon": -78.6878
+                },
+                {
+                    "lat": 46.3403,
+                    "lon": -78.5836
+                },
+                {
+                    "lat": 46.3158,
+                    "lon": -78.4765
+                },
+                {
+                    "lat": 46.3144,
+                    "lon": -78.3748
+                },
+                {
+                    "lat": 46.2912,
+                    "lon": -78.3344
+                },
+                {
+                    "lat": 46.2631,
+                    "lon": -78.3382
+                },
+                {
+                    "lat": 46.2607,
+                    "lon": -78.3417
+                },
+                {
+                    "lat": 46.2468,
+                    "lon": -78.3597
+                },
+                {
+                    "lat": 46.2441,
+                    "lon": -78.3696
+                },
+                {
+                    "lat": 46.1756,
+                    "lon": -78.6213
+                },
+                {
+                    "lat": 45.9989,
+                    "lon": -79.2711
+                },
+                {
+                    "lat": 45.9261,
+                    "lon": -79.5385
+                },
+                {
+                    "lat": 46.1138,
+                    "lon": -79.5388
+                },
+                {
+                    "lat": 46.3273,
+                    "lon": -79.5554
+                },
+                {
+                    "lat": 46.554,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.151
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.1099
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.1058
+                },
+                {
+                    "lat": 46.7207,
+                    "lon": -79.0624
+                },
+                {
+                    "lat": 46.6951,
+                    "lon": -79.0486
+                },
+                {
+                    "lat": 46.6586,
+                    "lon": -78.984
+                },
+                {
+                    "lat": 46.5625,
+                    "lon": -78.953
+                },
+                {
+                    "lat": 46.4674,
+                    "lon": -78.8477
+                },
+                {
+                    "lat": 46.403,
+                    "lon": -78.7063
+                },
+                {
+                    "lat": 46.3783,
+                    "lon": -78.6857
+                }
+            ]
+        },
+        {
+            "area_description": "Blind River - Thessalon",
+            "polygon": [
+                {
+                    "lat": 46.1752,
+                    "lon": -83.5976
+                },
+                {
+                    "lat": 46.1874,
+                    "lon": -83.7076
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.0965,
+                    "lon": -82.0476
+                },
+                {
+                    "lat": 45.9754,
+                    "lon": -82.0969
+                },
+                {
+                    "lat": 45.9443,
+                    "lon": -82.178
+                },
+                {
+                    "lat": 46.0103,
+                    "lon": -82.3291
+                },
+                {
+                    "lat": 46.0319,
+                    "lon": -83.3864
+                },
+                {
+                    "lat": 46.1752,
+                    "lon": -83.5976
+                }
+            ]
+        },
+        {
+            "area_description": "Espanola - Killarney",
+            "polygon": [
+                {
+                    "lat": 45.8581,
+                    "lon": -81.6008
+                },
+                {
+                    "lat": 45.9078,
+                    "lon": -81.6625
+                },
+                {
+                    "lat": 45.8959,
+                    "lon": -81.8967
+                },
+                {
+                    "lat": 45.9727,
+                    "lon": -81.8832
+                },
+                {
+                    "lat": 45.9888,
+                    "lon": -81.9598
+                },
+                {
+                    "lat": 45.9754,
+                    "lon": -82.0969
+                },
+                {
+                    "lat": 46.0965,
+                    "lon": -82.0476
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -81.4263
+                },
+                {
+                    "lat": 46.1701,
+                    "lon": -81.4263
+                },
+                {
+                    "lat": 46.1701,
+                    "lon": -80.9338
+                },
+                {
+                    "lat": 46.0992,
+                    "lon": -80.9338
+                },
+                {
+                    "lat": 46.106,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.0178,
+                    "lon": -80.5701
+                },
+                {
+                    "lat": 45.8856,
+                    "lon": -80.5706
+                },
+                {
+                    "lat": 45.8899,
+                    "lon": -80.7251
+                },
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                },
+                {
+                    "lat": 45.8248,
+                    "lon": -80.8486
+                },
+                {
+                    "lat": 45.849,
+                    "lon": -81.3805
+                },
+                {
+                    "lat": 45.8581,
+                    "lon": -81.6008
+                }
+            ]
+        }
+    ]
+}
