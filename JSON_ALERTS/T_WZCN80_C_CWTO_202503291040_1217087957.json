@@ -1,0 +1,271 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1217087957.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-29T10:42:03-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2691267769.2025,2025-03-28T10:33:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3014484914.2025,2025-03-28T15:53:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0795357975.2025,2025-03-28T20:26:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2678431594.2025,2025-03-29T01:02:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4081674011.2025,2025-03-29T01:06:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3965884760.2025,2025-03-29T07:58:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3309131166.2025,2025-03-29T08:03:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1366642852.2025,2025-03-29T08:42:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0668781644.2025,2025-03-29T08:45:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3479286416.2025,2025-03-29T09:48:55-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3314104720.2025,2025-03-29T09:50:50-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3796936546.2025,2025-03-29T10:28:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0747817498.2025,2025-03-29T10:30:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3393483637.2025,2025-03-29T10:40:21-00:00",
+    "headline": "snowfall warning in effect",
+    "event": "snowfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-29T10:40:21-00:00",
+    "expires": "2025-03-29T16:59:21-00:00",
+    "description": "\nSignificant snowfall easing early this morning.\n\nWhat:\nStorm total accumulations of 10 to 20 cm.\nReduced visibility at times in heavy snow.\n\nWhen:\nTapering off early this morning.\n\nAdditional Information:\nHeavy snow tapering off early this morning, through light snow may continue throughout much of the day.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBe prepared to adjust your driving with changing road conditions.\n",
+    "affected_areas": [
+        {
+            "area_description": "Merrickville-Wolford - Kemptville",
+            "polygon": [
+                {
+                    "lat": 44.8704,
+                    "lon": -75.4171
+                },
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                },
+                {
+                    "lat": 44.7611,
+                    "lon": -75.852
+                },
+                {
+                    "lat": 44.8775,
+                    "lon": -76.0072
+                },
+                {
+                    "lat": 44.8871,
+                    "lon": -76.0205
+                },
+                {
+                    "lat": 44.9003,
+                    "lon": -76.0388
+                },
+                {
+                    "lat": 44.9221,
+                    "lon": -76.0521
+                },
+                {
+                    "lat": 44.9272,
+                    "lon": -76.0401
+                },
+                {
+                    "lat": 44.9035,
+                    "lon": -75.9696
+                },
+                {
+                    "lat": 44.9041,
+                    "lon": -75.9067
+                },
+                {
+                    "lat": 44.9769,
+                    "lon": -75.8408
+                },
+                {
+                    "lat": 44.9801,
+                    "lon": -75.8379
+                },
+                {
+                    "lat": 44.9849,
+                    "lon": -75.8336
+                },
+                {
+                    "lat": 45.0826,
+                    "lon": -75.669
+                },
+                {
+                    "lat": 45.125,
+                    "lon": -75.6288
+                },
+                {
+                    "lat": 45.0845,
+                    "lon": -75.595
+                },
+                {
+                    "lat": 44.9826,
+                    "lon": -75.5007
+                },
+                {
+                    "lat": 44.8704,
+                    "lon": -75.4171
+                }
+            ]
+        },
+        {
+            "area_description": "Westport - Charleston Lake",
+            "polygon": [
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                },
+                {
+                    "lat": 44.4856,
+                    "lon": -76.2502
+                },
+                {
+                    "lat": 44.599,
+                    "lon": -76.3932
+                },
+                {
+                    "lat": 44.7211,
+                    "lon": -76.5256
+                },
+                {
+                    "lat": 44.7588,
+                    "lon": -76.4677
+                },
+                {
+                    "lat": 44.795,
+                    "lon": -76.4026
+                },
+                {
+                    "lat": 44.758,
+                    "lon": -76.3538
+                },
+                {
+                    "lat": 44.7223,
+                    "lon": -76.3135
+                },
+                {
+                    "lat": 44.7348,
+                    "lon": -76.2868
+                },
+                {
+                    "lat": 44.7682,
+                    "lon": -76.2517
+                },
+                {
+                    "lat": 44.7938,
+                    "lon": -76.2525
+                },
+                {
+                    "lat": 44.7954,
+                    "lon": -76.2512
+                },
+                {
+                    "lat": 44.797,
+                    "lon": -76.2499
+                },
+                {
+                    "lat": 44.8697,
+                    "lon": -76.1924
+                },
+                {
+                    "lat": 44.92,
+                    "lon": -76.081
+                },
+                {
+                    "lat": 44.9221,
+                    "lon": -76.0521
+                },
+                {
+                    "lat": 44.9003,
+                    "lon": -76.0388
+                },
+                {
+                    "lat": 44.8871,
+                    "lon": -76.0205
+                },
+                {
+                    "lat": 44.8775,
+                    "lon": -76.0072
+                },
+                {
+                    "lat": 44.7611,
+                    "lon": -75.852
+                },
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                }
+            ]
+        },
+        {
+            "area_description": "Brockville - Prescott",
+            "polygon": [
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                },
+                {
+                    "lat": 44.8704,
+                    "lon": -75.4171
+                },
+                {
+                    "lat": 44.8098,
+                    "lon": -75.3666
+                },
+                {
+                    "lat": 44.8059,
+                    "lon": -75.356
+                },
+                {
+                    "lat": 44.8031,
+                    "lon": -75.3534
+                },
+                {
+                    "lat": 44.794,
+                    "lon": -75.3661
+                },
+                {
+                    "lat": 44.7843,
+                    "lon": -75.3729
+                },
+                {
+                    "lat": 44.7827,
+                    "lon": -75.3848
+                },
+                {
+                    "lat": 44.7748,
+                    "lon": -75.3978
+                },
+                {
+                    "lat": 44.7741,
+                    "lon": -75.4178
+                },
+                {
+                    "lat": 44.7567,
+                    "lon": -75.4247
+                },
+                {
+                    "lat": 44.7461,
+                    "lon": -75.4381
+                },
+                {
+                    "lat": 44.7264,
+                    "lon": -75.4729
+                },
+                {
+                    "lat": 44.6851,
+                    "lon": -75.5408
+                },
+                {
+                    "lat": 44.6201,
+                    "lon": -75.6209
+                },
+                {
+                    "lat": 44.5671,
+                    "lon": -75.704
+                },
+                {
+                    "lat": 44.5412,
+                    "lon": -75.7306
+                },
+                {
+                    "lat": 44.5444,
+                    "lon": -75.7337
+                },
+                {
+                    "lat": 44.5488,
+                    "lon": -75.7361
+                },
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                }
+            ]
+        }
+    ]
+}
