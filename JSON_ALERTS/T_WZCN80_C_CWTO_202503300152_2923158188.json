@@ -1,0 +1,449 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2923158188.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-30T02:01:46-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1132561130.2025,2025-03-28T02:09:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2056027934.2025,2025-03-28T09:32:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2616523147.2025,2025-03-28T15:50:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2882558625.2025,2025-03-28T20:08:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2542672674.2025,2025-03-29T01:09:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3224760826.2025,2025-03-29T01:13:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1963877290.2025,2025-03-29T09:04:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0756267016.2025,2025-03-29T09:08:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3991585413.2025,2025-03-29T16:40:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2038609307.2025,2025-03-29T16:48:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2580100594.2025,2025-03-29T19:23:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0451328540.2025,2025-03-29T19:29:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2835719007.2025,2025-03-29T19:34:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1503699609.2025,2025-03-29T19:32:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3935165526.2025,2025-03-30T01:52:20-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Extreme",
+    "certainty": "Likely",
+    "effective": "2025-03-30T01:52:20-00:00",
+    "expires": "2025-03-30T17:52:20-00:00",
+    "description": "\nMajor ice storm continues into Sunday.\n\nWhat:\nProlonged period of freezing rain.\nSignificant ice accretion. Ice accretion amounts of 10 to 20 mm, with amounts in excess of 25 mm possible.\nWidespread power outages.\nIcy and slippery conditions.\n\nWhen:\nNow into Sunday afternoon.\n\nAdditional Information:\nSignificant freezing rain is expected again tonight. Freezing rain will change to rain on Sunday as temperatures rise above zero degrees. Localized flooding in  low-lying areas is likely due to the ground being frozen with reduced ability to absorb the rain.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nSlow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance. Beware of branches or electrical wires that could break under the weight of ice. Stay away from fallen power lines.\n",
+    "affected_areas": [
+        {
+            "area_description": "Midland - Coldwater - Orr Lake",
+            "polygon": [
+                {
+                    "lat": 45.0191,
+                    "lon": -80.1856
+                },
+                {
+                    "lat": 44.933,
+                    "lon": -80.1213
+                },
+                {
+                    "lat": 44.862,
+                    "lon": -80.053
+                },
+                {
+                    "lat": 44.872,
+                    "lon": -79.9107
+                },
+                {
+                    "lat": 44.7847,
+                    "lon": -79.823
+                },
+                {
+                    "lat": 44.7864,
+                    "lon": -79.7087
+                },
+                {
+                    "lat": 44.7803,
+                    "lon": -79.5662
+                },
+                {
+                    "lat": 44.5519,
+                    "lon": -79.6293
+                },
+                {
+                    "lat": 44.6487,
+                    "lon": -79.9704
+                },
+                {
+                    "lat": 44.6517,
+                    "lon": -79.9812
+                },
+                {
+                    "lat": 44.6441,
+                    "lon": -80.2774
+                },
+                {
+                    "lat": 44.8567,
+                    "lon": -80.3295
+                },
+                {
+                    "lat": 45.0191,
+                    "lon": -80.1856
+                }
+            ]
+        },
+        {
+            "area_description": "Orillia - Lagoon City - Washago",
+            "polygon": [
+                {
+                    "lat": 44.4607,
+                    "lon": -79.2606
+                },
+                {
+                    "lat": 44.4157,
+                    "lon": -79.5001
+                },
+                {
+                    "lat": 44.3903,
+                    "lon": -79.6043
+                },
+                {
+                    "lat": 44.3869,
+                    "lon": -79.6284
+                },
+                {
+                    "lat": 44.3911,
+                    "lon": -79.6291
+                },
+                {
+                    "lat": 44.3954,
+                    "lon": -79.6299
+                },
+                {
+                    "lat": 44.5519,
+                    "lon": -79.6293
+                },
+                {
+                    "lat": 44.7803,
+                    "lon": -79.5662
+                },
+                {
+                    "lat": 44.784,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 44.7928,
+                    "lon": -79.3992
+                },
+                {
+                    "lat": 44.7904,
+                    "lon": -79.2988
+                },
+                {
+                    "lat": 44.7824,
+                    "lon": -79.2851
+                },
+                {
+                    "lat": 44.7938,
+                    "lon": -79.2358
+                },
+                {
+                    "lat": 44.8001,
+                    "lon": -79.2089
+                },
+                {
+                    "lat": 44.5413,
+                    "lon": -79.0933
+                },
+                {
+                    "lat": 44.5,
+                    "lon": -79.0746
+                },
+                {
+                    "lat": 44.4862,
+                    "lon": -79.1085
+                },
+                {
+                    "lat": 44.4911,
+                    "lon": -79.1329
+                },
+                {
+                    "lat": 44.4596,
+                    "lon": -79.1418
+                },
+                {
+                    "lat": 44.4551,
+                    "lon": -79.1665
+                },
+                {
+                    "lat": 44.469,
+                    "lon": -79.1724
+                },
+                {
+                    "lat": 44.4675,
+                    "lon": -79.1889
+                },
+                {
+                    "lat": 44.4607,
+                    "lon": -79.2606
+                }
+            ]
+        },
+        {
+            "area_description": "Town of Parry Sound - Rosseau - Killbear Park",
+            "polygon": [
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                },
+                {
+                    "lat": 45.5363,
+                    "lon": -80.4369
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.1399,
+                    "lon": -79.3895
+                },
+                {
+                    "lat": 45.0916,
+                    "lon": -79.876
+                },
+                {
+                    "lat": 45.0927,
+                    "lon": -79.8766
+                },
+                {
+                    "lat": 45.0943,
+                    "lon": -79.8792
+                },
+                {
+                    "lat": 45.1035,
+                    "lon": -79.9004
+                },
+                {
+                    "lat": 45.1017,
+                    "lon": -79.9244
+                },
+                {
+                    "lat": 45.1118,
+                    "lon": -79.9596
+                },
+                {
+                    "lat": 45.1193,
+                    "lon": -79.9605
+                },
+                {
+                    "lat": 45.1284,
+                    "lon": -79.9816
+                },
+                {
+                    "lat": 45.1139,
+                    "lon": -80.0356
+                },
+                {
+                    "lat": 45.1263,
+                    "lon": -80.1017
+                },
+                {
+                    "lat": 45.0191,
+                    "lon": -80.1856
+                },
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                }
+            ]
+        },
+        {
+            "area_description": "Port Carling - Port Severn",
+            "polygon": [
+                {
+                    "lat": 45.0943,
+                    "lon": -79.8792
+                },
+                {
+                    "lat": 45.0927,
+                    "lon": -79.8766
+                },
+                {
+                    "lat": 45.0916,
+                    "lon": -79.876
+                },
+                {
+                    "lat": 45.1399,
+                    "lon": -79.3895
+                },
+                {
+                    "lat": 45.0509,
+                    "lon": -79.3499
+                },
+                {
+                    "lat": 45.039,
+                    "lon": -79.3914
+                },
+                {
+                    "lat": 45.0156,
+                    "lon": -79.4556
+                },
+                {
+                    "lat": 44.9608,
+                    "lon": -79.5006
+                },
+                {
+                    "lat": 44.8648,
+                    "lon": -79.5432
+                },
+                {
+                    "lat": 44.7803,
+                    "lon": -79.5662
+                },
+                {
+                    "lat": 44.7864,
+                    "lon": -79.7087
+                },
+                {
+                    "lat": 44.7847,
+                    "lon": -79.823
+                },
+                {
+                    "lat": 44.872,
+                    "lon": -79.9107
+                },
+                {
+                    "lat": 44.862,
+                    "lon": -80.053
+                },
+                {
+                    "lat": 44.933,
+                    "lon": -80.1213
+                },
+                {
+                    "lat": 45.0191,
+                    "lon": -80.1856
+                },
+                {
+                    "lat": 45.1263,
+                    "lon": -80.1017
+                },
+                {
+                    "lat": 45.1139,
+                    "lon": -80.0356
+                },
+                {
+                    "lat": 45.1284,
+                    "lon": -79.9816
+                },
+                {
+                    "lat": 45.1193,
+                    "lon": -79.9605
+                },
+                {
+                    "lat": 45.1118,
+                    "lon": -79.9596
+                },
+                {
+                    "lat": 45.1017,
+                    "lon": -79.9244
+                },
+                {
+                    "lat": 45.1035,
+                    "lon": -79.9004
+                },
+                {
+                    "lat": 45.0943,
+                    "lon": -79.8792
+                }
+            ]
+        },
+        {
+            "area_description": "Bracebridge - Gravenhurst",
+            "polygon": [
+                {
+                    "lat": 44.9431,
+                    "lon": -79.0928
+                },
+                {
+                    "lat": 44.9492,
+                    "lon": -79.0963
+                },
+                {
+                    "lat": 44.9549,
+                    "lon": -79.0993
+                },
+                {
+                    "lat": 44.9521,
+                    "lon": -79.1096
+                },
+                {
+                    "lat": 44.95,
+                    "lon": -79.1186
+                },
+                {
+                    "lat": 44.8403,
+                    "lon": -79.0624
+                },
+                {
+                    "lat": 44.8001,
+                    "lon": -79.2089
+                },
+                {
+                    "lat": 44.7938,
+                    "lon": -79.2358
+                },
+                {
+                    "lat": 44.7824,
+                    "lon": -79.2851
+                },
+                {
+                    "lat": 44.7904,
+                    "lon": -79.2988
+                },
+                {
+                    "lat": 44.7928,
+                    "lon": -79.3992
+                },
+                {
+                    "lat": 44.784,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 44.7803,
+                    "lon": -79.5662
+                },
+                {
+                    "lat": 44.8648,
+                    "lon": -79.5432
+                },
+                {
+                    "lat": 44.9608,
+                    "lon": -79.5006
+                },
+                {
+                    "lat": 45.0156,
+                    "lon": -79.4556
+                },
+                {
+                    "lat": 45.039,
+                    "lon": -79.3914
+                },
+                {
+                    "lat": 45.0509,
+                    "lon": -79.3499
+                },
+                {
+                    "lat": 45.1399,
+                    "lon": -79.3895
+                },
+                {
+                    "lat": 45.1057,
+                    "lon": -78.9997
+                },
+                {
+                    "lat": 45.1053,
+                    "lon": -79.0012
+                },
+                {
+                    "lat": 45.046,
+                    "lon": -78.9645
+                },
+                {
+                    "lat": 44.9858,
+                    "lon": -78.9347
+                },
+                {
+                    "lat": 44.9606,
+                    "lon": -79.0237
+                },
+                {
+                    "lat": 44.9431,
+                    "lon": -79.0928
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0799117822.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-30T02:12:50-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3089670820.2025,2025-03-28T02:23:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4031765820.2025,2025-03-28T09:37:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0340620759.2025,2025-03-28T15:51:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1211552942.2025,2025-03-28T20:11:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1930576350.2025,2025-03-29T01:10:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2581420518.2025,2025-03-29T01:15:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3680552510.2025,2025-03-29T08:58:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1895064838.2025,2025-03-29T09:02:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2654948026.2025,2025-03-29T16:41:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0633547665.2025,2025-03-29T16:49:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2582458802.2025,2025-03-29T17:04:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2096179105.2025,2025-03-29T17:06:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1944080530.2025,2025-03-29T19:52:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0638958035.2025,2025-03-29T19:58:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0400931224.2025,2025-03-30T02:05:28-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-03-30T02:05:28-00:00",
+    "expires": "2025-03-30T18:05:28-00:00",
+    "description": "\nMajor ice storm continues into Sunday morning.\n\nWhat:\nProlonged period of freezing rain.\nSignificant ice accretion. Total ice accretion amounts of 10 to 20 mm, with amounts in excess of 25 mm possible.\nWidespread power outages.\nIcy and slippery conditions.\n\nWhen:\nNow through at least Sunday morning.\n\nAdditional Information:\nThe area will receive significant freezing rain with the heaviest freezing rain occurring again tonight. The freezing rain is expected to change to rain on Sunday morning with temperatures rising above zero degrees.\n\n###\n\nIce build-up may cause tree branches to break.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake extra care when walking or driving in affected areas. Consider postponing non-essential travel until conditions improve. Beware of branches or electrical wires that could break under the weight of ice. Public Safety Canada encourages everyone to make an emergency plan and get an emergency kit with drinking water, food, medicine, a first-aid kit and a flashlight. For information on emergency plans and kits go to https://www.getprepared.gc.ca/.\n",
+    "affected_areas": [
+        {
+            "area_description": "Belleville - Quinte West - Eastern Northumberland County",
+            "polygon": [
+                {
+                    "lat": 44.4359,
+                    "lon": -77.7293
+                },
+                {
+                    "lat": 44.2689,
+                    "lon": -77.6517
+                },
+                {
+                    "lat": 44.3476,
+                    "lon": -77.3409
+                },
+                {
+                    "lat": 44.2584,
+                    "lon": -77.2969
+                },
+                {
+                    "lat": 44.1734,
+                    "lon": -77.2549
+                },
+                {
+                    "lat": 44.1367,
+                    "lon": -77.2358
+                },
+                {
+                    "lat": 44.1503,
+                    "lon": -77.3721
+                },
+                {
+                    "lat": 44.126,
+                    "lon": -77.408
+                },
+                {
+                    "lat": 44.1054,
+                    "lon": -77.498
+                },
+                {
+                    "lat": 44.0529,
+                    "lon": -77.5819
+                },
+                {
+                    "lat": 44.0311,
+                    "lon": -77.6046
+                },
+                {
+                    "lat": 44.0232,
+                    "lon": -77.6125
+                },
+                {
+                    "lat": 43.9639,
+                    "lon": -77.6389
+                },
+                {
+                    "lat": 43.9565,
+                    "lon": -77.7696
+                },
+                {
+                    "lat": 44.0048,
+                    "lon": -77.7767
+                },
+                {
+                    "lat": 44.1801,
+                    "lon": -77.8616
+                },
+                {
+                    "lat": 44.1494,
+                    "lon": -77.9786
+                },
+                {
+                    "lat": 44.249,
+                    "lon": -78.0199
+                },
+                {
+                    "lat": 44.2496,
+                    "lon": -78.0202
+                },
+                {
+                    "lat": 44.2948,
+                    "lon": -78.0562
+                },
+                {
+                    "lat": 44.3411,
+                    "lon": -77.9594
+                },
+                {
+                    "lat": 44.3664,
+                    "lon": -77.9339
+                },
+                {
+                    "lat": 44.3851,
+                    "lon": -77.9398
+                },
+                {
+                    "lat": 44.3967,
+                    "lon": -77.8849
+                },
+                {
+                    "lat": 44.4203,
+                    "lon": -77.8045
+                },
+                {
+                    "lat": 44.4359,
+                    "lon": -77.7293
+                }
+            ]
+        },
+        {
+            "area_description": "Cobourg - Colborne - Western Northumberland County",
+            "polygon": [
+                {
+                    "lat": 44.249,
+                    "lon": -78.0199
+                },
+                {
+                    "lat": 44.1494,
+                    "lon": -77.9786
+                },
+                {
+                    "lat": 44.1801,
+                    "lon": -77.8616
+                },
+                {
+                    "lat": 44.0048,
+                    "lon": -77.7767
+                },
+                {
+                    "lat": 43.9565,
+                    "lon": -77.7696
+                },
+                {
+                    "lat": 43.8237,
+                    "lon": -78.4112
+                },
+                {
+                    "lat": 43.9102,
+                    "lon": -78.4348
+                },
+                {
+                    "lat": 43.9838,
+                    "lon": -78.4801
+                },
+                {
+                    "lat": 44.0823,
+                    "lon": -78.5095
+                },
+                {
+                    "lat": 44.1117,
+                    "lon": -78.4106
+                },
+                {
+                    "lat": 44.129,
+                    "lon": -78.3089
+                },
+                {
+                    "lat": 44.1581,
+                    "lon": -78.3225
+                },
+                {
+                    "lat": 44.2948,
+                    "lon": -78.0562
+                },
+                {
+                    "lat": 44.2496,
+                    "lon": -78.0202
+                },
+                {
+                    "lat": 44.249,
+                    "lon": -78.0199
+                }
+            ]
+        },
+        {
+            "area_description": "Napanee - Consecon",
+            "polygon": [
+                {
+                    "lat": 44.0232,
+                    "lon": -77.6125
+                },
+                {
+                    "lat": 44.0311,
+                    "lon": -77.6046
+                },
+                {
+                    "lat": 44.0529,
+                    "lon": -77.5819
+                },
+                {
+                    "lat": 44.1054,
+                    "lon": -77.498
+                },
+                {
+                    "lat": 44.126,
+                    "lon": -77.408
+                },
+                {
+                    "lat": 44.1503,
+                    "lon": -77.3721
+                },
+                {
+                    "lat": 44.1367,
+                    "lon": -77.2358
+                },
+                {
+                    "lat": 44.1734,
+                    "lon": -77.2549
+                },
+                {
+                    "lat": 44.2584,
+                    "lon": -77.2969
+                },
+                {
+                    "lat": 44.2585,
+                    "lon": -77.2964
+                },
+                {
+                    "lat": 44.2901,
+                    "lon": -77.0894
+                },
+                {
+                    "lat": 44.4018,
+                    "lon": -77.1392
+                },
+                {
+                    "lat": 44.4199,
+                    "lon": -77.0591
+                },
+                {
+                    "lat": 44.323,
+                    "lon": -76.9553
+                },
+                {
+                    "lat": 44.2707,
+                    "lon": -76.9303
+                },
+                {
+                    "lat": 44.2731,
+                    "lon": -76.9098
+                },
+                {
+                    "lat": 44.1705,
+                    "lon": -76.8167
+                },
+                {
+                    "lat": 44.0704,
+                    "lon": -77.067
+                },
+                {
+                    "lat": 44.0606,
+                    "lon": -77.0965
+                },
+                {
+                    "lat": 43.9475,
+                    "lon": -77.4892
+                },
+                {
+                    "lat": 43.9357,
+                    "lon": -77.505
+                },
+                {
+                    "lat": 43.9059,
+                    "lon": -77.5904
+                },
+                {
+                    "lat": 43.9639,
+                    "lon": -77.6389
+                },
+                {
+                    "lat": 44.0232,
+                    "lon": -77.6125
+                }
+            ]
+        },
+        {
+            "area_description": "Picton - Sandbanks Park",
+            "polygon": [
+                {
+                    "lat": 43.8008,
+                    "lon": -77.1887
+                },
+                {
+                    "lat": 43.832,
+                    "lon": -77.5277
+                },
+                {
+                    "lat": 43.9059,
+                    "lon": -77.5904
+                },
+                {
+                    "lat": 43.9357,
+                    "lon": -77.505
+                },
+                {
+                    "lat": 43.9475,
+                    "lon": -77.4892
+                },
+                {
+                    "lat": 44.0606,
+                    "lon": -77.0965
+                },
+                {
+                    "lat": 44.0704,
+                    "lon": -77.067
+                },
+                {
+                    "lat": 44.1705,
+                    "lon": -76.8167
+                },
+                {
+                    "lat": 44.1612,
+                    "lon": -76.8085
+                },
+                {
+                    "lat": 44.0917,
+                    "lon": -76.8197
+                },
+                {
+                    "lat": 43.886,
+                    "lon": -76.7025
+                },
+                {
+                    "lat": 43.8008,
+                    "lon": -77.1887
+                }
+            ]
+        }
+    ]
+}

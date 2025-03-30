@@ -1,0 +1,537 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4118174286.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-30T01:40:57-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3359470893.2025,2025-03-28T20:24:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4229123973.2025,2025-03-29T01:05:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0083102479.2025,2025-03-29T01:22:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3676601408.2025,2025-03-29T05:13:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1486638367.2025,2025-03-29T05:16:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0870156373.2025,2025-03-29T08:32:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1640757122.2025,2025-03-29T08:34:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0547157754.2025,2025-03-29T15:06:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1171032014.2025,2025-03-29T15:09:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1836231278.2025,2025-03-29T15:14:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2652328360.2025,2025-03-29T16:19:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3357903824.2025,2025-03-29T19:38:11-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1302941327.2025,2025-03-29T19:50:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3518180184.2025,2025-03-30T01:38:08-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-03-30T01:38:08-00:00",
+    "expires": "2025-03-30T16:59:08-00:00",
+    "description": "\nRainfall warning in effect.\n\nWhat:\nTotal precipitation amounts of 25 to 50 mm this weekend.\n\nWhen:\nNow through Sunday morning.\n\nAdditional Information:\nSignificant precipitation, including rain and freezing rain, is expected to continue into Sunday as a low pressure system tracks across Ontario. Due to the ground being frozen it will have a reduced ability to absorb the rain.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nLocalized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nAvoid driving through water on roads. Even shallow, fast-moving water across a road can sweep a vehicle or a person away.\n",
+    "affected_areas": [
+        {
+            "area_description": "Barrie - Collingwood - Hillsdale",
+            "polygon": [
+                {
+                    "lat": 44.3215,
+                    "lon": -79.9097
+                },
+                {
+                    "lat": 44.3169,
+                    "lon": -79.9122
+                },
+                {
+                    "lat": 44.3142,
+                    "lon": -79.9203
+                },
+                {
+                    "lat": 44.299,
+                    "lon": -80.0028
+                },
+                {
+                    "lat": 44.2756,
+                    "lon": -80.1126
+                },
+                {
+                    "lat": 44.2542,
+                    "lon": -80.2285
+                },
+                {
+                    "lat": 44.2663,
+                    "lon": -80.2335
+                },
+                {
+                    "lat": 44.2815,
+                    "lon": -80.2349
+                },
+                {
+                    "lat": 44.5273,
+                    "lon": -80.2918
+                },
+                {
+                    "lat": 44.6441,
+                    "lon": -80.2774
+                },
+                {
+                    "lat": 44.6517,
+                    "lon": -79.9812
+                },
+                {
+                    "lat": 44.6487,
+                    "lon": -79.9704
+                },
+                {
+                    "lat": 44.5519,
+                    "lon": -79.6293
+                },
+                {
+                    "lat": 44.3954,
+                    "lon": -79.6299
+                },
+                {
+                    "lat": 44.3911,
+                    "lon": -79.6291
+                },
+                {
+                    "lat": 44.3869,
+                    "lon": -79.6284
+                },
+                {
+                    "lat": 44.3903,
+                    "lon": -79.6043
+                },
+                {
+                    "lat": 44.3691,
+                    "lon": -79.6204
+                },
+                {
+                    "lat": 44.3731,
+                    "lon": -79.6057
+                },
+                {
+                    "lat": 44.3693,
+                    "lon": -79.5932
+                },
+                {
+                    "lat": 44.3684,
+                    "lon": -79.5904
+                },
+                {
+                    "lat": 44.3683,
+                    "lon": -79.5903
+                },
+                {
+                    "lat": 44.361,
+                    "lon": -79.578
+                },
+                {
+                    "lat": 44.3453,
+                    "lon": -79.5858
+                },
+                {
+                    "lat": 44.3309,
+                    "lon": -79.6123
+                },
+                {
+                    "lat": 44.3296,
+                    "lon": -79.6546
+                },
+                {
+                    "lat": 44.3199,
+                    "lon": -79.6497
+                },
+                {
+                    "lat": 44.3128,
+                    "lon": -79.6551
+                },
+                {
+                    "lat": 44.2937,
+                    "lon": -79.6752
+                },
+                {
+                    "lat": 44.2965,
+                    "lon": -79.7277
+                },
+                {
+                    "lat": 44.3579,
+                    "lon": -79.7446
+                },
+                {
+                    "lat": 44.3322,
+                    "lon": -79.7858
+                },
+                {
+                    "lat": 44.3385,
+                    "lon": -79.852
+                },
+                {
+                    "lat": 44.3491,
+                    "lon": -79.8612
+                },
+                {
+                    "lat": 44.3391,
+                    "lon": -79.8818
+                },
+                {
+                    "lat": 44.342,
+                    "lon": -79.8984
+                },
+                {
+                    "lat": 44.3215,
+                    "lon": -79.9097
+                }
+            ]
+        },
+        {
+            "area_description": "Bruce Peninsula - Sauble Beach - Tobermory",
+            "polygon": [
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                },
+                {
+                    "lat": 44.6414,
+                    "lon": -81.1122
+                },
+                {
+                    "lat": 44.6267,
+                    "lon": -81.1132
+                },
+                {
+                    "lat": 44.5511,
+                    "lon": -81.1203
+                },
+                {
+                    "lat": 44.5357,
+                    "lon": -81.1971
+                },
+                {
+                    "lat": 44.5229,
+                    "lon": -81.2724
+                },
+                {
+                    "lat": 44.5846,
+                    "lon": -81.2887
+                },
+                {
+                    "lat": 44.5944,
+                    "lon": -81.2913
+                },
+                {
+                    "lat": 44.5866,
+                    "lon": -81.4622
+                },
+                {
+                    "lat": 45.3535,
+                    "lon": -81.8404
+                },
+                {
+                    "lat": 45.3822,
+                    "lon": -81.4145
+                },
+                {
+                    "lat": 45.2717,
+                    "lon": -81.1853
+                },
+                {
+                    "lat": 45.0703,
+                    "lon": -81.0827
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                }
+            ]
+        },
+        {
+            "area_description": "Owen Sound - Blue Mountains - Northern Grey County",
+            "polygon": [
+                {
+                    "lat": 44.7557,
+                    "lon": -81.1515
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.6441,
+                    "lon": -80.2774
+                },
+                {
+                    "lat": 44.5273,
+                    "lon": -80.2918
+                },
+                {
+                    "lat": 44.2815,
+                    "lon": -80.2349
+                },
+                {
+                    "lat": 44.4005,
+                    "lon": -81.0823
+                },
+                {
+                    "lat": 44.3993,
+                    "lon": -81.1044
+                },
+                {
+                    "lat": 44.4501,
+                    "lon": -81.1219
+                },
+                {
+                    "lat": 44.538,
+                    "lon": -81.1304
+                },
+                {
+                    "lat": 44.7557,
+                    "lon": -81.1515
+                }
+            ]
+        },
+        {
+            "area_description": "Saugeen Shores - Kincardine - Southern Bruce County",
+            "polygon": [
+                {
+                    "lat": 44.0532,
+                    "lon": -81.7435
+                },
+                {
+                    "lat": 44.0475,
+                    "lon": -81.8174
+                },
+                {
+                    "lat": 44.5866,
+                    "lon": -81.4622
+                },
+                {
+                    "lat": 44.5944,
+                    "lon": -81.2913
+                },
+                {
+                    "lat": 44.5846,
+                    "lon": -81.2887
+                },
+                {
+                    "lat": 44.5229,
+                    "lon": -81.2724
+                },
+                {
+                    "lat": 44.5378,
+                    "lon": -81.199
+                },
+                {
+                    "lat": 44.5511,
+                    "lon": -81.1203
+                },
+                {
+                    "lat": 44.4831,
+                    "lon": -81.0977
+                },
+                {
+                    "lat": 44.4005,
+                    "lon": -81.0823
+                },
+                {
+                    "lat": 44.2047,
+                    "lon": -81.0277
+                },
+                {
+                    "lat": 43.9878,
+                    "lon": -80.9797
+                },
+                {
+                    "lat": 43.987,
+                    "lon": -80.9846
+                },
+                {
+                    "lat": 43.9864,
+                    "lon": -80.9912
+                },
+                {
+                    "lat": 43.9549,
+                    "lon": -81.1802
+                },
+                {
+                    "lat": 43.9274,
+                    "lon": -81.3683
+                },
+                {
+                    "lat": 43.9176,
+                    "lon": -81.3748
+                },
+                {
+                    "lat": 43.9079,
+                    "lon": -81.3831
+                },
+                {
+                    "lat": 43.9562,
+                    "lon": -81.5258
+                },
+                {
+                    "lat": 44.0532,
+                    "lon": -81.7435
+                }
+            ]
+        },
+        {
+            "area_description": "Hanover - Dundalk - Southern Grey County",
+            "polygon": [
+                {
+                    "lat": 44.1938,
+                    "lon": -80.406
+                },
+                {
+                    "lat": 44.1809,
+                    "lon": -80.3807
+                },
+                {
+                    "lat": 44.1672,
+                    "lon": -80.3611
+                },
+                {
+                    "lat": 44.152,
+                    "lon": -80.3761
+                },
+                {
+                    "lat": 44.1353,
+                    "lon": -80.3982
+                },
+                {
+                    "lat": 44.0864,
+                    "lon": -80.3822
+                },
+                {
+                    "lat": 44.0392,
+                    "lon": -80.375
+                },
+                {
+                    "lat": 44.0321,
+                    "lon": -80.4028
+                },
+                {
+                    "lat": 44.0271,
+                    "lon": -80.4344
+                },
+                {
+                    "lat": 44.0106,
+                    "lon": -80.4988
+                },
+                {
+                    "lat": 43.9982,
+                    "lon": -80.5691
+                },
+                {
+                    "lat": 43.9875,
+                    "lon": -80.6418
+                },
+                {
+                    "lat": 43.9814,
+                    "lon": -80.7158
+                },
+                {
+                    "lat": 43.9831,
+                    "lon": -80.7198
+                },
+                {
+                    "lat": 43.9855,
+                    "lon": -80.7223
+                },
+                {
+                    "lat": 43.9959,
+                    "lon": -80.7264
+                },
+                {
+                    "lat": 43.9928,
+                    "lon": -80.7328
+                },
+                {
+                    "lat": 43.9955,
+                    "lon": -80.7367
+                },
+                {
+                    "lat": 43.9888,
+                    "lon": -80.7453
+                },
+                {
+                    "lat": 43.9793,
+                    "lon": -80.7513
+                },
+                {
+                    "lat": 43.9768,
+                    "lon": -80.7543
+                },
+                {
+                    "lat": 43.9714,
+                    "lon": -80.791
+                },
+                {
+                    "lat": 43.9678,
+                    "lon": -80.8273
+                },
+                {
+                    "lat": 43.9836,
+                    "lon": -80.8348
+                },
+                {
+                    "lat": 44.0046,
+                    "lon": -80.8357
+                },
+                {
+                    "lat": 43.9933,
+                    "lon": -80.9067
+                },
+                {
+                    "lat": 43.9878,
+                    "lon": -80.9797
+                },
+                {
+                    "lat": 44.188,
+                    "lon": -81.0407
+                },
+                {
+                    "lat": 44.4005,
+                    "lon": -81.0823
+                },
+                {
+                    "lat": 44.2815,
+                    "lon": -80.2349
+                },
+                {
+                    "lat": 44.2689,
+                    "lon": -80.2298
+                },
+                {
+                    "lat": 44.2542,
+                    "lon": -80.2285
+                },
+                {
+                    "lat": 44.2356,
+                    "lon": -80.284
+                },
+                {
+                    "lat": 44.2145,
+                    "lon": -80.4111
+                },
+                {
+                    "lat": 44.2127,
+                    "lon": -80.4082
+                },
+                {
+                    "lat": 44.2,
+                    "lon": -80.4228
+                },
+                {
+                    "lat": 44.1938,
+                    "lon": -80.406
+                }
+            ]
+        }
+    ]
+}
