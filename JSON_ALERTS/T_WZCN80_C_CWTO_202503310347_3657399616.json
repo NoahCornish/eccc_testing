@@ -1,0 +1,262 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3657399616.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-31T03:55:41-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4287781203.2025,2025-03-29T15:38:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1803032899.2025,2025-03-29T16:28:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0492626410.2025,2025-03-29T16:35:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2131125371.2025,2025-03-29T19:55:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2977764911.2025,2025-03-29T19:59:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4051213704.2025,2025-03-29T21:49:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1684556417.2025,2025-03-29T21:52:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2493391860.2025,2025-03-29T21:51:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1118414763.2025,2025-03-29T21:52:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0970358545.2025,2025-03-30T01:50:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0585488237.2025,2025-03-30T01:54:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1338535348.2025,2025-03-30T08:42:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2129809412.2025,2025-03-30T08:57:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1821245382.2025,2025-03-30T15:17:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3688729124.2025,2025-03-30T15:20:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1428092135.2025,2025-03-30T19:46:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4106925503.2025,2025-03-30T19:49:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2783598446.2025,2025-03-30T20:54:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3175823592.2025,2025-03-30T20:56:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3425781723.2025,2025-03-30T23:02:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1892437411.2025,2025-03-30T23:04:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0484741158.2025,2025-03-30T23:32:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1363233401.2025,2025-03-30T23:38:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0226678956.2025,2025-03-31T01:15:04-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-03-31T03:55:41-00:00",
+    "expires": "2025-03-31T10:07:41-00:00",
+    "description": "\nFreezing rain ending after midnight.\n\nWhat:\nPatchy freezing rain lingering overnight.\nMinimal additional ice accretion.\nSlippery surfaces and broken tree branches from ice build-up.\n\nWhen:\nEnding after midnight.\n\nAdditional information:\nA few locations, including Ottawa Airport, remain just below the freezing mark tonight. These areas are expected to climb above freezing in the next few hours, bringing an end to the freezing rain.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake extra care when walking or driving in affected areas. Slow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance. Beware of branches or electrical wires that could break under the weight of ice.\n",
+    "affected_areas": [
+        {
+            "area_description": "Ottawa North - Kanata - Orléans",
+            "polygon": [
+                {
+                    "lat": 45.3453,
+                    "lon": -75.3216
+                },
+                {
+                    "lat": 45.3203,
+                    "lon": -75.4223
+                },
+                {
+                    "lat": 45.2723,
+                    "lon": -75.5551
+                },
+                {
+                    "lat": 45.2286,
+                    "lon": -75.7114
+                },
+                {
+                    "lat": 45.2219,
+                    "lon": -75.7851
+                },
+                {
+                    "lat": 45.2201,
+                    "lon": -75.8592
+                },
+                {
+                    "lat": 45.2326,
+                    "lon": -76.0019
+                },
+                {
+                    "lat": 45.2596,
+                    "lon": -76.1586
+                },
+                {
+                    "lat": 45.3274,
+                    "lon": -76.2593
+                },
+                {
+                    "lat": 45.4104,
+                    "lon": -76.3538
+                },
+                {
+                    "lat": 45.4106,
+                    "lon": -76.354
+                },
+                {
+                    "lat": 45.4274,
+                    "lon": -76.3279
+                },
+                {
+                    "lat": 45.4274,
+                    "lon": -76.3279
+                },
+                {
+                    "lat": 45.4365,
+                    "lon": -76.3136
+                },
+                {
+                    "lat": 45.451,
+                    "lon": -76.3041
+                },
+                {
+                    "lat": 45.4957,
+                    "lon": -76.3151
+                },
+                {
+                    "lat": 45.4994,
+                    "lon": -76.2865
+                },
+                {
+                    "lat": 45.5276,
+                    "lon": -76.2652
+                },
+                {
+                    "lat": 45.5335,
+                    "lon": -76.2326
+                },
+                {
+                    "lat": 45.5588,
+                    "lon": -76.0929
+                },
+                {
+                    "lat": 45.4973,
+                    "lon": -75.9395
+                },
+                {
+                    "lat": 45.4547,
+                    "lon": -75.9044
+                },
+                {
+                    "lat": 45.4452,
+                    "lon": -75.8966
+                },
+                {
+                    "lat": 45.4038,
+                    "lon": -75.8282
+                },
+                {
+                    "lat": 45.4416,
+                    "lon": -75.7648
+                },
+                {
+                    "lat": 45.4471,
+                    "lon": -75.7308
+                },
+                {
+                    "lat": 45.4983,
+                    "lon": -75.6891
+                },
+                {
+                    "lat": 45.4983,
+                    "lon": -75.6541
+                },
+                {
+                    "lat": 45.4983,
+                    "lon": -75.5857
+                },
+                {
+                    "lat": 45.5421,
+                    "lon": -75.4941
+                },
+                {
+                    "lat": 45.5446,
+                    "lon": -75.4152
+                },
+                {
+                    "lat": 45.5595,
+                    "lon": -75.349
+                },
+                {
+                    "lat": 45.5609,
+                    "lon": -75.3429
+                },
+                {
+                    "lat": 45.5188,
+                    "lon": -75.3113
+                },
+                {
+                    "lat": 45.4727,
+                    "lon": -75.2767
+                },
+                {
+                    "lat": 45.372,
+                    "lon": -75.2401
+                },
+                {
+                    "lat": 45.3453,
+                    "lon": -75.3216
+                }
+            ]
+        },
+        {
+            "area_description": "Ottawa South - Richmond - Metcalfe",
+            "polygon": [
+                {
+                    "lat": 44.9566,
+                    "lon": -75.8022
+                },
+                {
+                    "lat": 44.9562,
+                    "lon": -75.8165
+                },
+                {
+                    "lat": 44.9623,
+                    "lon": -75.8197
+                },
+                {
+                    "lat": 44.9769,
+                    "lon": -75.8408
+                },
+                {
+                    "lat": 45.0139,
+                    "lon": -75.8946
+                },
+                {
+                    "lat": 45.0724,
+                    "lon": -75.9529
+                },
+                {
+                    "lat": 45.0812,
+                    "lon": -75.9533
+                },
+                {
+                    "lat": 45.0799,
+                    "lon": -75.9407
+                },
+                {
+                    "lat": 45.1565,
+                    "lon": -76.0454
+                },
+                {
+                    "lat": 45.2596,
+                    "lon": -76.1586
+                },
+                {
+                    "lat": 45.2439,
+                    "lon": -75.9958
+                },
+                {
+                    "lat": 45.2201,
+                    "lon": -75.8592
+                },
+                {
+                    "lat": 45.2265,
+                    "lon": -75.7859
+                },
+                {
+                    "lat": 45.2286,
+                    "lon": -75.7114
+                },
+                {
+                    "lat": 45.2781,
+                    "lon": -75.577
+                },
+                {
+                    "lat": 45.3203,
+                    "lon": -75.4223
+                },
+                {
+                    "lat": 45.2569,
+                    "lon": -75.3778
+                },
+                {
+                    "lat": 45.1828,
+                    "lon": -75.3515
+                },
+                {
+                    "lat": 45.1298,
+                    "lon": -75.4632
+                },
+                {
+                    "lat": 45.0845,
+                    "lon": -75.595
+                },
+                {
+                    "lat": 44.9566,
+                    "lon": -75.8022
+                }
+            ]
+        }
+    ]
+}
