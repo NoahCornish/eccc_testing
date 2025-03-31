@@ -1,0 +1,137 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4081357815.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-31T09:05:33-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3535362422.2025,2025-03-29T20:33:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1151466522.2025,2025-03-30T03:46:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2440053954.2025,2025-03-30T09:29:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4254165036.2025,2025-03-30T13:12:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4215649524.2025,2025-03-30T16:03:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2659442678.2025,2025-03-30T21:00:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1832828761.2025,2025-03-31T04:54:00-00:00",
+    "headline": "winter storm warning in effect",
+    "event": "winter storm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-03-31T04:54:00-00:00",
+    "expires": "2025-03-31T18:05:00-00:00",
+    "description": "\nWinter storm continues this morning. \n\nWhat:\nFreezing rain with significant ice accretion of 5 to 15 mm.\nUtility outages possible.\nSlippery surfaces and broken tree branches from ice build-up.\nSnowfall and ice pellet amounts up to 20 cm north of a line from Ranger Lake to Cobalt.\n\nWhen:\nEnding late this morning.\n\nAdditional information:\nSnow or ice pellets has transitioned to freezing rain in most communities. Freezing rain is expected to be most significant for locations south of a line from Ranger Lake to Cobalt where ice storm conditions are possible. Precipitation will transition back to ice pellets and then snow from west to east this morning.\n\nConditions will improve late this morning as the weather system exits the province.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots will become icy, slippery and hazardous. Ice build-up may cause tree branches to break.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nConsider postponing non-essential travel until conditions improve. Prepare for quickly changing and deteriorating travel conditions.\n",
+    "affected_areas": [
+        {
+            "area_description": "Temiskaming Shores - Temagami",
+            "polygon": [
+                {
+                    "lat": 46.8582,
+                    "lon": -79.141
+                },
+                {
+                    "lat": 46.7207,
+                    "lon": -79.0624
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.1058
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.1099
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.151
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.7151,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.7261,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.9683,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5988,
+                    "lon": -79.4946
+                },
+                {
+                    "lat": 47.5697,
+                    "lon": -79.4188
+                },
+                {
+                    "lat": 47.5214,
+                    "lon": -79.432
+                },
+                {
+                    "lat": 47.4815,
+                    "lon": -79.4988
+                },
+                {
+                    "lat": 47.341,
+                    "lon": -79.4216
+                },
+                {
+                    "lat": 47.302,
+                    "lon": -79.4135
+                },
+                {
+                    "lat": 47.2434,
+                    "lon": -79.3589
+                },
+                {
+                    "lat": 47.1056,
+                    "lon": -79.3868
+                },
+                {
+                    "lat": 47.0127,
+                    "lon": -79.2923
+                },
+                {
+                    "lat": 47.0002,
+                    "lon": -79.2888
+                },
+                {
+                    "lat": 46.952,
+                    "lon": -79.275
+                },
+                {
+                    "lat": 46.8737,
+                    "lon": -79.1873
+                },
+                {
+                    "lat": 46.8582,
+                    "lon": -79.141
+                }
+            ]
+        }
+    ]
+}
