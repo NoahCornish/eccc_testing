@@ -1,0 +1,89 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2289222791.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-03-31T07:50:11-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0428634738.2025,2025-03-27T20:38:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1847842996.2025,2025-03-28T03:38:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3811792226.2025,2025-03-28T08:35:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0665684981.2025,2025-03-28T08:46:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2770169745.2025,2025-03-28T16:33:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2715130967.2025,2025-03-28T21:48:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1348917604.2025,2025-03-29T02:26:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1400339492.2025,2025-03-29T06:28:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1855639512.2025,2025-03-29T16:25:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3296661570.2025,2025-03-29T16:34:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0622242039.2025,2025-03-29T20:29:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0584962860.2025,2025-03-30T01:35:55-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2740828791.2025,2025-03-30T08:40:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2392409297.2025,2025-03-30T15:47:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0641587490.2025,2025-03-30T20:47:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3111549532.2025,2025-03-31T03:38:03-00:00",
+    "headline": "freezing rain warning ended",
+    "event": "freezing rain",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-03-31T07:50:11-00:00",
+    "expires": "2025-03-31T08:50:11-00:00",
+    "description": "\nFreezing rain conditions are no longer expected.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Manitoulin Island",
+            "polygon": [
+                {
+                    "lat": 46.0319,
+                    "lon": -83.3864
+                },
+                {
+                    "lat": 46.0103,
+                    "lon": -82.3291
+                },
+                {
+                    "lat": 45.9443,
+                    "lon": -82.178
+                },
+                {
+                    "lat": 45.9754,
+                    "lon": -82.0969
+                },
+                {
+                    "lat": 45.9888,
+                    "lon": -81.9598
+                },
+                {
+                    "lat": 45.9727,
+                    "lon": -81.8832
+                },
+                {
+                    "lat": 45.8959,
+                    "lon": -81.8967
+                },
+                {
+                    "lat": 45.9078,
+                    "lon": -81.6625
+                },
+                {
+                    "lat": 45.8581,
+                    "lon": -81.6008
+                },
+                {
+                    "lat": 45.849,
+                    "lon": -81.3805
+                },
+                {
+                    "lat": 45.4495,
+                    "lon": -81.3483
+                },
+                {
+                    "lat": 45.3827,
+                    "lon": -81.9674
+                },
+                {
+                    "lat": 45.6034,
+                    "lon": -82.9541
+                },
+                {
+                    "lat": 45.8405,
+                    "lon": -83.5446
+                },
+                {
+                    "lat": 45.9477,
+                    "lon": -83.4793
+                },
+                {
+                    "lat": 46.0319,
+                    "lon": -83.3864
+                }
+            ]
+        }
+    ]
+}
