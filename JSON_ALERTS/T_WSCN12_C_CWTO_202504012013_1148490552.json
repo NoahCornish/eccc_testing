@@ -1,0 +1,130 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1148490552.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-01T20:13:39-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3918424497.2025,2025-03-31T20:15:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0713036951.2025,2025-04-01T04:40:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2698050299.2025,2025-04-01T09:37:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3494201164.2025,2025-04-01T15:41:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0920853682.2025,2025-04-01T17:24:57-00:00",
+    "headline": "special weather statement ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-04-01T20:13:39-00:00",
+    "expires": "2025-04-01T21:13:39-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Manitouwadge - Hornepayne",
+            "polygon": [
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                }
+            ]
+        },
+        {
+            "area_description": "Fraserdale - Pledger Lake",
+            "polygon": [
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.0149
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.3876,
+                    "lon": -83.8976
+                },
+                {
+                    "lat": 51.4751,
+                    "lon": -83.7667
+                },
+                {
+                    "lat": 51.498,
+                    "lon": -83.6224
+                },
+                {
+                    "lat": 51.624,
+                    "lon": -83.3889
+                },
+                {
+                    "lat": 51.817,
+                    "lon": -83.221
+                },
+                {
+                    "lat": 51.9629,
+                    "lon": -82.9587
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                }
+            ]
+        }
+    ]
+}
