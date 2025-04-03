@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1813451664.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-03T00:52:53-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1316893053.2025,2025-04-01T20:09:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1749138085.2025,2025-04-02T01:37:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2647569582.2025,2025-04-02T08:08:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4174790708.2025,2025-04-02T12:39:55-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3870481225.2025,2025-04-02T16:10:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4076250284.2025,2025-04-02T18:11:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1971527878.2025,2025-04-02T19:29:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2833244870.2025,2025-04-02T19:55:57-00:00",
+    "headline": "special weather statement ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-04-03T00:52:53-00:00",
+    "expires": "2025-04-03T01:52:53-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Picton - Sandbanks Park",
+            "polygon": [
+                {
+                    "lat": 43.8008,
+                    "lon": -77.1887
+                },
+                {
+                    "lat": 43.832,
+                    "lon": -77.5277
+                },
+                {
+                    "lat": 43.9059,
+                    "lon": -77.5904
+                },
+                {
+                    "lat": 43.9357,
+                    "lon": -77.505
+                },
+                {
+                    "lat": 43.9475,
+                    "lon": -77.4892
+                },
+                {
+                    "lat": 44.0606,
+                    "lon": -77.0965
+                },
+                {
+                    "lat": 44.0704,
+                    "lon": -77.067
+                },
+                {
+                    "lat": 44.1705,
+                    "lon": -76.8167
+                },
+                {
+                    "lat": 44.1612,
+                    "lon": -76.8085
+                },
+                {
+                    "lat": 44.0917,
+                    "lon": -76.8197
+                },
+                {
+                    "lat": 43.886,
+                    "lon": -76.7025
+                },
+                {
+                    "lat": 43.8008,
+                    "lon": -77.1887
+                }
+            ]
+        }
+    ]
+}
