@@ -1,0 +1,209 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1028321533.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-03T02:38:13-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-04-03T02:38:13-00:00",
+    "expires": "2025-04-03T07:36:13-00:00",
+    "description": "\nNear zero visibility in fog is expected or occurring.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "City of Hamilton",
+            "polygon": [
+                {
+                    "lat": 43.2844,
+                    "lon": -79.8785
+                },
+                {
+                    "lat": 43.2803,
+                    "lon": -79.874
+                },
+                {
+                    "lat": 43.3022,
+                    "lon": -79.8228
+                },
+                {
+                    "lat": 43.3007,
+                    "lon": -79.79
+                },
+                {
+                    "lat": 43.3008,
+                    "lon": -79.7889
+                },
+                {
+                    "lat": 43.3015,
+                    "lon": -79.7816
+                },
+                {
+                    "lat": 43.3019,
+                    "lon": -79.7773
+                },
+                {
+                    "lat": 43.3044,
+                    "lon": -79.7506
+                },
+                {
+                    "lat": 43.2659,
+                    "lon": -79.7344
+                },
+                {
+                    "lat": 43.2456,
+                    "lon": -79.6136
+                },
+                {
+                    "lat": 43.2066,
+                    "lon": -79.6202
+                },
+                {
+                    "lat": 43.1439,
+                    "lon": -79.6585
+                },
+                {
+                    "lat": 43.1468,
+                    "lon": -79.6838
+                },
+                {
+                    "lat": 43.1557,
+                    "lon": -79.7098
+                },
+                {
+                    "lat": 43.1047,
+                    "lon": -79.7246
+                },
+                {
+                    "lat": 43.0507,
+                    "lon": -79.7541
+                },
+                {
+                    "lat": 43.0818,
+                    "lon": -79.8715
+                },
+                {
+                    "lat": 43.1302,
+                    "lon": -79.9792
+                },
+                {
+                    "lat": 43.1719,
+                    "lon": -80.1103
+                },
+                {
+                    "lat": 43.2106,
+                    "lon": -80.2005
+                },
+                {
+                    "lat": 43.264,
+                    "lon": -80.2329
+                },
+                {
+                    "lat": 43.3062,
+                    "lon": -80.2385
+                },
+                {
+                    "lat": 43.3189,
+                    "lon": -80.2454
+                },
+                {
+                    "lat": 43.3341,
+                    "lon": -80.2487
+                },
+                {
+                    "lat": 43.3407,
+                    "lon": -80.2177
+                },
+                {
+                    "lat": 43.3443,
+                    "lon": -80.1877
+                },
+                {
+                    "lat": 43.3676,
+                    "lon": -80.1982
+                },
+                {
+                    "lat": 43.3976,
+                    "lon": -80.2045
+                },
+                {
+                    "lat": 43.41,
+                    "lon": -80.1438
+                },
+                {
+                    "lat": 43.418,
+                    "lon": -80.0785
+                },
+                {
+                    "lat": 43.4274,
+                    "lon": -80.0835
+                },
+                {
+                    "lat": 43.4351,
+                    "lon": -80.0838
+                },
+                {
+                    "lat": 43.4529,
+                    "lon": -80.063
+                },
+                {
+                    "lat": 43.4708,
+                    "lon": -80.034
+                },
+                {
+                    "lat": 43.4453,
+                    "lon": -79.9925
+                },
+                {
+                    "lat": 43.4178,
+                    "lon": -79.9601
+                },
+                {
+                    "lat": 43.3835,
+                    "lon": -79.9085
+                },
+                {
+                    "lat": 43.3544,
+                    "lon": -79.8707
+                },
+                {
+                    "lat": 43.3417,
+                    "lon": -79.8521
+                },
+                {
+                    "lat": 43.323,
+                    "lon": -79.8765
+                },
+                {
+                    "lat": 43.3285,
+                    "lon": -79.8849
+                },
+                {
+                    "lat": 43.3168,
+                    "lon": -79.8954
+                },
+                {
+                    "lat": 43.3083,
+                    "lon": -79.9125
+                },
+                {
+                    "lat": 43.2993,
+                    "lon": -79.8947
+                },
+                {
+                    "lat": 43.2907,
+                    "lon": -79.8854
+                },
+                {
+                    "lat": 43.2844,
+                    "lon": -79.8785
+                }
+            ]
+        }
+    ]
+}
