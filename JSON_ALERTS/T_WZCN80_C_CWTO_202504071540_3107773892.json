@@ -1,0 +1,355 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3107773892.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-07T15:42:01-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0414153825.2025,2025-04-07T15:36:19-00:00",
+    "headline": "snowfall warning in effect",
+    "event": "snowfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-04-07T15:42:01-00:00",
+    "expires": "2025-04-08T07:42:01-00:00",
+    "description": "\nHeavy snow beginning this evening.\n\nWhat:\nHeavy snow with total accumulations near 15 cm.\nPeak snowfall rates of 2 to 5 cm per hour.\nReduced visibility in heavy snow and local blowing snow.\n\nWhen:\nThis evening through Tuesday afternoon.\n\nAdditional information:\nA low pressure system will bring heavy snow to the area beginning this evening. Northwesterly winds gusting up to 60 km/h will develop overnight, further reducing visibility in local blowing snow. The snow will end and the wind will ease Tuesday afternoon.\n\n###\n\nRapidly accumulating snow will make travel difficult.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "Petawawa - Pembroke - Cobden",
+            "polygon": [
+                {
+                    "lat": 45.9342,
+                    "lon": -76.8372
+                },
+                {
+                    "lat": 45.7897,
+                    "lon": -76.5822
+                },
+                {
+                    "lat": 45.7001,
+                    "lon": -76.5608
+                },
+                {
+                    "lat": 45.6457,
+                    "lon": -76.6023
+                },
+                {
+                    "lat": 45.6413,
+                    "lon": -76.6861
+                },
+                {
+                    "lat": 45.6379,
+                    "lon": -76.6915
+                },
+                {
+                    "lat": 45.6364,
+                    "lon": -76.6962
+                },
+                {
+                    "lat": 45.6226,
+                    "lon": -76.7197
+                },
+                {
+                    "lat": 45.4419,
+                    "lon": -77.0247
+                },
+                {
+                    "lat": 45.6232,
+                    "lon": -77.2619
+                },
+                {
+                    "lat": 45.7951,
+                    "lon": -77.454
+                },
+                {
+                    "lat": 45.8209,
+                    "lon": -77.3594
+                },
+                {
+                    "lat": 45.9628,
+                    "lon": -77.4295
+                },
+                {
+                    "lat": 45.9791,
+                    "lon": -77.3596
+                },
+                {
+                    "lat": 45.9842,
+                    "lon": -77.3375
+                },
+                {
+                    "lat": 45.9853,
+                    "lon": -77.3276
+                },
+                {
+                    "lat": 45.9791,
+                    "lon": -77.2837
+                },
+                {
+                    "lat": 45.9952,
+                    "lon": -77.2193
+                },
+                {
+                    "lat": 45.9632,
+                    "lon": -77.2179
+                },
+                {
+                    "lat": 45.9485,
+                    "lon": -77.0795
+                },
+                {
+                    "lat": 45.9342,
+                    "lon": -76.8372
+                }
+            ]
+        },
+        {
+            "area_description": "Barry's Bay - Killaloe",
+            "polygon": [
+                {
+                    "lat": 45.186,
+                    "lon": -76.7945
+                },
+                {
+                    "lat": 45.154,
+                    "lon": -76.9755
+                },
+                {
+                    "lat": 45.1453,
+                    "lon": -76.9706
+                },
+                {
+                    "lat": 45.1219,
+                    "lon": -77.0499
+                },
+                {
+                    "lat": 45.0992,
+                    "lon": -77.1375
+                },
+                {
+                    "lat": 45.1677,
+                    "lon": -77.1801
+                },
+                {
+                    "lat": 45.2371,
+                    "lon": -77.2156
+                },
+                {
+                    "lat": 45.1901,
+                    "lon": -77.3695
+                },
+                {
+                    "lat": 45.1436,
+                    "lon": -77.5439
+                },
+                {
+                    "lat": 45.2404,
+                    "lon": -77.6039
+                },
+                {
+                    "lat": 45.3123,
+                    "lon": -77.6359
+                },
+                {
+                    "lat": 45.3142,
+                    "lon": -77.6295
+                },
+                {
+                    "lat": 45.3158,
+                    "lon": -77.6232
+                },
+                {
+                    "lat": 45.3708,
+                    "lon": -77.6553
+                },
+                {
+                    "lat": 45.4384,
+                    "lon": -77.6878
+                },
+                {
+                    "lat": 45.4161,
+                    "lon": -77.7638
+                },
+                {
+                    "lat": 45.3955,
+                    "lon": -77.8474
+                },
+                {
+                    "lat": 45.4509,
+                    "lon": -77.8794
+                },
+                {
+                    "lat": 45.5106,
+                    "lon": -77.9107
+                },
+                {
+                    "lat": 45.5314,
+                    "lon": -77.8441
+                },
+                {
+                    "lat": 45.5496,
+                    "lon": -77.7799
+                },
+                {
+                    "lat": 45.6111,
+                    "lon": -77.8159
+                },
+                {
+                    "lat": 45.672,
+                    "lon": -77.8406
+                },
+                {
+                    "lat": 45.7209,
+                    "lon": -77.6685
+                },
+                {
+                    "lat": 45.7624,
+                    "lon": -77.5019
+                },
+                {
+                    "lat": 45.7712,
+                    "lon": -77.5076
+                },
+                {
+                    "lat": 45.7802,
+                    "lon": -77.5089
+                },
+                {
+                    "lat": 45.7883,
+                    "lon": -77.4812
+                },
+                {
+                    "lat": 45.7951,
+                    "lon": -77.454
+                },
+                {
+                    "lat": 45.6293,
+                    "lon": -77.2372
+                },
+                {
+                    "lat": 45.4419,
+                    "lon": -77.0247
+                },
+                {
+                    "lat": 45.4417,
+                    "lon": -77.025
+                },
+                {
+                    "lat": 45.3169,
+                    "lon": -76.8633
+                },
+                {
+                    "lat": 45.1823,
+                    "lon": -76.7091
+                },
+                {
+                    "lat": 45.1628,
+                    "lon": -76.7367
+                },
+                {
+                    "lat": 45.143,
+                    "lon": -76.7701
+                },
+                {
+                    "lat": 45.186,
+                    "lon": -76.7945
+                }
+            ]
+        },
+        {
+            "area_description": "Renfrew - Arnprior - Calabogie",
+            "polygon": [
+                {
+                    "lat": 45.5318,
+                    "lon": -76.3927
+                },
+                {
+                    "lat": 45.4899,
+                    "lon": -76.36
+                },
+                {
+                    "lat": 45.4957,
+                    "lon": -76.3151
+                },
+                {
+                    "lat": 45.451,
+                    "lon": -76.3041
+                },
+                {
+                    "lat": 45.4365,
+                    "lon": -76.3136
+                },
+                {
+                    "lat": 45.4274,
+                    "lon": -76.3279
+                },
+                {
+                    "lat": 45.4274,
+                    "lon": -76.3279
+                },
+                {
+                    "lat": 45.4106,
+                    "lon": -76.354
+                },
+                {
+                    "lat": 45.4104,
+                    "lon": -76.3538
+                },
+                {
+                    "lat": 45.3024,
+                    "lon": -76.5052
+                },
+                {
+                    "lat": 45.1823,
+                    "lon": -76.7091
+                },
+                {
+                    "lat": 45.3107,
+                    "lon": -76.8765
+                },
+                {
+                    "lat": 45.4417,
+                    "lon": -77.025
+                },
+                {
+                    "lat": 45.4419,
+                    "lon": -77.0247
+                },
+                {
+                    "lat": 45.6226,
+                    "lon": -76.7197
+                },
+                {
+                    "lat": 45.6364,
+                    "lon": -76.6962
+                },
+                {
+                    "lat": 45.6379,
+                    "lon": -76.6915
+                },
+                {
+                    "lat": 45.6413,
+                    "lon": -76.6861
+                },
+                {
+                    "lat": 45.6457,
+                    "lon": -76.6023
+                },
+                {
+                    "lat": 45.6266,
+                    "lon": -76.6309
+                },
+                {
+                    "lat": 45.5768,
+                    "lon": -76.6276
+                },
+                {
+                    "lat": 45.5318,
+                    "lon": -76.3927
+                }
+            ]
+        }
+    ]
+}
