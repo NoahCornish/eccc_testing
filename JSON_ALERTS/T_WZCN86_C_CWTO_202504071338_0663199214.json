@@ -1,0 +1,93 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0663199214.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-07T14:07:59-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0608856220.2025,2025-04-06T21:23:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1189853375.2025,2025-04-07T03:21:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4002461772.2025,2025-04-07T08:28:57-00:00",
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-04-07T14:07:59-00:00",
+    "expires": "2025-04-08T06:07:59-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nLocally heavy snowfall with total accumulations of 10 to 15 cm.\nPeak snowfall rates of 3 to 5 cm per hour.\nReduced visibility in heavy snow and local blowing snow.\nStrong northwesterly winds gusting up to 70 km/h tonight.\n\nWhen:\nContinuing through tonight.\n\nAdditional information:\nAn area of heavy snow will push through the region today. The majority of snow will fall within a few hours. Strong northwesterly winds gusting up to 70 km/h and lake effect flurries will develop this evening, resulting in reduced visibility at times in heavy snow and blowing snow. Winds and flurries will weaken early Tuesday morning.\n\n###\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "Bruce Peninsula - Sauble Beach - Tobermory",
+            "polygon": [
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                },
+                {
+                    "lat": 44.6414,
+                    "lon": -81.1122
+                },
+                {
+                    "lat": 44.6267,
+                    "lon": -81.1132
+                },
+                {
+                    "lat": 44.5511,
+                    "lon": -81.1203
+                },
+                {
+                    "lat": 44.5357,
+                    "lon": -81.1971
+                },
+                {
+                    "lat": 44.5229,
+                    "lon": -81.2724
+                },
+                {
+                    "lat": 44.5846,
+                    "lon": -81.2887
+                },
+                {
+                    "lat": 44.5944,
+                    "lon": -81.2913
+                },
+                {
+                    "lat": 44.5866,
+                    "lon": -81.4622
+                },
+                {
+                    "lat": 45.3535,
+                    "lon": -81.8404
+                },
+                {
+                    "lat": 45.3822,
+                    "lon": -81.4145
+                },
+                {
+                    "lat": 45.2717,
+                    "lon": -81.1853
+                },
+                {
+                    "lat": 45.0703,
+                    "lon": -81.0827
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                }
+            ]
+        }
+    ]
+}
