@@ -1,0 +1,315 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1542583082.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-08T11:01:15-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-04-08T11:01:15-00:00",
+    "expires": "2025-04-08T16:04:15-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nLocal snowfall amounts of 2 to 4 cm.\nReduced visibility in snow and local blowing snow.\n\nWhen:\nEarly this morning.\n\nAdditional information:\nA band of lake effect snow off Georgian Bay continues to impact the area this morning. While snowfall accumulations will be limited, untreated surfaces are expected to be icy and slippery. The morning commute will be impacted.\n\n###\n\nSurfaces such as highways, roads, walkways and parking lots may become icy and slippery.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nPrepare for quickly changing and deteriorating travel conditions. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "City of Toronto",
+            "polygon": [
+                {
+                    "lat": 43.8216,
+                    "lon": -79.1495
+                },
+                {
+                    "lat": 43.7985,
+                    "lon": -79.1091
+                },
+                {
+                    "lat": 43.7984,
+                    "lon": -79.1088
+                },
+                {
+                    "lat": 43.7947,
+                    "lon": -79.1029
+                },
+                {
+                    "lat": 43.7242,
+                    "lon": -79.0603
+                },
+                {
+                    "lat": 43.5329,
+                    "lon": -79.5036
+                },
+                {
+                    "lat": 43.5834,
+                    "lon": -79.5327
+                },
+                {
+                    "lat": 43.571,
+                    "lon": -79.5567
+                },
+                {
+                    "lat": 43.6216,
+                    "lon": -79.5925
+                },
+                {
+                    "lat": 43.6373,
+                    "lon": -79.6206
+                },
+                {
+                    "lat": 43.6646,
+                    "lon": -79.5887
+                },
+                {
+                    "lat": 43.7108,
+                    "lon": -79.6243
+                },
+                {
+                    "lat": 43.75,
+                    "lon": -79.6386
+                },
+                {
+                    "lat": 43.8111,
+                    "lon": -79.4107
+                },
+                {
+                    "lat": 43.8556,
+                    "lon": -79.1702
+                },
+                {
+                    "lat": 43.8392,
+                    "lon": -79.1574
+                },
+                {
+                    "lat": 43.8216,
+                    "lon": -79.1495
+                }
+            ]
+        },
+        {
+            "area_description": "Newmarket - Georgina - Northern York Region",
+            "polygon": [
+                {
+                    "lat": 44.0307,
+                    "lon": -79.6736
+                },
+                {
+                    "lat": 44.0854,
+                    "lon": -79.5861
+                },
+                {
+                    "lat": 44.115,
+                    "lon": -79.5741
+                },
+                {
+                    "lat": 44.1371,
+                    "lon": -79.582
+                },
+                {
+                    "lat": 44.173,
+                    "lon": -79.5508
+                },
+                {
+                    "lat": 44.2059,
+                    "lon": -79.5448
+                },
+                {
+                    "lat": 44.2017,
+                    "lon": -79.517
+                },
+                {
+                    "lat": 44.4157,
+                    "lon": -79.5001
+                },
+                {
+                    "lat": 44.4607,
+                    "lon": -79.2606
+                },
+                {
+                    "lat": 44.3527,
+                    "lon": -79.1901
+                },
+                {
+                    "lat": 44.2585,
+                    "lon": -79.1477
+                },
+                {
+                    "lat": 44.2369,
+                    "lon": -79.2323
+                },
+                {
+                    "lat": 44.2211,
+                    "lon": -79.3158
+                },
+                {
+                    "lat": 44.1136,
+                    "lon": -79.2627
+                },
+                {
+                    "lat": 43.9987,
+                    "lon": -79.2189
+                },
+                {
+                    "lat": 43.9974,
+                    "lon": -79.2241
+                },
+                {
+                    "lat": 43.9978,
+                    "lon": -79.231
+                },
+                {
+                    "lat": 43.9829,
+                    "lon": -79.2206
+                },
+                {
+                    "lat": 43.9634,
+                    "lon": -79.2177
+                },
+                {
+                    "lat": 43.9456,
+                    "lon": -79.2807
+                },
+                {
+                    "lat": 43.9237,
+                    "lon": -79.3895
+                },
+                {
+                    "lat": 43.9494,
+                    "lon": -79.3965
+                },
+                {
+                    "lat": 43.9778,
+                    "lon": -79.3926
+                },
+                {
+                    "lat": 43.9631,
+                    "lon": -79.4363
+                },
+                {
+                    "lat": 43.9574,
+                    "lon": -79.4855
+                },
+                {
+                    "lat": 43.942,
+                    "lon": -79.4778
+                },
+                {
+                    "lat": 43.9242,
+                    "lon": -79.4777
+                },
+                {
+                    "lat": 43.896,
+                    "lon": -79.5844
+                },
+                {
+                    "lat": 43.8772,
+                    "lon": -79.6971
+                },
+                {
+                    "lat": 43.8757,
+                    "lon": -79.7114
+                },
+                {
+                    "lat": 43.9395,
+                    "lon": -79.7508
+                },
+                {
+                    "lat": 43.9897,
+                    "lon": -79.7752
+                },
+                {
+                    "lat": 44.0031,
+                    "lon": -79.7178
+                },
+                {
+                    "lat": 44.0157,
+                    "lon": -79.6569
+                },
+                {
+                    "lat": 44.0307,
+                    "lon": -79.6736
+                }
+            ]
+        },
+        {
+            "area_description": "Vaughan - Richmond Hill - Markham",
+            "polygon": [
+                {
+                    "lat": 43.9634,
+                    "lon": -79.2177
+                },
+                {
+                    "lat": 43.9034,
+                    "lon": -79.1833
+                },
+                {
+                    "lat": 43.8556,
+                    "lon": -79.1702
+                },
+                {
+                    "lat": 43.7956,
+                    "lon": -79.4059
+                },
+                {
+                    "lat": 43.75,
+                    "lon": -79.6386
+                },
+                {
+                    "lat": 43.8218,
+                    "lon": -79.6842
+                },
+                {
+                    "lat": 43.8473,
+                    "lon": -79.6972
+                },
+                {
+                    "lat": 43.8757,
+                    "lon": -79.7114
+                },
+                {
+                    "lat": 43.9081,
+                    "lon": -79.5902
+                },
+                {
+                    "lat": 43.9242,
+                    "lon": -79.4777
+                },
+                {
+                    "lat": 43.9392,
+                    "lon": -79.4858
+                },
+                {
+                    "lat": 43.9574,
+                    "lon": -79.4855
+                },
+                {
+                    "lat": 43.9684,
+                    "lon": -79.4476
+                },
+                {
+                    "lat": 43.9778,
+                    "lon": -79.3926
+                },
+                {
+                    "lat": 43.9458,
+                    "lon": -79.3849
+                },
+                {
+                    "lat": 43.9237,
+                    "lon": -79.3895
+                },
+                {
+                    "lat": 43.9532,
+                    "lon": -79.2851
+                },
+                {
+                    "lat": 43.9634,
+                    "lon": -79.2177
+                }
+            ]
+        }
+    ]
+}
