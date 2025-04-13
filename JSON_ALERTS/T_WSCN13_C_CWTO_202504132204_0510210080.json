@@ -1,0 +1,114 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0510210080.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-13T22:15:54-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1592459246.2025,2025-04-12T20:19:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1044352333.2025,2025-04-13T00:35:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0639344249.2025,2025-04-13T08:38:43-00:00",
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-04-13T22:15:54-00:00",
+    "expires": "2025-04-14T14:15:54-00:00",
+    "description": "\nHeavy snow expected Monday night into Tuesday.\n\nWhat:\nHeavy snow with total accumulations of 15 to 25 cm.\nReduced visibility in heavy snow.\n\nWhen:\nMonday night into Tuesday.\n\nAdditional information:\nA Colorado low will affect the area beginning Monday. Precipitation will begin as rain before changing to heavy snow Monday night. There is also a risk of freezing rain during this transition. Snowfall warnings are likely as this event approaches.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Attawapiskat",
+            "polygon": [
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                },
+                {
+                    "lat": 54.0004,
+                    "lon": -82.2294
+                },
+                {
+                    "lat": 53.9804,
+                    "lon": -81.9568
+                },
+                {
+                    "lat": 53.3416,
+                    "lon": -81.9632
+                },
+                {
+                    "lat": 53.0256,
+                    "lon": -82.2216
+                },
+                {
+                    "lat": 52.4881,
+                    "lon": -81.4236
+                },
+                {
+                    "lat": 52.4649,
+                    "lon": -81.6114
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                }
+            ]
+        },
+        {
+            "area_description": "Fort Albany",
+            "polygon": [
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 52.4649,
+                    "lon": -81.6114
+                },
+                {
+                    "lat": 52.4881,
+                    "lon": -81.4236
+                },
+                {
+                    "lat": 51.9724,
+                    "lon": -80.6927
+                },
+                {
+                    "lat": 51.8769,
+                    "lon": -80.8373
+                },
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                },
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                }
+            ]
+        }
+    ]
+}
