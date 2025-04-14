@@ -1,0 +1,94 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3805388505.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-14T19:34:24-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3379286217.2025,2025-04-13T22:06:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4052974522.2025,2025-04-14T06:05:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3891067486.2025,2025-04-14T09:32:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2442434555.2025,2025-04-14T15:18:32-00:00",
+    "headline": "snowfall warning changed",
+    "event": "snowfall",
+    "urgency": "Immediate",
+    "severity": "Moderate",
+    "certainty": "Unknown",
+    "effective": "2025-04-14T19:34:24-00:00",
+    "expires": "2025-04-14T19:34:24-00:00",
+    "description": "\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Nakina - Aroland - Pagwa",
+            "polygon": [
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.2465,
+                    "lon": -84.7492
+                },
+                {
+                    "lat": 51.1721,
+                    "lon": -84.5361
+                },
+                {
+                    "lat": 51.2908,
+                    "lon": -84.362
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                }
+            ]
+        },
+        {
+            "area_description": "Geraldton - Longlac - Caramat",
+            "polygon": [
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                }
+            ]
+        }
+    ]
+}
