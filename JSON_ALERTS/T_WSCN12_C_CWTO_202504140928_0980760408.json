@@ -1,0 +1,94 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0980760408.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-14T09:35:41-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0317777960.2025,2025-04-12T20:19:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0704020886.2025,2025-04-13T00:35:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3910919319.2025,2025-04-13T08:38:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2031493419.2025,2025-04-13T22:15:54-00:00",
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-04-14T09:35:41-00:00",
+    "expires": "2025-04-15T01:35:41-00:00",
+    "description": "\nHeavy snow expected tonight into Tuesday.\n\nWhat:\nHeavy snow with total accumulations of 10 to 15 cm.\nReduced visibility in heavy snow and local blowing snow.\n\nWhen:\nBeginning late this afternoon or this evening continuing into Tuesday.\n\nAdditional information:\nA Colorado low will affect the area today. Precipitation will begin as rain before changing to snow late this afternoon or this evening. There is also a risk of freezing rain during this transition.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Manitouwadge - Hornepayne",
+            "polygon": [
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                }
+            ]
+        },
+        {
+            "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
+            "polygon": [
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.0149
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                }
+            ]
+        }
+    ]
+}
