@@ -1,0 +1,216 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0414700876.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-14T03:54:37-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-04-14T03:54:37-00:00",
+    "expires": "2025-04-14T19:54:37-00:00",
+    "description": "\nSignificant rainfall tonight into Monday.\n\nWhat:\nRainfall with total accumulations of 15 to 25 mm is possible.\n\nWhen:\nTonight into Monday afternoon.\n\nAdditional information:\nThis rainfall combined with the limited ability of the frozen ground to absorb this rainfall may lead to localized flooding in low-lying areas and water pooling on roads. \n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Agawa - Lake Superior Park",
+            "polygon": [
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                },
+                {
+                    "lat": 47.8957,
+                    "lon": -84.8608
+                },
+                {
+                    "lat": 47.963,
+                    "lon": -84.6559
+                },
+                {
+                    "lat": 48.0973,
+                    "lon": -84.2418
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                },
+                {
+                    "lat": 48.1106,
+                    "lon": -83.996
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                }
+            ]
+        },
+        {
+            "area_description": "Searchmont - Montreal River Harbour - Batchawana Bay",
+            "polygon": [
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6321,
+                    "lon": -84.7351
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                }
+            ]
+        },
+        {
+            "area_description": "Elliot Lake - Ranger Lake",
+            "polygon": [
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.6086,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                }
+            ]
+        },
+        {
+            "area_description": "Chapleau - Missinaibi Lake",
+            "polygon": [
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                }
+            ]
+        }
+    ]
+}
