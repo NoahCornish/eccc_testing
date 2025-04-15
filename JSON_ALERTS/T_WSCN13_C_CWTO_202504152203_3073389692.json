@@ -1,0 +1,114 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3073389692.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-15T22:06:53-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3385848340.2025,2025-04-14T09:22:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3792893439.2025,2025-04-14T15:32:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4053093616.2025,2025-04-14T19:43:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1193395096.2025,2025-04-15T04:39:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0429481025.2025,2025-04-15T09:47:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2774360909.2025,2025-04-15T19:54:59-00:00",
+    "headline": "special weather statement ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-04-15T22:06:53-00:00",
+    "expires": "2025-04-15T23:06:53-00:00",
+    "description": "\nSnow will continue tonight, however significant snowfall accumulations are no longer expected.\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Attawapiskat",
+            "polygon": [
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                },
+                {
+                    "lat": 54.0004,
+                    "lon": -82.2294
+                },
+                {
+                    "lat": 53.9804,
+                    "lon": -81.9568
+                },
+                {
+                    "lat": 53.3416,
+                    "lon": -81.9632
+                },
+                {
+                    "lat": 53.0256,
+                    "lon": -82.2216
+                },
+                {
+                    "lat": 52.4881,
+                    "lon": -81.4236
+                },
+                {
+                    "lat": 52.4649,
+                    "lon": -81.6114
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                }
+            ]
+        },
+        {
+            "area_description": "Fort Albany",
+            "polygon": [
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 52.4649,
+                    "lon": -81.6114
+                },
+                {
+                    "lat": 52.4881,
+                    "lon": -81.4236
+                },
+                {
+                    "lat": 51.9724,
+                    "lon": -80.6927
+                },
+                {
+                    "lat": 51.8769,
+                    "lon": -80.8373
+                },
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                },
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                }
+            ]
+        }
+    ]
+}
