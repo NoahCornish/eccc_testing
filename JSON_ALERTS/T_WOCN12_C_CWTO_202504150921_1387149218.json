@@ -1,0 +1,61 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1387149218.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-15T09:23:36-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3850419515.2025,2025-04-14T22:12:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3225402248.2025,2025-04-15T03:52:24-00:00",
+    "headline": "weather advisory in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-04-15T03:52:24-00:00",
+    "expires": "2025-04-15T19:52:24-00:00",
+    "description": "\nWinter weather travel advisory in effect.\n\nWhat:\nSnowfall with total accumulations of 5 to 10 cm, possibly exceeding 10 cm for some areas.\nReduced visibility in heavy snow and local blowing snow. \n\nWhen:\nTonight, continuing into Tuesday.\n\nAdditional information:\nRain will change to snow late this evening. Gusty northwest winds will develop tonight leading to reduced visibility in areas of blowing snow.\n\n###\n\nTravel may be hazardous due to sudden changes in the weather.\n\nFor road conditions and other traveller information from the Ministry of Transportation, visit https://www.ontario.ca/511, https://www.twitter.com/511Ontario, or call 5-1-1.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBe prepared to adjust your driving with changing road conditions. Slow down driving in slippery conditions. Watch for taillights ahead and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Manitouwadge - Hornepayne",
+            "polygon": [
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                }
+            ]
+        }
+    ]
+}
