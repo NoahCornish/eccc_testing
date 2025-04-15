@@ -203,6 +203,417 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1193395096.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-04-15T04:39:05-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3385848340.2025,2025-04-14T09:22:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3792893439.2025,2025-04-14T15:32:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4053093616.2025,2025-04-14T19:43:41-00:00",
+            "headline": "special weather statement in effect",
+            "event": "weather",
+            "urgency": "Future",
+            "severity": "Minor",
+            "certainty": "Possible",
+            "effective": "2025-04-15T04:39:05-00:00",
+            "expires": "2025-04-15T20:39:05-00:00",
+            "description": "\nHeavy snow expected.\n\nWhat:\nTotal snowfall accumulations of 10 to 20 cm.\nReduced visibility in heavy snow and local blowing snow.\n\nWhen:\nContinuing through this evening.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "Attawapiskat",
+                    "polygon": [
+                        {
+                            "lat": 54.0006,
+                            "lon": -82.2369
+                        },
+                        {
+                            "lat": 54.0004,
+                            "lon": -82.2294
+                        },
+                        {
+                            "lat": 53.9804,
+                            "lon": -81.9568
+                        },
+                        {
+                            "lat": 53.3416,
+                            "lon": -81.9632
+                        },
+                        {
+                            "lat": 53.0256,
+                            "lon": -82.2216
+                        },
+                        {
+                            "lat": 52.4881,
+                            "lon": -81.4236
+                        },
+                        {
+                            "lat": 52.4649,
+                            "lon": -81.6114
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 54.0287,
+                            "lon": -83.7002
+                        },
+                        {
+                            "lat": 54.0006,
+                            "lon": -82.2369
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Fort Albany",
+                    "polygon": [
+                        {
+                            "lat": 51.3164,
+                            "lon": -82.1507
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 52.4649,
+                            "lon": -81.6114
+                        },
+                        {
+                            "lat": 52.4881,
+                            "lon": -81.4236
+                        },
+                        {
+                            "lat": 51.9724,
+                            "lon": -80.6927
+                        },
+                        {
+                            "lat": 51.8769,
+                            "lon": -80.8373
+                        },
+                        {
+                            "lat": 51.8738,
+                            "lon": -80.8407
+                        },
+                        {
+                            "lat": 51.3164,
+                            "lon": -82.1507
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3305007264.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-04-15T04:30:18-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1754787790.2025,2025-04-13T22:07:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2173008289.2025,2025-04-14T05:50:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2136628009.2025,2025-04-14T06:02:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0783595944.2025,2025-04-14T09:32:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4288421554.2025,2025-04-14T15:15:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1459324206.2025,2025-04-14T19:34:24-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-04-15T04:30:18-00:00",
+            "expires": "2025-04-15T17:01:18-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\nWhat:\nReduced visibility in heavy snow and local blowing snow.\nPeak snowfall rates of 2 to 3 cm per hour. \n\nWhen:\nTapering off later this morning.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nBe prepared to adjust your driving with changing road conditions.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Beardmore - Jellicoe - Macdiarmid",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.1383,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.1129,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Nakina - Aroland - Pagwa",
+                    "polygon": [
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.2465,
+                            "lon": -84.7492
+                        },
+                        {
+                            "lat": 51.1721,
+                            "lon": -84.5361
+                        },
+                        {
+                            "lat": 51.2908,
+                            "lon": -84.362
+                        },
+                        {
+                            "lat": 51.3077,
+                            "lon": -84.1527
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 49.9546,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Geraldton - Longlac - Caramat",
+                    "polygon": [
+                        {
+                            "lat": 48.8844,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 49.1383,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9546,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 48.8844,
+                            "lon": -85.9469
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2630133807.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-04-15T04:32:24-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2942535865.2025,2025-04-14T09:28:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1029101240.2025,2025-04-14T15:27:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3974889387.2025,2025-04-14T19:51:51-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-04-15T04:32:24-00:00",
+            "expires": "2025-04-15T20:32:24-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\nWhat:\nReduced visibility in heavy snow and local blowing snow.\nPeak snowfall rates of 2 to 3 cm per hour. \n\nWhen:\nContinuing today, tapering off late in the evening.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nPrepare for quickly changing and deteriorating travel conditions.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Fraserdale - Pledger Lake",
+                    "polygon": [
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.0149
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.3077,
+                            "lon": -84.1527
+                        },
+                        {
+                            "lat": 51.3876,
+                            "lon": -83.8976
+                        },
+                        {
+                            "lat": 51.4751,
+                            "lon": -83.7667
+                        },
+                        {
+                            "lat": 51.498,
+                            "lon": -83.6224
+                        },
+                        {
+                            "lat": 51.624,
+                            "lon": -83.3889
+                        },
+                        {
+                            "lat": 51.817,
+                            "lon": -83.221
+                        },
+                        {
+                            "lat": 51.9629,
+                            "lon": -82.9587
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.0545505886.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-04-15T04:36:38-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4181380843.2025,2025-04-13T22:14:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3714811481.2025,2025-04-14T09:27:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3205718573.2025,2025-04-14T15:26:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2223314628.2025,2025-04-14T19:32:34-00:00",
+            "headline": "snowfall warning in effect",
+            "event": "snowfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-04-15T04:36:38-00:00",
+            "expires": "2025-04-15T20:36:38-00:00",
+            "description": "\nSnowfall with total amounts of 15 to 25 cm is expected.\n\nWhat:\nPeak snowfall rates of 2 to 3 cm per hour. \nReduced visibility in heavy snow.\n\nWhen:\nContinuing through late this afternoon. \n\nAdditional information:\nSnow, heavy at times will mainly impact the community of Ogoki Post. The axis of heaviest snow is expected to cover a swath from near Armstrong, to Ogoki Post and northeast towards James Bay.\n\n###\n\nVisibility may be suddenly reduced at times in heavy snow. Surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nBe prepared to adjust your driving with changing road conditions.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Fort Hope - Lansdowne House - Ogoki",
+                    "polygon": [
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        },
+                        {
+                            "lat": 51.0571,
+                            "lon": -84.4653
+                        },
+                        {
+                            "lat": 51.0622,
+                            "lon": -84.57
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8342
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.4893,
+                            "lon": -83.2673
+                        },
+                        {
+                            "lat": 51.2539,
+                            "lon": -83.9119
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
