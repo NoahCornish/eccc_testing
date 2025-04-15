@@ -1,0 +1,61 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0328305097.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-15T15:48:06-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3850419515.2025,2025-04-14T22:12:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3225402248.2025,2025-04-15T03:52:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1387149218.2025,2025-04-15T09:23:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3233444985.2025,2025-04-15T09:32:44-00:00",
+    "headline": "weather advisory ended",
+    "event": "weather",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-04-15T15:48:06-00:00",
+    "expires": "2025-04-15T16:48:06-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Manitouwadge - Hornepayne",
+            "polygon": [
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                }
+            ]
+        }
+    ]
+}
