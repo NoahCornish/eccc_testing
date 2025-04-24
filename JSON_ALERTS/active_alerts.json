@@ -1,21 +1,21 @@
 {
     "alerts": [
         {
-            "identifier": "urn:oid:2.49.0.1.124.0947896779.2025",
+            "identifier": "urn:oid:2.49.0.1.124.2538318882.2025",
             "sender": "cap-pac@canada.ca",
-            "sent": "2025-04-23T19:46:50-00:00",
+            "sent": "2025-04-24T04:45:37-00:00",
             "status": "Actual",
-            "msgType": "Alert",
+            "msgType": "Update",
             "scope": "Public",
-            "references": null,
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0947896779.2025,2025-04-23T19:46:50-00:00",
             "headline": "freezing rain warning in effect",
             "event": "freezing rain",
             "urgency": "Future",
             "severity": "Moderate",
             "certainty": "Likely",
-            "effective": "2025-04-23T19:46:50-00:00",
-            "expires": "2025-04-24T11:46:50-00:00",
-            "description": "\nFreezing rain expected tonight.\n\nWhat:\nFreezing rain with ice build-up of 1 to 2 mm possible.\n\nWhen:\nOvernight into Thursday morning.\n\nAdditional information:\nFreezing rain is expected to remain north of Fraserdale and extend east towards the Quebec border.\n\n###\n\nFreezing rain warnings are issued when rain falling in sub-zero temperatures creates ice build-up and icy surfaces.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "effective": "2025-04-24T04:45:37-00:00",
+            "expires": "2025-04-24T15:01:37-00:00",
+            "description": "\nFreezing rain expected this morning.\n\nWhat:\nPatchy freezing rain.\n\nWhen:\nThis morning.\n\nAdditional information:\nFreezing rain is expected to remain north of Fraserdale and extend east towards the Quebec border.\n\n###\n\nFreezing rain warnings are issued when rain falling in sub-zero temperatures creates ice build-up and icy surfaces.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
             "instruction": null,
             "affected_areas": [
                 {
