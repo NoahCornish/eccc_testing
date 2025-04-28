@@ -1,0 +1,139 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3914442302.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-28T09:16:15-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2759701677.2025,2025-04-27T20:06:43-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-04-28T09:16:15-00:00",
+    "expires": "2025-04-29T01:16:15-00:00",
+    "description": "\nHeavy rain expected today.\n\nWhat:\nRainfall amounts of 20 to 30 mm.\n\nWhen:\nThis afternoon through tonight.\n\nAdditional information:\nA low pressure system will bring heavy rain to the area today. The frozen ground has a reduced ability to absorb this rainfall.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nLocalized flooding in low-lying areas is possible. Heavy downpours can cause flash floods and water pooling on roads.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Savant Lake - Sturgeon Lake",
+            "polygon": [
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 49.5235,
+                    "lon": -90.0178
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                }
+            ]
+        },
+        {
+            "area_description": "Armstrong - Auden - Wabakimi Park",
+            "polygon": [
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                }
+            ]
+        },
+        {
+            "area_description": "Nakina - Aroland - Pagwa",
+            "polygon": [
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.2465,
+                    "lon": -84.7492
+                },
+                {
+                    "lat": 51.1721,
+                    "lon": -84.5361
+                },
+                {
+                    "lat": 51.2908,
+                    "lon": -84.362
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                }
+            ]
+        }
+    ]
+}
