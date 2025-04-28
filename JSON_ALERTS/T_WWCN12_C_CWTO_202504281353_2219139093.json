@@ -1,0 +1,123 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2219139093.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-28T13:53:14-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0737077942.2025,2025-04-27T20:07:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0917356015.2025,2025-04-28T09:17:23-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-04-28T09:17:23-00:00",
+    "expires": "2025-04-29T01:17:23-00:00",
+    "description": "\nHeavy rain expected today.\n\nWhat:\nRainfall amounts of 30 to 50 mm.\n\nWhen:\nMonday afternoon through Monday night.\n\nAdditional information:\nA low pressure system will bring heavy rain and thunderstorms to the area Monday. The frozen ground has a reduced ability to absorb this rainfall.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nLocalized flooding in low-lying areas is possible. Heavy downpours can cause flash floods and water pooling on roads.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Geraldton - Longlac - Caramat",
+            "polygon": [
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                }
+            ]
+        },
+        {
+            "area_description": "Manitouwadge - Hornepayne",
+            "polygon": [
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                }
+            ]
+        },
+        {
+            "area_description": "Marathon - Schreiber",
+            "polygon": [
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                }
+            ]
+        }
+    ]
+}
