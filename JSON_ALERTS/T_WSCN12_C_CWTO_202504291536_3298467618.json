@@ -1,0 +1,77 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3298467618.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-29T15:38:30-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1696525655.2025,2025-04-27T20:15:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2369467319.2025,2025-04-28T09:13:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1099194354.2025,2025-04-28T20:19:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3604370639.2025,2025-04-29T03:25:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2993183783.2025,2025-04-29T09:08:43-00:00",
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-04-29T15:38:30-00:00",
+    "expires": "2025-04-30T00:01:30-00:00",
+    "description": "\nIcy conditions possible this morning.\n\nWhat:\nIcy and slippery surfaces.\nRisk of freezing rain.\n\nWhen:\nNear noon.\n\nAdditional information:\nRain will change to ice pellets or freezing rain and then to snow late early this afternoon as the temperature falls below zero. \n\nSurfaces may become icy and slippery due to standing water freezing and any freezing rain that falls.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Timmins - Cochrane - Iroquois Falls",
+            "polygon": [
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.5243,
+                    "lon": -79.5062
+                },
+                {
+                    "lat": 48.4498,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.3417,
+                    "lon": -79.5072
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 48.9319,
+                    "lon": -79.5076
+                },
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                }
+            ]
+        }
+    ]
+}
