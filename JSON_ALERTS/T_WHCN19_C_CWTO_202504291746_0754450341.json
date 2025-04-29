@@ -1,0 +1,150 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0754450341.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-29T17:49:44-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "squall watch in effect",
+    "event": "squall",
+    "urgency": "Expected",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-04-29T17:49:44-00:00",
+    "expires": "2025-04-30T05:02:44-00:00",
+    "description": "\nConditions are favourable for the development of squalls with wind gusts up to 50 knots, frequent lightning and hail.\n\nSqualls to 50 knots are possible this afternoon into this evening as thunderstorms across the waters. Hail is also possible.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nVessels without lightning protection should make their way to shore immediately. Mariners are advised to prepare for potential squalls. Vulnerable vessels are most at risk and should seek safe harbour if underway.\n",
+    "affected_areas": [
+        {
+            "area_description": "Lake Simcoe",
+            "polygon": [
+                {
+                    "lat": 44.2981,
+                    "lon": -79.1168
+                },
+                {
+                    "lat": 44.2745,
+                    "lon": -79.4177
+                },
+                {
+                    "lat": 44.1477,
+                    "lon": -79.48
+                },
+                {
+                    "lat": 44.2122,
+                    "lon": -79.5983
+                },
+                {
+                    "lat": 44.3261,
+                    "lon": -79.6004
+                },
+                {
+                    "lat": 44.3841,
+                    "lon": -79.7573
+                },
+                {
+                    "lat": 44.4572,
+                    "lon": -79.5961
+                },
+                {
+                    "lat": 44.5367,
+                    "lon": -79.4671
+                },
+                {
+                    "lat": 44.7602,
+                    "lon": -79.3962
+                },
+                {
+                    "lat": 44.8032,
+                    "lon": -79.3167
+                },
+                {
+                    "lat": 44.6334,
+                    "lon": -79.3102
+                },
+                {
+                    "lat": 44.5711,
+                    "lon": -79.1254
+                },
+                {
+                    "lat": 44.2981,
+                    "lon": -79.1168
+                }
+            ]
+        },
+        {
+            "area_description": "Lake Nipissing",
+            "polygon": [
+                {
+                    "lat": 46.2011,
+                    "lon": -80.4337
+                },
+                {
+                    "lat": 46.2499,
+                    "lon": -80.5594
+                },
+                {
+                    "lat": 46.3179,
+                    "lon": -80.5399
+                },
+                {
+                    "lat": 46.3171,
+                    "lon": -80.2733
+                },
+                {
+                    "lat": 46.3832,
+                    "lon": -80.0669
+                },
+                {
+                    "lat": 46.3711,
+                    "lon": -79.9012
+                },
+                {
+                    "lat": 46.3832,
+                    "lon": -79.5614
+                },
+                {
+                    "lat": 46.2123,
+                    "lon": -79.2858
+                },
+                {
+                    "lat": 46.1511,
+                    "lon": -79.4389
+                },
+                {
+                    "lat": 46.0737,
+                    "lon": -79.5437
+                },
+                {
+                    "lat": 46.1754,
+                    "lon": -79.7273
+                },
+                {
+                    "lat": 46.1202,
+                    "lon": -79.9602
+                },
+                {
+                    "lat": 46.128,
+                    "lon": -80.2064
+                },
+                {
+                    "lat": 46.1671,
+                    "lon": -80.2196
+                },
+                {
+                    "lat": 46.2005,
+                    "lon": -80.1407
+                },
+                {
+                    "lat": 46.1866,
+                    "lon": -80.3241
+                },
+                {
+                    "lat": 46.2011,
+                    "lon": -80.4337
+                }
+            ]
+        }
+    ]
+}
