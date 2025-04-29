@@ -1,0 +1,89 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2671450825.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-04-29T23:13:45-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1756325106.2025,2025-04-29T20:37:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1912123375.2025,2025-04-29T22:20:26-00:00",
+    "headline": "squall warning changed",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Severe",
+    "certainty": "Unknown",
+    "effective": "2025-04-29T23:13:45-00:00",
+    "expires": "2025-04-29T23:13:45-00:00",
+    "description": "\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Western Lake Erie",
+            "polygon": [
+                {
+                    "lat": 42.0512,
+                    "lon": -83.1462
+                },
+                {
+                    "lat": 42.0537,
+                    "lon": -83.1109
+                },
+                {
+                    "lat": 42.0629,
+                    "lon": -83.0565
+                },
+                {
+                    "lat": 42.0167,
+                    "lon": -82.9069
+                },
+                {
+                    "lat": 42.0946,
+                    "lon": -82.6165
+                },
+                {
+                    "lat": 42.2319,
+                    "lon": -82.3391
+                },
+                {
+                    "lat": 42.5988,
+                    "lon": -81.7125
+                },
+                {
+                    "lat": 42.784,
+                    "lon": -81.2109
+                },
+                {
+                    "lat": 42.66,
+                    "lon": -81.1553
+                },
+                {
+                    "lat": 42.2591,
+                    "lon": -80.9327
+                },
+                {
+                    "lat": 42.2075,
+                    "lon": -81.2457
+                },
+                {
+                    "lat": 41.6765,
+                    "lon": -82.3974
+                },
+                {
+                    "lat": 41.6765,
+                    "lon": -82.6797
+                },
+                {
+                    "lat": 41.8635,
+                    "lon": -83.0691
+                },
+                {
+                    "lat": 42.0409,
+                    "lon": -83.1496
+                },
+                {
+                    "lat": 42.0512,
+                    "lon": -83.1462
+                }
+            ]
+        }
+    ]
+}
