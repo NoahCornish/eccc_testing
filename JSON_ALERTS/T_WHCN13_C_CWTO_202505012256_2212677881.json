@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2212677881.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-05-01T22:56:10-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3016772954.2025,2025-05-01T18:36:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1636248916.2025,2025-05-01T18:38:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2341396100.2025,2025-05-01T19:31:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1878845672.2025,2025-05-01T19:33:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3551447586.2025,2025-05-01T20:45:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0411037047.2025,2025-05-01T20:50:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1009100955.2025,2025-05-01T21:56:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4274405619.2025,2025-05-01T22:17:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2989606754.2025,2025-05-01T22:20:49-00:00",
+    "headline": "squall warning ended",
+    "event": "squall",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-05-01T22:56:10-00:00",
+    "expires": "2025-05-01T23:56:10-00:00",
+    "description": "\nSqualls have weakened or moved out of the area.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Eastern Lake Erie",
+            "polygon": [
+                {
+                    "lat": 42.3935,
+                    "lon": -80.0799
+                },
+                {
+                    "lat": 42.2591,
+                    "lon": -80.9327
+                },
+                {
+                    "lat": 42.66,
+                    "lon": -81.1553
+                },
+                {
+                    "lat": 42.784,
+                    "lon": -81.2109
+                },
+                {
+                    "lat": 42.7293,
+                    "lon": -80.5966
+                },
+                {
+                    "lat": 42.9012,
+                    "lon": -80.3291
+                },
+                {
+                    "lat": 42.9814,
+                    "lon": -79.6261
+                },
+                {
+                    "lat": 42.9623,
+                    "lon": -79.0529
+                },
+                {
+                    "lat": 42.9389,
+                    "lon": -78.8933
+                },
+                {
+                    "lat": 42.9052,
+                    "lon": -78.9059
+                },
+                {
+                    "lat": 42.8283,
+                    "lon": -78.9353
+                },
+                {
+                    "lat": 42.3935,
+                    "lon": -80.0799
+                }
+            ]
+        }
+    ]
+}
