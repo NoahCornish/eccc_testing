@@ -1,0 +1,147 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4049398156.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-05-13T15:49:35-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0825408996.2025,2025-05-11T19:37:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1144676980.2025,2025-05-12T08:08:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0851178369.2025,2025-05-12T20:27:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1691591999.2025,2025-05-13T08:07:19-00:00",
+    "headline": "heat warning changed",
+    "event": "heat",
+    "urgency": "Immediate",
+    "severity": "Moderate",
+    "certainty": "Unknown",
+    "effective": "2025-05-13T15:49:35-00:00",
+    "expires": "2025-05-13T15:49:35-00:00",
+    "description": "\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Red Lake - Woodland Caribou Park",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.5513,
+                    "lon": -94.5036
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.4257,
+                    "lon": -93.6935
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 50.8325,
+                    "lon": -93.4705
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2863,
+                    "lon": -93.8911
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.3413,
+                    "lon": -94.7122
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.3682,
+                    "lon": -95.1601
+                },
+                {
+                    "lat": 50.3956,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.6658,
+                    "lon": -95.1655
+                },
+                {
+                    "lat": 50.8931,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.2501,
+                    "lon": -95.1961
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Sioux Lookout - Eastern Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        }
+    ]
+}
