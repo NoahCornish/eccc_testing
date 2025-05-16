@@ -1,0 +1,105 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1805550054.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-05-16T23:36:53-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1148111139.2025,2025-05-16T23:34:56-00:00",
+    "headline": "squall warning in effect",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-05-16T23:34:56-00:00",
+    "expires": "2025-05-17T03:34:56-00:00",
+    "description": "\nGusty showers and thunderstorms over Upper Michigan are moving northeast at 35 knots toward Whitefish Bay. Wind gusts of 35 knots are expected.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Whitefish Bay",
+            "polygon": [
+                {
+                    "lat": 47.0155,
+                    "lon": -84.6525
+                },
+                {
+                    "lat": 46.9635,
+                    "lon": -84.6284
+                },
+                {
+                    "lat": 46.9864,
+                    "lon": -84.5099
+                },
+                {
+                    "lat": 46.8933,
+                    "lon": -84.3128
+                },
+                {
+                    "lat": 46.7765,
+                    "lon": -84.3947
+                },
+                {
+                    "lat": 46.6831,
+                    "lon": -84.373
+                },
+                {
+                    "lat": 46.61,
+                    "lon": -84.5209
+                },
+                {
+                    "lat": 46.5641,
+                    "lon": -84.5703
+                },
+                {
+                    "lat": 46.5339,
+                    "lon": -84.5263
+                },
+                {
+                    "lat": 46.4912,
+                    "lon": -84.515
+                },
+                {
+                    "lat": 46.4725,
+                    "lon": -84.5213
+                },
+                {
+                    "lat": 46.4578,
+                    "lon": -84.5262
+                },
+                {
+                    "lat": 46.4608,
+                    "lon": -84.5568
+                },
+                {
+                    "lat": 46.6342,
+                    "lon": -84.7628
+                },
+                {
+                    "lat": 46.8805,
+                    "lon": -84.8569
+                },
+                {
+                    "lat": 46.9664,
+                    "lon": -84.7584
+                },
+                {
+                    "lat": 46.9721,
+                    "lon": -84.7515
+                },
+                {
+                    "lat": 46.9745,
+                    "lon": -84.7487
+                },
+                {
+                    "lat": 46.9932,
+                    "lon": -84.7271
+                },
+                {
+                    "lat": 47.0155,
+                    "lon": -84.6525
+                }
+            ]
+        }
+    ]
+}
