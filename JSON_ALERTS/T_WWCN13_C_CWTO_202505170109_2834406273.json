@@ -1,0 +1,85 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2834406273.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-05-17T01:09:06-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0281124931.2025,2025-05-15T20:52:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2076102704.2025,2025-05-16T03:38:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1701357538.2025,2025-05-16T09:37:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2025608689.2025,2025-05-16T15:50:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2778344105.2025,2025-05-16T21:51:57-00:00",
+    "headline": "freezing rain warning ended",
+    "event": "freezing rain",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-05-17T01:09:06-00:00",
+    "expires": "2025-05-17T02:09:06-00:00",
+    "description": "\nFreezing rain conditions are no longer expected.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Fort Severn",
+            "polygon": [
+                {
+                    "lat": 56.8474,
+                    "lon": -88.9894
+                },
+                {
+                    "lat": 56.9017,
+                    "lon": -88.9057
+                },
+                {
+                    "lat": 56.724,
+                    "lon": -88.6479
+                },
+                {
+                    "lat": 56.4915,
+                    "lon": -87.9073
+                },
+                {
+                    "lat": 56.1029,
+                    "lon": -87.4589
+                },
+                {
+                    "lat": 56.0007,
+                    "lon": -86.9972
+                },
+                {
+                    "lat": 55.9096,
+                    "lon": -87.0016
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.2549,
+                    "lon": -87.9707
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 55.7142,
+                    "lon": -89.6861
+                },
+                {
+                    "lat": 55.9307,
+                    "lon": -90.4723
+                },
+                {
+                    "lat": 56.1351,
+                    "lon": -90.1757
+                },
+                {
+                    "lat": 56.3004,
+                    "lon": -89.8863
+                },
+                {
+                    "lat": 56.8474,
+                    "lon": -88.9894
+                }
+            ]
+        }
+    ]
+}
