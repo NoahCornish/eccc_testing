@@ -1,0 +1,93 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0343484543.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-05-17T09:20:48-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2770007345.2025,2025-05-16T09:57:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0975381031.2025,2025-05-16T15:55:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3486074136.2025,2025-05-16T21:39:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2572252783.2025,2025-05-17T05:05:58-00:00",
+    "headline": "freezing rain warning in effect",
+    "event": "freezing rain",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-05-17T09:20:48-00:00",
+    "expires": "2025-05-17T14:31:48-00:00",
+    "description": "\nFreezing rain continues early this morning.\n\nAdditional information:\nFreezing rain is expected to change over to ice pellets or snow later this morning. Additional ice accretion is possible, but likely to be minimal.\n\nSurfaces such as walkways and parking lots will become icy, slippery and hazardous.\n\nBeware of electrical wires that could break under the weight of ice.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Peawanuck",
+            "polygon": [
+                {
+                    "lat": 56.0007,
+                    "lon": -86.9972
+                },
+                {
+                    "lat": 55.7283,
+                    "lon": -85.6784
+                },
+                {
+                    "lat": 55.3741,
+                    "lon": -84.958
+                },
+                {
+                    "lat": 55.3859,
+                    "lon": -83.9602
+                },
+                {
+                    "lat": 55.2286,
+                    "lon": -82.9498
+                },
+                {
+                    "lat": 55.1832,
+                    "lon": -82.7847
+                },
+                {
+                    "lat": 55.1755,
+                    "lon": -82.2786
+                },
+                {
+                    "lat": 55.0671,
+                    "lon": -82.007
+                },
+                {
+                    "lat": 54.6123,
+                    "lon": -82.0824
+                },
+                {
+                    "lat": 53.9804,
+                    "lon": -81.9568
+                },
+                {
+                    "lat": 54.0004,
+                    "lon": -82.2294
+                },
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.9096,
+                    "lon": -87.0016
+                },
+                {
+                    "lat": 56.0007,
+                    "lon": -86.9972
+                }
+            ]
+        }
+    ]
+}
