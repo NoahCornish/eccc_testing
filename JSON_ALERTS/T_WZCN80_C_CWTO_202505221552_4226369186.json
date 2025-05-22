@@ -1,0 +1,202 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4226369186.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-05-22T16:01:58-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-05-22T16:01:58-00:00",
+    "expires": "2025-05-23T04:00:58-00:00",
+    "description": "\nWhat:\nRain, at times heavy.\n\nHazard:\nTotal rainfall amounts of 50 to 60 mm. \n\nTiming:\nThrough this afternoon.\n\nAdditional information:\nNear 35 mm of rain has been reported as of this morning in this area. An additional 20 mm of rain is expected for areas east of the Don Valley Parkway before rain tapers to showers this evening.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+    "affected_areas": [
+        {
+            "area_description": "City of Toronto",
+            "polygon": [
+                {
+                    "lat": 43.8216,
+                    "lon": -79.1495
+                },
+                {
+                    "lat": 43.7985,
+                    "lon": -79.1091
+                },
+                {
+                    "lat": 43.7984,
+                    "lon": -79.1088
+                },
+                {
+                    "lat": 43.7947,
+                    "lon": -79.1029
+                },
+                {
+                    "lat": 43.7242,
+                    "lon": -79.0603
+                },
+                {
+                    "lat": 43.5329,
+                    "lon": -79.5036
+                },
+                {
+                    "lat": 43.5834,
+                    "lon": -79.5327
+                },
+                {
+                    "lat": 43.571,
+                    "lon": -79.5567
+                },
+                {
+                    "lat": 43.6216,
+                    "lon": -79.5925
+                },
+                {
+                    "lat": 43.6373,
+                    "lon": -79.6206
+                },
+                {
+                    "lat": 43.6646,
+                    "lon": -79.5887
+                },
+                {
+                    "lat": 43.7108,
+                    "lon": -79.6243
+                },
+                {
+                    "lat": 43.75,
+                    "lon": -79.6386
+                },
+                {
+                    "lat": 43.8111,
+                    "lon": -79.4107
+                },
+                {
+                    "lat": 43.8556,
+                    "lon": -79.1702
+                },
+                {
+                    "lat": 43.8392,
+                    "lon": -79.1574
+                },
+                {
+                    "lat": 43.8216,
+                    "lon": -79.1495
+                }
+            ]
+        },
+        {
+            "area_description": "Pickering - Oshawa - Southern Durham Region",
+            "polygon": [
+                {
+                    "lat": 44.0823,
+                    "lon": -78.5095
+                },
+                {
+                    "lat": 43.9866,
+                    "lon": -78.4578
+                },
+                {
+                    "lat": 43.9102,
+                    "lon": -78.4348
+                },
+                {
+                    "lat": 43.8237,
+                    "lon": -78.4112
+                },
+                {
+                    "lat": 43.7242,
+                    "lon": -79.0603
+                },
+                {
+                    "lat": 43.7947,
+                    "lon": -79.1029
+                },
+                {
+                    "lat": 43.7984,
+                    "lon": -79.1088
+                },
+                {
+                    "lat": 43.7985,
+                    "lon": -79.1091
+                },
+                {
+                    "lat": 43.7953,
+                    "lon": -79.1212
+                },
+                {
+                    "lat": 43.806,
+                    "lon": -79.1579
+                },
+                {
+                    "lat": 43.823,
+                    "lon": -79.1557
+                },
+                {
+                    "lat": 43.8556,
+                    "lon": -79.1702
+                },
+                {
+                    "lat": 43.8973,
+                    "lon": -79.1973
+                },
+                {
+                    "lat": 43.9634,
+                    "lon": -79.2177
+                },
+                {
+                    "lat": 43.9806,
+                    "lon": -79.2275
+                },
+                {
+                    "lat": 43.9978,
+                    "lon": -79.231
+                },
+                {
+                    "lat": 43.9988,
+                    "lon": -79.2239
+                },
+                {
+                    "lat": 43.9987,
+                    "lon": -79.2189
+                },
+                {
+                    "lat": 43.9983,
+                    "lon": -79.2174
+                },
+                {
+                    "lat": 44.0831,
+                    "lon": -78.7046
+                },
+                {
+                    "lat": 44.0712,
+                    "lon": -78.6979
+                },
+                {
+                    "lat": 44.0584,
+                    "lon": -78.6927
+                },
+                {
+                    "lat": 44.0794,
+                    "lon": -78.608
+                },
+                {
+                    "lat": 44.0984,
+                    "lon": -78.5165
+                },
+                {
+                    "lat": 44.0902,
+                    "lon": -78.5121
+                },
+                {
+                    "lat": 44.0823,
+                    "lon": -78.5095
+                }
+            ]
+        }
+    ]
+}
