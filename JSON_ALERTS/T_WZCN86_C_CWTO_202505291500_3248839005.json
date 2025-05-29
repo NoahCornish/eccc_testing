@@ -1,0 +1,129 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3248839005.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-05-29T15:00:55-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1437435338.2025,2025-05-29T12:43:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1187033416.2025,2025-05-29T14:35:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2623608082.2025,2025-05-29T14:36:53-00:00",
+    "headline": "fog advisory ended",
+    "event": "fog",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-05-29T15:00:55-00:00",
+    "expires": "2025-05-29T16:00:55-00:00",
+    "description": "\nVisibilities have improved and are no longer expected to meet fog advisory criteria.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Pickering - Oshawa - Southern Durham Region",
+            "polygon": [
+                {
+                    "lat": 44.0823,
+                    "lon": -78.5095
+                },
+                {
+                    "lat": 43.9866,
+                    "lon": -78.4578
+                },
+                {
+                    "lat": 43.9102,
+                    "lon": -78.4348
+                },
+                {
+                    "lat": 43.8237,
+                    "lon": -78.4112
+                },
+                {
+                    "lat": 43.7242,
+                    "lon": -79.0603
+                },
+                {
+                    "lat": 43.7947,
+                    "lon": -79.1029
+                },
+                {
+                    "lat": 43.7984,
+                    "lon": -79.1088
+                },
+                {
+                    "lat": 43.7985,
+                    "lon": -79.1091
+                },
+                {
+                    "lat": 43.7953,
+                    "lon": -79.1212
+                },
+                {
+                    "lat": 43.806,
+                    "lon": -79.1579
+                },
+                {
+                    "lat": 43.823,
+                    "lon": -79.1557
+                },
+                {
+                    "lat": 43.8556,
+                    "lon": -79.1702
+                },
+                {
+                    "lat": 43.8973,
+                    "lon": -79.1973
+                },
+                {
+                    "lat": 43.9634,
+                    "lon": -79.2177
+                },
+                {
+                    "lat": 43.9806,
+                    "lon": -79.2275
+                },
+                {
+                    "lat": 43.9978,
+                    "lon": -79.231
+                },
+                {
+                    "lat": 43.9988,
+                    "lon": -79.2239
+                },
+                {
+                    "lat": 43.9987,
+                    "lon": -79.2189
+                },
+                {
+                    "lat": 43.9983,
+                    "lon": -79.2174
+                },
+                {
+                    "lat": 44.0831,
+                    "lon": -78.7046
+                },
+                {
+                    "lat": 44.0712,
+                    "lon": -78.6979
+                },
+                {
+                    "lat": 44.0584,
+                    "lon": -78.6927
+                },
+                {
+                    "lat": 44.0794,
+                    "lon": -78.608
+                },
+                {
+                    "lat": 44.0984,
+                    "lon": -78.5165
+                },
+                {
+                    "lat": 44.0902,
+                    "lon": -78.5121
+                },
+                {
+                    "lat": 44.0823,
+                    "lon": -78.5095
+                }
+            ]
+        }
+    ]
+}
