@@ -1,0 +1,194 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1437435338.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-05-29T12:43:29-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-05-29T12:43:29-00:00",
+    "expires": "2025-05-29T17:31:29-00:00",
+    "description": "\nNear zero visibility in fog is expected or occurring over some areas.\n\nFog is expected to lift later this morning.\n\n###\n\nVisibility may be significantly and suddenly reduced to near zero. Travel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf travelling, be prepared for areas of near-zero visibility.\n",
+    "affected_areas": [
+        {
+            "area_description": "Pickering - Oshawa - Southern Durham Region",
+            "polygon": [
+                {
+                    "lat": 44.0823,
+                    "lon": -78.5095
+                },
+                {
+                    "lat": 43.9866,
+                    "lon": -78.4578
+                },
+                {
+                    "lat": 43.9102,
+                    "lon": -78.4348
+                },
+                {
+                    "lat": 43.8237,
+                    "lon": -78.4112
+                },
+                {
+                    "lat": 43.7242,
+                    "lon": -79.0603
+                },
+                {
+                    "lat": 43.7947,
+                    "lon": -79.1029
+                },
+                {
+                    "lat": 43.7984,
+                    "lon": -79.1088
+                },
+                {
+                    "lat": 43.7985,
+                    "lon": -79.1091
+                },
+                {
+                    "lat": 43.7953,
+                    "lon": -79.1212
+                },
+                {
+                    "lat": 43.806,
+                    "lon": -79.1579
+                },
+                {
+                    "lat": 43.823,
+                    "lon": -79.1557
+                },
+                {
+                    "lat": 43.8556,
+                    "lon": -79.1702
+                },
+                {
+                    "lat": 43.8973,
+                    "lon": -79.1973
+                },
+                {
+                    "lat": 43.9634,
+                    "lon": -79.2177
+                },
+                {
+                    "lat": 43.9806,
+                    "lon": -79.2275
+                },
+                {
+                    "lat": 43.9978,
+                    "lon": -79.231
+                },
+                {
+                    "lat": 43.9988,
+                    "lon": -79.2239
+                },
+                {
+                    "lat": 43.9987,
+                    "lon": -79.2189
+                },
+                {
+                    "lat": 43.9983,
+                    "lon": -79.2174
+                },
+                {
+                    "lat": 44.0831,
+                    "lon": -78.7046
+                },
+                {
+                    "lat": 44.0712,
+                    "lon": -78.6979
+                },
+                {
+                    "lat": 44.0584,
+                    "lon": -78.6927
+                },
+                {
+                    "lat": 44.0794,
+                    "lon": -78.608
+                },
+                {
+                    "lat": 44.0984,
+                    "lon": -78.5165
+                },
+                {
+                    "lat": 44.0902,
+                    "lon": -78.5121
+                },
+                {
+                    "lat": 44.0823,
+                    "lon": -78.5095
+                }
+            ]
+        },
+        {
+            "area_description": "Cobourg - Colborne - Western Northumberland County",
+            "polygon": [
+                {
+                    "lat": 44.249,
+                    "lon": -78.0199
+                },
+                {
+                    "lat": 44.1494,
+                    "lon": -77.9786
+                },
+                {
+                    "lat": 44.1801,
+                    "lon": -77.8616
+                },
+                {
+                    "lat": 44.0048,
+                    "lon": -77.7767
+                },
+                {
+                    "lat": 43.9565,
+                    "lon": -77.7696
+                },
+                {
+                    "lat": 43.8237,
+                    "lon": -78.4112
+                },
+                {
+                    "lat": 43.9102,
+                    "lon": -78.4348
+                },
+                {
+                    "lat": 43.9838,
+                    "lon": -78.4801
+                },
+                {
+                    "lat": 44.0823,
+                    "lon": -78.5095
+                },
+                {
+                    "lat": 44.1117,
+                    "lon": -78.4106
+                },
+                {
+                    "lat": 44.129,
+                    "lon": -78.3089
+                },
+                {
+                    "lat": 44.1581,
+                    "lon": -78.3225
+                },
+                {
+                    "lat": 44.2948,
+                    "lon": -78.0562
+                },
+                {
+                    "lat": 44.2496,
+                    "lon": -78.0202
+                },
+                {
+                    "lat": 44.249,
+                    "lon": -78.0199
+                }
+            ]
+        }
+    ]
+}
