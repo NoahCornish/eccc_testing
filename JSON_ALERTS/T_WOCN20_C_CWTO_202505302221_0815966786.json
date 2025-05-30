@@ -1,0 +1,133 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0815966786.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-05-30T22:23:24-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2840459808.2025,2025-05-29T19:04:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4052773007.2025,2025-05-30T05:58:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2937797820.2025,2025-05-30T06:01:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0483478747.2025,2025-05-30T09:12:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2991740227.2025,2025-05-30T09:15:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3293183161.2025,2025-05-30T15:55:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0783821779.2025,2025-05-30T19:00:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3034129426.2025,2025-05-30T19:01:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2389597054.2025,2025-05-30T22:21:32-00:00",
+    "headline": "special air quality statement in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-05-30T22:21:32-00:00",
+    "expires": "2025-05-31T05:59:32-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\nWildfire smoke is expected to move out of the area this evening.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Seine River Village - Mine Centre",
+            "polygon": [
+                {
+                    "lat": 48.6272,
+                    "lon": -93.3443
+                },
+                {
+                    "lat": 48.8278,
+                    "lon": -93.2232
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 48.9922,
+                    "lon": -91.2145
+                },
+                {
+                    "lat": 48.324,
+                    "lon": -92.4487
+                },
+                {
+                    "lat": 48.3464,
+                    "lon": -92.4697
+                },
+                {
+                    "lat": 48.3708,
+                    "lon": -92.48
+                },
+                {
+                    "lat": 48.4108,
+                    "lon": -92.4591
+                },
+                {
+                    "lat": 48.418,
+                    "lon": -92.4791
+                },
+                {
+                    "lat": 48.4472,
+                    "lon": -92.5116
+                },
+                {
+                    "lat": 48.4396,
+                    "lon": -92.5691
+                },
+                {
+                    "lat": 48.4352,
+                    "lon": -92.6564
+                },
+                {
+                    "lat": 48.4441,
+                    "lon": -92.6931
+                },
+                {
+                    "lat": 48.4616,
+                    "lon": -92.7143
+                },
+                {
+                    "lat": 48.4967,
+                    "lon": -92.6996
+                },
+                {
+                    "lat": 48.5042,
+                    "lon": -92.6322
+                },
+                {
+                    "lat": 48.5413,
+                    "lon": -92.6392
+                },
+                {
+                    "lat": 48.5427,
+                    "lon": -92.6538
+                },
+                {
+                    "lat": 48.5372,
+                    "lon": -92.729
+                },
+                {
+                    "lat": 48.6075,
+                    "lon": -92.9543
+                },
+                {
+                    "lat": 48.6262,
+                    "lon": -92.9539
+                },
+                {
+                    "lat": 48.6217,
+                    "lon": -92.9796
+                },
+                {
+                    "lat": 48.6211,
+                    "lon": -93.177
+                },
+                {
+                    "lat": 48.6402,
+                    "lon": -93.2107
+                },
+                {
+                    "lat": 48.6388,
+                    "lon": -93.255
+                },
+                {
+                    "lat": 48.6272,
+                    "lon": -93.3443
+                }
+            ]
+        }
+    ]
+}
