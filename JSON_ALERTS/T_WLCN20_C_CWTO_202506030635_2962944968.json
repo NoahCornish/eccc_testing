@@ -1,0 +1,318 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2962944968.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-03T06:35:05-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0972610900.2025,2025-06-02T15:59:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0991741533.2025,2025-06-02T16:02:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1249736659.2025,2025-06-02T21:23:50-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2495223321.2025,2025-06-02T21:25:36-00:00",
+    "headline": "air quality warning in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-06-03T06:35:05-00:00",
+    "expires": "2025-06-03T15:59:05-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\n###\n\nDuring heavy smoke conditions, everyone’s health is at risk regardless of their age or health status.\n\nLimit time outdoors. Reschedule or cancel outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nFor further information visit the website https://www.airqualityontario.com/ or contact the Ontario Ministry of the Environment, Conservation and Parks at 416-314-6666.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, limit the time as much as possible. A well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Kenora - Grassy Narrows - Whitedog",
+            "polygon": [
+                {
+                    "lat": 49.6236,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 49.6482,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.6651,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.8299,
+                    "lon": -95.1694
+                },
+                {
+                    "lat": 49.9987,
+                    "lon": -95.1535
+                },
+                {
+                    "lat": 50.1839,
+                    "lon": -95.1657
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.352,
+                    "lon": -94.7141
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.2983,
+                    "lon": -93.867
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6208,
+                    "lon": -94.3392
+                },
+                {
+                    "lat": 49.609,
+                    "lon": -94.3651
+                },
+                {
+                    "lat": 49.6182,
+                    "lon": -94.4516
+                },
+                {
+                    "lat": 49.633,
+                    "lon": -94.5058
+                },
+                {
+                    "lat": 49.6509,
+                    "lon": -94.5883
+                },
+                {
+                    "lat": 49.6455,
+                    "lon": -94.7554
+                },
+                {
+                    "lat": 49.6174,
+                    "lon": -94.7798
+                },
+                {
+                    "lat": 49.6147,
+                    "lon": -94.814
+                },
+                {
+                    "lat": 49.5853,
+                    "lon": -94.8395
+                },
+                {
+                    "lat": 49.5398,
+                    "lon": -94.9353
+                },
+                {
+                    "lat": 49.539,
+                    "lon": -95.0598
+                },
+                {
+                    "lat": 49.5976,
+                    "lon": -95.1212
+                },
+                {
+                    "lat": 49.5976,
+                    "lon": -95.1533
+                },
+                {
+                    "lat": 49.6032,
+                    "lon": -95.1533
+                },
+                {
+                    "lat": 49.6169,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.6236,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Sioux Narrows - Nestor Falls - Morson",
+            "polygon": [
+                {
+                    "lat": 49.3554,
+                    "lon": -95.025
+                },
+                {
+                    "lat": 49.3532,
+                    "lon": -95.0582
+                },
+                {
+                    "lat": 49.3704,
+                    "lon": -95.1286
+                },
+                {
+                    "lat": 49.3847,
+                    "lon": -95.1539
+                },
+                {
+                    "lat": 49.4435,
+                    "lon": -95.1592
+                },
+                {
+                    "lat": 49.4999,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.5976,
+                    "lon": -95.1533
+                },
+                {
+                    "lat": 49.5976,
+                    "lon": -95.1212
+                },
+                {
+                    "lat": 49.539,
+                    "lon": -95.0598
+                },
+                {
+                    "lat": 49.5398,
+                    "lon": -94.9353
+                },
+                {
+                    "lat": 49.5853,
+                    "lon": -94.8395
+                },
+                {
+                    "lat": 49.6147,
+                    "lon": -94.814
+                },
+                {
+                    "lat": 49.6174,
+                    "lon": -94.7798
+                },
+                {
+                    "lat": 49.6455,
+                    "lon": -94.7554
+                },
+                {
+                    "lat": 49.6509,
+                    "lon": -94.5883
+                },
+                {
+                    "lat": 49.633,
+                    "lon": -94.5058
+                },
+                {
+                    "lat": 49.6182,
+                    "lon": -94.4516
+                },
+                {
+                    "lat": 49.609,
+                    "lon": -94.3651
+                },
+                {
+                    "lat": 49.6208,
+                    "lon": -94.3392
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.0996,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 48.8244,
+                    "lon": -94.7016
+                },
+                {
+                    "lat": 48.8242,
+                    "lon": -94.7042
+                },
+                {
+                    "lat": 48.8318,
+                    "lon": -94.702
+                },
+                {
+                    "lat": 48.8354,
+                    "lon": -94.6975
+                },
+                {
+                    "lat": 48.84,
+                    "lon": -94.6855
+                },
+                {
+                    "lat": 48.8534,
+                    "lon": -94.693
+                },
+                {
+                    "lat": 48.8569,
+                    "lon": -94.692
+                },
+                {
+                    "lat": 48.869,
+                    "lon": -94.6923
+                },
+                {
+                    "lat": 48.8723,
+                    "lon": -94.6843
+                },
+                {
+                    "lat": 48.8841,
+                    "lon": -94.6834
+                },
+                {
+                    "lat": 49.0987,
+                    "lon": -94.7496
+                },
+                {
+                    "lat": 49.1205,
+                    "lon": -94.7727
+                },
+                {
+                    "lat": 49.1486,
+                    "lon": -94.7819
+                },
+                {
+                    "lat": 49.1978,
+                    "lon": -94.7979
+                },
+                {
+                    "lat": 49.2143,
+                    "lon": -94.7973
+                },
+                {
+                    "lat": 49.2943,
+                    "lon": -94.8255
+                },
+                {
+                    "lat": 49.3213,
+                    "lon": -94.8162
+                },
+                {
+                    "lat": 49.3333,
+                    "lon": -94.8782
+                },
+                {
+                    "lat": 49.3501,
+                    "lon": -94.9091
+                },
+                {
+                    "lat": 49.3701,
+                    "lon": -94.9573
+                },
+                {
+                    "lat": 49.3687,
+                    "lon": -94.987
+                },
+                {
+                    "lat": 49.3564,
+                    "lon": -95.0141
+                },
+                {
+                    "lat": 49.3554,
+                    "lon": -95.025
+                }
+            ]
+        }
+    ]
+}
