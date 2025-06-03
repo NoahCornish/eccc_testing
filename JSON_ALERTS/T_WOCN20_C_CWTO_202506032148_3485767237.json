@@ -1,0 +1,110 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3485767237.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-03T21:48:27-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2691644988.2025,2025-06-01T21:49:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3876887900.2025,2025-06-01T21:50:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2117443719.2025,2025-06-02T09:26:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3604958783.2025,2025-06-02T20:00:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3802180351.2025,2025-06-02T20:01:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3864653555.2025,2025-06-02T21:05:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2068617046.2025,2025-06-02T21:06:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3350561335.2025,2025-06-03T09:24:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0271248012.2025,2025-06-03T09:29:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1551444096.2025,2025-06-03T21:46:15-00:00",
+    "headline": "special air quality statement ended",
+    "event": "air quality",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-06-03T21:48:27-00:00",
+    "expires": "2025-06-03T22:48:27-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Sachigo Lake - Bearskin Lake",
+            "polygon": [
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 53.7297,
+                    "lon": -92.0252
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 54.5171,
+                    "lon": -92.6285
+                },
+                {
+                    "lat": 55.1549,
+                    "lon": -91.653
+                },
+                {
+                    "lat": 55.5552,
+                    "lon": -91.0742
+                },
+                {
+                    "lat": 55.9307,
+                    "lon": -90.4723
+                },
+                {
+                    "lat": 55.7283,
+                    "lon": -89.6616
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 54.5866,
+                    "lon": -89.6215
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                }
+            ]
+        },
+        {
+            "area_description": "Big Trout Lake - Kasabonika",
+            "polygon": [
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 53.3863,
+                    "lon": -89.3769
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 54.5994,
+                    "lon": -89.6775
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 55.2628,
+                    "lon": -87.921
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 54.1558,
+                    "lon": -87.4504
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                }
+            ]
+        }
+    ]
+}

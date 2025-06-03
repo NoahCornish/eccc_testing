@@ -1,0 +1,65 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1640548513.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-03T21:48:07-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3407172743.2025,2025-06-01T08:59:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2710092852.2025,2025-06-01T09:08:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4207426362.2025,2025-06-01T21:30:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1444109148.2025,2025-06-02T09:20:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2482094844.2025,2025-06-02T19:50:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1038191655.2025,2025-06-02T19:51:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1970124597.2025,2025-06-03T09:20:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2734395193.2025,2025-06-03T09:21:29-00:00",
+    "headline": "special air quality statement ended",
+    "event": "air quality",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-06-03T21:48:07-00:00",
+    "expires": "2025-06-03T22:48:07-00:00",
+    "description": "\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Webequie",
+            "polygon": [
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.7599,
+                    "lon": -88.0338
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 54.1733,
+                    "lon": -87.5227
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                }
+            ]
+        }
+    ]
+}
