@@ -1,0 +1,250 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4059177690.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-03T09:29:36-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3125104947.2025,2025-05-27T20:32:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4107932494.2025,2025-05-27T20:37:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3964941571.2025,2025-05-28T10:51:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1361501071.2025,2025-05-28T14:35:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1937318774.2025,2025-05-28T14:37:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3190929251.2025,2025-05-28T22:38:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0517446455.2025,2025-05-28T22:50:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2400596215.2025,2025-05-28T22:58:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3916221073.2025,2025-05-29T01:12:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3010239824.2025,2025-05-29T01:14:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2230803071.2025,2025-05-29T09:03:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0512989247.2025,2025-05-29T09:04:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2446720170.2025,2025-05-29T09:07:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2676227385.2025,2025-05-29T11:38:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3285338233.2025,2025-05-29T11:41:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1646420043.2025,2025-05-29T14:57:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3895589941.2025,2025-05-29T19:02:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1538431874.2025,2025-05-29T19:04:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2690686768.2025,2025-05-29T19:15:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2112277925.2025,2025-05-30T09:13:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4121448678.2025,2025-05-30T09:16:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3432833986.2025,2025-05-30T15:37:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1274981429.2025,2025-05-30T15:38:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2613297127.2025,2025-05-30T22:24:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3207293480.2025,2025-05-30T22:26:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3459961019.2025,2025-05-31T09:17:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1159414834.2025,2025-05-31T09:23:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3974658864.2025,2025-05-31T13:36:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2610652593.2025,2025-05-31T13:40:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3848537404.2025,2025-05-31T22:52:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0645015663.2025,2025-05-31T22:55:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1378948043.2025,2025-06-01T00:15:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4098989117.2025,2025-06-01T00:17:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3337839416.2025,2025-06-01T09:08:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0341655766.2025,2025-06-01T09:21:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1780951687.2025,2025-06-01T21:37:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2237119110.2025,2025-06-02T09:21:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1906325395.2025,2025-06-02T16:09:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4188917405.2025,2025-06-02T16:11:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0650091805.2025,2025-06-02T21:36:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0852746167.2025,2025-06-02T21:37:44-00:00",
+    "headline": "special air quality statement in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-06-03T09:29:36-00:00",
+    "expires": "2025-06-04T01:29:36-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Dryden - Vermilion Bay",
+            "polygon": [
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 49.0996,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                }
+            ]
+        },
+        {
+            "area_description": "Fort Frances - Emo - Rainy River",
+            "polygon": [
+                {
+                    "lat": 48.5398,
+                    "lon": -93.4902
+                },
+                {
+                    "lat": 48.5279,
+                    "lon": -93.5435
+                },
+                {
+                    "lat": 48.5207,
+                    "lon": -93.6093
+                },
+                {
+                    "lat": 48.5253,
+                    "lon": -93.6319
+                },
+                {
+                    "lat": 48.5158,
+                    "lon": -93.6438
+                },
+                {
+                    "lat": 48.5137,
+                    "lon": -93.6956
+                },
+                {
+                    "lat": 48.5146,
+                    "lon": -93.7934
+                },
+                {
+                    "lat": 48.5292,
+                    "lon": -93.822
+                },
+                {
+                    "lat": 48.5688,
+                    "lon": -93.8064
+                },
+                {
+                    "lat": 48.627,
+                    "lon": -93.8411
+                },
+                {
+                    "lat": 48.6284,
+                    "lon": -93.9277
+                },
+                {
+                    "lat": 48.6484,
+                    "lon": -94.2275
+                },
+                {
+                    "lat": 48.656,
+                    "lon": -94.2575
+                },
+                {
+                    "lat": 48.6826,
+                    "lon": -94.2547
+                },
+                {
+                    "lat": 48.6965,
+                    "lon": -94.264
+                },
+                {
+                    "lat": 48.6989,
+                    "lon": -94.2762
+                },
+                {
+                    "lat": 48.7047,
+                    "lon": -94.2842
+                },
+                {
+                    "lat": 48.7082,
+                    "lon": -94.3046
+                },
+                {
+                    "lat": 48.701,
+                    "lon": -94.3393
+                },
+                {
+                    "lat": 48.7031,
+                    "lon": -94.3619
+                },
+                {
+                    "lat": 48.7099,
+                    "lon": -94.384
+                },
+                {
+                    "lat": 48.7083,
+                    "lon": -94.4184
+                },
+                {
+                    "lat": 48.6933,
+                    "lon": -94.4393
+                },
+                {
+                    "lat": 48.6913,
+                    "lon": -94.451
+                },
+                {
+                    "lat": 48.6952,
+                    "lon": -94.4704
+                },
+                {
+                    "lat": 48.7002,
+                    "lon": -94.5381
+                },
+                {
+                    "lat": 48.7135,
+                    "lon": -94.5508
+                },
+                {
+                    "lat": 48.7165,
+                    "lon": -94.5883
+                },
+                {
+                    "lat": 48.7359,
+                    "lon": -94.6197
+                },
+                {
+                    "lat": 48.7409,
+                    "lon": -94.645
+                },
+                {
+                    "lat": 48.7544,
+                    "lon": -94.6529
+                },
+                {
+                    "lat": 48.7759,
+                    "lon": -94.6926
+                },
+                {
+                    "lat": 48.8242,
+                    "lon": -94.7042
+                },
+                {
+                    "lat": 48.8244,
+                    "lon": -94.7016
+                },
+                {
+                    "lat": 49.0996,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 48.8278,
+                    "lon": -93.2232
+                },
+                {
+                    "lat": 48.6272,
+                    "lon": -93.3443
+                },
+                {
+                    "lat": 48.6097,
+                    "lon": -93.3504
+                },
+                {
+                    "lat": 48.6038,
+                    "lon": -93.3692
+                },
+                {
+                    "lat": 48.601,
+                    "lon": -93.4214
+                },
+                {
+                    "lat": 48.592,
+                    "lon": -93.4337
+                },
+                {
+                    "lat": 48.5887,
+                    "lon": -93.464
+                },
+                {
+                    "lat": 48.5616,
+                    "lon": -93.4511
+                },
+                {
+                    "lat": 48.5466,
+                    "lon": -93.4591
+                },
+                {
+                    "lat": 48.5398,
+                    "lon": -93.4902
+                }
+            ]
+        }
+    ]
+}
