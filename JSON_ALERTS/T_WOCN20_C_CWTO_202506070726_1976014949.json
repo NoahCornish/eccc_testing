@@ -1,0 +1,1850 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1976014949.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-07T07:26:27-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0384903013.2025,2025-06-06T21:02:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2695280487.2025,2025-06-06T21:04:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3451373625.2025,2025-06-07T00:22:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3127483939.2025,2025-06-07T00:24:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1080542020.2025,2025-06-07T01:35:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0415211106.2025,2025-06-07T05:27:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3368021494.2025,2025-06-07T05:28:20-00:00",
+    "headline": "special air quality statement in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-06-07T07:26:27-00:00",
+    "expires": "2025-06-07T13:59:27-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Simcoe - Delhi - Norfolk",
+            "polygon": [
+                {
+                    "lat": 42.7799,
+                    "lon": -80.1221
+                },
+                {
+                    "lat": 42.7597,
+                    "lon": -80.2073
+                },
+                {
+                    "lat": 42.6893,
+                    "lon": -80.2824
+                },
+                {
+                    "lat": 42.6381,
+                    "lon": -80.3129
+                },
+                {
+                    "lat": 42.6437,
+                    "lon": -80.3844
+                },
+                {
+                    "lat": 42.6121,
+                    "lon": -80.4154
+                },
+                {
+                    "lat": 42.5491,
+                    "lon": -80.0252
+                },
+                {
+                    "lat": 42.5338,
+                    "lon": -80.0303
+                },
+                {
+                    "lat": 42.5205,
+                    "lon": -80.1237
+                },
+                {
+                    "lat": 42.5585,
+                    "lon": -80.3658
+                },
+                {
+                    "lat": 42.5635,
+                    "lon": -80.6074
+                },
+                {
+                    "lat": 42.5948,
+                    "lon": -80.7143
+                },
+                {
+                    "lat": 42.614,
+                    "lon": -80.713
+                },
+                {
+                    "lat": 42.6183,
+                    "lon": -80.7159
+                },
+                {
+                    "lat": 42.6227,
+                    "lon": -80.7182
+                },
+                {
+                    "lat": 42.6944,
+                    "lon": -80.7259
+                },
+                {
+                    "lat": 42.7882,
+                    "lon": -80.717
+                },
+                {
+                    "lat": 42.8071,
+                    "lon": -80.733
+                },
+                {
+                    "lat": 42.8238,
+                    "lon": -80.7446
+                },
+                {
+                    "lat": 42.8423,
+                    "lon": -80.7352
+                },
+                {
+                    "lat": 42.8493,
+                    "lon": -80.7272
+                },
+                {
+                    "lat": 42.8432,
+                    "lon": -80.7181
+                },
+                {
+                    "lat": 42.8389,
+                    "lon": -80.7156
+                },
+                {
+                    "lat": 42.8545,
+                    "lon": -80.7055
+                },
+                {
+                    "lat": 42.8738,
+                    "lon": -80.6048
+                },
+                {
+                    "lat": 42.8843,
+                    "lon": -80.5056
+                },
+                {
+                    "lat": 42.9282,
+                    "lon": -80.5357
+                },
+                {
+                    "lat": 42.9825,
+                    "lon": -80.5419
+                },
+                {
+                    "lat": 43.0171,
+                    "lon": -80.388
+                },
+                {
+                    "lat": 43.0355,
+                    "lon": -80.241
+                },
+                {
+                    "lat": 43.0306,
+                    "lon": -80.2122
+                },
+                {
+                    "lat": 43.0168,
+                    "lon": -80.1878
+                },
+                {
+                    "lat": 42.9663,
+                    "lon": -80.1666
+                },
+                {
+                    "lat": 42.9128,
+                    "lon": -80.1494
+                },
+                {
+                    "lat": 42.9105,
+                    "lon": -80.1653
+                },
+                {
+                    "lat": 42.9095,
+                    "lon": -80.1812
+                },
+                {
+                    "lat": 42.8521,
+                    "lon": -80.1507
+                },
+                {
+                    "lat": 42.7915,
+                    "lon": -80.1318
+                },
+                {
+                    "lat": 42.7879,
+                    "lon": -80.1269
+                },
+                {
+                    "lat": 42.7835,
+                    "lon": -80.1239
+                },
+                {
+                    "lat": 42.7799,
+                    "lon": -80.1221
+                }
+            ]
+        },
+        {
+            "area_description": "Dunnville - Caledonia - Haldimand",
+            "polygon": [
+                {
+                    "lat": 42.876,
+                    "lon": -79.4371
+                },
+                {
+                    "lat": 42.8607,
+                    "lon": -79.4301
+                },
+                {
+                    "lat": 42.8304,
+                    "lon": -79.4773
+                },
+                {
+                    "lat": 42.834,
+                    "lon": -79.5245
+                },
+                {
+                    "lat": 42.8191,
+                    "lon": -79.6066
+                },
+                {
+                    "lat": 42.8361,
+                    "lon": -79.6874
+                },
+                {
+                    "lat": 42.7846,
+                    "lon": -79.9766
+                },
+                {
+                    "lat": 42.798,
+                    "lon": -80.02
+                },
+                {
+                    "lat": 42.7835,
+                    "lon": -80.0541
+                },
+                {
+                    "lat": 42.7799,
+                    "lon": -80.1221
+                },
+                {
+                    "lat": 42.7835,
+                    "lon": -80.1239
+                },
+                {
+                    "lat": 42.7872,
+                    "lon": -80.1284
+                },
+                {
+                    "lat": 42.7915,
+                    "lon": -80.1318
+                },
+                {
+                    "lat": 42.8492,
+                    "lon": -80.161
+                },
+                {
+                    "lat": 42.9095,
+                    "lon": -80.1812
+                },
+                {
+                    "lat": 42.912,
+                    "lon": -80.1651
+                },
+                {
+                    "lat": 42.9128,
+                    "lon": -80.1494
+                },
+                {
+                    "lat": 42.9646,
+                    "lon": -80.1731
+                },
+                {
+                    "lat": 43.0168,
+                    "lon": -80.1878
+                },
+                {
+                    "lat": 43.0008,
+                    "lon": -80.1283
+                },
+                {
+                    "lat": 42.9762,
+                    "lon": -80.0732
+                },
+                {
+                    "lat": 43.0565,
+                    "lon": -80.0381
+                },
+                {
+                    "lat": 43.1302,
+                    "lon": -79.9792
+                },
+                {
+                    "lat": 43.0995,
+                    "lon": -79.8548
+                },
+                {
+                    "lat": 43.0507,
+                    "lon": -79.7541
+                },
+                {
+                    "lat": 43.0193,
+                    "lon": -79.6566
+                },
+                {
+                    "lat": 42.9826,
+                    "lon": -79.5635
+                },
+                {
+                    "lat": 42.9747,
+                    "lon": -79.5361
+                },
+                {
+                    "lat": 42.9648,
+                    "lon": -79.5116
+                },
+                {
+                    "lat": 42.9206,
+                    "lon": -79.4721
+                },
+                {
+                    "lat": 42.876,
+                    "lon": -79.4371
+                }
+            ]
+        },
+        {
+            "area_description": "St. Thomas - Aylmer - Eastern Elgin County",
+            "polygon": [
+                {
+                    "lat": 42.8722,
+                    "lon": -80.8811
+                },
+                {
+                    "lat": 42.8296,
+                    "lon": -80.8773
+                },
+                {
+                    "lat": 42.8415,
+                    "lon": -80.817
+                },
+                {
+                    "lat": 42.8465,
+                    "lon": -80.762
+                },
+                {
+                    "lat": 42.8376,
+                    "lon": -80.7508
+                },
+                {
+                    "lat": 42.8238,
+                    "lon": -80.7446
+                },
+                {
+                    "lat": 42.8065,
+                    "lon": -80.7296
+                },
+                {
+                    "lat": 42.7882,
+                    "lon": -80.717
+                },
+                {
+                    "lat": 42.6941,
+                    "lon": -80.7139
+                },
+                {
+                    "lat": 42.6227,
+                    "lon": -80.7182
+                },
+                {
+                    "lat": 42.6185,
+                    "lon": -80.7154
+                },
+                {
+                    "lat": 42.614,
+                    "lon": -80.713
+                },
+                {
+                    "lat": 42.5948,
+                    "lon": -80.7143
+                },
+                {
+                    "lat": 42.6312,
+                    "lon": -80.8085
+                },
+                {
+                    "lat": 42.6413,
+                    "lon": -80.9308
+                },
+                {
+                    "lat": 42.6408,
+                    "lon": -81.0691
+                },
+                {
+                    "lat": 42.6504,
+                    "lon": -81.1576
+                },
+                {
+                    "lat": 42.6458,
+                    "lon": -81.218
+                },
+                {
+                    "lat": 42.6597,
+                    "lon": -81.2218
+                },
+                {
+                    "lat": 42.6684,
+                    "lon": -81.2292
+                },
+                {
+                    "lat": 42.7522,
+                    "lon": -81.2335
+                },
+                {
+                    "lat": 42.8415,
+                    "lon": -81.2313
+                },
+                {
+                    "lat": 42.861,
+                    "lon": -81.1642
+                },
+                {
+                    "lat": 42.8758,
+                    "lon": -81.0937
+                },
+                {
+                    "lat": 42.8807,
+                    "lon": -81.0967
+                },
+                {
+                    "lat": 42.887,
+                    "lon": -81.0964
+                },
+                {
+                    "lat": 42.9125,
+                    "lon": -80.8992
+                },
+                {
+                    "lat": 42.9126,
+                    "lon": -80.8989
+                },
+                {
+                    "lat": 42.8722,
+                    "lon": -80.8811
+                }
+            ]
+        },
+        {
+            "area_description": "Belleville - Quinte West - Eastern Northumberland County",
+            "polygon": [
+                {
+                    "lat": 44.4359,
+                    "lon": -77.7293
+                },
+                {
+                    "lat": 44.2689,
+                    "lon": -77.6517
+                },
+                {
+                    "lat": 44.3476,
+                    "lon": -77.3409
+                },
+                {
+                    "lat": 44.2584,
+                    "lon": -77.2969
+                },
+                {
+                    "lat": 44.1734,
+                    "lon": -77.2549
+                },
+                {
+                    "lat": 44.1367,
+                    "lon": -77.2358
+                },
+                {
+                    "lat": 44.1503,
+                    "lon": -77.3721
+                },
+                {
+                    "lat": 44.126,
+                    "lon": -77.408
+                },
+                {
+                    "lat": 44.1054,
+                    "lon": -77.498
+                },
+                {
+                    "lat": 44.0529,
+                    "lon": -77.5819
+                },
+                {
+                    "lat": 44.0311,
+                    "lon": -77.6046
+                },
+                {
+                    "lat": 44.0232,
+                    "lon": -77.6125
+                },
+                {
+                    "lat": 43.9639,
+                    "lon": -77.6389
+                },
+                {
+                    "lat": 43.9565,
+                    "lon": -77.7696
+                },
+                {
+                    "lat": 44.0048,
+                    "lon": -77.7767
+                },
+                {
+                    "lat": 44.1801,
+                    "lon": -77.8616
+                },
+                {
+                    "lat": 44.1494,
+                    "lon": -77.9786
+                },
+                {
+                    "lat": 44.249,
+                    "lon": -78.0199
+                },
+                {
+                    "lat": 44.2496,
+                    "lon": -78.0202
+                },
+                {
+                    "lat": 44.2948,
+                    "lon": -78.0562
+                },
+                {
+                    "lat": 44.3411,
+                    "lon": -77.9594
+                },
+                {
+                    "lat": 44.3664,
+                    "lon": -77.9339
+                },
+                {
+                    "lat": 44.3851,
+                    "lon": -77.9398
+                },
+                {
+                    "lat": 44.3967,
+                    "lon": -77.8849
+                },
+                {
+                    "lat": 44.4203,
+                    "lon": -77.8045
+                },
+                {
+                    "lat": 44.4359,
+                    "lon": -77.7293
+                }
+            ]
+        },
+        {
+            "area_description": "Cobourg - Colborne - Western Northumberland County",
+            "polygon": [
+                {
+                    "lat": 44.249,
+                    "lon": -78.0199
+                },
+                {
+                    "lat": 44.1494,
+                    "lon": -77.9786
+                },
+                {
+                    "lat": 44.1801,
+                    "lon": -77.8616
+                },
+                {
+                    "lat": 44.0048,
+                    "lon": -77.7767
+                },
+                {
+                    "lat": 43.9565,
+                    "lon": -77.7696
+                },
+                {
+                    "lat": 43.8237,
+                    "lon": -78.4112
+                },
+                {
+                    "lat": 43.9102,
+                    "lon": -78.4348
+                },
+                {
+                    "lat": 43.9838,
+                    "lon": -78.4801
+                },
+                {
+                    "lat": 44.0823,
+                    "lon": -78.5095
+                },
+                {
+                    "lat": 44.1117,
+                    "lon": -78.4106
+                },
+                {
+                    "lat": 44.129,
+                    "lon": -78.3089
+                },
+                {
+                    "lat": 44.1581,
+                    "lon": -78.3225
+                },
+                {
+                    "lat": 44.2948,
+                    "lon": -78.0562
+                },
+                {
+                    "lat": 44.2496,
+                    "lon": -78.0202
+                },
+                {
+                    "lat": 44.249,
+                    "lon": -78.0199
+                }
+            ]
+        },
+        {
+            "area_description": "Tamworth - Sydenham - South Frontenac",
+            "polygon": [
+                {
+                    "lat": 44.4314,
+                    "lon": -76.3086
+                },
+                {
+                    "lat": 44.3805,
+                    "lon": -76.3389
+                },
+                {
+                    "lat": 44.3673,
+                    "lon": -76.3605
+                },
+                {
+                    "lat": 44.3493,
+                    "lon": -76.3583
+                },
+                {
+                    "lat": 44.3509,
+                    "lon": -76.3951
+                },
+                {
+                    "lat": 44.3451,
+                    "lon": -76.4198
+                },
+                {
+                    "lat": 44.3394,
+                    "lon": -76.4492
+                },
+                {
+                    "lat": 44.3333,
+                    "lon": -76.5091
+                },
+                {
+                    "lat": 44.3295,
+                    "lon": -76.5681
+                },
+                {
+                    "lat": 44.3624,
+                    "lon": -76.5725
+                },
+                {
+                    "lat": 44.3382,
+                    "lon": -76.7584
+                },
+                {
+                    "lat": 44.323,
+                    "lon": -76.9553
+                },
+                {
+                    "lat": 44.4199,
+                    "lon": -77.0591
+                },
+                {
+                    "lat": 44.5679,
+                    "lon": -77.1888
+                },
+                {
+                    "lat": 44.5696,
+                    "lon": -77.1996
+                },
+                {
+                    "lat": 44.5891,
+                    "lon": -77.2189
+                },
+                {
+                    "lat": 44.6386,
+                    "lon": -76.9247
+                },
+                {
+                    "lat": 44.6941,
+                    "lon": -76.7086
+                },
+                {
+                    "lat": 44.7211,
+                    "lon": -76.5256
+                },
+                {
+                    "lat": 44.6034,
+                    "lon": -76.3634
+                },
+                {
+                    "lat": 44.4856,
+                    "lon": -76.2502
+                },
+                {
+                    "lat": 44.4599,
+                    "lon": -76.2749
+                },
+                {
+                    "lat": 44.4314,
+                    "lon": -76.3086
+                }
+            ]
+        },
+        {
+            "area_description": "Kingston - Odessa - Frontenac Islands",
+            "polygon": [
+                {
+                    "lat": 43.889,
+                    "lon": -76.6116
+                },
+                {
+                    "lat": 43.886,
+                    "lon": -76.7025
+                },
+                {
+                    "lat": 44.0917,
+                    "lon": -76.8197
+                },
+                {
+                    "lat": 44.1612,
+                    "lon": -76.8085
+                },
+                {
+                    "lat": 44.1705,
+                    "lon": -76.8167
+                },
+                {
+                    "lat": 44.2731,
+                    "lon": -76.9098
+                },
+                {
+                    "lat": 44.2707,
+                    "lon": -76.9303
+                },
+                {
+                    "lat": 44.323,
+                    "lon": -76.9553
+                },
+                {
+                    "lat": 44.3544,
+                    "lon": -76.7519
+                },
+                {
+                    "lat": 44.3624,
+                    "lon": -76.5725
+                },
+                {
+                    "lat": 44.3295,
+                    "lon": -76.5681
+                },
+                {
+                    "lat": 44.3357,
+                    "lon": -76.5098
+                },
+                {
+                    "lat": 44.3394,
+                    "lon": -76.4492
+                },
+                {
+                    "lat": 44.3461,
+                    "lon": -76.4201
+                },
+                {
+                    "lat": 44.3509,
+                    "lon": -76.3951
+                },
+                {
+                    "lat": 44.3493,
+                    "lon": -76.3583
+                },
+                {
+                    "lat": 44.3673,
+                    "lon": -76.3605
+                },
+                {
+                    "lat": 44.3805,
+                    "lon": -76.3389
+                },
+                {
+                    "lat": 44.4314,
+                    "lon": -76.3086
+                },
+                {
+                    "lat": 44.4598,
+                    "lon": -76.2825
+                },
+                {
+                    "lat": 44.4856,
+                    "lon": -76.2502
+                },
+                {
+                    "lat": 44.3119,
+                    "lon": -76.2309
+                },
+                {
+                    "lat": 44.2475,
+                    "lon": -76.1644
+                },
+                {
+                    "lat": 44.2398,
+                    "lon": -76.1642
+                },
+                {
+                    "lat": 44.2214,
+                    "lon": -76.1917
+                },
+                {
+                    "lat": 44.2149,
+                    "lon": -76.2068
+                },
+                {
+                    "lat": 44.2038,
+                    "lon": -76.2454
+                },
+                {
+                    "lat": 44.2038,
+                    "lon": -76.2866
+                },
+                {
+                    "lat": 44.199,
+                    "lon": -76.3127
+                },
+                {
+                    "lat": 44.1343,
+                    "lon": -76.3528
+                },
+                {
+                    "lat": 44.094,
+                    "lon": -76.4389
+                },
+                {
+                    "lat": 44.0731,
+                    "lon": -76.455
+                },
+                {
+                    "lat": 43.889,
+                    "lon": -76.6116
+                }
+            ]
+        },
+        {
+            "area_description": "Napanee - Consecon",
+            "polygon": [
+                {
+                    "lat": 44.0232,
+                    "lon": -77.6125
+                },
+                {
+                    "lat": 44.0311,
+                    "lon": -77.6046
+                },
+                {
+                    "lat": 44.0529,
+                    "lon": -77.5819
+                },
+                {
+                    "lat": 44.1054,
+                    "lon": -77.498
+                },
+                {
+                    "lat": 44.126,
+                    "lon": -77.408
+                },
+                {
+                    "lat": 44.1503,
+                    "lon": -77.3721
+                },
+                {
+                    "lat": 44.1367,
+                    "lon": -77.2358
+                },
+                {
+                    "lat": 44.1734,
+                    "lon": -77.2549
+                },
+                {
+                    "lat": 44.2584,
+                    "lon": -77.2969
+                },
+                {
+                    "lat": 44.2585,
+                    "lon": -77.2964
+                },
+                {
+                    "lat": 44.2901,
+                    "lon": -77.0894
+                },
+                {
+                    "lat": 44.4018,
+                    "lon": -77.1392
+                },
+                {
+                    "lat": 44.4199,
+                    "lon": -77.0591
+                },
+                {
+                    "lat": 44.323,
+                    "lon": -76.9553
+                },
+                {
+                    "lat": 44.2707,
+                    "lon": -76.9303
+                },
+                {
+                    "lat": 44.2731,
+                    "lon": -76.9098
+                },
+                {
+                    "lat": 44.1705,
+                    "lon": -76.8167
+                },
+                {
+                    "lat": 44.0704,
+                    "lon": -77.067
+                },
+                {
+                    "lat": 44.0606,
+                    "lon": -77.0965
+                },
+                {
+                    "lat": 43.9475,
+                    "lon": -77.4892
+                },
+                {
+                    "lat": 43.9357,
+                    "lon": -77.505
+                },
+                {
+                    "lat": 43.9059,
+                    "lon": -77.5904
+                },
+                {
+                    "lat": 43.9639,
+                    "lon": -77.6389
+                },
+                {
+                    "lat": 44.0232,
+                    "lon": -77.6125
+                }
+            ]
+        },
+        {
+            "area_description": "Picton - Sandbanks Park",
+            "polygon": [
+                {
+                    "lat": 43.8008,
+                    "lon": -77.1887
+                },
+                {
+                    "lat": 43.832,
+                    "lon": -77.5277
+                },
+                {
+                    "lat": 43.9059,
+                    "lon": -77.5904
+                },
+                {
+                    "lat": 43.9357,
+                    "lon": -77.505
+                },
+                {
+                    "lat": 43.9475,
+                    "lon": -77.4892
+                },
+                {
+                    "lat": 44.0606,
+                    "lon": -77.0965
+                },
+                {
+                    "lat": 44.0704,
+                    "lon": -77.067
+                },
+                {
+                    "lat": 44.1705,
+                    "lon": -76.8167
+                },
+                {
+                    "lat": 44.1612,
+                    "lon": -76.8085
+                },
+                {
+                    "lat": 44.0917,
+                    "lon": -76.8197
+                },
+                {
+                    "lat": 43.886,
+                    "lon": -76.7025
+                },
+                {
+                    "lat": 43.8008,
+                    "lon": -77.1887
+                }
+            ]
+        },
+        {
+            "area_description": "Westport - Charleston Lake",
+            "polygon": [
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                },
+                {
+                    "lat": 44.4856,
+                    "lon": -76.2502
+                },
+                {
+                    "lat": 44.599,
+                    "lon": -76.3932
+                },
+                {
+                    "lat": 44.7211,
+                    "lon": -76.5256
+                },
+                {
+                    "lat": 44.7588,
+                    "lon": -76.4677
+                },
+                {
+                    "lat": 44.795,
+                    "lon": -76.4026
+                },
+                {
+                    "lat": 44.758,
+                    "lon": -76.3538
+                },
+                {
+                    "lat": 44.7223,
+                    "lon": -76.3135
+                },
+                {
+                    "lat": 44.7348,
+                    "lon": -76.2868
+                },
+                {
+                    "lat": 44.7682,
+                    "lon": -76.2517
+                },
+                {
+                    "lat": 44.7938,
+                    "lon": -76.2525
+                },
+                {
+                    "lat": 44.7954,
+                    "lon": -76.2512
+                },
+                {
+                    "lat": 44.797,
+                    "lon": -76.2499
+                },
+                {
+                    "lat": 44.8697,
+                    "lon": -76.1924
+                },
+                {
+                    "lat": 44.92,
+                    "lon": -76.081
+                },
+                {
+                    "lat": 44.9221,
+                    "lon": -76.0521
+                },
+                {
+                    "lat": 44.9003,
+                    "lon": -76.0388
+                },
+                {
+                    "lat": 44.8871,
+                    "lon": -76.0205
+                },
+                {
+                    "lat": 44.8775,
+                    "lon": -76.0072
+                },
+                {
+                    "lat": 44.7611,
+                    "lon": -75.852
+                },
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                }
+            ]
+        },
+        {
+            "area_description": "Brockville - Prescott",
+            "polygon": [
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                },
+                {
+                    "lat": 44.8704,
+                    "lon": -75.4171
+                },
+                {
+                    "lat": 44.8098,
+                    "lon": -75.3666
+                },
+                {
+                    "lat": 44.8059,
+                    "lon": -75.356
+                },
+                {
+                    "lat": 44.8031,
+                    "lon": -75.3534
+                },
+                {
+                    "lat": 44.794,
+                    "lon": -75.3661
+                },
+                {
+                    "lat": 44.7843,
+                    "lon": -75.3729
+                },
+                {
+                    "lat": 44.7827,
+                    "lon": -75.3848
+                },
+                {
+                    "lat": 44.7748,
+                    "lon": -75.3978
+                },
+                {
+                    "lat": 44.7741,
+                    "lon": -75.4178
+                },
+                {
+                    "lat": 44.7567,
+                    "lon": -75.4247
+                },
+                {
+                    "lat": 44.7461,
+                    "lon": -75.4381
+                },
+                {
+                    "lat": 44.7264,
+                    "lon": -75.4729
+                },
+                {
+                    "lat": 44.6851,
+                    "lon": -75.5408
+                },
+                {
+                    "lat": 44.6201,
+                    "lon": -75.6209
+                },
+                {
+                    "lat": 44.5671,
+                    "lon": -75.704
+                },
+                {
+                    "lat": 44.5412,
+                    "lon": -75.7306
+                },
+                {
+                    "lat": 44.5444,
+                    "lon": -75.7337
+                },
+                {
+                    "lat": 44.5488,
+                    "lon": -75.7361
+                },
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                }
+            ]
+        },
+        {
+            "area_description": "Gananoque - Mallorytown",
+            "polygon": [
+                {
+                    "lat": 44.3478,
+                    "lon": -76.0011
+                },
+                {
+                    "lat": 44.3442,
+                    "lon": -76.008
+                },
+                {
+                    "lat": 44.3317,
+                    "lon": -76.0455
+                },
+                {
+                    "lat": 44.3041,
+                    "lon": -76.0961
+                },
+                {
+                    "lat": 44.2975,
+                    "lon": -76.1343
+                },
+                {
+                    "lat": 44.2807,
+                    "lon": -76.1618
+                },
+                {
+                    "lat": 44.2475,
+                    "lon": -76.1644
+                },
+                {
+                    "lat": 44.3119,
+                    "lon": -76.2309
+                },
+                {
+                    "lat": 44.4856,
+                    "lon": -76.2502
+                },
+                {
+                    "lat": 44.645,
+                    "lon": -75.7889
+                },
+                {
+                    "lat": 44.5488,
+                    "lon": -75.7361
+                },
+                {
+                    "lat": 44.5444,
+                    "lon": -75.7337
+                },
+                {
+                    "lat": 44.5412,
+                    "lon": -75.7306
+                },
+                {
+                    "lat": 44.5153,
+                    "lon": -75.7676
+                },
+                {
+                    "lat": 44.4751,
+                    "lon": -75.8116
+                },
+                {
+                    "lat": 44.4345,
+                    "lon": -75.825
+                },
+                {
+                    "lat": 44.3995,
+                    "lon": -75.8738
+                },
+                {
+                    "lat": 44.3689,
+                    "lon": -75.9219
+                },
+                {
+                    "lat": 44.3599,
+                    "lon": -75.9296
+                },
+                {
+                    "lat": 44.3546,
+                    "lon": -75.9438
+                },
+                {
+                    "lat": 44.349,
+                    "lon": -75.9508
+                },
+                {
+                    "lat": 44.3465,
+                    "lon": -75.9588
+                },
+                {
+                    "lat": 44.343,
+                    "lon": -75.9699
+                },
+                {
+                    "lat": 44.3437,
+                    "lon": -75.9727
+                },
+                {
+                    "lat": 44.3459,
+                    "lon": -75.9741
+                },
+                {
+                    "lat": 44.3478,
+                    "lon": -75.9802
+                },
+                {
+                    "lat": 44.3478,
+                    "lon": -75.9858
+                },
+                {
+                    "lat": 44.3478,
+                    "lon": -76.0011
+                }
+            ]
+        },
+        {
+            "area_description": "St. Catharines - Grimsby - Northern Niagara Region",
+            "polygon": [
+                {
+                    "lat": 43.0214,
+                    "lon": -79.2836
+                },
+                {
+                    "lat": 43.0213,
+                    "lon": -79.2836
+                },
+                {
+                    "lat": 43.0211,
+                    "lon": -79.2841
+                },
+                {
+                    "lat": 43.0204,
+                    "lon": -79.2872
+                },
+                {
+                    "lat": 43.0203,
+                    "lon": -79.2874
+                },
+                {
+                    "lat": 43.0201,
+                    "lon": -79.2883
+                },
+                {
+                    "lat": 43.0195,
+                    "lon": -79.2903
+                },
+                {
+                    "lat": 43.0189,
+                    "lon": -79.2928
+                },
+                {
+                    "lat": 43.0188,
+                    "lon": -79.2938
+                },
+                {
+                    "lat": 43.0161,
+                    "lon": -79.2938
+                },
+                {
+                    "lat": 43.0015,
+                    "lon": -79.2939
+                },
+                {
+                    "lat": 42.9986,
+                    "lon": -79.2939
+                },
+                {
+                    "lat": 42.9867,
+                    "lon": -79.2939
+                },
+                {
+                    "lat": 42.9789,
+                    "lon": -79.2942
+                },
+                {
+                    "lat": 42.9659,
+                    "lon": -79.2946
+                },
+                {
+                    "lat": 42.9659,
+                    "lon": -79.2946
+                },
+                {
+                    "lat": 42.968,
+                    "lon": -79.3012
+                },
+                {
+                    "lat": 42.9718,
+                    "lon": -79.3138
+                },
+                {
+                    "lat": 43.0111,
+                    "lon": -79.4424
+                },
+                {
+                    "lat": 42.9956,
+                    "lon": -79.4971
+                },
+                {
+                    "lat": 42.9826,
+                    "lon": -79.5635
+                },
+                {
+                    "lat": 43.0161,
+                    "lon": -79.664
+                },
+                {
+                    "lat": 43.0507,
+                    "lon": -79.7541
+                },
+                {
+                    "lat": 43.1083,
+                    "lon": -79.7364
+                },
+                {
+                    "lat": 43.1557,
+                    "lon": -79.7098
+                },
+                {
+                    "lat": 43.152,
+                    "lon": -79.6809
+                },
+                {
+                    "lat": 43.1439,
+                    "lon": -79.6585
+                },
+                {
+                    "lat": 43.2037,
+                    "lon": -79.6397
+                },
+                {
+                    "lat": 43.2456,
+                    "lon": -79.6136
+                },
+                {
+                    "lat": 43.2166,
+                    "lon": -79.562
+                },
+                {
+                    "lat": 43.2057,
+                    "lon": -79.4175
+                },
+                {
+                    "lat": 43.1929,
+                    "lon": -79.3357
+                },
+                {
+                    "lat": 43.2183,
+                    "lon": -79.2576
+                },
+                {
+                    "lat": 43.2544,
+                    "lon": -79.2256
+                },
+                {
+                    "lat": 43.266,
+                    "lon": -79.1455
+                },
+                {
+                    "lat": 43.2661,
+                    "lon": -79.0622
+                },
+                {
+                    "lat": 43.2489,
+                    "lon": -79.0545
+                },
+                {
+                    "lat": 43.1911,
+                    "lon": -79.0493
+                },
+                {
+                    "lat": 43.1901,
+                    "lon": -79.055
+                },
+                {
+                    "lat": 43.189,
+                    "lon": -79.0627
+                },
+                {
+                    "lat": 43.1417,
+                    "lon": -79.1728
+                },
+                {
+                    "lat": 43.051,
+                    "lon": -79.169
+                },
+                {
+                    "lat": 43.049,
+                    "lon": -79.169
+                },
+                {
+                    "lat": 43.0466,
+                    "lon": -79.1741
+                },
+                {
+                    "lat": 43.0405,
+                    "lon": -79.1875
+                },
+                {
+                    "lat": 43.0411,
+                    "lon": -79.1895
+                },
+                {
+                    "lat": 43.0418,
+                    "lon": -79.1918
+                },
+                {
+                    "lat": 43.044,
+                    "lon": -79.1994
+                },
+                {
+                    "lat": 43.0445,
+                    "lon": -79.2011
+                },
+                {
+                    "lat": 43.0445,
+                    "lon": -79.2014
+                },
+                {
+                    "lat": 43.0338,
+                    "lon": -79.2081
+                },
+                {
+                    "lat": 43.0299,
+                    "lon": -79.2359
+                },
+                {
+                    "lat": 43.0294,
+                    "lon": -79.2388
+                },
+                {
+                    "lat": 43.0352,
+                    "lon": -79.2461
+                },
+                {
+                    "lat": 43.0352,
+                    "lon": -79.2462
+                },
+                {
+                    "lat": 43.0353,
+                    "lon": -79.2463
+                },
+                {
+                    "lat": 43.0292,
+                    "lon": -79.2554
+                },
+                {
+                    "lat": 43.03,
+                    "lon": -79.2635
+                },
+                {
+                    "lat": 43.0305,
+                    "lon": -79.2686
+                },
+                {
+                    "lat": 43.0308,
+                    "lon": -79.2725
+                },
+                {
+                    "lat": 43.0305,
+                    "lon": -79.2759
+                },
+                {
+                    "lat": 43.0298,
+                    "lon": -79.2835
+                },
+                {
+                    "lat": 43.0239,
+                    "lon": -79.2836
+                },
+                {
+                    "lat": 43.0229,
+                    "lon": -79.2836
+                },
+                {
+                    "lat": 43.0214,
+                    "lon": -79.2836
+                }
+            ]
+        },
+        {
+            "area_description": "Niagara Falls - Welland - Southern Niagara Region",
+            "polygon": [
+                {
+                    "lat": 43.0201,
+                    "lon": -79.2883
+                },
+                {
+                    "lat": 43.0203,
+                    "lon": -79.2874
+                },
+                {
+                    "lat": 43.0204,
+                    "lon": -79.2872
+                },
+                {
+                    "lat": 43.0211,
+                    "lon": -79.2841
+                },
+                {
+                    "lat": 43.0213,
+                    "lon": -79.2836
+                },
+                {
+                    "lat": 43.0214,
+                    "lon": -79.2836
+                },
+                {
+                    "lat": 43.0229,
+                    "lon": -79.2836
+                },
+                {
+                    "lat": 43.0298,
+                    "lon": -79.2835
+                },
+                {
+                    "lat": 43.0305,
+                    "lon": -79.2759
+                },
+                {
+                    "lat": 43.0308,
+                    "lon": -79.2725
+                },
+                {
+                    "lat": 43.0305,
+                    "lon": -79.2686
+                },
+                {
+                    "lat": 43.03,
+                    "lon": -79.2635
+                },
+                {
+                    "lat": 43.0292,
+                    "lon": -79.2554
+                },
+                {
+                    "lat": 43.0353,
+                    "lon": -79.2463
+                },
+                {
+                    "lat": 43.0352,
+                    "lon": -79.2462
+                },
+                {
+                    "lat": 43.0294,
+                    "lon": -79.239
+                },
+                {
+                    "lat": 43.0294,
+                    "lon": -79.2388
+                },
+                {
+                    "lat": 43.0299,
+                    "lon": -79.2359
+                },
+                {
+                    "lat": 43.0338,
+                    "lon": -79.2081
+                },
+                {
+                    "lat": 43.0445,
+                    "lon": -79.2014
+                },
+                {
+                    "lat": 43.0445,
+                    "lon": -79.2011
+                },
+                {
+                    "lat": 43.044,
+                    "lon": -79.1994
+                },
+                {
+                    "lat": 43.0418,
+                    "lon": -79.1918
+                },
+                {
+                    "lat": 43.0411,
+                    "lon": -79.1895
+                },
+                {
+                    "lat": 43.0405,
+                    "lon": -79.1875
+                },
+                {
+                    "lat": 43.0466,
+                    "lon": -79.1741
+                },
+                {
+                    "lat": 43.049,
+                    "lon": -79.169
+                },
+                {
+                    "lat": 43.051,
+                    "lon": -79.169
+                },
+                {
+                    "lat": 43.1417,
+                    "lon": -79.1728
+                },
+                {
+                    "lat": 43.189,
+                    "lon": -79.0627
+                },
+                {
+                    "lat": 43.1901,
+                    "lon": -79.055
+                },
+                {
+                    "lat": 43.1911,
+                    "lon": -79.0493
+                },
+                {
+                    "lat": 43.1731,
+                    "lon": -79.0495
+                },
+                {
+                    "lat": 43.1513,
+                    "lon": -79.0405
+                },
+                {
+                    "lat": 43.134,
+                    "lon": -79.0425
+                },
+                {
+                    "lat": 43.1203,
+                    "lon": -79.0614
+                },
+                {
+                    "lat": 43.1094,
+                    "lon": -79.057
+                },
+                {
+                    "lat": 43.0785,
+                    "lon": -79.0668
+                },
+                {
+                    "lat": 43.0601,
+                    "lon": -79.0215
+                },
+                {
+                    "lat": 43.0355,
+                    "lon": -79.0102
+                },
+                {
+                    "lat": 43.0153,
+                    "lon": -79.0258
+                },
+                {
+                    "lat": 42.9821,
+                    "lon": -79.0204
+                },
+                {
+                    "lat": 42.9672,
+                    "lon": -78.9731
+                },
+                {
+                    "lat": 42.9549,
+                    "lon": -78.9663
+                },
+                {
+                    "lat": 42.9512,
+                    "lon": -78.9283
+                },
+                {
+                    "lat": 42.9268,
+                    "lon": -78.9018
+                },
+                {
+                    "lat": 42.9001,
+                    "lon": -78.9078
+                },
+                {
+                    "lat": 42.8838,
+                    "lon": -78.9218
+                },
+                {
+                    "lat": 42.8578,
+                    "lon": -79.0222
+                },
+                {
+                    "lat": 42.8217,
+                    "lon": -79.0947
+                },
+                {
+                    "lat": 42.8579,
+                    "lon": -79.1581
+                },
+                {
+                    "lat": 42.8617,
+                    "lon": -79.2598
+                },
+                {
+                    "lat": 42.8473,
+                    "lon": -79.3806
+                },
+                {
+                    "lat": 42.8607,
+                    "lon": -79.4301
+                },
+                {
+                    "lat": 42.876,
+                    "lon": -79.4371
+                },
+                {
+                    "lat": 42.9112,
+                    "lon": -79.474
+                },
+                {
+                    "lat": 42.9648,
+                    "lon": -79.5116
+                },
+                {
+                    "lat": 42.9727,
+                    "lon": -79.5391
+                },
+                {
+                    "lat": 42.9826,
+                    "lon": -79.5635
+                },
+                {
+                    "lat": 43.0013,
+                    "lon": -79.4969
+                },
+                {
+                    "lat": 43.0111,
+                    "lon": -79.4424
+                },
+                {
+                    "lat": 42.968,
+                    "lon": -79.3012
+                },
+                {
+                    "lat": 42.9659,
+                    "lon": -79.2946
+                },
+                {
+                    "lat": 42.9659,
+                    "lon": -79.2946
+                },
+                {
+                    "lat": 42.9789,
+                    "lon": -79.2942
+                },
+                {
+                    "lat": 42.9867,
+                    "lon": -79.2939
+                },
+                {
+                    "lat": 42.9986,
+                    "lon": -79.2939
+                },
+                {
+                    "lat": 43.0015,
+                    "lon": -79.2939
+                },
+                {
+                    "lat": 43.0161,
+                    "lon": -79.2938
+                },
+                {
+                    "lat": 43.0188,
+                    "lon": -79.2938
+                },
+                {
+                    "lat": 43.0189,
+                    "lon": -79.2928
+                },
+                {
+                    "lat": 43.0201,
+                    "lon": -79.2883
+                }
+            ]
+        }
+    ]
+}
