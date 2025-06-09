@@ -1,0 +1,183 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3526358823.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-09T03:07:55-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3903810856.2025,2025-06-02T16:09:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0911359388.2025,2025-06-02T16:10:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0549022778.2025,2025-06-02T21:31:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2230025591.2025,2025-06-02T21:32:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0335424311.2025,2025-06-03T05:33:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2063298641.2025,2025-06-03T09:27:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1077614634.2025,2025-06-03T09:29:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0594911310.2025,2025-06-03T14:00:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0943936430.2025,2025-06-03T14:03:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3285072724.2025,2025-06-03T21:42:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2566227550.2025,2025-06-03T21:43:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1520867151.2025,2025-06-03T21:46:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0534805556.2025,2025-06-03T21:46:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2620058270.2025,2025-06-04T01:12:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3165249838.2025,2025-06-04T01:13:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1849216227.2025,2025-06-04T02:38:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3303063794.2025,2025-06-04T02:39:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1523280534.2025,2025-06-04T06:18:11-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3663403522.2025,2025-06-04T06:20:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1437773041.2025,2025-06-04T08:24:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3746982549.2025,2025-06-04T08:28:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1039120406.2025,2025-06-04T13:47:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2041045008.2025,2025-06-04T13:48:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2337478079.2025,2025-06-04T17:38:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1447465781.2025,2025-06-04T17:39:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1667356242.2025,2025-06-05T03:55:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0644006791.2025,2025-06-05T14:04:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1068581649.2025,2025-06-05T14:20:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1916916046.2025,2025-06-05T14:29:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3245422178.2025,2025-06-05T19:38:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1372716818.2025,2025-06-05T19:40:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1195487448.2025,2025-06-05T19:41:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3315058800.2025,2025-06-06T09:29:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2564652982.2025,2025-06-06T09:30:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2013187642.2025,2025-06-06T20:43:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3704339501.2025,2025-06-06T20:47:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0656277264.2025,2025-06-07T02:10:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3755469407.2025,2025-06-07T02:11:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1088823689.2025,2025-06-07T07:29:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0279610684.2025,2025-06-07T07:30:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3108248830.2025,2025-06-07T12:22:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3165095486.2025,2025-06-07T12:24:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1774386601.2025,2025-06-07T14:09:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0972560994.2025,2025-06-07T14:10:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2178994145.2025,2025-06-07T20:07:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3217291714.2025,2025-06-07T20:09:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2957213224.2025,2025-06-08T08:53:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2418097322.2025,2025-06-08T08:55:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2019465074.2025,2025-06-08T09:02:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2818531286.2025,2025-06-08T09:05:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0560457818.2025,2025-06-08T15:52:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3955369974.2025,2025-06-08T15:54:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0321121980.2025,2025-06-08T20:08:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3319289718.2025,2025-06-08T20:11:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2078643146.2025,2025-06-09T03:05:57-00:00",
+    "headline": "special air quality statement in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-06-09T03:05:57-00:00",
+    "expires": "2025-06-09T17:59:57-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\nHigh levels of air pollution due to smoke from forest fires may remain in place tonight.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Attawapiskat",
+            "polygon": [
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                },
+                {
+                    "lat": 54.0004,
+                    "lon": -82.2294
+                },
+                {
+                    "lat": 53.9804,
+                    "lon": -81.9568
+                },
+                {
+                    "lat": 53.3416,
+                    "lon": -81.9632
+                },
+                {
+                    "lat": 53.0256,
+                    "lon": -82.2216
+                },
+                {
+                    "lat": 52.4881,
+                    "lon": -81.4236
+                },
+                {
+                    "lat": 52.4649,
+                    "lon": -81.6114
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 54.0006,
+                    "lon": -82.2369
+                }
+            ]
+        },
+        {
+            "area_description": "Fort Albany",
+            "polygon": [
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 52.4649,
+                    "lon": -81.6114
+                },
+                {
+                    "lat": 52.4881,
+                    "lon": -81.4236
+                },
+                {
+                    "lat": 51.9724,
+                    "lon": -80.6927
+                },
+                {
+                    "lat": 51.8769,
+                    "lon": -80.8373
+                },
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                },
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                }
+            ]
+        },
+        {
+            "area_description": "Moosonee",
+            "polygon": [
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                },
+                {
+                    "lat": 51.8769,
+                    "lon": -80.8373
+                },
+                {
+                    "lat": 51.9724,
+                    "lon": -80.6927
+                },
+                {
+                    "lat": 51.6003,
+                    "lon": -80.3594
+                },
+                {
+                    "lat": 51.3971,
+                    "lon": -80.2894
+                },
+                {
+                    "lat": 51.3571,
+                    "lon": -80.0462
+                },
+                {
+                    "lat": 51.2605,
+                    "lon": -79.8263
+                },
+                {
+                    "lat": 51.4271,
+                    "lon": -79.8297
+                },
+                {
+                    "lat": 51.5496,
+                    "lon": -79.5979
+                },
+                {
+                    "lat": 51.4684,
+                    "lon": -79.5164
+                },
+                {
+                    "lat": 51.0628,
+                    "lon": -79.496
+                },
+                {
+                    "lat": 50.7219,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                },
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                }
+            ]
+        }
+    ]
+}
