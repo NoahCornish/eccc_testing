@@ -1,0 +1,212 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3391605574.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-10T03:42:47-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2360712491.2025,2025-06-05T14:19:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1352182751.2025,2025-06-05T14:22:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2536369888.2025,2025-06-05T19:55:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4284354698.2025,2025-06-05T20:02:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0289234616.2025,2025-06-05T23:01:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3973913448.2025,2025-06-05T23:03:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1566469928.2025,2025-06-06T08:49:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2358948993.2025,2025-06-06T08:51:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2884008508.2025,2025-06-06T21:03:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2223478116.2025,2025-06-06T21:05:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1098564903.2025,2025-06-07T02:05:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2171709054.2025,2025-06-07T02:08:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0422789418.2025,2025-06-07T08:56:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4033956246.2025,2025-06-07T08:58:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3093542123.2025,2025-06-07T20:10:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2062337358.2025,2025-06-07T20:12:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1752355734.2025,2025-06-08T08:59:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3132735044.2025,2025-06-08T09:00:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3637305836.2025,2025-06-08T09:02:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0664524561.2025,2025-06-08T09:03:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1138742808.2025,2025-06-08T09:37:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0862375372.2025,2025-06-08T09:39:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0639890008.2025,2025-06-08T15:47:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1285012195.2025,2025-06-08T15:51:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3560087732.2025,2025-06-09T02:20:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0291980381.2025,2025-06-09T02:26:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3376945603.2025,2025-06-09T10:15:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3692819673.2025,2025-06-09T10:16:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2752802001.2025,2025-06-09T15:21:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3539420842.2025,2025-06-09T15:22:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2950876542.2025,2025-06-09T18:01:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1433157039.2025,2025-06-09T18:03:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1089873862.2025,2025-06-10T03:40:47-00:00",
+    "headline": "air quality warning in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-06-10T03:40:47-00:00",
+    "expires": "2025-06-10T19:40:47-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\nExtremely high levels of air pollution due to smoke from local forest fires may remain in place for several days. Poor air quality due to smoke could persist into Wednesday for some areas and possibly later in the week.\n\nPeople more likely to be impacted by wildfire smoke, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should avoid strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\n###\n\nDuring heavy smoke conditions, everyone’s health is at risk regardless of their age or health status.\n\nLimit time outdoors. Reschedule or cancel outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nFor further information visit the website https://www.airqualityontario.com/ or contact the Ontario Ministry of the Environment, Conservation and Parks at 416-314-6666.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, limit the time as much as possible. A well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Summer Beaver - Wunnummin Lake - Kingfisher Lake",
+            "polygon": [
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 52.7534,
+                    "lon": -87.9569
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.237,
+                    "lon": -89.76
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.9445,
+                    "lon": -91.0141
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 53.4188,
+                    "lon": -89.3718
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                }
+            ]
+        },
+        {
+            "area_description": "Pickle Lake - Cat Lake",
+            "polygon": [
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.2797,
+                    "lon": -89.8479
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                }
+            ]
+        },
+        {
+            "area_description": "Webequie",
+            "polygon": [
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.7599,
+                    "lon": -88.0338
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 54.1733,
+                    "lon": -87.5227
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                }
+            ]
+        },
+        {
+            "area_description": "Fort Hope - Lansdowne House - Ogoki",
+            "polygon": [
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                },
+                {
+                    "lat": 51.0571,
+                    "lon": -84.4653
+                },
+                {
+                    "lat": 51.0622,
+                    "lon": -84.57
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8342
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.4893,
+                    "lon": -83.2673
+                },
+                {
+                    "lat": 51.2539,
+                    "lon": -83.9119
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                }
+            ]
+        }
+    ]
+}
