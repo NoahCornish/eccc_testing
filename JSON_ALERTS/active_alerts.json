@@ -1,1118 +1,372 @@
 {
     "alerts": [
         {
-            "identifier": "urn:oid:2.49.0.1.124.0696274463.2025",
+            "identifier": "urn:oid:2.49.0.1.124.2713033348.2025",
             "sender": "cap-pac@canada.ca",
-            "sent": "2025-06-11T01:45:57-00:00",
+            "sent": "2025-06-12T15:14:51-00:00",
             "status": "Actual",
-            "msgType": "Update",
+            "msgType": "Alert",
             "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0859024841.2025,2025-06-09T17:59:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1449339707.2025,2025-06-09T18:01:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3585457265.2025,2025-06-10T03:40:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0276001380.2025,2025-06-10T03:41:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3954426695.2025,2025-06-10T10:06:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0707191486.2025,2025-06-10T10:09:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747567726.2025,2025-06-10T13:30:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1365580231.2025,2025-06-10T13:32:42-00:00",
-            "headline": "special air quality statement in effect",
-            "event": "air quality",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Possible",
-            "effective": "2025-06-11T01:45:57-00:00",
-            "expires": "2025-06-11T15:04:57-00:00",
-            "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
-            "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
-            "affected_areas": [
-                {
-                    "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
-                    "polygon": [
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.6707,
-                            "lon": -95.1632
-                        },
-                        {
-                            "lat": 52.8415,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.8419,
-                            "lon": -95.153
-                        },
-                        {
-                            "lat": 53.2523,
-                            "lon": -94.5197
-                        },
-                        {
-                            "lat": 53.5766,
-                            "lon": -93.9327
-                        },
-                        {
-                            "lat": 53.7427,
-                            "lon": -93.68
-                        },
-                        {
-                            "lat": 53.9089,
-                            "lon": -93.4241
-                        },
-                        {
-                            "lat": 53.7604,
-                            "lon": -92.0407
-                        },
-                        {
-                            "lat": 53.543,
-                            "lon": -90.5082
-                        },
-                        {
-                            "lat": 52.9541,
-                            "lon": -90.9516
-                        },
-                        {
-                            "lat": 52.2405,
-                            "lon": -91.5246
-                        },
-                        {
-                            "lat": 52.3546,
-                            "lon": -93.4886
-                        },
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Webequie",
-                    "polygon": [
-                        {
-                            "lat": 52.2455,
-                            "lon": -83.0383
-                        },
-                        {
-                            "lat": 52.2453,
-                            "lon": -87.9904
-                        },
-                        {
-                            "lat": 52.7599,
-                            "lon": -88.0338
-                        },
-                        {
-                            "lat": 53.2172,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 54.1733,
-                            "lon": -87.5227
-                        },
-                        {
-                            "lat": 55.0075,
-                            "lon": -87.0122
-                        },
-                        {
-                            "lat": 55.0039,
-                            "lon": -87.008
-                        },
-                        {
-                            "lat": 54.0287,
-                            "lon": -83.7002
-                        },
-                        {
-                            "lat": 52.2453,
-                            "lon": -83.0302
-                        },
-                        {
-                            "lat": 52.2455,
-                            "lon": -83.0383
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.2419676223.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-06-11T01:50:57-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0859024841.2025,2025-06-09T17:59:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1449339707.2025,2025-06-09T18:01:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3585457265.2025,2025-06-10T03:40:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0276001380.2025,2025-06-10T03:41:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3954426695.2025,2025-06-10T10:06:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0707191486.2025,2025-06-10T10:09:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747567726.2025,2025-06-10T13:30:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1365580231.2025,2025-06-10T13:32:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0696274463.2025,2025-06-11T01:45:57-00:00",
-            "headline": "special air quality statement in effect",
-            "event": "air quality",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Possible",
-            "effective": "2025-06-11T01:45:57-00:00",
-            "expires": "2025-06-11T15:04:57-00:00",
-            "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\nWildfire smoke from local wildfires may persist over portions of the region tonight.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
-            "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
-            "affected_areas": [
-                {
-                    "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
-                    "polygon": [
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.6707,
-                            "lon": -95.1632
-                        },
-                        {
-                            "lat": 52.8415,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.8419,
-                            "lon": -95.153
-                        },
-                        {
-                            "lat": 53.2523,
-                            "lon": -94.5197
-                        },
-                        {
-                            "lat": 53.5766,
-                            "lon": -93.9327
-                        },
-                        {
-                            "lat": 53.7427,
-                            "lon": -93.68
-                        },
-                        {
-                            "lat": 53.9089,
-                            "lon": -93.4241
-                        },
-                        {
-                            "lat": 53.7604,
-                            "lon": -92.0407
-                        },
-                        {
-                            "lat": 53.543,
-                            "lon": -90.5082
-                        },
-                        {
-                            "lat": 52.9541,
-                            "lon": -90.9516
-                        },
-                        {
-                            "lat": 52.2405,
-                            "lon": -91.5246
-                        },
-                        {
-                            "lat": 52.3546,
-                            "lon": -93.4886
-                        },
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Webequie",
-                    "polygon": [
-                        {
-                            "lat": 52.2455,
-                            "lon": -83.0383
-                        },
-                        {
-                            "lat": 52.2453,
-                            "lon": -87.9904
-                        },
-                        {
-                            "lat": 52.7599,
-                            "lon": -88.0338
-                        },
-                        {
-                            "lat": 53.2172,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 54.1733,
-                            "lon": -87.5227
-                        },
-                        {
-                            "lat": 55.0075,
-                            "lon": -87.0122
-                        },
-                        {
-                            "lat": 55.0039,
-                            "lon": -87.008
-                        },
-                        {
-                            "lat": 54.0287,
-                            "lon": -83.7002
-                        },
-                        {
-                            "lat": 52.2453,
-                            "lon": -83.0302
-                        },
-                        {
-                            "lat": 52.2455,
-                            "lon": -83.0383
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.1721141693.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-06-11T03:41:11-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0752941175.2025,2025-06-10T02:11:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1282235939.2025,2025-06-10T02:13:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3311295254.2025,2025-06-10T03:46:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0291370723.2025,2025-06-10T09:19:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1607380543.2025,2025-06-10T12:14:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2166461457.2025,2025-06-10T12:15:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2958276703.2025,2025-06-10T15:16:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3133092576.2025,2025-06-10T19:47:45-00:00",
-            "headline": "fog advisory in effect",
-            "event": "fog",
+            "references": null,
+            "headline": "frost advisory in effect",
+            "event": "frost",
             "urgency": "Future",
             "severity": "Moderate",
             "certainty": "Likely",
-            "effective": "2025-06-11T03:41:11-00:00",
-            "expires": "2025-06-11T18:00:11-00:00",
-            "description": "\nAreas of dense fog are expected tonight into late Wednesday morning.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
-            "instruction": "\nIf travelling, be prepared for areas of near-zero visibility. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "effective": "2025-06-12T15:14:51-00:00",
+            "expires": "2025-06-13T07:14:51-00:00",
+            "description": "\nSome plants may be damaged or even destroyed by frost.\n\nTemperatures are expected to drop to near or below the freezing mark tonight through early Friday morning.\n\n###\n\nFrost advisories are issued when temperatures are expected to reach the freezing mark during the growing season, leading to potential damage and destruction to plants and crops.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nCover up plants, especially those in frost-prone areas. Take preventative measures to protect frost-sensitive plants and trees.\n",
             "affected_areas": [
                 {
-                    "area_description": "Marathon - Schreiber",
+                    "area_description": "Armstrong - Auden - Wabakimi Park",
                     "polygon": [
                         {
-                            "lat": 48.4447,
-                            "lon": -87.4467
+                            "lat": 49.9338,
+                            "lon": -88.5445
                         },
                         {
-                            "lat": 49.1383,
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.159,
                             "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Nakina - Aroland - Pagwa",
+                    "polygon": [
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.2465,
+                            "lon": -84.7492
+                        },
+                        {
+                            "lat": 51.1721,
+                            "lon": -84.5361
+                        },
+                        {
+                            "lat": 51.2908,
+                            "lon": -84.362
+                        },
+                        {
+                            "lat": 51.3077,
+                            "lon": -84.1527
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 49.9546,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Manitouwadge - Hornepayne",
+                    "polygon": [
+                        {
+                            "lat": 48.5501,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5499,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5511,
+                            "lon": -84.0089
                         },
                         {
                             "lat": 48.8844,
                             "lon": -85.9469
                         },
                         {
-                            "lat": 48.7455,
-                            "lon": -86.0931
-                        },
-                        {
-                            "lat": 48.5796,
-                            "lon": -86.2679
-                        },
-                        {
-                            "lat": 48.5745,
-                            "lon": -86.2839
-                        },
-                        {
-                            "lat": 48.2984,
-                            "lon": -86.5309
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Wawa - Pukaskwa Park",
-                    "polygon": [
-                        {
-                            "lat": 47.4654,
-                            "lon": -86.1345
-                        },
-                        {
-                            "lat": 48.2984,
-                            "lon": -86.5309
-                        },
-                        {
-                            "lat": 48.5745,
-                            "lon": -86.2839
-                        },
-                        {
-                            "lat": 48.5796,
-                            "lon": -86.2679
-                        },
-                        {
-                            "lat": 48.7455,
-                            "lon": -86.0931
-                        },
-                        {
-                            "lat": 48.2896,
-                            "lon": -85.2219
-                        },
-                        {
-                            "lat": 48.0978,
-                            "lon": -84.2401
-                        },
-                        {
-                            "lat": 48.0973,
-                            "lon": -84.2418
-                        },
-                        {
-                            "lat": 47.963,
-                            "lon": -84.6559
-                        },
-                        {
-                            "lat": 47.8957,
-                            "lon": -84.8608
-                        },
-                        {
-                            "lat": 47.824,
-                            "lon": -85.1481
-                        },
-                        {
-                            "lat": 47.2346,
-                            "lon": -84.9134
-                        },
-                        {
-                            "lat": 47.3094,
-                            "lon": -85.809
-                        },
-                        {
-                            "lat": 47.4654,
-                            "lon": -86.1345
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.0751110809.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-06-11T09:21:29-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0752941175.2025,2025-06-10T02:11:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1282235939.2025,2025-06-10T02:13:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3311295254.2025,2025-06-10T03:46:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0291370723.2025,2025-06-10T09:19:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1607380543.2025,2025-06-10T12:14:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2166461457.2025,2025-06-10T12:15:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2958276703.2025,2025-06-10T15:16:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3133092576.2025,2025-06-10T19:47:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1721141693.2025,2025-06-11T03:41:11-00:00",
-            "headline": "fog advisory ended",
-            "event": "fog",
-            "urgency": "Past",
-            "severity": "Minor",
-            "certainty": "Observed",
-            "effective": "2025-06-11T09:21:29-00:00",
-            "expires": "2025-06-11T10:21:29-00:00",
-            "description": "\nVisibilities have improved and are no longer expected to meet fog advisory criteria.\n\n\n###\n",
-            "instruction": null,
-            "affected_areas": [
-                {
-                    "area_description": "Marathon - Schreiber",
-                    "polygon": [
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        },
-                        {
-                            "lat": 49.1383,
-                            "lon": -87.4321
-                        },
-                        {
-                            "lat": 48.8844,
+                            "lat": 49.9546,
                             "lon": -85.9469
                         },
                         {
-                            "lat": 48.7455,
-                            "lon": -86.0931
+                            "lat": 49.9497,
+                            "lon": -84.021
                         },
                         {
-                            "lat": 48.5796,
-                            "lon": -86.2679
+                            "lat": 49.1609,
+                            "lon": -84.0021
                         },
                         {
-                            "lat": 48.5745,
-                            "lon": -86.2839
+                            "lat": 48.5526,
+                            "lon": -84.0021
                         },
                         {
-                            "lat": 48.2984,
-                            "lon": -86.5309
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
+                            "lat": 48.5501,
+                            "lon": -84.002
                         }
                     ]
                 },
                 {
-                    "area_description": "Wawa - Pukaskwa Park",
+                    "area_description": "Fraserdale - Pledger Lake",
                     "polygon": [
                         {
-                            "lat": 47.4654,
-                            "lon": -86.1345
+                            "lat": 50.7218,
+                            "lon": -81.4395
                         },
                         {
-                            "lat": 48.2984,
-                            "lon": -86.5309
+                            "lat": 49.5091,
+                            "lon": -81.4419
                         },
                         {
-                            "lat": 48.5745,
-                            "lon": -86.2839
+                            "lat": 49.9497,
+                            "lon": -84.0149
                         },
                         {
-                            "lat": 48.5796,
-                            "lon": -86.2679
+                            "lat": 49.9497,
+                            "lon": -84.021
                         },
                         {
-                            "lat": 48.7455,
-                            "lon": -86.0931
+                            "lat": 51.1582,
+                            "lon": -84.05
                         },
                         {
-                            "lat": 48.2896,
-                            "lon": -85.2219
+                            "lat": 51.3077,
+                            "lon": -84.1527
                         },
                         {
-                            "lat": 48.0978,
-                            "lon": -84.2401
+                            "lat": 51.3876,
+                            "lon": -83.8976
                         },
                         {
-                            "lat": 48.0973,
-                            "lon": -84.2418
+                            "lat": 51.4751,
+                            "lon": -83.7667
                         },
                         {
-                            "lat": 47.963,
-                            "lon": -84.6559
+                            "lat": 51.498,
+                            "lon": -83.6224
                         },
                         {
-                            "lat": 47.8957,
-                            "lon": -84.8608
+                            "lat": 51.624,
+                            "lon": -83.3889
                         },
                         {
-                            "lat": 47.824,
-                            "lon": -85.1481
+                            "lat": 51.817,
+                            "lon": -83.221
                         },
                         {
-                            "lat": 47.2346,
-                            "lon": -84.9134
+                            "lat": 51.9629,
+                            "lon": -82.9587
                         },
                         {
-                            "lat": 47.3094,
-                            "lon": -85.809
+                            "lat": 51.9291,
+                            "lon": -82.9115
                         },
                         {
-                            "lat": 47.4654,
-                            "lon": -86.1345
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.1501657826.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-06-11T09:44:58-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0859024841.2025,2025-06-09T17:59:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1449339707.2025,2025-06-09T18:01:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3585457265.2025,2025-06-10T03:40:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0276001380.2025,2025-06-10T03:41:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3954426695.2025,2025-06-10T10:06:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0707191486.2025,2025-06-10T10:09:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747567726.2025,2025-06-10T13:30:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1365580231.2025,2025-06-10T13:32:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0696274463.2025,2025-06-11T01:45:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2419676223.2025,2025-06-11T01:50:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747015129.2025,2025-06-11T09:42:49-00:00",
-            "headline": "special air quality statement in effect",
-            "event": "air quality",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Possible",
-            "effective": "2025-06-11T09:42:49-00:00",
-            "expires": "2025-06-11T15:09:49-00:00",
-            "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\nWildfire smoke from local wildfires may persist over portions of the region this morning.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
-            "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
-            "affected_areas": [
-                {
-                    "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
-                    "polygon": [
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
+                            "lat": 51.8669,
+                            "lon": -82.8343
                         },
                         {
-                            "lat": 52.6707,
-                            "lon": -95.1632
+                            "lat": 51.3124,
+                            "lon": -82.1596
                         },
                         {
-                            "lat": 52.8415,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.8419,
-                            "lon": -95.153
-                        },
-                        {
-                            "lat": 53.2523,
-                            "lon": -94.5197
-                        },
-                        {
-                            "lat": 53.5766,
-                            "lon": -93.9327
-                        },
-                        {
-                            "lat": 53.7427,
-                            "lon": -93.68
-                        },
-                        {
-                            "lat": 53.9089,
-                            "lon": -93.4241
-                        },
-                        {
-                            "lat": 53.7604,
-                            "lon": -92.0407
-                        },
-                        {
-                            "lat": 53.543,
-                            "lon": -90.5082
-                        },
-                        {
-                            "lat": 52.9541,
-                            "lon": -90.9516
-                        },
-                        {
-                            "lat": 52.2405,
-                            "lon": -91.5246
-                        },
-                        {
-                            "lat": 52.3546,
-                            "lon": -93.4886
-                        },
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
+                            "lat": 50.7218,
+                            "lon": -81.4395
                         }
                     ]
                 },
                 {
-                    "area_description": "Webequie",
+                    "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
                     "polygon": [
                         {
-                            "lat": 52.2455,
-                            "lon": -83.0383
+                            "lat": 49.1616,
+                            "lon": -82.6268
                         },
                         {
-                            "lat": 52.2453,
-                            "lon": -87.9904
+                            "lat": 49.1609,
+                            "lon": -84.0021
                         },
                         {
-                            "lat": 52.7599,
-                            "lon": -88.0338
+                            "lat": 49.9497,
+                            "lon": -84.021
                         },
                         {
-                            "lat": 53.2172,
-                            "lon": -87.9958
+                            "lat": 49.9497,
+                            "lon": -84.0149
                         },
                         {
-                            "lat": 54.1733,
-                            "lon": -87.5227
+                            "lat": 49.5091,
+                            "lon": -81.4419
                         },
                         {
-                            "lat": 55.0075,
-                            "lon": -87.0122
+                            "lat": 49.1637,
+                            "lon": -81.4426
                         },
                         {
-                            "lat": 55.0039,
-                            "lon": -87.008
-                        },
-                        {
-                            "lat": 54.0287,
-                            "lon": -83.7002
-                        },
-                        {
-                            "lat": 52.2453,
-                            "lon": -83.0302
-                        },
-                        {
-                            "lat": 52.2455,
-                            "lon": -83.0383
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.3747015129.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-06-11T09:42:49-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0859024841.2025,2025-06-09T17:59:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1449339707.2025,2025-06-09T18:01:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3585457265.2025,2025-06-10T03:40:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0276001380.2025,2025-06-10T03:41:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3954426695.2025,2025-06-10T10:06:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0707191486.2025,2025-06-10T10:09:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747567726.2025,2025-06-10T13:30:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1365580231.2025,2025-06-10T13:32:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0696274463.2025,2025-06-11T01:45:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2419676223.2025,2025-06-11T01:50:57-00:00",
-            "headline": "special air quality statement in effect",
-            "event": "air quality",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Possible",
-            "effective": "2025-06-11T09:42:49-00:00",
-            "expires": "2025-06-11T15:09:49-00:00",
-            "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
-            "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
-            "affected_areas": [
-                {
-                    "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
-                    "polygon": [
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.6707,
-                            "lon": -95.1632
-                        },
-                        {
-                            "lat": 52.8415,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.8419,
-                            "lon": -95.153
-                        },
-                        {
-                            "lat": 53.2523,
-                            "lon": -94.5197
-                        },
-                        {
-                            "lat": 53.5766,
-                            "lon": -93.9327
-                        },
-                        {
-                            "lat": 53.7427,
-                            "lon": -93.68
-                        },
-                        {
-                            "lat": 53.9089,
-                            "lon": -93.4241
-                        },
-                        {
-                            "lat": 53.7604,
-                            "lon": -92.0407
-                        },
-                        {
-                            "lat": 53.543,
-                            "lon": -90.5082
-                        },
-                        {
-                            "lat": 52.9541,
-                            "lon": -90.9516
-                        },
-                        {
-                            "lat": 52.2405,
-                            "lon": -91.5246
-                        },
-                        {
-                            "lat": 52.3546,
-                            "lon": -93.4886
-                        },
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
+                            "lat": 49.1616,
+                            "lon": -82.6268
                         }
                     ]
                 },
                 {
-                    "area_description": "Webequie",
+                    "area_description": "Little Abitibi - Kesagami Lake",
                     "polygon": [
                         {
-                            "lat": 52.2455,
-                            "lon": -83.0383
+                            "lat": 50.7218,
+                            "lon": -81.4395
                         },
                         {
-                            "lat": 52.2453,
-                            "lon": -87.9904
+                            "lat": 50.7219,
+                            "lon": -79.5166
                         },
                         {
-                            "lat": 52.7599,
-                            "lon": -88.0338
+                            "lat": 50.5155,
+                            "lon": -79.5167
                         },
                         {
-                            "lat": 53.2172,
-                            "lon": -87.9958
+                            "lat": 49.2829,
+                            "lon": -79.5172
                         },
                         {
-                            "lat": 54.1733,
-                            "lon": -87.5227
+                            "lat": 49.1428,
+                            "lon": -79.5172
                         },
                         {
-                            "lat": 55.0075,
-                            "lon": -87.0122
+                            "lat": 49.5091,
+                            "lon": -81.4419
                         },
                         {
-                            "lat": 55.0039,
-                            "lon": -87.008
-                        },
-                        {
-                            "lat": 54.0287,
-                            "lon": -83.7002
-                        },
-                        {
-                            "lat": 52.2453,
-                            "lon": -83.0302
-                        },
-                        {
-                            "lat": 52.2455,
-                            "lon": -83.0383
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.0864732828.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-06-11T12:30:37-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0859024841.2025,2025-06-09T17:59:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1449339707.2025,2025-06-09T18:01:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3585457265.2025,2025-06-10T03:40:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0276001380.2025,2025-06-10T03:41:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3954426695.2025,2025-06-10T10:06:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0707191486.2025,2025-06-10T10:09:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747567726.2025,2025-06-10T13:30:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1365580231.2025,2025-06-10T13:32:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0696274463.2025,2025-06-11T01:45:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2419676223.2025,2025-06-11T01:50:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747015129.2025,2025-06-11T09:42:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1501657826.2025,2025-06-11T09:44:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3046478626.2025,2025-06-11T12:29:52-00:00",
-            "headline": "special air quality statement in effect",
-            "event": "air quality",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Possible",
-            "effective": "2025-06-11T12:29:52-00:00",
-            "expires": "2025-06-11T17:09:52-00:00",
-            "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\nWildfire smoke from local wildfires may persist over portions of the region this morning.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
-            "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
-            "affected_areas": [
-                {
-                    "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
-                    "polygon": [
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.6707,
-                            "lon": -95.1632
-                        },
-                        {
-                            "lat": 52.8415,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.8419,
-                            "lon": -95.153
-                        },
-                        {
-                            "lat": 53.2523,
-                            "lon": -94.5197
-                        },
-                        {
-                            "lat": 53.5766,
-                            "lon": -93.9327
-                        },
-                        {
-                            "lat": 53.7427,
-                            "lon": -93.68
-                        },
-                        {
-                            "lat": 53.9089,
-                            "lon": -93.4241
-                        },
-                        {
-                            "lat": 53.7604,
-                            "lon": -92.0407
-                        },
-                        {
-                            "lat": 53.543,
-                            "lon": -90.5082
-                        },
-                        {
-                            "lat": 52.9541,
-                            "lon": -90.9516
-                        },
-                        {
-                            "lat": 52.2405,
-                            "lon": -91.5246
-                        },
-                        {
-                            "lat": 52.3546,
-                            "lon": -93.4886
-                        },
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
+                            "lat": 50.7218,
+                            "lon": -81.4395
                         }
                     ]
                 },
                 {
-                    "area_description": "Webequie",
+                    "area_description": "Timmins - Cochrane - Iroquois Falls",
                     "polygon": [
                         {
-                            "lat": 52.2455,
-                            "lon": -83.0383
+                            "lat": 48.6069,
+                            "lon": -79.5174
                         },
                         {
-                            "lat": 52.2453,
-                            "lon": -87.9904
+                            "lat": 48.5243,
+                            "lon": -79.5062
                         },
                         {
-                            "lat": 52.7599,
-                            "lon": -88.0338
+                            "lat": 48.4498,
+                            "lon": -79.5174
                         },
                         {
-                            "lat": 53.2172,
-                            "lon": -87.9958
+                            "lat": 48.3417,
+                            "lon": -79.5072
                         },
                         {
-                            "lat": 54.1733,
-                            "lon": -87.5227
+                            "lat": 48.2511,
+                            "lon": -79.5175
                         },
                         {
-                            "lat": 55.0075,
-                            "lon": -87.0122
+                            "lat": 48.2526,
+                            "lon": -81.0729
                         },
                         {
-                            "lat": 55.0039,
-                            "lon": -87.008
+                            "lat": 48.2543,
+                            "lon": -82.6293
                         },
                         {
-                            "lat": 54.0287,
-                            "lon": -83.7002
+                            "lat": 49.1616,
+                            "lon": -82.6268
                         },
                         {
-                            "lat": 52.2453,
-                            "lon": -83.0302
+                            "lat": 49.1637,
+                            "lon": -81.4426
                         },
                         {
-                            "lat": 52.2455,
-                            "lon": -83.0383
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.3046478626.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-06-11T12:29:52-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0859024841.2025,2025-06-09T17:59:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1449339707.2025,2025-06-09T18:01:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3585457265.2025,2025-06-10T03:40:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0276001380.2025,2025-06-10T03:41:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3954426695.2025,2025-06-10T10:06:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0707191486.2025,2025-06-10T10:09:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747567726.2025,2025-06-10T13:30:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1365580231.2025,2025-06-10T13:32:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0696274463.2025,2025-06-11T01:45:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2419676223.2025,2025-06-11T01:50:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747015129.2025,2025-06-11T09:42:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1501657826.2025,2025-06-11T09:44:58-00:00",
-            "headline": "special air quality statement in effect",
-            "event": "air quality",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Possible",
-            "effective": "2025-06-11T12:29:52-00:00",
-            "expires": "2025-06-11T17:09:52-00:00",
-            "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
-            "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
-            "affected_areas": [
-                {
-                    "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
-                    "polygon": [
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
+                            "lat": 49.5091,
+                            "lon": -81.4419
                         },
                         {
-                            "lat": 52.6707,
-                            "lon": -95.1632
+                            "lat": 49.1428,
+                            "lon": -79.5172
                         },
                         {
-                            "lat": 52.8415,
-                            "lon": -95.1536
+                            "lat": 48.9319,
+                            "lon": -79.5076
                         },
                         {
-                            "lat": 52.8419,
-                            "lon": -95.153
-                        },
-                        {
-                            "lat": 53.2523,
-                            "lon": -94.5197
-                        },
-                        {
-                            "lat": 53.5766,
-                            "lon": -93.9327
-                        },
-                        {
-                            "lat": 53.7427,
-                            "lon": -93.68
-                        },
-                        {
-                            "lat": 53.9089,
-                            "lon": -93.4241
-                        },
-                        {
-                            "lat": 53.7604,
-                            "lon": -92.0407
-                        },
-                        {
-                            "lat": 53.543,
-                            "lon": -90.5082
-                        },
-                        {
-                            "lat": 52.9541,
-                            "lon": -90.9516
-                        },
-                        {
-                            "lat": 52.2405,
-                            "lon": -91.5246
-                        },
-                        {
-                            "lat": 52.3546,
-                            "lon": -93.4886
-                        },
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
+                            "lat": 48.6069,
+                            "lon": -79.5174
                         }
                     ]
                 },
                 {
-                    "area_description": "Webequie",
+                    "area_description": "Kirkland Lake - Englehart",
                     "polygon": [
                         {
-                            "lat": 52.2455,
-                            "lon": -83.0383
+                            "lat": 47.581,
+                            "lon": -81.0762
                         },
                         {
-                            "lat": 52.2453,
-                            "lon": -87.9904
+                            "lat": 48.2526,
+                            "lon": -81.0729
                         },
                         {
-                            "lat": 52.7599,
-                            "lon": -88.0338
+                            "lat": 48.2511,
+                            "lon": -79.5175
                         },
                         {
-                            "lat": 53.2172,
-                            "lon": -87.9958
+                            "lat": 47.833,
+                            "lon": -79.5176
                         },
                         {
-                            "lat": 54.1733,
-                            "lon": -87.5227
+                            "lat": 47.6938,
+                            "lon": -79.5064
                         },
                         {
-                            "lat": 55.0075,
-                            "lon": -87.0122
+                            "lat": 47.5701,
+                            "lon": -79.5175
                         },
                         {
-                            "lat": 55.0039,
-                            "lon": -87.008
+                            "lat": 47.5715,
+                            "lon": -79.6092
                         },
                         {
-                            "lat": 54.0287,
-                            "lon": -83.7002
-                        },
-                        {
-                            "lat": 52.2453,
-                            "lon": -83.0302
-                        },
-                        {
-                            "lat": 52.2455,
-                            "lon": -83.0383
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.3596534429.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-06-11T13:04:53-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0859024841.2025,2025-06-09T17:59:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1449339707.2025,2025-06-09T18:01:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3585457265.2025,2025-06-10T03:40:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0276001380.2025,2025-06-10T03:41:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3954426695.2025,2025-06-10T10:06:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0707191486.2025,2025-06-10T10:09:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747567726.2025,2025-06-10T13:30:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1365580231.2025,2025-06-10T13:32:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0696274463.2025,2025-06-11T01:45:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2419676223.2025,2025-06-11T01:50:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3747015129.2025,2025-06-11T09:42:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1501657826.2025,2025-06-11T09:44:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3046478626.2025,2025-06-11T12:29:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0864732828.2025,2025-06-11T12:30:37-00:00",
-            "headline": "special air quality statement ended",
-            "event": "air quality",
-            "urgency": "Past",
-            "severity": "Minor",
-            "certainty": "Observed",
-            "effective": "2025-06-11T13:04:53-00:00",
-            "expires": "2025-06-11T14:04:53-00:00",
-            "description": "\nSmoke is no longer expected or has moved out of the area.\n\n\n###\n",
-            "instruction": null,
-            "affected_areas": [
-                {
-                    "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
-                    "polygon": [
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.6707,
-                            "lon": -95.1632
-                        },
-                        {
-                            "lat": 52.8415,
-                            "lon": -95.1536
-                        },
-                        {
-                            "lat": 52.8419,
-                            "lon": -95.153
-                        },
-                        {
-                            "lat": 53.2523,
-                            "lon": -94.5197
-                        },
-                        {
-                            "lat": 53.5766,
-                            "lon": -93.9327
-                        },
-                        {
-                            "lat": 53.7427,
-                            "lon": -93.68
-                        },
-                        {
-                            "lat": 53.9089,
-                            "lon": -93.4241
-                        },
-                        {
-                            "lat": 53.7604,
-                            "lon": -92.0407
-                        },
-                        {
-                            "lat": 53.543,
-                            "lon": -90.5082
-                        },
-                        {
-                            "lat": 52.9541,
-                            "lon": -90.9516
-                        },
-                        {
-                            "lat": 52.2405,
-                            "lon": -91.5246
-                        },
-                        {
-                            "lat": 52.3546,
-                            "lon": -93.4886
-                        },
-                        {
-                            "lat": 52.4841,
-                            "lon": -95.1536
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Webequie",
-                    "polygon": [
-                        {
-                            "lat": 52.2455,
-                            "lon": -83.0383
-                        },
-                        {
-                            "lat": 52.2453,
-                            "lon": -87.9904
-                        },
-                        {
-                            "lat": 52.7599,
-                            "lon": -88.0338
-                        },
-                        {
-                            "lat": 53.2172,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 54.1733,
-                            "lon": -87.5227
-                        },
-                        {
-                            "lat": 55.0075,
-                            "lon": -87.0122
-                        },
-                        {
-                            "lat": 55.0039,
-                            "lon": -87.008
-                        },
-                        {
-                            "lat": 54.0287,
-                            "lon": -83.7002
-                        },
-                        {
-                            "lat": 52.2453,
-                            "lon": -83.0302
-                        },
-                        {
-                            "lat": 52.2455,
-                            "lon": -83.0383
+                            "lat": 47.581,
+                            "lon": -81.0762
                         }
                     ]
                 }
