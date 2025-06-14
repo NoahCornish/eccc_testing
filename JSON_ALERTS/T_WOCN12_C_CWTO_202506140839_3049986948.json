@@ -1,0 +1,575 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3049986948.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-14T08:42:05-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2713033348.2025,2025-06-12T15:14:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1003481122.2025,2025-06-12T20:19:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3119365358.2025,2025-06-13T03:54:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2105539218.2025,2025-06-13T10:09:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2387549924.2025,2025-06-13T15:15:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1756612995.2025,2025-06-13T19:29:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2592707463.2025,2025-06-14T08:39:39-00:00",
+    "headline": "frost advisory in effect",
+    "event": "frost",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-06-14T08:39:39-00:00",
+    "expires": "2025-06-14T15:59:39-00:00",
+    "description": "\nSome plants may be damaged or even destroyed by frost.\n\nTemperatures will be near or just below the freezing mark early this morning. Some areas may see frost again tonight.\n\n###\n\nFrost advisories are issued when temperatures are expected to reach the freezing mark during the growing season, leading to potential damage and destruction to plants and crops.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nCover up plants, especially those in frost-prone areas. Take preventative measures to protect frost-sensitive plants and trees.\n",
+    "affected_areas": [
+        {
+            "area_description": "Armstrong - Auden - Wabakimi Park",
+            "polygon": [
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                }
+            ]
+        },
+        {
+            "area_description": "Nakina - Aroland - Pagwa",
+            "polygon": [
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.2465,
+                    "lon": -84.7492
+                },
+                {
+                    "lat": 51.1721,
+                    "lon": -84.5361
+                },
+                {
+                    "lat": 51.2908,
+                    "lon": -84.362
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                }
+            ]
+        },
+        {
+            "area_description": "Manitouwadge - Hornepayne",
+            "polygon": [
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                }
+            ]
+        },
+        {
+            "area_description": "Fraserdale - Pledger Lake",
+            "polygon": [
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.0149
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.3876,
+                    "lon": -83.8976
+                },
+                {
+                    "lat": 51.4751,
+                    "lon": -83.7667
+                },
+                {
+                    "lat": 51.498,
+                    "lon": -83.6224
+                },
+                {
+                    "lat": 51.624,
+                    "lon": -83.3889
+                },
+                {
+                    "lat": 51.817,
+                    "lon": -83.221
+                },
+                {
+                    "lat": 51.9629,
+                    "lon": -82.9587
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                }
+            ]
+        },
+        {
+            "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
+            "polygon": [
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.0149
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                }
+            ]
+        },
+        {
+            "area_description": "Little Abitibi - Kesagami Lake",
+            "polygon": [
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 50.7219,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 50.5155,
+                    "lon": -79.5167
+                },
+                {
+                    "lat": 49.2829,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                }
+            ]
+        },
+        {
+            "area_description": "Timmins - Cochrane - Iroquois Falls",
+            "polygon": [
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.5243,
+                    "lon": -79.5062
+                },
+                {
+                    "lat": 48.4498,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.3417,
+                    "lon": -79.5072
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 48.9319,
+                    "lon": -79.5076
+                },
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                }
+            ]
+        },
+        {
+            "area_description": "Chapleau - Missinaibi Lake",
+            "polygon": [
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                }
+            ]
+        },
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Temiskaming Shores - Temagami",
+            "polygon": [
+                {
+                    "lat": 46.8582,
+                    "lon": -79.141
+                },
+                {
+                    "lat": 46.7207,
+                    "lon": -79.0624
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.1058
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.1099
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.151
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.7151,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.7261,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.566
+                },
+                {
+                    "lat": 46.8912,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.9683,
+                    "lon": -80.8125
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5988,
+                    "lon": -79.4946
+                },
+                {
+                    "lat": 47.5697,
+                    "lon": -79.4188
+                },
+                {
+                    "lat": 47.5214,
+                    "lon": -79.432
+                },
+                {
+                    "lat": 47.4815,
+                    "lon": -79.4988
+                },
+                {
+                    "lat": 47.341,
+                    "lon": -79.4216
+                },
+                {
+                    "lat": 47.302,
+                    "lon": -79.4135
+                },
+                {
+                    "lat": 47.2434,
+                    "lon": -79.3589
+                },
+                {
+                    "lat": 47.1056,
+                    "lon": -79.3868
+                },
+                {
+                    "lat": 47.0127,
+                    "lon": -79.2923
+                },
+                {
+                    "lat": 47.0002,
+                    "lon": -79.2888
+                },
+                {
+                    "lat": 46.952,
+                    "lon": -79.275
+                },
+                {
+                    "lat": 46.8737,
+                    "lon": -79.1873
+                },
+                {
+                    "lat": 46.8582,
+                    "lon": -79.141
+                }
+            ]
+        }
+    ]
+}
