@@ -1,0 +1,61 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2624536961.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-17T13:20:11-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3091507288.2025,2025-06-17T00:54:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1182415275.2025,2025-06-17T01:00:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2965078514.2025,2025-06-17T08:43:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2830384937.2025,2025-06-17T10:40:46-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-06-17T13:20:11-00:00",
+    "expires": "2025-06-17T19:04:11-00:00",
+    "description": "\nRain, at times heavy, is expected.\n\nHazards:\nRainfall totals near 50 mm. Locally higher amounts possible.\n\nTiming:\nEnding this morning.\n\nDiscussion:\nRain at times heavy with embedded thunderstorms will affect the area this morning before tapering off.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Manitouwadge - Hornepayne",
+            "polygon": [
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                }
+            ]
+        }
+    ]
+}
