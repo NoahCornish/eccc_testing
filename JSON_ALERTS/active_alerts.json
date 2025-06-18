@@ -3859,6 +3859,640 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3751195881.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-06-18T17:57:19-00:00",
+            "status": "Actual",
+            "msgType": "Alert",
+            "scope": "Public",
+            "references": null,
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-06-18T17:57:19-00:00",
+            "expires": "2025-06-19T00:04:19-00:00",
+            "description": "\nHeavy rain is expected.\n\nSlow moving thunderstorms along a warm front are producing extended periods of heavy rain.\n\nWhat:\nLocal rainfall amounts up to 80 mm.\n\nWhen:\nThis afternoon.\n\nWhere:\nThe warm front is along a line from Bayfield to Millbank.\n\nAdditional information:\nRADAR derived rainfall estimates 60 mm has fallen in the area.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nIf visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop. Avoid driving through water on roads. Even shallow, fast-moving water across a road can sweep a vehicle or a person away.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Listowel - Milverton - Northern Perth County",
+                    "polygon": [
+                        {
+                            "lat": 43.6991,
+                            "lon": -80.8736
+                        },
+                        {
+                            "lat": 43.6789,
+                            "lon": -80.8184
+                        },
+                        {
+                            "lat": 43.6483,
+                            "lon": -80.7543
+                        },
+                        {
+                            "lat": 43.5816,
+                            "lon": -80.7997
+                        },
+                        {
+                            "lat": 43.4982,
+                            "lon": -80.8687
+                        },
+                        {
+                            "lat": 43.4946,
+                            "lon": -80.8962
+                        },
+                        {
+                            "lat": 43.4914,
+                            "lon": -80.937
+                        },
+                        {
+                            "lat": 43.6013,
+                            "lon": -81.2052
+                        },
+                        {
+                            "lat": 43.6332,
+                            "lon": -81.179
+                        },
+                        {
+                            "lat": 43.6187,
+                            "lon": -81.1493
+                        },
+                        {
+                            "lat": 43.7718,
+                            "lon": -81.0304
+                        },
+                        {
+                            "lat": 43.788,
+                            "lon": -81.1004
+                        },
+                        {
+                            "lat": 43.8105,
+                            "lon": -81.0771
+                        },
+                        {
+                            "lat": 43.8183,
+                            "lon": -81.0105
+                        },
+                        {
+                            "lat": 43.8223,
+                            "lon": -80.9533
+                        },
+                        {
+                            "lat": 43.8286,
+                            "lon": -80.9104
+                        },
+                        {
+                            "lat": 43.8321,
+                            "lon": -80.8673
+                        },
+                        {
+                            "lat": 43.8338,
+                            "lon": -80.859
+                        },
+                        {
+                            "lat": 43.8249,
+                            "lon": -80.8385
+                        },
+                        {
+                            "lat": 43.8363,
+                            "lon": -80.83
+                        },
+                        {
+                            "lat": 43.8423,
+                            "lon": -80.7923
+                        },
+                        {
+                            "lat": 43.8444,
+                            "lon": -80.7601
+                        },
+                        {
+                            "lat": 43.7653,
+                            "lon": -80.813
+                        },
+                        {
+                            "lat": 43.6991,
+                            "lon": -80.8736
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Goderich - Bluewater - Southern Huron County",
+                    "polygon": [
+                        {
+                            "lat": 43.3073,
+                            "lon": -81.753
+                        },
+                        {
+                            "lat": 43.3068,
+                            "lon": -81.7453
+                        },
+                        {
+                            "lat": 43.3101,
+                            "lon": -81.7431
+                        },
+                        {
+                            "lat": 43.3155,
+                            "lon": -81.7554
+                        },
+                        {
+                            "lat": 43.333,
+                            "lon": -81.7783
+                        },
+                        {
+                            "lat": 43.8383,
+                            "lon": -81.8031
+                        },
+                        {
+                            "lat": 43.8105,
+                            "lon": -81.721
+                        },
+                        {
+                            "lat": 43.7269,
+                            "lon": -81.5005
+                        },
+                        {
+                            "lat": 43.6013,
+                            "lon": -81.2052
+                        },
+                        {
+                            "lat": 43.5994,
+                            "lon": -81.2023
+                        },
+                        {
+                            "lat": 43.5027,
+                            "lon": -81.2872
+                        },
+                        {
+                            "lat": 43.5317,
+                            "lon": -81.3488
+                        },
+                        {
+                            "lat": 43.4205,
+                            "lon": -81.4401
+                        },
+                        {
+                            "lat": 43.3818,
+                            "lon": -81.3424
+                        },
+                        {
+                            "lat": 43.3915,
+                            "lon": -81.3085
+                        },
+                        {
+                            "lat": 43.3592,
+                            "lon": -81.2894
+                        },
+                        {
+                            "lat": 43.3129,
+                            "lon": -81.3165
+                        },
+                        {
+                            "lat": 43.2638,
+                            "lon": -81.3636
+                        },
+                        {
+                            "lat": 43.2764,
+                            "lon": -81.4
+                        },
+                        {
+                            "lat": 43.293,
+                            "lon": -81.4306
+                        },
+                        {
+                            "lat": 43.2889,
+                            "lon": -81.4689
+                        },
+                        {
+                            "lat": 43.2787,
+                            "lon": -81.4627
+                        },
+                        {
+                            "lat": 43.2706,
+                            "lon": -81.4655
+                        },
+                        {
+                            "lat": 43.2506,
+                            "lon": -81.6138
+                        },
+                        {
+                            "lat": 43.2393,
+                            "lon": -81.7485
+                        },
+                        {
+                            "lat": 43.2368,
+                            "lon": -81.7716
+                        },
+                        {
+                            "lat": 43.2379,
+                            "lon": -81.7738
+                        },
+                        {
+                            "lat": 43.2428,
+                            "lon": -81.7968
+                        },
+                        {
+                            "lat": 43.2957,
+                            "lon": -81.78
+                        },
+                        {
+                            "lat": 43.2931,
+                            "lon": -81.755
+                        },
+                        {
+                            "lat": 43.3073,
+                            "lon": -81.753
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Stratford - Mitchell - Southern Perth County",
+                    "polygon": [
+                        {
+                            "lat": 43.6013,
+                            "lon": -81.2052
+                        },
+                        {
+                            "lat": 43.4914,
+                            "lon": -80.937
+                        },
+                        {
+                            "lat": 43.4964,
+                            "lon": -80.8983
+                        },
+                        {
+                            "lat": 43.4982,
+                            "lon": -80.8687
+                        },
+                        {
+                            "lat": 43.4851,
+                            "lon": -80.8339
+                        },
+                        {
+                            "lat": 43.4682,
+                            "lon": -80.7961
+                        },
+                        {
+                            "lat": 43.4675,
+                            "lon": -80.7947
+                        },
+                        {
+                            "lat": 43.4665,
+                            "lon": -80.794
+                        },
+                        {
+                            "lat": 43.4363,
+                            "lon": -80.7603
+                        },
+                        {
+                            "lat": 43.4074,
+                            "lon": -80.7373
+                        },
+                        {
+                            "lat": 43.3797,
+                            "lon": -80.7342
+                        },
+                        {
+                            "lat": 43.3534,
+                            "lon": -80.7357
+                        },
+                        {
+                            "lat": 43.2893,
+                            "lon": -80.9111
+                        },
+                        {
+                            "lat": 43.235,
+                            "lon": -81.1208
+                        },
+                        {
+                            "lat": 43.2243,
+                            "lon": -81.1466
+                        },
+                        {
+                            "lat": 43.2034,
+                            "lon": -81.224
+                        },
+                        {
+                            "lat": 43.2036,
+                            "lon": -81.2246
+                        },
+                        {
+                            "lat": 43.2581,
+                            "lon": -81.3576
+                        },
+                        {
+                            "lat": 43.2638,
+                            "lon": -81.3636
+                        },
+                        {
+                            "lat": 43.3185,
+                            "lon": -81.3277
+                        },
+                        {
+                            "lat": 43.3592,
+                            "lon": -81.2894
+                        },
+                        {
+                            "lat": 43.3915,
+                            "lon": -81.3085
+                        },
+                        {
+                            "lat": 43.3818,
+                            "lon": -81.3424
+                        },
+                        {
+                            "lat": 43.4205,
+                            "lon": -81.4401
+                        },
+                        {
+                            "lat": 43.5317,
+                            "lon": -81.3488
+                        },
+                        {
+                            "lat": 43.5027,
+                            "lon": -81.2872
+                        },
+                        {
+                            "lat": 43.5994,
+                            "lon": -81.2023
+                        },
+                        {
+                            "lat": 43.6013,
+                            "lon": -81.2052
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.0803335377.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-06-18T18:03:37-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3978753786.2025,2025-06-18T15:46:47-00:00",
+            "headline": "squall watch in effect",
+            "event": "squall",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Possible",
+            "effective": "2025-06-18T15:46:47-00:00",
+            "expires": "2025-06-19T04:01:47-00:00",
+            "description": "\nConditions are favourable for the development of squalls with wind gusts up to 35 knots and frequent lightning.\n\nScattered thunderstorms this afternoon may produce strong wind gusts up to 35 knots.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+            "instruction": "\nVessels without lightning protection should make their way to shore immediately. Mariners are advised to prepare for potential squalls. Vulnerable vessels are most at risk and should seek safe harbour if underway.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Eastern Lake Erie",
+                    "polygon": [
+                        {
+                            "lat": 42.3935,
+                            "lon": -80.0799
+                        },
+                        {
+                            "lat": 42.2591,
+                            "lon": -80.9327
+                        },
+                        {
+                            "lat": 42.66,
+                            "lon": -81.1553
+                        },
+                        {
+                            "lat": 42.784,
+                            "lon": -81.2109
+                        },
+                        {
+                            "lat": 42.7293,
+                            "lon": -80.5966
+                        },
+                        {
+                            "lat": 42.9012,
+                            "lon": -80.3291
+                        },
+                        {
+                            "lat": 42.9814,
+                            "lon": -79.6261
+                        },
+                        {
+                            "lat": 42.9623,
+                            "lon": -79.0529
+                        },
+                        {
+                            "lat": 42.9389,
+                            "lon": -78.8933
+                        },
+                        {
+                            "lat": 42.9052,
+                            "lon": -78.9059
+                        },
+                        {
+                            "lat": 42.8283,
+                            "lon": -78.9353
+                        },
+                        {
+                            "lat": 42.3935,
+                            "lon": -80.0799
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2284223082.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-06-18T18:03:37-00:00",
+            "status": "Actual",
+            "msgType": "Alert",
+            "scope": "Public",
+            "references": null,
+            "headline": "squall warning in effect",
+            "event": "squall",
+            "urgency": "Immediate",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-06-18T18:03:37-00:00",
+            "expires": "2025-06-18T22:03:37-00:00",
+            "description": "\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+            "instruction": "\nVessels without lightning protection should make their way to shore immediately. Mariners are advised to prepare for squalls. If underway, seek safe harbour immediately. Consider delaying or postponing travel in areas under the squall warning.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Western Lake Ontario",
+                    "polygon": [
+                        {
+                            "lat": 43.1293,
+                            "lon": -79.322
+                        },
+                        {
+                            "lat": 43.1723,
+                            "lon": -79.7776
+                        },
+                        {
+                            "lat": 43.3464,
+                            "lon": -79.8894
+                        },
+                        {
+                            "lat": 43.4925,
+                            "lon": -79.7153
+                        },
+                        {
+                            "lat": 43.6838,
+                            "lon": -79.5584
+                        },
+                        {
+                            "lat": 43.8743,
+                            "lon": -79.1002
+                        },
+                        {
+                            "lat": 43.9453,
+                            "lon": -78.8315
+                        },
+                        {
+                            "lat": 43.9796,
+                            "lon": -78.5026
+                        },
+                        {
+                            "lat": 44.0441,
+                            "lon": -78.1201
+                        },
+                        {
+                            "lat": 44.0509,
+                            "lon": -77.8441
+                        },
+                        {
+                            "lat": 43.9912,
+                            "lon": -77.8409
+                        },
+                        {
+                            "lat": 43.6548,
+                            "lon": -77.8417
+                        },
+                        {
+                            "lat": 43.6361,
+                            "lon": -77.8418
+                        },
+                        {
+                            "lat": 43.6311,
+                            "lon": -78.6903
+                        },
+                        {
+                            "lat": 43.4504,
+                            "lon": -79.2006
+                        },
+                        {
+                            "lat": 43.2627,
+                            "lon": -79.0681
+                        },
+                        {
+                            "lat": 43.217,
+                            "lon": -79.0451
+                        },
+                        {
+                            "lat": 43.1293,
+                            "lon": -79.322
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3463614076.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-06-18T18:05:19-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2284223082.2025,2025-06-18T18:03:37-00:00",
+            "headline": "squall warning in effect",
+            "event": "squall",
+            "urgency": "Immediate",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-06-18T18:03:37-00:00",
+            "expires": "2025-06-18T22:03:37-00:00",
+            "description": "\nAn area of thunderstorms has developed from Hamilton to St. Catharines. These thunderstorms are able to produce strong wind gusts up to 35 knots and are moving northeastwards at 15 knots.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+            "instruction": "\nVessels without lightning protection should make their way to shore immediately. Mariners are advised to prepare for squalls. If underway, seek safe harbour immediately. Consider delaying or postponing travel in areas under the squall warning.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Western Lake Ontario",
+                    "polygon": [
+                        {
+                            "lat": 43.1293,
+                            "lon": -79.322
+                        },
+                        {
+                            "lat": 43.1723,
+                            "lon": -79.7776
+                        },
+                        {
+                            "lat": 43.3464,
+                            "lon": -79.8894
+                        },
+                        {
+                            "lat": 43.4925,
+                            "lon": -79.7153
+                        },
+                        {
+                            "lat": 43.6838,
+                            "lon": -79.5584
+                        },
+                        {
+                            "lat": 43.8743,
+                            "lon": -79.1002
+                        },
+                        {
+                            "lat": 43.9453,
+                            "lon": -78.8315
+                        },
+                        {
+                            "lat": 43.9796,
+                            "lon": -78.5026
+                        },
+                        {
+                            "lat": 44.0441,
+                            "lon": -78.1201
+                        },
+                        {
+                            "lat": 44.0509,
+                            "lon": -77.8441
+                        },
+                        {
+                            "lat": 43.9912,
+                            "lon": -77.8409
+                        },
+                        {
+                            "lat": 43.6548,
+                            "lon": -77.8417
+                        },
+                        {
+                            "lat": 43.6361,
+                            "lon": -77.8418
+                        },
+                        {
+                            "lat": 43.6311,
+                            "lon": -78.6903
+                        },
+                        {
+                            "lat": 43.4504,
+                            "lon": -79.2006
+                        },
+                        {
+                            "lat": 43.2627,
+                            "lon": -79.0681
+                        },
+                        {
+                            "lat": 43.217,
+                            "lon": -79.0451
+                        },
+                        {
+                            "lat": 43.1293,
+                            "lon": -79.322
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
