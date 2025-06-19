@@ -1,0 +1,206 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0787333568.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-19T07:22:39-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0629846812.2025,2025-06-18T15:54:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4066893549.2025,2025-06-18T22:25:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1520612978.2025,2025-06-18T22:27:21-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-06-19T07:22:39-00:00",
+    "expires": "2025-06-19T22:02:39-00:00",
+    "description": "\nHeavy rainfall continues.\n\nWhat:\nLocal rainfall amounts of 40 to 60 mm.\n\nWhen:\nContinuing through this afternoon.\n\nAdditional information:\nRain, at times heavy, and possible embedded thunderstorms are expected to taper to showers later today.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "West Nipissing - French River",
+            "polygon": [
+                {
+                    "lat": 46.2785,
+                    "lon": -80.4935
+                },
+                {
+                    "lat": 46.2601,
+                    "lon": -80.276
+                },
+                {
+                    "lat": 46.6307,
+                    "lon": -80.276
+                },
+                {
+                    "lat": 46.6307,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.7151,
+                    "lon": -80.3679
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.554,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.3273,
+                    "lon": -79.5554
+                },
+                {
+                    "lat": 46.1138,
+                    "lon": -79.5388
+                },
+                {
+                    "lat": 45.9261,
+                    "lon": -79.5385
+                },
+                {
+                    "lat": 45.9047,
+                    "lon": -79.6173
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.8856,
+                    "lon": -80.5706
+                },
+                {
+                    "lat": 46.0178,
+                    "lon": -80.5701
+                },
+                {
+                    "lat": 46.106,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.2675,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.2785,
+                    "lon": -80.4935
+                }
+            ]
+        },
+        {
+            "area_description": "North Bay - Powassan - Mattawa",
+            "polygon": [
+                {
+                    "lat": 46.3783,
+                    "lon": -78.6857
+                },
+                {
+                    "lat": 46.344,
+                    "lon": -78.6878
+                },
+                {
+                    "lat": 46.3403,
+                    "lon": -78.5836
+                },
+                {
+                    "lat": 46.3158,
+                    "lon": -78.4765
+                },
+                {
+                    "lat": 46.3144,
+                    "lon": -78.3748
+                },
+                {
+                    "lat": 46.2912,
+                    "lon": -78.3344
+                },
+                {
+                    "lat": 46.2631,
+                    "lon": -78.3382
+                },
+                {
+                    "lat": 46.2607,
+                    "lon": -78.3417
+                },
+                {
+                    "lat": 46.2468,
+                    "lon": -78.3597
+                },
+                {
+                    "lat": 46.2441,
+                    "lon": -78.3696
+                },
+                {
+                    "lat": 46.1756,
+                    "lon": -78.6213
+                },
+                {
+                    "lat": 45.9989,
+                    "lon": -79.2711
+                },
+                {
+                    "lat": 45.9261,
+                    "lon": -79.5385
+                },
+                {
+                    "lat": 46.1138,
+                    "lon": -79.5388
+                },
+                {
+                    "lat": 46.3273,
+                    "lon": -79.5554
+                },
+                {
+                    "lat": 46.554,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.5386
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.151
+                },
+                {
+                    "lat": 46.7147,
+                    "lon": -79.1099
+                },
+                {
+                    "lat": 46.7145,
+                    "lon": -79.1058
+                },
+                {
+                    "lat": 46.7207,
+                    "lon": -79.0624
+                },
+                {
+                    "lat": 46.6951,
+                    "lon": -79.0486
+                },
+                {
+                    "lat": 46.6586,
+                    "lon": -78.984
+                },
+                {
+                    "lat": 46.5625,
+                    "lon": -78.953
+                },
+                {
+                    "lat": 46.4674,
+                    "lon": -78.8477
+                },
+                {
+                    "lat": 46.403,
+                    "lon": -78.7063
+                },
+                {
+                    "lat": 46.3783,
+                    "lon": -78.6857
+                }
+            ]
+        }
+    ]
+}
