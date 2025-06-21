@@ -1,0 +1,178 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2917476939.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-21T13:02:00-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1970443539.2025,2025-06-21T08:26:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2139068768.2025,2025-06-21T09:23:56-00:00",
+    "headline": "squall watch in effect",
+    "event": "squall",
+    "urgency": "Expected",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-06-21T09:23:56-00:00",
+    "expires": "2025-06-21T21:00:56-00:00",
+    "description": "\nThunderstorms approaching from northern Minnesota will affect the area this morning, and potentially into this afternoon. Squalls with wind gusts up to 40 knots, frequent lightning, and up to nickel size hail may occur.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nMariners are advised to prepare for potential squalls. Vulnerable vessels are most at risk and should seek safe harbour if underway.\n",
+    "affected_areas": [
+        {
+            "area_description": "Whitefish Bay",
+            "polygon": [
+                {
+                    "lat": 47.0155,
+                    "lon": -84.6525
+                },
+                {
+                    "lat": 46.9635,
+                    "lon": -84.6284
+                },
+                {
+                    "lat": 46.9864,
+                    "lon": -84.5099
+                },
+                {
+                    "lat": 46.8933,
+                    "lon": -84.3128
+                },
+                {
+                    "lat": 46.7765,
+                    "lon": -84.3947
+                },
+                {
+                    "lat": 46.6831,
+                    "lon": -84.373
+                },
+                {
+                    "lat": 46.61,
+                    "lon": -84.5209
+                },
+                {
+                    "lat": 46.5641,
+                    "lon": -84.5703
+                },
+                {
+                    "lat": 46.5339,
+                    "lon": -84.5263
+                },
+                {
+                    "lat": 46.4912,
+                    "lon": -84.515
+                },
+                {
+                    "lat": 46.4725,
+                    "lon": -84.5213
+                },
+                {
+                    "lat": 46.4578,
+                    "lon": -84.5262
+                },
+                {
+                    "lat": 46.4608,
+                    "lon": -84.5568
+                },
+                {
+                    "lat": 46.6342,
+                    "lon": -84.7628
+                },
+                {
+                    "lat": 46.8805,
+                    "lon": -84.8569
+                },
+                {
+                    "lat": 46.9664,
+                    "lon": -84.7584
+                },
+                {
+                    "lat": 46.9721,
+                    "lon": -84.7515
+                },
+                {
+                    "lat": 46.9745,
+                    "lon": -84.7487
+                },
+                {
+                    "lat": 46.9932,
+                    "lon": -84.7271
+                },
+                {
+                    "lat": 47.0155,
+                    "lon": -84.6525
+                }
+            ]
+        },
+        {
+            "area_description": "Western Lake Superior",
+            "polygon": [
+                {
+                    "lat": 48.0669,
+                    "lon": -89.5945
+                },
+                {
+                    "lat": 48.1835,
+                    "lon": -89.403
+                },
+                {
+                    "lat": 48.5683,
+                    "lon": -89.2676
+                },
+                {
+                    "lat": 48.6908,
+                    "lon": -88.7733
+                },
+                {
+                    "lat": 48.9251,
+                    "lon": -88.5584
+                },
+                {
+                    "lat": 49.1099,
+                    "lon": -88.2532
+                },
+                {
+                    "lat": 48.8971,
+                    "lon": -87.3117
+                },
+                {
+                    "lat": 48.8838,
+                    "lon": -86.7557
+                },
+                {
+                    "lat": 48.7501,
+                    "lon": -86.8376
+                },
+                {
+                    "lat": 47.9579,
+                    "lon": -87.4568
+                },
+                {
+                    "lat": 48.2999,
+                    "lon": -88.3529
+                },
+                {
+                    "lat": 48.2372,
+                    "lon": -88.6958
+                },
+                {
+                    "lat": 47.9684,
+                    "lon": -89.3076
+                },
+                {
+                    "lat": 48.0163,
+                    "lon": -89.4704
+                },
+                {
+                    "lat": 47.9759,
+                    "lon": -89.5495
+                },
+                {
+                    "lat": 48.0194,
+                    "lon": -89.6829
+                },
+                {
+                    "lat": 48.0669,
+                    "lon": -89.5945
+                }
+            ]
+        }
+    ]
+}
