@@ -1,0 +1,89 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2952231467.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-21T16:40:04-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4287080634.2025,2025-06-21T12:20:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2335323193.2025,2025-06-21T15:08:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0937313325.2025,2025-06-21T15:12:52-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-06-21T16:40:04-00:00",
+    "expires": "2025-06-21T20:01:04-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms.\n\nHazards:\nWind gusts to 90 km/h possible.\nHeavy rainfall.\n\nWhen:\nNow until early this afternoon.\n\nAdditional information:\nA line of strong thunderstorms is pushing across Lake Superior and is expected to impact the region later this morning. This line like is expected clear near midday with the potential for more thunderstorm development this afternoon.\n\n###\n\nLocal utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Manitoulin Island",
+            "polygon": [
+                {
+                    "lat": 46.0319,
+                    "lon": -83.3864
+                },
+                {
+                    "lat": 46.0103,
+                    "lon": -82.3291
+                },
+                {
+                    "lat": 45.9443,
+                    "lon": -82.178
+                },
+                {
+                    "lat": 45.9754,
+                    "lon": -82.0969
+                },
+                {
+                    "lat": 45.9888,
+                    "lon": -81.9598
+                },
+                {
+                    "lat": 45.9727,
+                    "lon": -81.8832
+                },
+                {
+                    "lat": 45.8959,
+                    "lon": -81.8967
+                },
+                {
+                    "lat": 45.9078,
+                    "lon": -81.6625
+                },
+                {
+                    "lat": 45.8581,
+                    "lon": -81.6008
+                },
+                {
+                    "lat": 45.849,
+                    "lon": -81.3805
+                },
+                {
+                    "lat": 45.4495,
+                    "lon": -81.3483
+                },
+                {
+                    "lat": 45.3827,
+                    "lon": -81.9674
+                },
+                {
+                    "lat": 45.6034,
+                    "lon": -82.9541
+                },
+                {
+                    "lat": 45.8405,
+                    "lon": -83.5446
+                },
+                {
+                    "lat": 45.9477,
+                    "lon": -83.4793
+                },
+                {
+                    "lat": 46.0319,
+                    "lon": -83.3864
+                }
+            ]
+        }
+    ]
+}
