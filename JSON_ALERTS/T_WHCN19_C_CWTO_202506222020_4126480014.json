@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4126480014.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-22T20:20:31-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "squall watch in effect",
+    "event": "squall",
+    "urgency": "Expected",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-06-22T20:20:31-00:00",
+    "expires": "2025-06-23T10:59:31-00:00",
+    "description": "\nConditions are favourable for the development of squalls with wind gusts up to 50 knots, frequent lightning and hail.\n\n###\n\nLarge hail can damage vessels and cause injury.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nVessels without lightning protection should make their way to shore immediately. Mariners are advised to prepare for potential squalls. Vulnerable vessels are most at risk and should seek safe harbour if underway. Consider delaying or postponing travel in areas under the Squall Watch.\n",
+    "affected_areas": [
+        {
+            "area_description": "Lake Nipigon",
+            "polygon": [
+                {
+                    "lat": 49.9835,
+                    "lon": -87.8416
+                },
+                {
+                    "lat": 49.2307,
+                    "lon": -88.0709
+                },
+                {
+                    "lat": 49.4676,
+                    "lon": -89.1369
+                },
+                {
+                    "lat": 49.8803,
+                    "lon": -89.1904
+                },
+                {
+                    "lat": 50.2395,
+                    "lon": -89.03
+                },
+                {
+                    "lat": 50.4305,
+                    "lon": -88.4301
+                },
+                {
+                    "lat": 49.9835,
+                    "lon": -87.8416
+                }
+            ]
+        }
+    ]
+}
