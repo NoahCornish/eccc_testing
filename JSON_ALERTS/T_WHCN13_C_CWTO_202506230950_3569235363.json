@@ -1,0 +1,93 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3569235363.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-23T09:50:57-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "squall warning in effect",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-06-23T09:50:57-00:00",
+    "expires": "2025-06-23T12:19:57-00:00",
+    "description": "\nSqualls with wind gusts up to 50 knots, frequent lightning, hail up to 3 centimetres and poor to very poor visibility in thunderstorms heavy at times are expected or occurring in the area.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nTake cover immediately, if threatening weather approaches. Consider delaying or postponing travel in areas under the squall warning. If you must travel, keep others informed of your planned route and carry appropriate safety equipment including a GPS and satellite phone or marine radio.\n",
+    "affected_areas": [
+        {
+            "area_description": "Western Lake Superior",
+            "polygon": [
+                {
+                    "lat": 48.0669,
+                    "lon": -89.5945
+                },
+                {
+                    "lat": 48.1835,
+                    "lon": -89.403
+                },
+                {
+                    "lat": 48.5683,
+                    "lon": -89.2676
+                },
+                {
+                    "lat": 48.6908,
+                    "lon": -88.7733
+                },
+                {
+                    "lat": 48.9251,
+                    "lon": -88.5584
+                },
+                {
+                    "lat": 49.1099,
+                    "lon": -88.2532
+                },
+                {
+                    "lat": 48.8971,
+                    "lon": -87.3117
+                },
+                {
+                    "lat": 48.8838,
+                    "lon": -86.7557
+                },
+                {
+                    "lat": 48.7501,
+                    "lon": -86.8376
+                },
+                {
+                    "lat": 47.9579,
+                    "lon": -87.4568
+                },
+                {
+                    "lat": 48.2999,
+                    "lon": -88.3529
+                },
+                {
+                    "lat": 48.2372,
+                    "lon": -88.6958
+                },
+                {
+                    "lat": 47.9684,
+                    "lon": -89.3076
+                },
+                {
+                    "lat": 48.0163,
+                    "lon": -89.4704
+                },
+                {
+                    "lat": 47.9759,
+                    "lon": -89.5495
+                },
+                {
+                    "lat": 48.0194,
+                    "lon": -89.6829
+                },
+                {
+                    "lat": 48.0669,
+                    "lon": -89.5945
+                }
+            ]
+        }
+    ]
+}
