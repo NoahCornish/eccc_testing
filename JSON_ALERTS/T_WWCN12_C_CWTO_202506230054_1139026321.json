@@ -1,0 +1,196 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1139026321.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-23T00:54:37-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1864002661.2025,2025-06-22T14:39:07-00:00",
+    "headline": "heat warning in effect",
+    "event": "heat",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-06-23T00:54:37-00:00",
+    "expires": "2025-06-23T16:54:37-00:00",
+    "description": "\n###\n\nFor more information: https://www.canada.ca/en/health-canada/services/climate-change-health/extreme-heat/how-protect-yourself.html https://www.canada.ca/en/health-canada/services/climate-change-health/extreme-heat/who-is-at-risk.html\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake action to protect yourself and others – extreme heat can affect everyone’s health. Determine if you or others around you are at greater risk of heat illness. Check on older adults, those living alone and other at-risk people in-person or on the phone multiple times a day.\n\nWatch for the early signs of heat exhaustion in yourself and others. Signs may include headache, nausea, dizziness, thirst, dark urine and intense fatigue. Stop your activity and drink water. \n\nHeat stroke is a medical emergency! Call 9-1-1 or your emergency health provider if you, or someone around you, is showing signs of heat stroke which can include red and hot skin, dizziness, nausea, confusion and change in consciousness. While you wait for medical attention, try to cool the person by moving them to a cool place, removing extra clothing, applying cold water or ice packs around the body.\n\nPlan and schedule outdoor activities during the coolest parts of the day. \n\nLimit direct exposure to the sun and heat. Wear lightweight, light-coloured, loose-fitting clothing and a wide-brimmed hat. \n\nNever leave people, especially children, or pets inside a parked vehicle. Check the vehicle before locking to make sure no one is left behind.\n",
+    "affected_areas": [
+        {
+            "area_description": "Agawa - Lake Superior Park",
+            "polygon": [
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                },
+                {
+                    "lat": 47.8957,
+                    "lon": -84.8608
+                },
+                {
+                    "lat": 47.963,
+                    "lon": -84.6559
+                },
+                {
+                    "lat": 48.0973,
+                    "lon": -84.2418
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                },
+                {
+                    "lat": 48.1106,
+                    "lon": -83.996
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                }
+            ]
+        },
+        {
+            "area_description": "Chapleau - Missinaibi Lake",
+            "polygon": [
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                }
+            ]
+        },
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
