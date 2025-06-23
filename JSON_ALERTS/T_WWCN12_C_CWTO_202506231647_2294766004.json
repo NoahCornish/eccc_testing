@@ -1,0 +1,61 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2294766004.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-23T16:50:08-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2103634512.2025,2025-06-22T23:32:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0737895885.2025,2025-06-22T23:35:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2877698844.2025,2025-06-23T02:29:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1132347241.2025,2025-06-23T02:33:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2119902909.2025,2025-06-23T05:02:07-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2613934558.2025,2025-06-23T06:30:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2425740832.2025,2025-06-23T08:16:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0570136140.2025,2025-06-23T10:18:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2226671427.2025,2025-06-23T10:20:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1521595541.2025,2025-06-23T15:09:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3749935892.2025,2025-06-23T15:44:09-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-06-23T16:50:08-00:00",
+    "expires": "2025-06-23T20:32:08-00:00",
+    "description": "\nLocalized heavy rainfall in thunderstorms.\n\nWhat:\nLocal rainfall amounts of 50 to 100 mm since Sunday.\n\nWhen:\nEnding early this afternoon.\n\nAdditional information:\nSome areas have already received up to 50 mm of rain. Heavy showers and thunderstorms will continue to move through the area.\n\n###\n\nHeavy downpours are likely to cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nAvoid driving through water on roads. Even shallow, fast-moving water across a road can sweep a vehicle or a person away. Don't approach washouts near rivers, creeks and culverts.\n",
+    "affected_areas": [
+        {
+            "area_description": "Manitouwadge - Hornepayne",
+            "polygon": [
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                }
+            ]
+        }
+    ]
+}
