@@ -1,0 +1,89 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0420751794.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-24T20:08:07-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2994678647.2025,2025-06-24T20:06:49-00:00",
+    "headline": "squall warning in effect",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-06-24T20:06:49-00:00",
+    "expires": "2025-06-24T23:05:49-00:00",
+    "description": "\nWind gusts ahead of thunderstorms over Lake St. Clair may produce squalls up to 35 knots.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nMariners are advised to prepare for squalls. If underway, seek safe harbour immediately. Consider delaying or postponing travel in areas under the squall warning.\n",
+    "affected_areas": [
+        {
+            "area_description": "Western Lake Erie",
+            "polygon": [
+                {
+                    "lat": 42.0512,
+                    "lon": -83.1462
+                },
+                {
+                    "lat": 42.0537,
+                    "lon": -83.1109
+                },
+                {
+                    "lat": 42.0629,
+                    "lon": -83.0565
+                },
+                {
+                    "lat": 42.0167,
+                    "lon": -82.9069
+                },
+                {
+                    "lat": 42.0946,
+                    "lon": -82.6165
+                },
+                {
+                    "lat": 42.2319,
+                    "lon": -82.3391
+                },
+                {
+                    "lat": 42.5988,
+                    "lon": -81.7125
+                },
+                {
+                    "lat": 42.784,
+                    "lon": -81.2109
+                },
+                {
+                    "lat": 42.66,
+                    "lon": -81.1553
+                },
+                {
+                    "lat": 42.2591,
+                    "lon": -80.9327
+                },
+                {
+                    "lat": 42.2075,
+                    "lon": -81.2457
+                },
+                {
+                    "lat": 41.6765,
+                    "lon": -82.3974
+                },
+                {
+                    "lat": 41.6765,
+                    "lon": -82.6797
+                },
+                {
+                    "lat": 41.8635,
+                    "lon": -83.0691
+                },
+                {
+                    "lat": 42.0409,
+                    "lon": -83.1496
+                },
+                {
+                    "lat": 42.0512,
+                    "lon": -83.1462
+                }
+            ]
+        }
+    ]
+}
