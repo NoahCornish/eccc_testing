@@ -1,0 +1,93 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2513622041.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-28T00:35:40-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "squall warning in effect",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-06-28T00:35:40-00:00",
+    "expires": "2025-06-28T04:35:40-00:00",
+    "description": "\nSqualls with wind gusts up to 35 knots, frequent lightning and poor to very poor visibility in thunderstorms heavy at times are expected or occurring in the area.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nMariners are advised to prepare for squalls. If underway, seek safe harbour immediately. Consider delaying or postponing travel in areas under the squall warning. If you must travel, keep others informed of your planned route and carry appropriate safety equipment including a GPS and satellite phone or marine radio.\n",
+    "affected_areas": [
+        {
+            "area_description": "Lake Nipissing",
+            "polygon": [
+                {
+                    "lat": 46.2011,
+                    "lon": -80.4337
+                },
+                {
+                    "lat": 46.2499,
+                    "lon": -80.5594
+                },
+                {
+                    "lat": 46.3179,
+                    "lon": -80.5399
+                },
+                {
+                    "lat": 46.3171,
+                    "lon": -80.2733
+                },
+                {
+                    "lat": 46.3832,
+                    "lon": -80.0669
+                },
+                {
+                    "lat": 46.3711,
+                    "lon": -79.9012
+                },
+                {
+                    "lat": 46.3832,
+                    "lon": -79.5614
+                },
+                {
+                    "lat": 46.2123,
+                    "lon": -79.2858
+                },
+                {
+                    "lat": 46.1511,
+                    "lon": -79.4389
+                },
+                {
+                    "lat": 46.0737,
+                    "lon": -79.5437
+                },
+                {
+                    "lat": 46.1754,
+                    "lon": -79.7273
+                },
+                {
+                    "lat": 46.1202,
+                    "lon": -79.9602
+                },
+                {
+                    "lat": 46.128,
+                    "lon": -80.2064
+                },
+                {
+                    "lat": 46.1671,
+                    "lon": -80.2196
+                },
+                {
+                    "lat": 46.2005,
+                    "lon": -80.1407
+                },
+                {
+                    "lat": 46.1866,
+                    "lon": -80.3241
+                },
+                {
+                    "lat": 46.2011,
+                    "lon": -80.4337
+                }
+            ]
+        }
+    ]
+}
