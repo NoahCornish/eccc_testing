@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3535886470.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-29T18:47:32-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3753874750.2025,2025-06-29T17:15:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1427777593.2025,2025-06-29T17:18:41-00:00",
+    "headline": "squall warning in effect",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-06-29T18:47:32-00:00",
+    "expires": "2025-06-29T21:45:32-00:00",
+    "description": "\nThunderstorms crossing northwestern Ontario are capable of producing wind gusts to 35 knots along with sizeable hail and frequent lightning.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nVessels without lightning protection should make their way to shore immediately. Mariners are advised to prepare for squalls. If underway, seek safe harbour immediately. Consider delaying or postponing travel in areas under the squall warning.\n",
+    "affected_areas": [
+        {
+            "area_description": "Lake Nipigon",
+            "polygon": [
+                {
+                    "lat": 49.9835,
+                    "lon": -87.8416
+                },
+                {
+                    "lat": 49.2307,
+                    "lon": -88.0709
+                },
+                {
+                    "lat": 49.4676,
+                    "lon": -89.1369
+                },
+                {
+                    "lat": 49.8803,
+                    "lon": -89.1904
+                },
+                {
+                    "lat": 50.2395,
+                    "lon": -89.03
+                },
+                {
+                    "lat": 50.4305,
+                    "lon": -88.4301
+                },
+                {
+                    "lat": 49.9835,
+                    "lon": -87.8416
+                }
+            ]
+        }
+    ]
+}
