@@ -1,0 +1,166 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2052817343.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-30T23:13:35-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4212602595.2025,2025-06-30T16:14:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4207329110.2025,2025-06-30T17:13:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3361752778.2025,2025-06-30T17:54:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4125654777.2025,2025-06-30T18:10:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3581120306.2025,2025-06-30T18:11:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0811564436.2025,2025-06-30T19:18:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3746914737.2025,2025-06-30T20:35:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1373012467.2025,2025-06-30T21:10:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2217818800.2025,2025-06-30T21:35:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3983838820.2025,2025-06-30T21:38:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1113040806.2025,2025-06-30T21:51:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4275460467.2025,2025-06-30T21:54:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0756620937.2025,2025-06-30T23:12:36-00:00",
+    "headline": "squall watch in effect",
+    "event": "squall",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-06-30T23:12:36-00:00",
+    "expires": "2025-07-01T01:59:36-00:00",
+    "description": "\nConditions are favourable for the development of squalls with wind gusts up to 40 knots and poor to very poor visibility in thunderstorms heavy at times.\n\nThunderstorms may continue to track across portions of Lake Huron, Georgian Bay, Lake St. Clair, Lake Erie, and Lake Ontario through this evening.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nMariners are advised to prepare for potential squalls. Vulnerable vessels are most at risk and should seek safe harbour if underway.\n",
+    "affected_areas": [
+        {
+            "area_description": "Western Lake Erie",
+            "polygon": [
+                {
+                    "lat": 42.0512,
+                    "lon": -83.1462
+                },
+                {
+                    "lat": 42.0537,
+                    "lon": -83.1109
+                },
+                {
+                    "lat": 42.0629,
+                    "lon": -83.0565
+                },
+                {
+                    "lat": 42.0167,
+                    "lon": -82.9069
+                },
+                {
+                    "lat": 42.0946,
+                    "lon": -82.6165
+                },
+                {
+                    "lat": 42.2319,
+                    "lon": -82.3391
+                },
+                {
+                    "lat": 42.5988,
+                    "lon": -81.7125
+                },
+                {
+                    "lat": 42.784,
+                    "lon": -81.2109
+                },
+                {
+                    "lat": 42.66,
+                    "lon": -81.1553
+                },
+                {
+                    "lat": 42.2591,
+                    "lon": -80.9327
+                },
+                {
+                    "lat": 42.2075,
+                    "lon": -81.2457
+                },
+                {
+                    "lat": 41.6765,
+                    "lon": -82.3974
+                },
+                {
+                    "lat": 41.6765,
+                    "lon": -82.6797
+                },
+                {
+                    "lat": 41.8635,
+                    "lon": -83.0691
+                },
+                {
+                    "lat": 42.0409,
+                    "lon": -83.1496
+                },
+                {
+                    "lat": 42.0512,
+                    "lon": -83.1462
+                }
+            ]
+        },
+        {
+            "area_description": "Western Lake Ontario",
+            "polygon": [
+                {
+                    "lat": 43.1293,
+                    "lon": -79.322
+                },
+                {
+                    "lat": 43.1723,
+                    "lon": -79.7776
+                },
+                {
+                    "lat": 43.3464,
+                    "lon": -79.8894
+                },
+                {
+                    "lat": 43.4925,
+                    "lon": -79.7153
+                },
+                {
+                    "lat": 43.6838,
+                    "lon": -79.5584
+                },
+                {
+                    "lat": 43.8743,
+                    "lon": -79.1002
+                },
+                {
+                    "lat": 43.9453,
+                    "lon": -78.8315
+                },
+                {
+                    "lat": 43.9796,
+                    "lon": -78.5026
+                },
+                {
+                    "lat": 44.0441,
+                    "lon": -78.1201
+                },
+                {
+                    "lat": 44.0509,
+                    "lon": -77.8441
+                },
+                {
+                    "lat": 43.9912,
+                    "lon": -77.8409
+                },
+                {
+                    "lat": 43.6548,
+                    "lon": -77.8417
+                },
+                {
+                    "lat": 43.6361,
+                    "lon": -77.8418
+                },
+                {
+                    "lat": 43.6311,
+                    "lon": -78.6903
+                },
+                {
+                    "lat": 43.4504,
+                    "lon": -79.2006
+                },
+                {
+                    "lat": 43.2627,
+                    "lon": -79.0681
+                },
+                {
+                    "lat": 43.217,
+                    "lon": -79.0451
+                },
+                {
+                    "lat": 43.1293,
+                    "lon": -79.322
+                }
+            ]
+        }
+    ]
+}
