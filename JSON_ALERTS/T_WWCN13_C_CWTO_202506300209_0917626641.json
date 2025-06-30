@@ -1,0 +1,65 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0917626641.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-30T02:10:32-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1884547647.2025,2025-06-29T16:53:50-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1177559590.2025,2025-06-30T00:08:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0804933340.2025,2025-06-30T00:10:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1012823786.2025,2025-06-30T01:13:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0410304545.2025,2025-06-30T01:15:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1923070383.2025,2025-06-30T02:09:13-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-06-30T02:09:13-00:00",
+    "expires": "2025-06-30T04:59:13-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.\n\nHazards:\nWind gusts up to 90 km/h\nNickel sized hail\nHeavy rainfall\n\nWhen:\nThis evening.\n\n###\n\nLocal utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Webequie",
+            "polygon": [
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.7599,
+                    "lon": -88.0338
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 54.1733,
+                    "lon": -87.5227
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                }
+            ]
+        }
+    ]
+}
