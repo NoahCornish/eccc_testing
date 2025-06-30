@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1910994919.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-06-30T22:26:51-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0406982953.2025,2025-06-30T19:18:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0527246390.2025,2025-06-30T19:22:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0649894974.2025,2025-06-30T20:36:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3548962696.2025,2025-06-30T20:37:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3639671086.2025,2025-06-30T21:10:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3369542142.2025,2025-06-30T21:11:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0296868531.2025,2025-06-30T21:35:56-00:00",
+    "headline": "squall warning in effect",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-06-30T22:26:51-00:00",
+    "expires": "2025-07-01T01:25:51-00:00",
+    "description": "\nSqualls with wind gusts up to 35 knots and poor to very poor visibility in thunderstorms heavy at times are expected or occurring in the area.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nMariners are advised to prepare for squalls. If underway, seek safe harbour immediately.\n",
+    "affected_areas": [
+        {
+            "area_description": "Eastern Lake Erie",
+            "polygon": [
+                {
+                    "lat": 42.3935,
+                    "lon": -80.0799
+                },
+                {
+                    "lat": 42.2591,
+                    "lon": -80.9327
+                },
+                {
+                    "lat": 42.66,
+                    "lon": -81.1553
+                },
+                {
+                    "lat": 42.784,
+                    "lon": -81.2109
+                },
+                {
+                    "lat": 42.7293,
+                    "lon": -80.5966
+                },
+                {
+                    "lat": 42.9012,
+                    "lon": -80.3291
+                },
+                {
+                    "lat": 42.9814,
+                    "lon": -79.6261
+                },
+                {
+                    "lat": 42.9623,
+                    "lon": -79.0529
+                },
+                {
+                    "lat": 42.9389,
+                    "lon": -78.8933
+                },
+                {
+                    "lat": 42.9052,
+                    "lon": -78.9059
+                },
+                {
+                    "lat": 42.8283,
+                    "lon": -78.9353
+                },
+                {
+                    "lat": 42.3935,
+                    "lon": -80.0799
+                }
+            ]
+        }
+    ]
+}
