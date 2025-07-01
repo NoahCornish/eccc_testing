@@ -1,0 +1,146 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1652778082.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-01T10:40:09-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-01T10:40:09-00:00",
+    "expires": "2025-07-01T15:47:09-00:00",
+    "description": "\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Bruce Peninsula - Sauble Beach - Tobermory",
+            "polygon": [
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                },
+                {
+                    "lat": 44.6414,
+                    "lon": -81.1122
+                },
+                {
+                    "lat": 44.6267,
+                    "lon": -81.1132
+                },
+                {
+                    "lat": 44.5511,
+                    "lon": -81.1203
+                },
+                {
+                    "lat": 44.5357,
+                    "lon": -81.1971
+                },
+                {
+                    "lat": 44.5229,
+                    "lon": -81.2724
+                },
+                {
+                    "lat": 44.5846,
+                    "lon": -81.2887
+                },
+                {
+                    "lat": 44.5944,
+                    "lon": -81.2913
+                },
+                {
+                    "lat": 44.5866,
+                    "lon": -81.4622
+                },
+                {
+                    "lat": 45.3535,
+                    "lon": -81.8404
+                },
+                {
+                    "lat": 45.3822,
+                    "lon": -81.4145
+                },
+                {
+                    "lat": 45.2717,
+                    "lon": -81.1853
+                },
+                {
+                    "lat": 45.0703,
+                    "lon": -81.0827
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                }
+            ]
+        },
+        {
+            "area_description": "Owen Sound - Blue Mountains - Northern Grey County",
+            "polygon": [
+                {
+                    "lat": 44.7557,
+                    "lon": -81.1515
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.6441,
+                    "lon": -80.2774
+                },
+                {
+                    "lat": 44.5273,
+                    "lon": -80.2918
+                },
+                {
+                    "lat": 44.2815,
+                    "lon": -80.2349
+                },
+                {
+                    "lat": 44.4005,
+                    "lon": -81.0823
+                },
+                {
+                    "lat": 44.3993,
+                    "lon": -81.1044
+                },
+                {
+                    "lat": 44.4501,
+                    "lon": -81.1219
+                },
+                {
+                    "lat": 44.538,
+                    "lon": -81.1304
+                },
+                {
+                    "lat": 44.7557,
+                    "lon": -81.1515
+                }
+            ]
+        }
+    ]
+}
