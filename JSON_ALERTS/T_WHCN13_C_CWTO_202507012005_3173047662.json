@@ -1,0 +1,93 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3173047662.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-01T20:06:26-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3757317492.2025,2025-07-01T18:14:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1115593344.2025,2025-07-01T18:16:32-00:00",
+    "headline": "squall warning changed",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Severe",
+    "certainty": "Unknown",
+    "effective": "2025-07-01T20:06:26-00:00",
+    "expires": "2025-07-01T20:06:26-00:00",
+    "description": "\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Western Lake Superior",
+            "polygon": [
+                {
+                    "lat": 48.0669,
+                    "lon": -89.5945
+                },
+                {
+                    "lat": 48.1835,
+                    "lon": -89.403
+                },
+                {
+                    "lat": 48.5683,
+                    "lon": -89.2676
+                },
+                {
+                    "lat": 48.6908,
+                    "lon": -88.7733
+                },
+                {
+                    "lat": 48.9251,
+                    "lon": -88.5584
+                },
+                {
+                    "lat": 49.1099,
+                    "lon": -88.2532
+                },
+                {
+                    "lat": 48.8971,
+                    "lon": -87.3117
+                },
+                {
+                    "lat": 48.8838,
+                    "lon": -86.7557
+                },
+                {
+                    "lat": 48.7501,
+                    "lon": -86.8376
+                },
+                {
+                    "lat": 47.9579,
+                    "lon": -87.4568
+                },
+                {
+                    "lat": 48.2999,
+                    "lon": -88.3529
+                },
+                {
+                    "lat": 48.2372,
+                    "lon": -88.6958
+                },
+                {
+                    "lat": 47.9684,
+                    "lon": -89.3076
+                },
+                {
+                    "lat": 48.0163,
+                    "lon": -89.4704
+                },
+                {
+                    "lat": 47.9759,
+                    "lon": -89.5495
+                },
+                {
+                    "lat": 48.0194,
+                    "lon": -89.6829
+                },
+                {
+                    "lat": 48.0669,
+                    "lon": -89.5945
+                }
+            ]
+        }
+    ]
+}
