@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0321416523.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-02T19:14:26-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "heat warning in effect",
+    "event": "heat",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-07-02T19:14:26-00:00",
+    "expires": "2025-07-03T11:14:26-00:00",
+    "description": "\nHumidex values reaching 36 are expected for the next 2 days.\n\nA heat event is expected to begin on Thursday and continue into Friday.\n\nWhat:\nDaytime highs of 28 to 32 degrees Celsius.\nOvernight lows of 18 to 21 degrees Celsius, providing little relief from the heat.\n\nWhen: \nThursday afternoon ending Friday night.\n\n###\n\nFor more information: https://www.canada.ca/en/health-canada/services/climate-change-health/extreme-heat/how-protect-yourself.html https://www.canada.ca/en/health-canada/services/climate-change-health/extreme-heat/who-is-at-risk.html\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake action to protect yourself and others – extreme heat can affect everyone’s health. Determine if you or others around you are at greater risk of heat illness. Check on older adults, those living alone and other at-risk people in-person or on the phone multiple times a day.\n\nWatch for the early signs of heat exhaustion in yourself and others. Signs may include headache, nausea, dizziness, thirst, dark urine and intense fatigue. Stop your activity and drink water. \n\nHeat stroke is a medical emergency! Call 9-1-1 or your emergency health provider if you, or someone around you, is showing signs of heat stroke which can include red and hot skin, dizziness, nausea, confusion and change in consciousness. While you wait for medical attention, try to cool the person by moving them to a cool place, removing extra clothing, applying cold water or ice packs around the body.\n\nDrink water often and before you feel thirsty to replace fluids. \n\nClose blinds, or shades and open windows if outside is cooler than inside. \n\nTurn on air conditioning, use a fan, or move to a cooler area of your living space. If your living space is hot, move to a cool public space such as a cooling centre, community centre, library or shaded park. \n\nFollow the advice of your region’s public health authority.\n\nPlan and schedule outdoor activities during the coolest parts of the day. \n\nLimit direct exposure to the sun and heat. Wear lightweight, light-coloured, loose-fitting clothing and a wide-brimmed hat. \n\nNever leave people, especially children, or pets inside a parked vehicle. Check the vehicle before locking to make sure no one is left behind.\n",
+    "affected_areas": [
+        {
+            "area_description": "Pikangikum - Poplar Hill - MacDowell",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.0344,
+                    "lon": -95.169
+                },
+                {
+                    "lat": 52.4201,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4148,
+                    "lon": -93.4852
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.4154,
+                    "lon": -93.733
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.5309,
+                    "lon": -94.5283
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        }
+    ]
+}
