@@ -1,0 +1,200 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0993649257.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-02T01:53:07-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1193074602.2025,2025-07-01T16:54:11-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3435450057.2025,2025-07-01T18:52:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3030133543.2025,2025-07-01T18:54:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0511865704.2025,2025-07-01T22:54:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3771328287.2025,2025-07-01T22:55:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0355048353.2025,2025-07-02T00:20:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1520407518.2025,2025-07-02T00:50:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3828340546.2025,2025-07-02T01:00:48-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-02T01:53:07-00:00",
+    "expires": "2025-07-02T05:00:07-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and large hail.\n\nHazards:\nWind gusts up to 90 km/h.\nNickel to toonie size hail.\n\nWhen:\nThis evening.\n\n###\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Timmins - Cochrane - Iroquois Falls",
+            "polygon": [
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.5243,
+                    "lon": -79.5062
+                },
+                {
+                    "lat": 48.4498,
+                    "lon": -79.5174
+                },
+                {
+                    "lat": 48.3417,
+                    "lon": -79.5072
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 49.1637,
+                    "lon": -81.4426
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 48.9319,
+                    "lon": -79.5076
+                },
+                {
+                    "lat": 48.6069,
+                    "lon": -79.5174
+                }
+            ]
+        },
+        {
+            "area_description": "Chapleau - Missinaibi Lake",
+            "polygon": [
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                }
+            ]
+        },
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        },
+        {
+            "area_description": "Kirkland Lake - Englehart",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 48.2511,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.833,
+                    "lon": -79.5176
+                },
+                {
+                    "lat": 47.6938,
+                    "lon": -79.5064
+                },
+                {
+                    "lat": 47.5701,
+                    "lon": -79.5175
+                },
+                {
+                    "lat": 47.5715,
+                    "lon": -79.6092
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
