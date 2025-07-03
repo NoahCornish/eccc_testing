@@ -1,0 +1,149 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3024672662.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-03T02:15:05-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2300399923.2025,2025-07-02T17:23:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0556997170.2025,2025-07-02T22:04:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4239980167.2025,2025-07-02T22:12:29-00:00",
+    "headline": "squall watch in effect",
+    "event": "squall",
+    "urgency": "Expected",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-07-02T22:12:29-00:00",
+    "expires": "2025-07-03T06:00:29-00:00",
+    "description": "\nConditions are favourable for the development of squalls with wind gusts up to 45 knots, frequent lightning and hail.\n\nThe potential for thunderstorm development will continue into this evening.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Lake St. Clair",
+            "polygon": [
+                {
+                    "lat": 42.5527,
+                    "lon": -82.5993
+                },
+                {
+                    "lat": 42.5558,
+                    "lon": -82.5959
+                },
+                {
+                    "lat": 42.574,
+                    "lon": -82.5753
+                },
+                {
+                    "lat": 42.5798,
+                    "lon": -82.5688
+                },
+                {
+                    "lat": 42.5947,
+                    "lon": -82.5519
+                },
+                {
+                    "lat": 42.6139,
+                    "lon": -82.5225
+                },
+                {
+                    "lat": 42.6123,
+                    "lon": -82.5199
+                },
+                {
+                    "lat": 42.6113,
+                    "lon": -82.5182
+                },
+                {
+                    "lat": 42.6108,
+                    "lon": -82.5175
+                },
+                {
+                    "lat": 42.6095,
+                    "lon": -82.5154
+                },
+                {
+                    "lat": 42.5628,
+                    "lon": -82.5505
+                },
+                {
+                    "lat": 42.5505,
+                    "lon": -82.5386
+                },
+                {
+                    "lat": 42.5262,
+                    "lon": -82.515
+                },
+                {
+                    "lat": 42.5358,
+                    "lon": -82.4634
+                },
+                {
+                    "lat": 42.5188,
+                    "lon": -82.3954
+                },
+                {
+                    "lat": 42.3937,
+                    "lon": -82.3695
+                },
+                {
+                    "lat": 42.2795,
+                    "lon": -82.4137
+                },
+                {
+                    "lat": 42.2849,
+                    "lon": -82.5491
+                },
+                {
+                    "lat": 42.2679,
+                    "lon": -82.7164
+                },
+                {
+                    "lat": 42.3254,
+                    "lon": -82.9097
+                },
+                {
+                    "lat": 42.3377,
+                    "lon": -82.9189
+                },
+                {
+                    "lat": 42.3422,
+                    "lon": -82.9211
+                },
+                {
+                    "lat": 42.3485,
+                    "lon": -82.9249
+                },
+                {
+                    "lat": 42.3512,
+                    "lon": -82.9263
+                },
+                {
+                    "lat": 42.3586,
+                    "lon": -82.9303
+                },
+                {
+                    "lat": 42.3828,
+                    "lon": -82.8374
+                },
+                {
+                    "lat": 42.5447,
+                    "lon": -82.6736
+                },
+                {
+                    "lat": 42.5632,
+                    "lon": -82.6314
+                },
+                {
+                    "lat": 42.5592,
+                    "lon": -82.6191
+                },
+                {
+                    "lat": 42.5555,
+                    "lon": -82.6079
+                },
+                {
+                    "lat": 42.5527,
+                    "lon": -82.5993
+                }
+            ]
+        }
+    ]
+}
