@@ -38805,6 +38805,192 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2925012868.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-07-05T17:13:10-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0871687262.2025,2025-07-05T15:43:52-00:00",
+            "headline": "squall watch in effect",
+            "event": "squall",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Possible",
+            "effective": "2025-07-05T17:13:10-00:00",
+            "expires": "2025-07-06T07:31:10-00:00",
+            "description": "\nConditions are favourable for the development of squalls with wind gusts up to 40 knots, frequent lightning and poor to very poor visibility in thunderstorms heavy at times.\n\nThunderstorms are expected this afternoon and evening.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+            "instruction": "\nMariners are advised to prepare for potential squalls. Vulnerable vessels are most at risk and should seek safe harbour if underway. Consider delaying or postponing travel in areas under the Squall Watch.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Eastern Lake Superior",
+                    "polygon": [
+                        {
+                            "lat": 48.2333,
+                            "lon": -85.9704
+                        },
+                        {
+                            "lat": 48.0212,
+                            "lon": -85.5664
+                        },
+                        {
+                            "lat": 48.0553,
+                            "lon": -84.6977
+                        },
+                        {
+                            "lat": 47.6283,
+                            "lon": -84.8811
+                        },
+                        {
+                            "lat": 47.3469,
+                            "lon": -84.4836
+                        },
+                        {
+                            "lat": 47.1099,
+                            "lon": -84.6706
+                        },
+                        {
+                            "lat": 46.9932,
+                            "lon": -84.7271
+                        },
+                        {
+                            "lat": 46.9745,
+                            "lon": -84.7487
+                        },
+                        {
+                            "lat": 46.9721,
+                            "lon": -84.7515
+                        },
+                        {
+                            "lat": 46.9664,
+                            "lon": -84.7584
+                        },
+                        {
+                            "lat": 46.8805,
+                            "lon": -84.8569
+                        },
+                        {
+                            "lat": 46.8889,
+                            "lon": -84.8601
+                        },
+                        {
+                            "lat": 47.9579,
+                            "lon": -87.4568
+                        },
+                        {
+                            "lat": 48.7501,
+                            "lon": -86.8376
+                        },
+                        {
+                            "lat": 48.8838,
+                            "lon": -86.7557
+                        },
+                        {
+                            "lat": 48.8523,
+                            "lon": -86.3057
+                        },
+                        {
+                            "lat": 48.2333,
+                            "lon": -85.9704
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1402115567.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-07-05T17:25:20-00:00",
+            "status": "Actual",
+            "msgType": "Alert",
+            "scope": "Public",
+            "references": null,
+            "headline": "squall watch in effect",
+            "event": "squall",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Possible",
+            "effective": "2025-07-05T17:25:20-00:00",
+            "expires": "2025-07-06T08:15:20-00:00",
+            "description": "\nConditions are favourable for the development of squalls with wind gusts up to 40 knots and poor to very poor visibility in thunderstorms heavy at times.\n\nThunderstorms are expected to develop this afternoon and may move over Lake Nipissing.\n\n###\n\nPoor to very poor visibility may contribute to voyage delays and make marine navigation hazardous.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+            "instruction": "\nMariners are advised to prepare for potential squalls. Vulnerable vessels are most at risk and should seek safe harbour if underway. Consider delaying or postponing travel in areas under the Squall Watch.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Lake Nipissing",
+                    "polygon": [
+                        {
+                            "lat": 46.2011,
+                            "lon": -80.4337
+                        },
+                        {
+                            "lat": 46.2499,
+                            "lon": -80.5594
+                        },
+                        {
+                            "lat": 46.3179,
+                            "lon": -80.5399
+                        },
+                        {
+                            "lat": 46.3171,
+                            "lon": -80.2733
+                        },
+                        {
+                            "lat": 46.3832,
+                            "lon": -80.0669
+                        },
+                        {
+                            "lat": 46.3711,
+                            "lon": -79.9012
+                        },
+                        {
+                            "lat": 46.3832,
+                            "lon": -79.5614
+                        },
+                        {
+                            "lat": 46.2123,
+                            "lon": -79.2858
+                        },
+                        {
+                            "lat": 46.1511,
+                            "lon": -79.4389
+                        },
+                        {
+                            "lat": 46.0737,
+                            "lon": -79.5437
+                        },
+                        {
+                            "lat": 46.1754,
+                            "lon": -79.7273
+                        },
+                        {
+                            "lat": 46.1202,
+                            "lon": -79.9602
+                        },
+                        {
+                            "lat": 46.128,
+                            "lon": -80.2064
+                        },
+                        {
+                            "lat": 46.1671,
+                            "lon": -80.2196
+                        },
+                        {
+                            "lat": 46.2005,
+                            "lon": -80.1407
+                        },
+                        {
+                            "lat": 46.1866,
+                            "lon": -80.3241
+                        },
+                        {
+                            "lat": 46.2011,
+                            "lon": -80.4337
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
