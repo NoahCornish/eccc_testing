@@ -1,0 +1,65 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2411424600.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-05T22:17:07-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3049262308.2025,2025-07-05T15:36:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1756530341.2025,2025-07-05T21:32:19-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-05T22:17:07-00:00",
+    "expires": "2025-07-06T14:17:07-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.\n\n###\n\nDamage to roofs, fences, branches or soft shelters is possible.\n\nHeavy rain can cause flash flooding and significant reductions to visibility.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year. Don't drive through flooded roadways.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Searchmont - Montreal River Harbour - Batchawana Bay",
+            "polygon": [
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6321,
+                    "lon": -84.7351
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                }
+            ]
+        }
+    ]
+}
