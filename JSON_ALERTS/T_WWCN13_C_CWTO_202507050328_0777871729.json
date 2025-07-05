@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0777871729.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-05T03:28:21-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0321416523.2025,2025-07-02T19:14:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3752242292.2025,2025-07-03T08:39:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0957619922.2025,2025-07-03T09:48:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0357028589.2025,2025-07-03T19:40:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1340546447.2025,2025-07-04T00:54:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1978878118.2025,2025-07-04T00:56:11-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0803292275.2025,2025-07-04T09:34:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1772651627.2025,2025-07-04T09:36:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2750705709.2025,2025-07-04T15:17:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1875993794.2025,2025-07-04T22:11:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3981114206.2025,2025-07-05T01:01:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2224958358.2025,2025-07-05T01:04:08-00:00",
+    "headline": "heat warning ended",
+    "event": "heat",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-05T03:28:21-00:00",
+    "expires": "2025-07-05T04:28:21-00:00",
+    "description": "\nConditions are no longer expected to reach heat warning criteria.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Pikangikum - Poplar Hill - MacDowell",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.0344,
+                    "lon": -95.169
+                },
+                {
+                    "lat": 52.4201,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4148,
+                    "lon": -93.4852
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.4154,
+                    "lon": -93.733
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.5309,
+                    "lon": -94.5283
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        }
+    ]
+}
