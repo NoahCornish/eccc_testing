@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0591627511.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-05T22:37:48-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4078318876.2025,2025-07-05T15:29:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4222892708.2025,2025-07-05T17:57:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2252660273.2025,2025-07-05T19:08:10-00:00",
+    "headline": "severe thunderstorm watch ended",
+    "event": "thunderstorm",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-05T22:37:48-00:00",
+    "expires": "2025-07-05T23:37:48-00:00",
+    "description": "\nConditions are no longer favourable for the development of severe thunderstorms.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Little Abitibi - Kesagami Lake",
+            "polygon": [
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 50.7219,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 50.5155,
+                    "lon": -79.5167
+                },
+                {
+                    "lat": 49.2829,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 49.1428,
+                    "lon": -79.5172
+                },
+                {
+                    "lat": 49.5091,
+                    "lon": -81.4419
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                }
+            ]
+        }
+    ]
+}
