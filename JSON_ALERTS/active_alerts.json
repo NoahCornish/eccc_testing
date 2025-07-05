@@ -47020,6 +47020,323 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2267420297.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-07-05T21:33:51-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0406150206.2025,2025-07-05T19:44:33-00:00",
+            "headline": "squall warning ended",
+            "event": "squall",
+            "urgency": "Past",
+            "severity": "Minor",
+            "certainty": "Observed",
+            "effective": "2025-07-05T21:33:51-00:00",
+            "expires": "2025-07-05T22:33:51-00:00",
+            "description": "\nSqualls have weakened or moved out of the area.\n\n\n###\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "Lake Simcoe",
+                    "polygon": [
+                        {
+                            "lat": 44.2981,
+                            "lon": -79.1168
+                        },
+                        {
+                            "lat": 44.2745,
+                            "lon": -79.4177
+                        },
+                        {
+                            "lat": 44.1477,
+                            "lon": -79.48
+                        },
+                        {
+                            "lat": 44.2122,
+                            "lon": -79.5983
+                        },
+                        {
+                            "lat": 44.3261,
+                            "lon": -79.6004
+                        },
+                        {
+                            "lat": 44.3841,
+                            "lon": -79.7573
+                        },
+                        {
+                            "lat": 44.4572,
+                            "lon": -79.5961
+                        },
+                        {
+                            "lat": 44.5367,
+                            "lon": -79.4671
+                        },
+                        {
+                            "lat": 44.7602,
+                            "lon": -79.3962
+                        },
+                        {
+                            "lat": 44.8032,
+                            "lon": -79.3167
+                        },
+                        {
+                            "lat": 44.6334,
+                            "lon": -79.3102
+                        },
+                        {
+                            "lat": 44.5711,
+                            "lon": -79.1254
+                        },
+                        {
+                            "lat": 44.2981,
+                            "lon": -79.1168
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1756530341.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-07-05T21:32:19-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3049262308.2025,2025-07-05T15:36:22-00:00",
+            "headline": "severe thunderstorm watch in effect",
+            "event": "thunderstorm",
+            "urgency": "Expected",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-07-05T21:32:19-00:00",
+            "expires": "2025-07-06T13:32:19-00:00",
+            "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.\n\nHazards:\nHeavy rainfall with rainfall rates possibly exceeding 50 mm per hour\nWind gusts up to 90 km/h\nNickel to quarter sized hail\n\nWhen:\nThis evening.\n\n###\n\nDamage to roofs, fences, branches or soft shelters is possible.\n\nHeavy rain can cause flash flooding and significant reductions to visibility.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+            "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year. Don't drive through flooded roadways.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Agawa - Lake Superior Park",
+                    "polygon": [
+                        {
+                            "lat": 47.824,
+                            "lon": -85.1481
+                        },
+                        {
+                            "lat": 47.8957,
+                            "lon": -84.8608
+                        },
+                        {
+                            "lat": 47.963,
+                            "lon": -84.6559
+                        },
+                        {
+                            "lat": 48.0973,
+                            "lon": -84.2418
+                        },
+                        {
+                            "lat": 48.0978,
+                            "lon": -84.2401
+                        },
+                        {
+                            "lat": 48.0981,
+                            "lon": -84.2352
+                        },
+                        {
+                            "lat": 48.1106,
+                            "lon": -83.996
+                        },
+                        {
+                            "lat": 48.1107,
+                            "lon": -83.9939
+                        },
+                        {
+                            "lat": 47.2516,
+                            "lon": -83.9912
+                        },
+                        {
+                            "lat": 47.2522,
+                            "lon": -84.6283
+                        },
+                        {
+                            "lat": 47.2346,
+                            "lon": -84.9134
+                        },
+                        {
+                            "lat": 47.824,
+                            "lon": -85.1481
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Searchmont - Montreal River Harbour - Batchawana Bay",
+                    "polygon": [
+                        {
+                            "lat": 47.2346,
+                            "lon": -84.9134
+                        },
+                        {
+                            "lat": 47.2522,
+                            "lon": -84.6283
+                        },
+                        {
+                            "lat": 47.2516,
+                            "lon": -83.9912
+                        },
+                        {
+                            "lat": 47.2211,
+                            "lon": -83.9911
+                        },
+                        {
+                            "lat": 46.781,
+                            "lon": -83.9907
+                        },
+                        {
+                            "lat": 46.4826,
+                            "lon": -83.8414
+                        },
+                        {
+                            "lat": 46.6516,
+                            "lon": -84.4894
+                        },
+                        {
+                            "lat": 46.6539,
+                            "lon": -84.4985
+                        },
+                        {
+                            "lat": 46.6321,
+                            "lon": -84.7351
+                        },
+                        {
+                            "lat": 47.2346,
+                            "lon": -84.9134
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2845549578.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-07-05T21:33:15-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3326821650.2025,2025-07-05T15:30:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2367742125.2025,2025-07-05T17:57:52-00:00",
+            "headline": "severe thunderstorm watch ended",
+            "event": "thunderstorm",
+            "urgency": "Past",
+            "severity": "Minor",
+            "certainty": "Observed",
+            "effective": "2025-07-05T21:33:15-00:00",
+            "expires": "2025-07-05T22:33:15-00:00",
+            "description": "\nConditions are no longer favourable for the development of severe thunderstorms.\n\n\n###\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "Fraserdale - Pledger Lake",
+                    "polygon": [
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.0149
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.3077,
+                            "lon": -84.1527
+                        },
+                        {
+                            "lat": 51.3876,
+                            "lon": -83.8976
+                        },
+                        {
+                            "lat": 51.4751,
+                            "lon": -83.7667
+                        },
+                        {
+                            "lat": 51.498,
+                            "lon": -83.6224
+                        },
+                        {
+                            "lat": 51.624,
+                            "lon": -83.3889
+                        },
+                        {
+                            "lat": 51.817,
+                            "lon": -83.221
+                        },
+                        {
+                            "lat": 51.9629,
+                            "lon": -82.9587
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.3124,
+                            "lon": -82.1596
+                        },
+                        {
+                            "lat": 50.7218,
+                            "lon": -81.4395
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
+                    "polygon": [
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        },
+                        {
+                            "lat": 49.1609,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.0149
+                        },
+                        {
+                            "lat": 49.5091,
+                            "lon": -81.4419
+                        },
+                        {
+                            "lat": 49.1637,
+                            "lon": -81.4426
+                        },
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
