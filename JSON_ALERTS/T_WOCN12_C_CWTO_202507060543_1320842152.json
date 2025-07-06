@@ -1,0 +1,57 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1320842152.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-06T05:43:16-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3354270128.2025,2025-07-05T13:06:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2625251928.2025,2025-07-05T13:06:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3814310045.2025,2025-07-05T15:41:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2261216753.2025,2025-07-05T15:42:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3447216825.2025,2025-07-05T23:05:50-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1753944770.2025,2025-07-05T23:06:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0629771360.2025,2025-07-06T05:16:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0641799315.2025,2025-07-06T05:18:37-00:00",
+    "headline": "fog advisory ended",
+    "event": "fog",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-06T05:43:16-00:00",
+    "expires": "2025-07-06T06:43:16-00:00",
+    "description": "\nVisibilities have improved and are no longer expected to meet fog advisory criteria.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Marathon - Schreiber",
+            "polygon": [
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                }
+            ]
+        }
+    ]
+}
