@@ -1,0 +1,77 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0313233257.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-09T20:19:38-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "squall watch in effect",
+    "event": "squall",
+    "urgency": "Expected",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-07-09T20:19:38-00:00",
+    "expires": "2025-07-10T04:00:38-00:00",
+    "description": "\nConditions are favourable for the development of squalls with wind gusts up to 40 knots, frequent lightning, hail and poor to very poor visibility in thunderstorms heavy at times.\n\nScattered thunderstorms are expected this afternoon into this evening.\n\n###\n\nPoor to very poor visibility may contribute to voyage delays and make marine navigation hazardous.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nConsider delaying or postponing travel in areas under the Squall Watch.\n",
+    "affected_areas": [
+        {
+            "area_description": "Lake Simcoe",
+            "polygon": [
+                {
+                    "lat": 44.2981,
+                    "lon": -79.1168
+                },
+                {
+                    "lat": 44.2745,
+                    "lon": -79.4177
+                },
+                {
+                    "lat": 44.1477,
+                    "lon": -79.48
+                },
+                {
+                    "lat": 44.2122,
+                    "lon": -79.5983
+                },
+                {
+                    "lat": 44.3261,
+                    "lon": -79.6004
+                },
+                {
+                    "lat": 44.3841,
+                    "lon": -79.7573
+                },
+                {
+                    "lat": 44.4572,
+                    "lon": -79.5961
+                },
+                {
+                    "lat": 44.5367,
+                    "lon": -79.4671
+                },
+                {
+                    "lat": 44.7602,
+                    "lon": -79.3962
+                },
+                {
+                    "lat": 44.8032,
+                    "lon": -79.3167
+                },
+                {
+                    "lat": 44.6334,
+                    "lon": -79.3102
+                },
+                {
+                    "lat": 44.5711,
+                    "lon": -79.1254
+                },
+                {
+                    "lat": 44.2981,
+                    "lon": -79.1168
+                }
+            ]
+        }
+    ]
+}
