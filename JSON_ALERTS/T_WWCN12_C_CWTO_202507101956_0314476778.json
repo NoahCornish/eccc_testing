@@ -1,0 +1,122 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0314476778.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-10T19:58:16-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-10T19:58:16-00:00",
+    "expires": "2025-07-11T06:01:16-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and large hail.\n\nHazards:\nWind gusts up to 100 km/h\nUp to ping pong ball size hail\nRisk of a tornado\n\nWhen:\nLate this afternoon through this evening.\n\n###\n\nStrong wind gusts can damage trees, buildings and overturn vehicles.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Red Lake - Woodland Caribou Park",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.5513,
+                    "lon": -94.5036
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.4257,
+                    "lon": -93.6935
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 50.8325,
+                    "lon": -93.4705
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2863,
+                    "lon": -93.8911
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.3413,
+                    "lon": -94.7122
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.3682,
+                    "lon": -95.1601
+                },
+                {
+                    "lat": 50.3956,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.6658,
+                    "lon": -95.1655
+                },
+                {
+                    "lat": 50.8931,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.2501,
+                    "lon": -95.1961
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        }
+    ]
+}
