@@ -1,0 +1,238 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3508121982.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-10T01:18:18-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2447176990.2025,2025-07-09T18:25:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0363711566.2025,2025-07-09T18:28:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2277603044.2025,2025-07-09T19:26:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1052404510.2025,2025-07-09T22:53:09-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-10T01:18:18-00:00",
+    "expires": "2025-07-10T04:29:18-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain.\n\n###\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Listowel - Milverton - Northern Perth County",
+            "polygon": [
+                {
+                    "lat": 43.6991,
+                    "lon": -80.8736
+                },
+                {
+                    "lat": 43.6789,
+                    "lon": -80.8184
+                },
+                {
+                    "lat": 43.6483,
+                    "lon": -80.7543
+                },
+                {
+                    "lat": 43.5816,
+                    "lon": -80.7997
+                },
+                {
+                    "lat": 43.4982,
+                    "lon": -80.8687
+                },
+                {
+                    "lat": 43.4946,
+                    "lon": -80.8962
+                },
+                {
+                    "lat": 43.4914,
+                    "lon": -80.937
+                },
+                {
+                    "lat": 43.6013,
+                    "lon": -81.2052
+                },
+                {
+                    "lat": 43.6332,
+                    "lon": -81.179
+                },
+                {
+                    "lat": 43.6187,
+                    "lon": -81.1493
+                },
+                {
+                    "lat": 43.7718,
+                    "lon": -81.0304
+                },
+                {
+                    "lat": 43.788,
+                    "lon": -81.1004
+                },
+                {
+                    "lat": 43.8105,
+                    "lon": -81.0771
+                },
+                {
+                    "lat": 43.8183,
+                    "lon": -81.0105
+                },
+                {
+                    "lat": 43.8223,
+                    "lon": -80.9533
+                },
+                {
+                    "lat": 43.8286,
+                    "lon": -80.9104
+                },
+                {
+                    "lat": 43.8321,
+                    "lon": -80.8673
+                },
+                {
+                    "lat": 43.8338,
+                    "lon": -80.859
+                },
+                {
+                    "lat": 43.8249,
+                    "lon": -80.8385
+                },
+                {
+                    "lat": 43.8363,
+                    "lon": -80.83
+                },
+                {
+                    "lat": 43.8423,
+                    "lon": -80.7923
+                },
+                {
+                    "lat": 43.8444,
+                    "lon": -80.7601
+                },
+                {
+                    "lat": 43.7653,
+                    "lon": -80.813
+                },
+                {
+                    "lat": 43.6991,
+                    "lon": -80.8736
+                }
+            ]
+        },
+        {
+            "area_description": "Stratford - Mitchell - Southern Perth County",
+            "polygon": [
+                {
+                    "lat": 43.6013,
+                    "lon": -81.2052
+                },
+                {
+                    "lat": 43.4914,
+                    "lon": -80.937
+                },
+                {
+                    "lat": 43.4964,
+                    "lon": -80.8983
+                },
+                {
+                    "lat": 43.4982,
+                    "lon": -80.8687
+                },
+                {
+                    "lat": 43.4851,
+                    "lon": -80.8339
+                },
+                {
+                    "lat": 43.4682,
+                    "lon": -80.7961
+                },
+                {
+                    "lat": 43.4675,
+                    "lon": -80.7947
+                },
+                {
+                    "lat": 43.4665,
+                    "lon": -80.794
+                },
+                {
+                    "lat": 43.4363,
+                    "lon": -80.7603
+                },
+                {
+                    "lat": 43.4074,
+                    "lon": -80.7373
+                },
+                {
+                    "lat": 43.3797,
+                    "lon": -80.7342
+                },
+                {
+                    "lat": 43.3534,
+                    "lon": -80.7357
+                },
+                {
+                    "lat": 43.2893,
+                    "lon": -80.9111
+                },
+                {
+                    "lat": 43.235,
+                    "lon": -81.1208
+                },
+                {
+                    "lat": 43.2243,
+                    "lon": -81.1466
+                },
+                {
+                    "lat": 43.2034,
+                    "lon": -81.224
+                },
+                {
+                    "lat": 43.2036,
+                    "lon": -81.2246
+                },
+                {
+                    "lat": 43.2581,
+                    "lon": -81.3576
+                },
+                {
+                    "lat": 43.2638,
+                    "lon": -81.3636
+                },
+                {
+                    "lat": 43.3185,
+                    "lon": -81.3277
+                },
+                {
+                    "lat": 43.3592,
+                    "lon": -81.2894
+                },
+                {
+                    "lat": 43.3915,
+                    "lon": -81.3085
+                },
+                {
+                    "lat": 43.3818,
+                    "lon": -81.3424
+                },
+                {
+                    "lat": 43.4205,
+                    "lon": -81.4401
+                },
+                {
+                    "lat": 43.5317,
+                    "lon": -81.3488
+                },
+                {
+                    "lat": 43.5027,
+                    "lon": -81.2872
+                },
+                {
+                    "lat": 43.5994,
+                    "lon": -81.2023
+                },
+                {
+                    "lat": 43.6013,
+                    "lon": -81.2052
+                }
+            ]
+        }
+    ]
+}
