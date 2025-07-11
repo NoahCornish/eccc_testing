@@ -1,0 +1,242 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3210917976.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-11T13:11:38-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0295414300.2025,2025-07-11T10:39:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3809826578.2025,2025-07-11T10:39:59-00:00",
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-11T13:11:38-00:00",
+    "expires": "2025-07-11T17:35:38-00:00",
+    "description": "\nNear zero visibility in fog is expected or occurring.\n\nLocally dense fog is expected to persist into early this morning before dissipating.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf travelling, be prepared for areas of near-zero visibility. If visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Dunnville - Caledonia - Haldimand",
+            "polygon": [
+                {
+                    "lat": 42.876,
+                    "lon": -79.4371
+                },
+                {
+                    "lat": 42.8607,
+                    "lon": -79.4301
+                },
+                {
+                    "lat": 42.8304,
+                    "lon": -79.4773
+                },
+                {
+                    "lat": 42.834,
+                    "lon": -79.5245
+                },
+                {
+                    "lat": 42.8191,
+                    "lon": -79.6066
+                },
+                {
+                    "lat": 42.8361,
+                    "lon": -79.6874
+                },
+                {
+                    "lat": 42.7846,
+                    "lon": -79.9766
+                },
+                {
+                    "lat": 42.798,
+                    "lon": -80.02
+                },
+                {
+                    "lat": 42.7835,
+                    "lon": -80.0541
+                },
+                {
+                    "lat": 42.7799,
+                    "lon": -80.1221
+                },
+                {
+                    "lat": 42.7835,
+                    "lon": -80.1239
+                },
+                {
+                    "lat": 42.7872,
+                    "lon": -80.1284
+                },
+                {
+                    "lat": 42.7915,
+                    "lon": -80.1318
+                },
+                {
+                    "lat": 42.8492,
+                    "lon": -80.161
+                },
+                {
+                    "lat": 42.9095,
+                    "lon": -80.1812
+                },
+                {
+                    "lat": 42.912,
+                    "lon": -80.1651
+                },
+                {
+                    "lat": 42.9128,
+                    "lon": -80.1494
+                },
+                {
+                    "lat": 42.9646,
+                    "lon": -80.1731
+                },
+                {
+                    "lat": 43.0168,
+                    "lon": -80.1878
+                },
+                {
+                    "lat": 43.0008,
+                    "lon": -80.1283
+                },
+                {
+                    "lat": 42.9762,
+                    "lon": -80.0732
+                },
+                {
+                    "lat": 43.0565,
+                    "lon": -80.0381
+                },
+                {
+                    "lat": 43.1302,
+                    "lon": -79.9792
+                },
+                {
+                    "lat": 43.0995,
+                    "lon": -79.8548
+                },
+                {
+                    "lat": 43.0507,
+                    "lon": -79.7541
+                },
+                {
+                    "lat": 43.0193,
+                    "lon": -79.6566
+                },
+                {
+                    "lat": 42.9826,
+                    "lon": -79.5635
+                },
+                {
+                    "lat": 42.9747,
+                    "lon": -79.5361
+                },
+                {
+                    "lat": 42.9648,
+                    "lon": -79.5116
+                },
+                {
+                    "lat": 42.9206,
+                    "lon": -79.4721
+                },
+                {
+                    "lat": 42.876,
+                    "lon": -79.4371
+                }
+            ]
+        },
+        {
+            "area_description": "Brantford - County of Brant",
+            "polygon": [
+                {
+                    "lat": 43.0464,
+                    "lon": -80.019
+                },
+                {
+                    "lat": 42.9762,
+                    "lon": -80.0732
+                },
+                {
+                    "lat": 42.993,
+                    "lon": -80.1362
+                },
+                {
+                    "lat": 43.0168,
+                    "lon": -80.1878
+                },
+                {
+                    "lat": 43.023,
+                    "lon": -80.2193
+                },
+                {
+                    "lat": 43.0355,
+                    "lon": -80.241
+                },
+                {
+                    "lat": 43.0054,
+                    "lon": -80.3746
+                },
+                {
+                    "lat": 42.9825,
+                    "lon": -80.5419
+                },
+                {
+                    "lat": 43.0622,
+                    "lon": -80.5898
+                },
+                {
+                    "lat": 43.1514,
+                    "lon": -80.6087
+                },
+                {
+                    "lat": 43.1721,
+                    "lon": -80.5304
+                },
+                {
+                    "lat": 43.1793,
+                    "lon": -80.4363
+                },
+                {
+                    "lat": 43.2198,
+                    "lon": -80.459
+                },
+                {
+                    "lat": 43.2668,
+                    "lon": -80.4713
+                },
+                {
+                    "lat": 43.2669,
+                    "lon": -80.471
+                },
+                {
+                    "lat": 43.2917,
+                    "lon": -80.344
+                },
+                {
+                    "lat": 43.3062,
+                    "lon": -80.2385
+                },
+                {
+                    "lat": 43.2607,
+                    "lon": -80.2084
+                },
+                {
+                    "lat": 43.2106,
+                    "lon": -80.2005
+                },
+                {
+                    "lat": 43.1798,
+                    "lon": -80.0958
+                },
+                {
+                    "lat": 43.1302,
+                    "lon": -79.9792
+                },
+                {
+                    "lat": 43.0464,
+                    "lon": -80.019
+                }
+            ]
+        }
+    ]
+}
