@@ -1,0 +1,89 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3758751492.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-12T18:30:35-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0374535884.2025,2025-07-12T17:08:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2177115353.2025,2025-07-12T17:09:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3971555436.2025,2025-07-12T17:29:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4003593346.2025,2025-07-12T17:31:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4169540795.2025,2025-07-12T17:33:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0687803607.2025,2025-07-12T17:36:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2728728916.2025,2025-07-12T18:23:14-00:00",
+    "headline": "squall warning in effect",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-07-12T18:23:14-00:00",
+    "expires": "2025-07-12T21:22:14-00:00",
+    "description": "\nSqualls with wind gusts up to 45 knots, frequent lightning, hail of 1 to 2 centimetres and poor to very poor visibility in thunderstorms heavy at times are expected or occurring in the area.\n\nA line of thunderstorms located between Harrow and Port Clinton is moving east along the lake at 25 kts.\n\n###\n\nPoor to very poor visibility may contribute to voyage delays and make marine navigation hazardous.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nVessels without lightning protection should make their way to shore immediately. If you must travel, keep others informed of your planned route and carry appropriate safety equipment including a GPS and satellite phone or marine radio.\n",
+    "affected_areas": [
+        {
+            "area_description": "Western Lake Erie",
+            "polygon": [
+                {
+                    "lat": 42.0512,
+                    "lon": -83.1462
+                },
+                {
+                    "lat": 42.0537,
+                    "lon": -83.1109
+                },
+                {
+                    "lat": 42.0629,
+                    "lon": -83.0565
+                },
+                {
+                    "lat": 42.0167,
+                    "lon": -82.9069
+                },
+                {
+                    "lat": 42.0946,
+                    "lon": -82.6165
+                },
+                {
+                    "lat": 42.2319,
+                    "lon": -82.3391
+                },
+                {
+                    "lat": 42.5988,
+                    "lon": -81.7125
+                },
+                {
+                    "lat": 42.784,
+                    "lon": -81.2109
+                },
+                {
+                    "lat": 42.66,
+                    "lon": -81.1553
+                },
+                {
+                    "lat": 42.2591,
+                    "lon": -80.9327
+                },
+                {
+                    "lat": 42.2075,
+                    "lon": -81.2457
+                },
+                {
+                    "lat": 41.6765,
+                    "lon": -82.3974
+                },
+                {
+                    "lat": 41.6765,
+                    "lon": -82.6797
+                },
+                {
+                    "lat": 41.8635,
+                    "lon": -83.0691
+                },
+                {
+                    "lat": 42.0409,
+                    "lon": -83.1496
+                },
+                {
+                    "lat": 42.0512,
+                    "lon": -83.1462
+                }
+            ]
+        }
+    ]
+}
