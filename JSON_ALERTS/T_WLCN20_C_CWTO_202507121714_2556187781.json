@@ -1,0 +1,175 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2556187781.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-12T17:14:01-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1105045991.2025,2025-07-10T17:17:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3798097325.2025,2025-07-10T17:21:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3743020442.2025,2025-07-10T21:59:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0392175949.2025,2025-07-10T22:03:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4007164203.2025,2025-07-11T00:44:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3376717914.2025,2025-07-11T00:46:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2499196103.2025,2025-07-11T07:38:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2220288201.2025,2025-07-11T07:40:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0851292032.2025,2025-07-11T13:19:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1802916676.2025,2025-07-11T13:22:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4281121925.2025,2025-07-11T15:38:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3927304772.2025,2025-07-11T15:40:11-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1807716329.2025,2025-07-11T19:57:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3667543500.2025,2025-07-11T19:59:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2658191287.2025,2025-07-12T02:42:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0692144109.2025,2025-07-12T02:42:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1390588830.2025,2025-07-12T09:05:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0492164424.2025,2025-07-12T09:08:33-00:00",
+    "headline": "air quality warning in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-07-12T17:14:01-00:00",
+    "expires": "2025-07-13T09:14:01-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\n###\n\nDuring heavy smoke conditions, everyone’s health is at risk regardless of their age or health status.\n\nLimit time outdoors. Reschedule or cancel outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nFor further information visit the website https://www.airqualityontario.com/ or contact the Ontario Ministry of the Environment, Conservation and Parks at 416-314-6666.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, limit the time as much as possible. A well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Pikangikum - Poplar Hill - MacDowell",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.0344,
+                    "lon": -95.169
+                },
+                {
+                    "lat": 52.4201,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4148,
+                    "lon": -93.4852
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.4154,
+                    "lon": -93.733
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.5309,
+                    "lon": -94.5283
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Red Lake - Woodland Caribou Park",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.5513,
+                    "lon": -94.5036
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.4257,
+                    "lon": -93.6935
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 50.8325,
+                    "lon": -93.4705
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2863,
+                    "lon": -93.8911
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.3413,
+                    "lon": -94.7122
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.3682,
+                    "lon": -95.1601
+                },
+                {
+                    "lat": 50.3956,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.6658,
+                    "lon": -95.1655
+                },
+                {
+                    "lat": 50.8931,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.2501,
+                    "lon": -95.1961
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        }
+    ]
+}
