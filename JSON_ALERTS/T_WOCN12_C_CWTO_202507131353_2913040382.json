@@ -1,0 +1,106 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2913040382.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-13T13:53:14-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4037353705.2025,2025-07-13T09:11:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2225198927.2025,2025-07-13T09:13:21-00:00",
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-13T13:53:14-00:00",
+    "expires": "2025-07-13T17:59:14-00:00",
+    "description": "\nNear zero visibility in fog is expected or occurring.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Marathon - Schreiber",
+            "polygon": [
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                }
+            ]
+        },
+        {
+            "area_description": "Blind River - Thessalon",
+            "polygon": [
+                {
+                    "lat": 46.1752,
+                    "lon": -83.5976
+                },
+                {
+                    "lat": 46.1874,
+                    "lon": -83.7076
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.0965,
+                    "lon": -82.0476
+                },
+                {
+                    "lat": 45.9754,
+                    "lon": -82.0969
+                },
+                {
+                    "lat": 45.9443,
+                    "lon": -82.178
+                },
+                {
+                    "lat": 46.0103,
+                    "lon": -82.3291
+                },
+                {
+                    "lat": 46.0319,
+                    "lon": -83.3864
+                },
+                {
+                    "lat": 46.1752,
+                    "lon": -83.5976
+                }
+            ]
+        }
+    ]
+}
