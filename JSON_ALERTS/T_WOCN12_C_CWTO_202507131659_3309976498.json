@@ -1,0 +1,57 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3309976498.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-13T16:59:31-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4037353705.2025,2025-07-13T09:11:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2225198927.2025,2025-07-13T09:13:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2913040382.2025,2025-07-13T13:53:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3579796565.2025,2025-07-13T13:57:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4262932791.2025,2025-07-13T15:46:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2403445155.2025,2025-07-13T15:49:45-00:00",
+    "headline": "fog advisory ended",
+    "event": "fog",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-13T16:59:31-00:00",
+    "expires": "2025-07-13T17:59:31-00:00",
+    "description": "\nVisibilities have improved and are no longer expected to meet fog advisory criteria.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Marathon - Schreiber",
+            "polygon": [
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                }
+            ]
+        }
+    ]
+}
