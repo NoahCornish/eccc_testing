@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2811141369.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-13T01:45:22-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0332660310.2025,2025-07-13T00:51:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1167361505.2025,2025-07-13T00:53:02-00:00",
+    "headline": "squall warning ended",
+    "event": "squall",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-13T01:45:22-00:00",
+    "expires": "2025-07-13T02:45:22-00:00",
+    "description": "\nSqualls have weakened or moved out of the area.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Lake Nipigon",
+            "polygon": [
+                {
+                    "lat": 49.9835,
+                    "lon": -87.8416
+                },
+                {
+                    "lat": 49.2307,
+                    "lon": -88.0709
+                },
+                {
+                    "lat": 49.4676,
+                    "lon": -89.1369
+                },
+                {
+                    "lat": 49.8803,
+                    "lon": -89.1904
+                },
+                {
+                    "lat": 50.2395,
+                    "lon": -89.03
+                },
+                {
+                    "lat": 50.4305,
+                    "lon": -88.4301
+                },
+                {
+                    "lat": 49.9835,
+                    "lon": -87.8416
+                }
+            ]
+        }
+    ]
+}

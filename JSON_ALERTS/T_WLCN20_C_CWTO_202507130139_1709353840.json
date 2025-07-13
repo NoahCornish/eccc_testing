@@ -1,0 +1,175 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1709353840.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-13T01:40:01-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1105045991.2025,2025-07-10T17:17:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3798097325.2025,2025-07-10T17:21:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3743020442.2025,2025-07-10T21:59:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0392175949.2025,2025-07-10T22:03:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4007164203.2025,2025-07-11T00:44:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3376717914.2025,2025-07-11T00:46:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2499196103.2025,2025-07-11T07:38:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2220288201.2025,2025-07-11T07:40:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0851292032.2025,2025-07-11T13:19:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1802916676.2025,2025-07-11T13:22:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4281121925.2025,2025-07-11T15:38:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3927304772.2025,2025-07-11T15:40:11-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1807716329.2025,2025-07-11T19:57:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3667543500.2025,2025-07-11T19:59:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2658191287.2025,2025-07-12T02:42:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0692144109.2025,2025-07-12T02:42:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1390588830.2025,2025-07-12T09:05:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0492164424.2025,2025-07-12T09:08:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2556187781.2025,2025-07-12T17:14:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0525581642.2025,2025-07-12T17:17:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2807168114.2025,2025-07-13T01:39:05-00:00",
+    "headline": "air quality warning ended",
+    "event": "air quality",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-13T01:39:05-00:00",
+    "expires": "2025-07-13T02:39:05-00:00",
+    "description": "\nThe Air Quality Warning has been downgraded to the Special Air Quality Statement.\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Pikangikum - Poplar Hill - MacDowell",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.0344,
+                    "lon": -95.169
+                },
+                {
+                    "lat": 52.4201,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4148,
+                    "lon": -93.4852
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.4154,
+                    "lon": -93.733
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.5309,
+                    "lon": -94.5283
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Red Lake - Woodland Caribou Park",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.5513,
+                    "lon": -94.5036
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.4257,
+                    "lon": -93.6935
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 50.8325,
+                    "lon": -93.4705
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2863,
+                    "lon": -93.8911
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.3413,
+                    "lon": -94.7122
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.3682,
+                    "lon": -95.1601
+                },
+                {
+                    "lat": 50.3956,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.6658,
+                    "lon": -95.1655
+                },
+                {
+                    "lat": 50.8931,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.2501,
+                    "lon": -95.1961
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        }
+    ]
+}
