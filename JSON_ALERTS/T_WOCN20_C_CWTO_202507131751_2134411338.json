@@ -1,0 +1,531 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2134411338.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-13T17:53:41-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2922505856.2025,2025-07-04T22:32:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2346490962.2025,2025-07-04T22:36:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1034387889.2025,2025-07-05T02:25:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0581335281.2025,2025-07-05T02:27:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2782186706.2025,2025-07-05T08:26:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3550534038.2025,2025-07-05T12:53:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4218557475.2025,2025-07-05T12:57:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0534989045.2025,2025-07-05T15:39:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3698810953.2025,2025-07-05T15:40:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1893707845.2025,2025-07-05T19:44:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1978300148.2025,2025-07-05T19:45:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4140920112.2025,2025-07-06T00:09:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3937820132.2025,2025-07-06T00:09:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3532290784.2025,2025-07-06T04:49:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1859993473.2025,2025-07-06T04:50:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1354242684.2025,2025-07-06T08:51:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1327487538.2025,2025-07-06T08:53:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3943614100.2025,2025-07-06T08:57:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0937669940.2025,2025-07-06T08:58:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4051457679.2025,2025-07-06T09:48:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1562891299.2025,2025-07-06T09:50:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4153266457.2025,2025-07-06T15:13:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0623448933.2025,2025-07-07T04:33:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3576612123.2025,2025-07-07T04:35:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0739542595.2025,2025-07-07T09:21:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3942300640.2025,2025-07-07T09:23:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0975433495.2025,2025-07-07T14:03:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1205906079.2025,2025-07-07T14:06:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2318288038.2025,2025-07-07T20:05:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2579007152.2025,2025-07-07T20:07:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0409427676.2025,2025-07-08T04:07:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0719568631.2025,2025-07-08T04:08:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1357748502.2025,2025-07-08T10:46:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1506825769.2025,2025-07-08T10:47:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2966146934.2025,2025-07-08T15:05:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0518542397.2025,2025-07-08T15:07:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3109825911.2025,2025-07-08T19:33:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2397354171.2025,2025-07-08T19:35:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1435781340.2025,2025-07-09T01:53:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3375230351.2025,2025-07-09T01:54:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0288840234.2025,2025-07-09T09:21:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0342925764.2025,2025-07-09T09:23:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4225460646.2025,2025-07-09T15:37:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1516566136.2025,2025-07-09T15:39:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1730346036.2025,2025-07-09T19:03:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0934799023.2025,2025-07-09T19:05:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3838346471.2025,2025-07-09T22:37:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3726809997.2025,2025-07-10T02:03:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1648128238.2025,2025-07-10T09:24:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0539371905.2025,2025-07-10T17:26:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4247971314.2025,2025-07-10T17:28:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4268055627.2025,2025-07-10T22:00:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2937413886.2025,2025-07-10T22:05:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1786029759.2025,2025-07-11T00:40:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2985564140.2025,2025-07-11T00:43:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3627778719.2025,2025-07-11T07:37:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2275484402.2025,2025-07-11T07:38:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0921267055.2025,2025-07-11T13:21:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0867434463.2025,2025-07-11T13:27:11-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2463740048.2025,2025-07-11T14:15:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2178644375.2025,2025-07-11T14:16:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1978356834.2025,2025-07-11T19:58:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3661468595.2025,2025-07-11T20:01:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0074027874.2025,2025-07-12T02:43:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2293638391.2025,2025-07-12T02:44:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1740531371.2025,2025-07-12T10:59:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2132361637.2025,2025-07-12T10:59:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3195137578.2025,2025-07-12T17:07:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2105181111.2025,2025-07-12T17:08:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3779537019.2025,2025-07-13T01:36:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0896868679.2025,2025-07-13T01:38:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0312857676.2025,2025-07-13T09:06:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3331615122.2025,2025-07-13T09:09:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1502932626.2025,2025-07-13T17:51:54-00:00",
+    "headline": "special air quality statement in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-07-13T17:51:54-00:00",
+    "expires": "2025-07-14T09:51:54-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\nWesterly winds will continue to bring smoke from forest fires over northern Ontario to the area, causing the air quality to deteriorate. Conditions may temporarily improve tonight.\n\nAdditional fluctuations in forest fire smoke levels can be expected over the next few days.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Fort Severn",
+            "polygon": [
+                {
+                    "lat": 56.8474,
+                    "lon": -88.9894
+                },
+                {
+                    "lat": 56.9017,
+                    "lon": -88.9057
+                },
+                {
+                    "lat": 56.724,
+                    "lon": -88.6479
+                },
+                {
+                    "lat": 56.4915,
+                    "lon": -87.9073
+                },
+                {
+                    "lat": 56.1029,
+                    "lon": -87.4589
+                },
+                {
+                    "lat": 56.0007,
+                    "lon": -86.9972
+                },
+                {
+                    "lat": 55.9096,
+                    "lon": -87.0016
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.2549,
+                    "lon": -87.9707
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 55.7142,
+                    "lon": -89.6861
+                },
+                {
+                    "lat": 55.9307,
+                    "lon": -90.4723
+                },
+                {
+                    "lat": 56.1351,
+                    "lon": -90.1757
+                },
+                {
+                    "lat": 56.3004,
+                    "lon": -89.8863
+                },
+                {
+                    "lat": 56.8474,
+                    "lon": -88.9894
+                }
+            ]
+        },
+        {
+            "area_description": "Sachigo Lake - Bearskin Lake",
+            "polygon": [
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 53.7297,
+                    "lon": -92.0252
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 54.5171,
+                    "lon": -92.6285
+                },
+                {
+                    "lat": 55.1549,
+                    "lon": -91.653
+                },
+                {
+                    "lat": 55.5552,
+                    "lon": -91.0742
+                },
+                {
+                    "lat": 55.9307,
+                    "lon": -90.4723
+                },
+                {
+                    "lat": 55.7283,
+                    "lon": -89.6616
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 54.5866,
+                    "lon": -89.6215
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                }
+            ]
+        },
+        {
+            "area_description": "Big Trout Lake - Kasabonika",
+            "polygon": [
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 53.3863,
+                    "lon": -89.3769
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 54.5994,
+                    "lon": -89.6775
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 55.2628,
+                    "lon": -87.921
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 54.1558,
+                    "lon": -87.4504
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                }
+            ]
+        },
+        {
+            "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
+            "polygon": [
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.6707,
+                    "lon": -95.1632
+                },
+                {
+                    "lat": 52.8415,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.8419,
+                    "lon": -95.153
+                },
+                {
+                    "lat": 53.2523,
+                    "lon": -94.5197
+                },
+                {
+                    "lat": 53.5766,
+                    "lon": -93.9327
+                },
+                {
+                    "lat": 53.7427,
+                    "lon": -93.68
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 53.7604,
+                    "lon": -92.0407
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 52.9541,
+                    "lon": -90.9516
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.3546,
+                    "lon": -93.4886
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Pikangikum - Poplar Hill - MacDowell",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.0344,
+                    "lon": -95.169
+                },
+                {
+                    "lat": 52.4201,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4148,
+                    "lon": -93.4852
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.4154,
+                    "lon": -93.733
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.5309,
+                    "lon": -94.5283
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Summer Beaver - Wunnummin Lake - Kingfisher Lake",
+            "polygon": [
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 52.7534,
+                    "lon": -87.9569
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.237,
+                    "lon": -89.76
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.9445,
+                    "lon": -91.0141
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 53.4188,
+                    "lon": -89.3718
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                }
+            ]
+        },
+        {
+            "area_description": "Pickle Lake - Cat Lake",
+            "polygon": [
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.2797,
+                    "lon": -89.8479
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                }
+            ]
+        },
+        {
+            "area_description": "Red Lake - Woodland Caribou Park",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.5513,
+                    "lon": -94.5036
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.4257,
+                    "lon": -93.6935
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 50.8325,
+                    "lon": -93.4705
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2863,
+                    "lon": -93.8911
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.3413,
+                    "lon": -94.7122
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.3682,
+                    "lon": -95.1601
+                },
+                {
+                    "lat": 50.3956,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.6658,
+                    "lon": -95.1655
+                },
+                {
+                    "lat": 50.8931,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.2501,
+                    "lon": -95.1961
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Savant Lake - Sturgeon Lake",
+            "polygon": [
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 49.5235,
+                    "lon": -90.0178
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                }
+            ]
+        },
+        {
+            "area_description": "Sioux Lookout - Eastern Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        }
+    ]
+}
