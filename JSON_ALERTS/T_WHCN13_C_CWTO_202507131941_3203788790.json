@@ -1,0 +1,367 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3203788790.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-13T19:42:04-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0898104141.2025,2025-07-13T14:32:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4005261513.2025,2025-07-13T16:25:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3797056191.2025,2025-07-13T16:30:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0657594093.2025,2025-07-13T16:34:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2041264649.2025,2025-07-13T17:02:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1160455350.2025,2025-07-13T17:04:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0793238343.2025,2025-07-13T17:46:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2345859615.2025,2025-07-13T17:51:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3967573405.2025,2025-07-13T18:51:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3034044822.2025,2025-07-13T19:14:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2310093236.2025,2025-07-13T19:16:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2480159203.2025,2025-07-13T19:41:33-00:00",
+    "headline": "squall watch in effect",
+    "event": "squall",
+    "urgency": "Expected",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-07-13T19:41:33-00:00",
+    "expires": "2025-07-14T04:09:33-00:00",
+    "description": "\nConditions are favourable for the development of squalls with wind gusts up to 35 knots and frequent lightning.\n\nThunderstorms with squalls possible this afternoon and evening. Storms will mainly be moving northeastward.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nMariners are advised to prepare for potential squalls. Vulnerable vessels are most at risk and should seek safe harbour if underway.\n",
+    "affected_areas": [
+        {
+            "area_description": "Eastern Lake Ontario",
+            "polygon": [
+                {
+                    "lat": 44.0963,
+                    "lon": -76.5159
+                },
+                {
+                    "lat": 44.0862,
+                    "lon": -76.4895
+                },
+                {
+                    "lat": 44.0731,
+                    "lon": -76.455
+                },
+                {
+                    "lat": 43.6311,
+                    "lon": -76.7966
+                },
+                {
+                    "lat": 43.6361,
+                    "lon": -77.8418
+                },
+                {
+                    "lat": 43.6548,
+                    "lon": -77.8417
+                },
+                {
+                    "lat": 43.9912,
+                    "lon": -77.8409
+                },
+                {
+                    "lat": 44.0509,
+                    "lon": -77.8441
+                },
+                {
+                    "lat": 44.0845,
+                    "lon": -77.729
+                },
+                {
+                    "lat": 44.0745,
+                    "lon": -77.6392
+                },
+                {
+                    "lat": 44.1434,
+                    "lon": -77.6138
+                },
+                {
+                    "lat": 44.2078,
+                    "lon": -77.4108
+                },
+                {
+                    "lat": 44.2296,
+                    "lon": -77.0582
+                },
+                {
+                    "lat": 44.2175,
+                    "lon": -76.8926
+                },
+                {
+                    "lat": 44.1537,
+                    "lon": -76.8717
+                },
+                {
+                    "lat": 44.243,
+                    "lon": -76.7176
+                },
+                {
+                    "lat": 44.2558,
+                    "lon": -76.5919
+                },
+                {
+                    "lat": 44.2131,
+                    "lon": -76.6037
+                },
+                {
+                    "lat": 44.1816,
+                    "lon": -76.5882
+                },
+                {
+                    "lat": 44.162,
+                    "lon": -76.5796
+                },
+                {
+                    "lat": 44.0963,
+                    "lon": -76.5159
+                }
+            ]
+        },
+        {
+            "area_description": "Prescott to Cornwall",
+            "polygon": [
+                {
+                    "lat": 44.9881,
+                    "lon": -74.8779
+                },
+                {
+                    "lat": 44.9716,
+                    "lon": -74.8933
+                },
+                {
+                    "lat": 44.966,
+                    "lon": -74.9742
+                },
+                {
+                    "lat": 44.9391,
+                    "lon": -74.9979
+                },
+                {
+                    "lat": 44.9064,
+                    "lon": -75.1131
+                },
+                {
+                    "lat": 44.8881,
+                    "lon": -75.123
+                },
+                {
+                    "lat": 44.8682,
+                    "lon": -75.2075
+                },
+                {
+                    "lat": 44.8342,
+                    "lon": -75.2895
+                },
+                {
+                    "lat": 44.8215,
+                    "lon": -75.2905
+                },
+                {
+                    "lat": 44.7971,
+                    "lon": -75.348
+                },
+                {
+                    "lat": 44.8022,
+                    "lon": -75.3524
+                },
+                {
+                    "lat": 44.8059,
+                    "lon": -75.356
+                },
+                {
+                    "lat": 44.8151,
+                    "lon": -75.3622
+                },
+                {
+                    "lat": 44.8253,
+                    "lon": -75.3692
+                },
+                {
+                    "lat": 44.8892,
+                    "lon": -75.3019
+                },
+                {
+                    "lat": 44.9507,
+                    "lon": -75.1196
+                },
+                {
+                    "lat": 45.0434,
+                    "lon": -74.9556
+                },
+                {
+                    "lat": 45.0618,
+                    "lon": -74.8301
+                },
+                {
+                    "lat": 45.0511,
+                    "lon": -74.7831
+                },
+                {
+                    "lat": 45.0614,
+                    "lon": -74.7056
+                },
+                {
+                    "lat": 45.0243,
+                    "lon": -74.6869
+                },
+                {
+                    "lat": 45.0166,
+                    "lon": -74.6799
+                },
+                {
+                    "lat": 45.0062,
+                    "lon": -74.6705
+                },
+                {
+                    "lat": 44.9989,
+                    "lon": -74.663
+                },
+                {
+                    "lat": 44.9807,
+                    "lon": -74.7218
+                },
+                {
+                    "lat": 44.9846,
+                    "lon": -74.7712
+                },
+                {
+                    "lat": 44.9961,
+                    "lon": -74.7796
+                },
+                {
+                    "lat": 45.0036,
+                    "lon": -74.8171
+                },
+                {
+                    "lat": 44.9881,
+                    "lon": -74.8779
+                }
+            ]
+        },
+        {
+            "area_description": "Kingston to Prescott",
+            "polygon": [
+                {
+                    "lat": 44.0963,
+                    "lon": -76.5159
+                },
+                {
+                    "lat": 44.162,
+                    "lon": -76.5796
+                },
+                {
+                    "lat": 44.1816,
+                    "lon": -76.5882
+                },
+                {
+                    "lat": 44.2131,
+                    "lon": -76.6037
+                },
+                {
+                    "lat": 44.2558,
+                    "lon": -76.5919
+                },
+                {
+                    "lat": 44.2747,
+                    "lon": -76.4379
+                },
+                {
+                    "lat": 44.3387,
+                    "lon": -76.2862
+                },
+                {
+                    "lat": 44.3457,
+                    "lon": -76.1992
+                },
+                {
+                    "lat": 44.3828,
+                    "lon": -76.0771
+                },
+                {
+                    "lat": 44.4034,
+                    "lon": -75.9515
+                },
+                {
+                    "lat": 44.4662,
+                    "lon": -75.9048
+                },
+                {
+                    "lat": 44.6112,
+                    "lon": -75.6758
+                },
+                {
+                    "lat": 44.6966,
+                    "lon": -75.5821
+                },
+                {
+                    "lat": 44.7973,
+                    "lon": -75.4329
+                },
+                {
+                    "lat": 44.8253,
+                    "lon": -75.3692
+                },
+                {
+                    "lat": 44.8151,
+                    "lon": -75.3622
+                },
+                {
+                    "lat": 44.8059,
+                    "lon": -75.356
+                },
+                {
+                    "lat": 44.8022,
+                    "lon": -75.3524
+                },
+                {
+                    "lat": 44.7971,
+                    "lon": -75.348
+                },
+                {
+                    "lat": 44.7743,
+                    "lon": -75.3701
+                },
+                {
+                    "lat": 44.7477,
+                    "lon": -75.4213
+                },
+                {
+                    "lat": 44.651,
+                    "lon": -75.5581
+                },
+                {
+                    "lat": 44.5122,
+                    "lon": -75.7458
+                },
+                {
+                    "lat": 44.4923,
+                    "lon": -75.7473
+                },
+                {
+                    "lat": 44.3439,
+                    "lon": -75.8638
+                },
+                {
+                    "lat": 44.2674,
+                    "lon": -76.107
+                },
+                {
+                    "lat": 44.2049,
+                    "lon": -76.1303
+                },
+                {
+                    "lat": 44.1754,
+                    "lon": -76.2874
+                },
+                {
+                    "lat": 44.1193,
+                    "lon": -76.3362
+                },
+                {
+                    "lat": 44.066,
+                    "lon": -76.4366
+                },
+                {
+                    "lat": 44.0731,
+                    "lon": -76.455
+                },
+                {
+                    "lat": 44.0862,
+                    "lon": -76.4895
+                },
+                {
+                    "lat": 44.0963,
+                    "lon": -76.5159
+                }
+            ]
+        }
+    ]
+}
