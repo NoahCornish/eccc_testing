@@ -1,0 +1,61 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0686791218.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-17T10:12:14-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1175967121.2025,2025-07-16T19:54:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3150655207.2025,2025-07-16T22:32:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2027503298.2025,2025-07-17T03:29:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1917215385.2025,2025-07-17T06:19:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3265415848.2025,2025-07-17T10:05:11-00:00",
+    "headline": "rainfall warning changed",
+    "event": "rainfall",
+    "urgency": "Immediate",
+    "severity": "Moderate",
+    "certainty": "Unknown",
+    "effective": "2025-07-17T10:12:14-00:00",
+    "expires": "2025-07-17T10:12:14-00:00",
+    "description": "\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Bayfield Inlet - Dunchurch",
+            "polygon": [
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                },
+                {
+                    "lat": 45.8899,
+                    "lon": -80.7251
+                },
+                {
+                    "lat": 45.8856,
+                    "lon": -80.5706
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.5363,
+                    "lon": -80.4369
+                },
+                {
+                    "lat": 45.5136,
+                    "lon": -80.5641
+                },
+                {
+                    "lat": 45.8248,
+                    "lon": -80.8486
+                },
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                }
+            ]
+        }
+    ]
+}
