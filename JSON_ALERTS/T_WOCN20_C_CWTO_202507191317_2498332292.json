@@ -1,0 +1,372 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2498332292.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-19T13:17:42-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1858053676.2025,2025-07-17T10:21:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4022684407.2025,2025-07-17T15:11:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1125341875.2025,2025-07-18T00:49:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1090116132.2025,2025-07-18T00:51:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2021435481.2025,2025-07-18T07:11:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3538917820.2025,2025-07-18T07:12:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2789225493.2025,2025-07-18T07:56:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3787244085.2025,2025-07-18T07:57:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2421833293.2025,2025-07-18T07:59:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2568286239.2025,2025-07-18T08:00:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3583656397.2025,2025-07-18T08:43:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1406367055.2025,2025-07-18T08:44:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0502927441.2025,2025-07-18T16:33:50-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0521294636.2025,2025-07-18T16:34:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1289331376.2025,2025-07-18T20:05:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2901941562.2025,2025-07-18T20:10:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0508444433.2025,2025-07-18T20:12:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4162282997.2025,2025-07-18T20:33:55-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1188951068.2025,2025-07-18T20:35:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0425130617.2025,2025-07-19T01:54:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0642627722.2025,2025-07-19T01:56:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1824174998.2025,2025-07-19T02:01:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0403326441.2025,2025-07-19T02:02:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1093458411.2025,2025-07-19T08:49:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2480368112.2025,2025-07-19T08:52:21-00:00",
+    "headline": "special air quality statement in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-07-19T13:17:42-00:00",
+    "expires": "2025-07-20T05:17:42-00:00",
+    "description": "\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
+            "polygon": [
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.6707,
+                    "lon": -95.1632
+                },
+                {
+                    "lat": 52.8415,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.8419,
+                    "lon": -95.153
+                },
+                {
+                    "lat": 53.2523,
+                    "lon": -94.5197
+                },
+                {
+                    "lat": 53.5766,
+                    "lon": -93.9327
+                },
+                {
+                    "lat": 53.7427,
+                    "lon": -93.68
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 53.7604,
+                    "lon": -92.0407
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 52.9541,
+                    "lon": -90.9516
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.3546,
+                    "lon": -93.4886
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Summer Beaver - Wunnummin Lake - Kingfisher Lake",
+            "polygon": [
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 52.7534,
+                    "lon": -87.9569
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.237,
+                    "lon": -89.76
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.9445,
+                    "lon": -91.0141
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 53.4188,
+                    "lon": -89.3718
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                }
+            ]
+        },
+        {
+            "area_description": "Pickle Lake - Cat Lake",
+            "polygon": [
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.2797,
+                    "lon": -89.8479
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                }
+            ]
+        },
+        {
+            "area_description": "Fort Hope - Lansdowne House - Ogoki",
+            "polygon": [
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                },
+                {
+                    "lat": 51.0571,
+                    "lon": -84.4653
+                },
+                {
+                    "lat": 51.0622,
+                    "lon": -84.57
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8342
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.4893,
+                    "lon": -83.2673
+                },
+                {
+                    "lat": 51.2539,
+                    "lon": -83.9119
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                }
+            ]
+        },
+        {
+            "area_description": "Savant Lake - Sturgeon Lake",
+            "polygon": [
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 49.5235,
+                    "lon": -90.0178
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                }
+            ]
+        },
+        {
+            "area_description": "Sioux Lookout - Eastern Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Armstrong - Auden - Wabakimi Park",
+            "polygon": [
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                }
+            ]
+        },
+        {
+            "area_description": "Nakina - Aroland - Pagwa",
+            "polygon": [
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.2465,
+                    "lon": -84.7492
+                },
+                {
+                    "lat": 51.1721,
+                    "lon": -84.5361
+                },
+                {
+                    "lat": 51.2908,
+                    "lon": -84.362
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                }
+            ]
+        }
+    ]
+}
