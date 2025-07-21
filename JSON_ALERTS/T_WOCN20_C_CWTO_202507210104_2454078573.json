@@ -1,0 +1,98 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2454078573.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-21T01:04:09-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2979553576.2025,2025-07-18T20:05:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1011035732.2025,2025-07-18T20:07:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1038540002.2025,2025-07-19T01:51:50-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0338145121.2025,2025-07-19T01:55:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2110607925.2025,2025-07-19T08:46:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1953913629.2025,2025-07-19T08:50:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3252287015.2025,2025-07-19T15:25:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2831709745.2025,2025-07-19T15:37:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3622802567.2025,2025-07-19T15:40:55-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1236298349.2025,2025-07-19T17:59:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2943324780.2025,2025-07-19T18:00:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0306988586.2025,2025-07-20T02:26:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4131885334.2025,2025-07-20T02:30:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4006995558.2025,2025-07-20T09:42:09-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0827545198.2025,2025-07-20T09:44:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1601126785.2025,2025-07-20T13:57:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3190407440.2025,2025-07-20T13:59:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1781379808.2025,2025-07-20T14:48:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3023561875.2025,2025-07-20T14:49:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1093751710.2025,2025-07-20T15:16:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1981368419.2025,2025-07-20T15:17:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4164396220.2025,2025-07-20T21:21:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2071276373.2025,2025-07-20T21:25:43-00:00",
+    "headline": "special air quality statement in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-07-21T01:04:09-00:00",
+    "expires": "2025-07-21T17:04:09-00:00",
+    "description": "\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Dryden - Vermilion Bay",
+            "polygon": [
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 49.0996,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                }
+            ]
+        },
+        {
+            "area_description": "Ignace - English River",
+            "polygon": [
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                },
+                {
+                    "lat": 48.9922,
+                    "lon": -91.2145
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                }
+            ]
+        }
+    ]
+}
