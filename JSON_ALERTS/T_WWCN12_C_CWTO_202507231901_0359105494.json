@@ -1,0 +1,109 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0359105494.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-23T19:05:03-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0317184710.2025,2025-07-23T16:19:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2674979171.2025,2025-07-23T16:21:50-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-23T19:05:03-00:00",
+    "expires": "2025-07-23T22:03:03-00:00",
+    "description": "\nRain, at times heavy, continues.\n\nWhat:\nTotal local rainfall amounts near 50 mm.\n\nWhen:\nEnding later this afternoon.\n\nAdditional information:\nAs of 12: 00 P.M., radar estimates that near 40 mm of rain has fallen in some areas. More rain is expected this afternoon and  conditions should improve later this afternoon.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Kakabeka Falls - Whitefish Lake - Arrow Lake",
+            "polygon": [
+                {
+                    "lat": 48.1209,
+                    "lon": -90.5764
+                },
+                {
+                    "lat": 48.5979,
+                    "lon": -89.6538
+                },
+                {
+                    "lat": 48.7365,
+                    "lon": -89.3858
+                },
+                {
+                    "lat": 48.0095,
+                    "lon": -89.6337
+                },
+                {
+                    "lat": 48.004,
+                    "lon": -89.637
+                },
+                {
+                    "lat": 47.9988,
+                    "lon": -89.6967
+                },
+                {
+                    "lat": 48.0182,
+                    "lon": -89.768
+                },
+                {
+                    "lat": 47.9796,
+                    "lon": -89.8823
+                },
+                {
+                    "lat": 48.0223,
+                    "lon": -89.9932
+                },
+                {
+                    "lat": 48.0847,
+                    "lon": -90.0326
+                },
+                {
+                    "lat": 48.1081,
+                    "lon": -90.1505
+                },
+                {
+                    "lat": 48.0958,
+                    "lon": -90.276
+                },
+                {
+                    "lat": 48.0883,
+                    "lon": -90.374
+                },
+                {
+                    "lat": 48.101,
+                    "lon": -90.4648
+                },
+                {
+                    "lat": 48.094,
+                    "lon": -90.5005
+                },
+                {
+                    "lat": 48.0939,
+                    "lon": -90.5626
+                },
+                {
+                    "lat": 48.1066,
+                    "lon": -90.5718
+                },
+                {
+                    "lat": 48.1174,
+                    "lon": -90.5578
+                },
+                {
+                    "lat": 48.1216,
+                    "lon": -90.5616
+                },
+                {
+                    "lat": 48.1194,
+                    "lon": -90.5774
+                },
+                {
+                    "lat": 48.1209,
+                    "lon": -90.5764
+                }
+            ]
+        }
+    ]
+}
