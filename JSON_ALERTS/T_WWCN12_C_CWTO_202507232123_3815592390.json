@@ -1,0 +1,126 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3815592390.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-23T21:29:31-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2147375014.2025,2025-07-23T18:14:18-00:00",
+    "headline": "rainfall warning changed",
+    "event": "rainfall",
+    "urgency": "Immediate",
+    "severity": "Minor",
+    "certainty": "Unknown",
+    "effective": "2025-07-23T21:29:31-00:00",
+    "expires": "2025-07-23T21:29:31-00:00",
+    "description": "\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "White River - Dubreuilville",
+            "polygon": [
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.2896,
+                    "lon": -85.2219
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 48.1106,
+                    "lon": -83.996
+                },
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                }
+            ]
+        },
+        {
+            "area_description": "Wawa - Pukaskwa Park",
+            "polygon": [
+                {
+                    "lat": 47.4654,
+                    "lon": -86.1345
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.2896,
+                    "lon": -85.2219
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.0973,
+                    "lon": -84.2418
+                },
+                {
+                    "lat": 47.963,
+                    "lon": -84.6559
+                },
+                {
+                    "lat": 47.8957,
+                    "lon": -84.8608
+                },
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.3094,
+                    "lon": -85.809
+                },
+                {
+                    "lat": 47.4654,
+                    "lon": -86.1345
+                }
+            ]
+        }
+    ]
+}
