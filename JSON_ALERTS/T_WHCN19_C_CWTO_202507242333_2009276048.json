@@ -1,0 +1,77 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2009276048.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-24T23:33:49-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0975523788.2025,2025-07-24T21:49:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1906823097.2025,2025-07-24T21:50:12-00:00",
+    "headline": "squall warning ended",
+    "event": "squall",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-24T23:33:49-00:00",
+    "expires": "2025-07-25T00:33:49-00:00",
+    "description": "\nSqualls have weakened or moved out of the area.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Lake Simcoe",
+            "polygon": [
+                {
+                    "lat": 44.2981,
+                    "lon": -79.1168
+                },
+                {
+                    "lat": 44.2745,
+                    "lon": -79.4177
+                },
+                {
+                    "lat": 44.1477,
+                    "lon": -79.48
+                },
+                {
+                    "lat": 44.2122,
+                    "lon": -79.5983
+                },
+                {
+                    "lat": 44.3261,
+                    "lon": -79.6004
+                },
+                {
+                    "lat": 44.3841,
+                    "lon": -79.7573
+                },
+                {
+                    "lat": 44.4572,
+                    "lon": -79.5961
+                },
+                {
+                    "lat": 44.5367,
+                    "lon": -79.4671
+                },
+                {
+                    "lat": 44.7602,
+                    "lon": -79.3962
+                },
+                {
+                    "lat": 44.8032,
+                    "lon": -79.3167
+                },
+                {
+                    "lat": 44.6334,
+                    "lon": -79.3102
+                },
+                {
+                    "lat": 44.5711,
+                    "lon": -79.1254
+                },
+                {
+                    "lat": 44.2981,
+                    "lon": -79.1168
+                }
+            ]
+        }
+    ]
+}
