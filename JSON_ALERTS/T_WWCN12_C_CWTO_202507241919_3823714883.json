@@ -1,0 +1,69 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3823714883.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-24T19:19:56-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2901969915.2025,2025-07-24T14:39:22-00:00",
+    "headline": "severe thunderstorm watch ended",
+    "event": "thunderstorm",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-24T19:19:56-00:00",
+    "expires": "2025-07-24T20:19:56-00:00",
+    "description": "\nConditions are no longer favourable for the development of severe thunderstorms.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Blind River - Thessalon",
+            "polygon": [
+                {
+                    "lat": 46.1752,
+                    "lon": -83.5976
+                },
+                {
+                    "lat": 46.1874,
+                    "lon": -83.7076
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.82
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.0965,
+                    "lon": -82.0476
+                },
+                {
+                    "lat": 45.9754,
+                    "lon": -82.0969
+                },
+                {
+                    "lat": 45.9443,
+                    "lon": -82.178
+                },
+                {
+                    "lat": 46.0103,
+                    "lon": -82.3291
+                },
+                {
+                    "lat": 46.0319,
+                    "lon": -83.3864
+                },
+                {
+                    "lat": 46.1752,
+                    "lon": -83.5976
+                }
+            ]
+        }
+    ]
+}
