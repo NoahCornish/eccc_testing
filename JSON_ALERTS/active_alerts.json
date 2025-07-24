@@ -60,6 +60,63 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1575075272.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-07-24T04:25:55-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3088164344.2025,2025-07-23T12:23:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0646280688.2025,2025-07-23T12:25:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0351670414.2025,2025-07-23T14:58:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1185346722.2025,2025-07-23T14:59:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3635924837.2025,2025-07-23T15:30:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0819681939.2025,2025-07-23T15:31:11-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4266206970.2025,2025-07-23T16:21:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2859678462.2025,2025-07-23T16:22:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2242457164.2025,2025-07-23T17:30:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2854091148.2025,2025-07-23T17:32:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1447929437.2025,2025-07-23T19:08:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2444704668.2025,2025-07-23T19:13:21-00:00",
+            "headline": "fog advisory in effect",
+            "event": "fog",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-07-24T04:25:55-00:00",
+            "expires": "2025-07-24T15:30:55-00:00",
+            "description": "\nNear zero visibility in fog is expected or occurring over some areas.\n\nAreas of dense fog are expected to remain through tonight before lifting in the morning.\n\n###\n\nVisibility may be significantly and suddenly reduced to near zero. Travel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nIf travelling, be prepared for areas of near-zero visibility.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Marathon - Schreiber",
+                    "polygon": [
+                        {
+                            "lat": 48.4447,
+                            "lon": -87.4467
+                        },
+                        {
+                            "lat": 49.1383,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 48.8844,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 48.7455,
+                            "lon": -86.0931
+                        },
+                        {
+                            "lat": 48.5796,
+                            "lon": -86.2679
+                        },
+                        {
+                            "lat": 48.5745,
+                            "lon": -86.2839
+                        },
+                        {
+                            "lat": 48.2984,
+                            "lon": -86.5309
+                        },
+                        {
+                            "lat": 48.4447,
+                            "lon": -87.4467
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
