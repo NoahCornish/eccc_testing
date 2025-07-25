@@ -1,0 +1,109 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3113024087.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-25T03:07:25-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2115615777.2025,2025-07-24T20:31:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3914237676.2025,2025-07-24T20:47:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1021427196.2025,2025-07-24T23:48:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4011943979.2025,2025-07-25T00:09:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3788014487.2025,2025-07-25T00:27:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2372396161.2025,2025-07-25T01:24:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1207150946.2025,2025-07-25T02:31:48-00:00",
+    "headline": "squall watch ended",
+    "event": "squall",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-25T03:07:25-00:00",
+    "expires": "2025-07-25T04:07:25-00:00",
+    "description": "\nSqualls are no longer expected over the area.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Eastern Lake Ontario",
+            "polygon": [
+                {
+                    "lat": 44.0963,
+                    "lon": -76.5159
+                },
+                {
+                    "lat": 44.0862,
+                    "lon": -76.4895
+                },
+                {
+                    "lat": 44.0731,
+                    "lon": -76.455
+                },
+                {
+                    "lat": 43.6311,
+                    "lon": -76.7966
+                },
+                {
+                    "lat": 43.6361,
+                    "lon": -77.8418
+                },
+                {
+                    "lat": 43.6548,
+                    "lon": -77.8417
+                },
+                {
+                    "lat": 43.9912,
+                    "lon": -77.8409
+                },
+                {
+                    "lat": 44.0509,
+                    "lon": -77.8441
+                },
+                {
+                    "lat": 44.0845,
+                    "lon": -77.729
+                },
+                {
+                    "lat": 44.0745,
+                    "lon": -77.6392
+                },
+                {
+                    "lat": 44.1434,
+                    "lon": -77.6138
+                },
+                {
+                    "lat": 44.2078,
+                    "lon": -77.4108
+                },
+                {
+                    "lat": 44.2296,
+                    "lon": -77.0582
+                },
+                {
+                    "lat": 44.2175,
+                    "lon": -76.8926
+                },
+                {
+                    "lat": 44.1537,
+                    "lon": -76.8717
+                },
+                {
+                    "lat": 44.243,
+                    "lon": -76.7176
+                },
+                {
+                    "lat": 44.2558,
+                    "lon": -76.5919
+                },
+                {
+                    "lat": 44.2131,
+                    "lon": -76.6037
+                },
+                {
+                    "lat": 44.1816,
+                    "lon": -76.5882
+                },
+                {
+                    "lat": 44.162,
+                    "lon": -76.5796
+                },
+                {
+                    "lat": 44.0963,
+                    "lon": -76.5159
+                }
+            ]
+        }
+    ]
+}
