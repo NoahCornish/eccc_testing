@@ -1,0 +1,134 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4106499416.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-25T19:54:54-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2713543240.2025,2025-07-25T13:37:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3594533345.2025,2025-07-25T13:41:14-00:00",
+    "headline": "air quality warning in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-07-25T19:54:54-00:00",
+    "expires": "2025-07-26T11:54:54-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nFor further information visit the website https://www.airqualityontario.com/ or contact the Ontario Ministry of the Environment, Conservation and Parks at 416-314-6666.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Webequie",
+            "polygon": [
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.7599,
+                    "lon": -88.0338
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 54.1733,
+                    "lon": -87.5227
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                }
+            ]
+        },
+        {
+            "area_description": "Fort Hope - Lansdowne House - Ogoki",
+            "polygon": [
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                },
+                {
+                    "lat": 51.0571,
+                    "lon": -84.4653
+                },
+                {
+                    "lat": 51.0622,
+                    "lon": -84.57
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8342
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.4893,
+                    "lon": -83.2673
+                },
+                {
+                    "lat": 51.2539,
+                    "lon": -83.9119
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                }
+            ]
+        }
+    ]
+}
