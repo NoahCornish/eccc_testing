@@ -1,0 +1,302 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4238473639.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-26T09:22:54-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2557350572.2025,2025-07-25T13:37:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1100037062.2025,2025-07-25T13:40:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2764537544.2025,2025-07-25T19:24:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1059047002.2025,2025-07-25T19:28:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1961762594.2025,2025-07-25T22:01:11-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0855095071.2025,2025-07-25T22:02:55-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3781801860.2025,2025-07-26T02:24:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4065760662.2025,2025-07-26T02:25:06-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1357133714.2025,2025-07-26T09:21:18-00:00",
+    "headline": "air quality warning in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Severe",
+    "certainty": "Possible",
+    "effective": "2025-07-26T09:21:18-00:00",
+    "expires": "2025-07-27T01:21:18-00:00",
+    "description": "\nAir quality has improved for some locations. However, dense smoke is expected to return today and may persist through the weekend. \n\nAir quality and visibility due to wildfire smoke can fluctuate over short distances and can vary considerably from hour to hour.  \n\nPeople more likely to be impacted by wildfire smoke, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should avoid strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nFor further information visit the website https://www.airqualityontario.com/ or contact the Ontario Ministry of the Environment, Conservation and Parks at 416-314-6666.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Sachigo Lake - Bearskin Lake",
+            "polygon": [
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 53.7297,
+                    "lon": -92.0252
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 54.5171,
+                    "lon": -92.6285
+                },
+                {
+                    "lat": 55.1549,
+                    "lon": -91.653
+                },
+                {
+                    "lat": 55.5552,
+                    "lon": -91.0742
+                },
+                {
+                    "lat": 55.9307,
+                    "lon": -90.4723
+                },
+                {
+                    "lat": 55.7283,
+                    "lon": -89.6616
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 54.5866,
+                    "lon": -89.6215
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                }
+            ]
+        },
+        {
+            "area_description": "Big Trout Lake - Kasabonika",
+            "polygon": [
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 53.3863,
+                    "lon": -89.3769
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 54.5994,
+                    "lon": -89.6775
+                },
+                {
+                    "lat": 55.4984,
+                    "lon": -88.8527
+                },
+                {
+                    "lat": 55.2628,
+                    "lon": -87.921
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 54.1558,
+                    "lon": -87.4504
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                }
+            ]
+        },
+        {
+            "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
+            "polygon": [
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.6707,
+                    "lon": -95.1632
+                },
+                {
+                    "lat": 52.8415,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.8419,
+                    "lon": -95.153
+                },
+                {
+                    "lat": 53.2523,
+                    "lon": -94.5197
+                },
+                {
+                    "lat": 53.5766,
+                    "lon": -93.9327
+                },
+                {
+                    "lat": 53.7427,
+                    "lon": -93.68
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 53.7604,
+                    "lon": -92.0407
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 52.9541,
+                    "lon": -90.9516
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.3546,
+                    "lon": -93.4886
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Pikangikum - Poplar Hill - MacDowell",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.0344,
+                    "lon": -95.169
+                },
+                {
+                    "lat": 52.4201,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4148,
+                    "lon": -93.4852
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.4154,
+                    "lon": -93.733
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.5309,
+                    "lon": -94.5283
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Summer Beaver - Wunnummin Lake - Kingfisher Lake",
+            "polygon": [
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 52.7534,
+                    "lon": -87.9569
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.237,
+                    "lon": -89.76
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.9445,
+                    "lon": -91.0141
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 53.4188,
+                    "lon": -89.3718
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                }
+            ]
+        },
+        {
+            "area_description": "Pickle Lake - Cat Lake",
+            "polygon": [
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.2797,
+                    "lon": -89.8479
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                }
+            ]
+        }
+    ]
+}
