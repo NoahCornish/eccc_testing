@@ -1,0 +1,229 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2515282090.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-26T07:05:06-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4225202761.2025,2025-07-24T19:39:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3270595325.2025,2025-07-24T19:42:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1965484345.2025,2025-07-24T22:00:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3512706800.2025,2025-07-24T22:04:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4292637892.2025,2025-07-25T02:44:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2107432546.2025,2025-07-25T02:45:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1554432433.2025,2025-07-25T09:45:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0375895862.2025,2025-07-25T09:48:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2810586955.2025,2025-07-25T14:03:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3603396539.2025,2025-07-25T14:04:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3082716854.2025,2025-07-25T21:54:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3951484125.2025,2025-07-25T21:54:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1468234922.2025,2025-07-26T02:26:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2882568135.2025,2025-07-26T02:27:47-00:00",
+    "headline": "special air quality statement ended",
+    "event": "air quality",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-26T07:05:06-00:00",
+    "expires": "2025-07-26T08:05:06-00:00",
+    "description": "\nSmoke is no longer expected or has moved out of the area.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Nakina - Aroland - Pagwa",
+            "polygon": [
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.2465,
+                    "lon": -84.7492
+                },
+                {
+                    "lat": 51.1721,
+                    "lon": -84.5361
+                },
+                {
+                    "lat": 51.2908,
+                    "lon": -84.362
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                }
+            ]
+        },
+        {
+            "area_description": "Geraldton - Longlac - Caramat",
+            "polygon": [
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                }
+            ]
+        },
+        {
+            "area_description": "Manitouwadge - Hornepayne",
+            "polygon": [
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                }
+            ]
+        },
+        {
+            "area_description": "White River - Dubreuilville",
+            "polygon": [
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.2896,
+                    "lon": -85.2219
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 48.1106,
+                    "lon": -83.996
+                },
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                }
+            ]
+        },
+        {
+            "area_description": "Chapleau - Missinaibi Lake",
+            "polygon": [
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                }
+            ]
+        }
+    ]
+}
