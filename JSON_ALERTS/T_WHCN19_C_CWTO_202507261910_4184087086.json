@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4184087086.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-26T19:12:09-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0858727014.2025,2025-07-26T15:40:17-00:00",
+    "headline": "squall watch changed",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Minor",
+    "certainty": "Unknown",
+    "effective": "2025-07-26T19:12:09-00:00",
+    "expires": "2025-07-26T19:12:09-00:00",
+    "description": "\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Lake Nipigon",
+            "polygon": [
+                {
+                    "lat": 49.9835,
+                    "lon": -87.8416
+                },
+                {
+                    "lat": 49.2307,
+                    "lon": -88.0709
+                },
+                {
+                    "lat": 49.4676,
+                    "lon": -89.1369
+                },
+                {
+                    "lat": 49.8803,
+                    "lon": -89.1904
+                },
+                {
+                    "lat": 50.2395,
+                    "lon": -89.03
+                },
+                {
+                    "lat": 50.4305,
+                    "lon": -88.4301
+                },
+                {
+                    "lat": 49.9835,
+                    "lon": -87.8416
+                }
+            ]
+        }
+    ]
+}
