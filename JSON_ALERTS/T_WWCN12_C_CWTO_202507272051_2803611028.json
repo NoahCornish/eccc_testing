@@ -1,0 +1,122 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2803611028.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-27T20:51:59-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-27T20:51:59-00:00",
+    "expires": "2025-07-28T03:59:59-00:00",
+    "description": "\nRain, at times heavy, continues.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+    "affected_areas": [
+        {
+            "area_description": "Red Lake - Woodland Caribou Park",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.5513,
+                    "lon": -94.5036
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.4257,
+                    "lon": -93.6935
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 50.8325,
+                    "lon": -93.4705
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2863,
+                    "lon": -93.8911
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.3413,
+                    "lon": -94.7122
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.3682,
+                    "lon": -95.1601
+                },
+                {
+                    "lat": 50.3956,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.6658,
+                    "lon": -95.1655
+                },
+                {
+                    "lat": 50.8931,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.2501,
+                    "lon": -95.1961
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        }
+    ]
+}
