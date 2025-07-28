@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3498538058.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-28T04:39:11-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1960244886.2025,2025-07-27T12:15:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1681555280.2025,2025-07-27T13:05:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3634285905.2025,2025-07-27T14:12:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1455110220.2025,2025-07-27T14:20:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3188747881.2025,2025-07-27T14:39:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1758410855.2025,2025-07-27T14:44:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3480267373.2025,2025-07-27T15:50:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2949666273.2025,2025-07-27T16:20:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1749011387.2025,2025-07-27T17:04:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2063371824.2025,2025-07-27T21:11:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0593802585.2025,2025-07-27T21:13:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3455742881.2025,2025-07-27T21:59:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2604451159.2025,2025-07-28T00:48:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2243315128.2025,2025-07-28T00:50:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1462614141.2025,2025-07-28T01:22:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3279615763.2025,2025-07-28T01:23:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3341177231.2025,2025-07-28T02:23:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1536267234.2025,2025-07-28T02:24:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0757978467.2025,2025-07-28T03:49:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1071674385.2025,2025-07-28T04:36:52-00:00",
+    "headline": "severe thunderstorm watch ended",
+    "event": "thunderstorm",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-07-28T04:39:11-00:00",
+    "expires": "2025-07-28T05:39:11-00:00",
+    "description": "\nConditions are no longer favourable for the development of severe thunderstorms.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Nipigon - Rossport",
+            "polygon": [
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                },
+                {
+                    "lat": 49.1129,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 48.475,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 48.6611,
+                    "lon": -88.1405
+                },
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                }
+            ]
+        }
+    ]
+}

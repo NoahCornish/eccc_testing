@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1071674385.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-28T04:36:52-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1960244886.2025,2025-07-27T12:15:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1681555280.2025,2025-07-27T13:05:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3634285905.2025,2025-07-27T14:12:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1455110220.2025,2025-07-27T14:20:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3188747881.2025,2025-07-27T14:39:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1758410855.2025,2025-07-27T14:44:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3480267373.2025,2025-07-27T15:50:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2949666273.2025,2025-07-27T16:20:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1749011387.2025,2025-07-27T17:04:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2063371824.2025,2025-07-27T21:11:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0593802585.2025,2025-07-27T21:13:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3455742881.2025,2025-07-27T21:59:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2604451159.2025,2025-07-28T00:48:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2243315128.2025,2025-07-28T00:50:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1462614141.2025,2025-07-28T01:22:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3279615763.2025,2025-07-28T01:23:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3341177231.2025,2025-07-28T02:23:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1536267234.2025,2025-07-28T02:24:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0757978467.2025,2025-07-28T03:49:45-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-28T03:49:45-00:00",
+    "expires": "2025-07-28T07:00:45-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.\n\nHazards:\nWind gusts up to 110 km/h\nHail 2 to 3 cm in diameter\nLocally heavy rainfall\n\nTiming:\nContinuing after midnight. \n\nDiscussion:\nStrong thunderstorms are tracking east across northwestern Ontario tonight.\n\n###\n\nLocal utility outages are possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Nipigon - Rossport",
+            "polygon": [
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                },
+                {
+                    "lat": 49.1129,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 48.475,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 48.6611,
+                    "lon": -88.1405
+                },
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                }
+            ]
+        }
+    ]
+}
