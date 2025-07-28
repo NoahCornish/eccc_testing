@@ -1,0 +1,49 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1903255958.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-28T00:18:14-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2803611028.2025,2025-07-27T20:51:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3651373537.2025,2025-07-27T20:54:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1774256042.2025,2025-07-28T00:16:45-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-28T00:16:45-00:00",
+    "expires": "2025-07-28T03:59:45-00:00",
+    "description": "\nRain, at times heavy, continues.\n\nWhat:\nLocal rainfall amounts up to 70 mm\n\nWhen:\nEnding this evening.\n\nAdditional information:\nHeavy rain with embedded thunderstorms will continue into this evening.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+    "affected_areas": [
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        }
+    ]
+}
