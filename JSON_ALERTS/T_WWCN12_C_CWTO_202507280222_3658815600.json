@@ -1,0 +1,57 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3658815600.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-28T02:22:05-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1061819703.2025,2025-07-27T17:18:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0457079507.2025,2025-07-27T21:52:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0999634582.2025,2025-07-27T21:59:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2595825423.2025,2025-07-28T00:25:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2755096772.2025,2025-07-28T00:25:55-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-07-28T02:22:05-00:00",
+    "expires": "2025-07-28T05:59:05-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain.\n\n###\n\nFast-moving and rapidly rising water can sweep vehicles away and damage infrastructure.\n\nHeavy rain can cause flash flooding and significant reductions to visibility.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nDon't drive through flooded roadways.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Savant Lake - Sturgeon Lake",
+            "polygon": [
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 49.5235,
+                    "lon": -90.0178
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                }
+            ]
+        }
+    ]
+}
