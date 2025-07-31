@@ -1,0 +1,216 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1531344194.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-07-31T03:17:13-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1540217268.2025,2025-07-25T21:58:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3186204764.2025,2025-07-25T22:00:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3041280500.2025,2025-07-26T02:25:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3800775014.2025,2025-07-26T02:26:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0495419111.2025,2025-07-26T09:20:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3962512775.2025,2025-07-26T09:21:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1722529659.2025,2025-07-26T14:14:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0948021390.2025,2025-07-26T14:17:14-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3518027844.2025,2025-07-26T19:59:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4083046933.2025,2025-07-27T01:10:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2263796050.2025,2025-07-27T01:11:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3214954895.2025,2025-07-27T08:53:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0483093294.2025,2025-07-27T08:56:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2261850436.2025,2025-07-27T17:23:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2075929891.2025,2025-07-27T17:38:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0687272531.2025,2025-07-28T02:27:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0844164961.2025,2025-07-28T02:34:11-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1199288984.2025,2025-07-28T09:41:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1934377750.2025,2025-07-28T09:44:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0737189473.2025,2025-07-28T14:01:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2696531220.2025,2025-07-28T14:05:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2861676938.2025,2025-07-28T22:52:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0568139680.2025,2025-07-28T22:55:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3307109596.2025,2025-07-29T09:41:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1831488475.2025,2025-07-29T13:00:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2544366846.2025,2025-07-29T13:03:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0624935880.2025,2025-07-29T17:46:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3019874734.2025,2025-07-29T17:47:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2190224196.2025,2025-07-30T00:19:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3088927132.2025,2025-07-30T00:20:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3933840477.2025,2025-07-30T09:48:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1295966376.2025,2025-07-30T09:51:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2562381969.2025,2025-07-30T09:49:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1623503125.2025,2025-07-30T09:53:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1559307327.2025,2025-07-30T18:48:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3341885062.2025,2025-07-30T18:49:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2024575251.2025,2025-07-30T20:56:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2406297158.2025,2025-07-30T20:57:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3425425978.2025,2025-07-31T03:07:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4159090341.2025,2025-07-31T03:08:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0779413879.2025,2025-07-31T03:16:17-00:00",
+    "headline": "special air quality statement in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-07-31T03:16:17-00:00",
+    "expires": "2025-07-31T19:16:17-00:00",
+    "description": "\nSmoke from forest fires over the Prairies has moved over the area causing poor air quality. \n\nAir quality is expected to improve from north to south tonight. However poor air quality may return on Thursday night or Friday for some areas.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Manitouwadge - Hornepayne",
+            "polygon": [
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                }
+            ]
+        },
+        {
+            "area_description": "White River - Dubreuilville",
+            "polygon": [
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.2896,
+                    "lon": -85.2219
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.5511,
+                    "lon": -84.0089
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 48.1106,
+                    "lon": -83.996
+                },
+                {
+                    "lat": 48.0981,
+                    "lon": -84.2352
+                }
+            ]
+        },
+        {
+            "area_description": "Wawa - Pukaskwa Park",
+            "polygon": [
+                {
+                    "lat": 47.4654,
+                    "lon": -86.1345
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.2896,
+                    "lon": -85.2219
+                },
+                {
+                    "lat": 48.0978,
+                    "lon": -84.2401
+                },
+                {
+                    "lat": 48.0973,
+                    "lon": -84.2418
+                },
+                {
+                    "lat": 47.963,
+                    "lon": -84.6559
+                },
+                {
+                    "lat": 47.8957,
+                    "lon": -84.8608
+                },
+                {
+                    "lat": 47.824,
+                    "lon": -85.1481
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.3094,
+                    "lon": -85.809
+                },
+                {
+                    "lat": 47.4654,
+                    "lon": -86.1345
+                }
+            ]
+        },
+        {
+            "area_description": "Chapleau - Missinaibi Lake",
+            "polygon": [
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 48.1107,
+                    "lon": -83.9939
+                },
+                {
+                    "lat": 48.5499,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5501,
+                    "lon": -84.002
+                },
+                {
+                    "lat": 48.5526,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1609,
+                    "lon": -84.0021
+                },
+                {
+                    "lat": 49.1616,
+                    "lon": -82.6268
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                }
+            ]
+        }
+    ]
+}
