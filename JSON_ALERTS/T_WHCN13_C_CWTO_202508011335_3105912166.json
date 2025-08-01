@@ -1,0 +1,142 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3105912166.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-01T13:35:09-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "waterspout watch in effect",
+    "event": "waterspout",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-08-01T13:35:09-00:00",
+    "expires": "2025-08-01T22:59:09-00:00",
+    "description": "\nWeather radar indicates that potential waterspout activity may be occurring in the area. Conditions are favourable for waterspout activity to continue.\n\n###\n\nWind speeds inside the spray ring of a waterspout are 45 knots or higher. Vulnerable vessels are at risk of damage or capsizing.\n\nWaterspouts are generally isolated in nature although they can also occur in families of two or more. Waterspouts are generally short-lived in nature, typically lasting 20 minutes or less. Spray rings associated with waterspouts can measure in the tens of metres.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Eastern Lake Erie",
+            "polygon": [
+                {
+                    "lat": 42.3935,
+                    "lon": -80.0799
+                },
+                {
+                    "lat": 42.2591,
+                    "lon": -80.9327
+                },
+                {
+                    "lat": 42.66,
+                    "lon": -81.1553
+                },
+                {
+                    "lat": 42.784,
+                    "lon": -81.2109
+                },
+                {
+                    "lat": 42.7293,
+                    "lon": -80.5966
+                },
+                {
+                    "lat": 42.9012,
+                    "lon": -80.3291
+                },
+                {
+                    "lat": 42.9814,
+                    "lon": -79.6261
+                },
+                {
+                    "lat": 42.9623,
+                    "lon": -79.0529
+                },
+                {
+                    "lat": 42.9389,
+                    "lon": -78.8933
+                },
+                {
+                    "lat": 42.9052,
+                    "lon": -78.9059
+                },
+                {
+                    "lat": 42.8283,
+                    "lon": -78.9353
+                },
+                {
+                    "lat": 42.3935,
+                    "lon": -80.0799
+                }
+            ]
+        },
+        {
+            "area_description": "Western Lake Erie",
+            "polygon": [
+                {
+                    "lat": 42.0512,
+                    "lon": -83.1462
+                },
+                {
+                    "lat": 42.0537,
+                    "lon": -83.1109
+                },
+                {
+                    "lat": 42.0629,
+                    "lon": -83.0565
+                },
+                {
+                    "lat": 42.0167,
+                    "lon": -82.9069
+                },
+                {
+                    "lat": 42.0946,
+                    "lon": -82.6165
+                },
+                {
+                    "lat": 42.2319,
+                    "lon": -82.3391
+                },
+                {
+                    "lat": 42.5988,
+                    "lon": -81.7125
+                },
+                {
+                    "lat": 42.784,
+                    "lon": -81.2109
+                },
+                {
+                    "lat": 42.66,
+                    "lon": -81.1553
+                },
+                {
+                    "lat": 42.2591,
+                    "lon": -80.9327
+                },
+                {
+                    "lat": 42.2075,
+                    "lon": -81.2457
+                },
+                {
+                    "lat": 41.6765,
+                    "lon": -82.3974
+                },
+                {
+                    "lat": 41.6765,
+                    "lon": -82.6797
+                },
+                {
+                    "lat": 41.8635,
+                    "lon": -83.0691
+                },
+                {
+                    "lat": 42.0409,
+                    "lon": -83.1496
+                },
+                {
+                    "lat": 42.0512,
+                    "lon": -83.1462
+                }
+            ]
+        }
+    ]
+}
