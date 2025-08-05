@@ -1,0 +1,182 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3303616314.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-05T08:42:29-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3410520754.2025,2025-08-01T08:41:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2641792191.2025,2025-08-01T08:43:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1718434042.2025,2025-08-01T13:57:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1749117933.2025,2025-08-01T19:29:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0305235688.2025,2025-08-01T19:31:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1202402337.2025,2025-08-02T03:20:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0953168700.2025,2025-08-02T03:21:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3669122230.2025,2025-08-02T07:52:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1356446312.2025,2025-08-02T07:54:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0475149228.2025,2025-08-02T11:59:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0429872623.2025,2025-08-02T12:00:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0355285565.2025,2025-08-02T14:13:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1995230436.2025,2025-08-02T14:16:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3760759964.2025,2025-08-02T19:42:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0674505771.2025,2025-08-02T19:44:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2075140929.2025,2025-08-03T02:35:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3097021601.2025,2025-08-03T02:37:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1064959728.2025,2025-08-03T09:12:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2793560781.2025,2025-08-03T09:13:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2727409175.2025,2025-08-03T16:36:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0383466702.2025,2025-08-03T16:38:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2926297266.2025,2025-08-03T21:02:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2016294026.2025,2025-08-03T21:02:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2313520783.2025,2025-08-04T00:58:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3041485966.2025,2025-08-04T00:59:20-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0597638988.2025,2025-08-04T09:29:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3384050994.2025,2025-08-04T09:33:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3588152779.2025,2025-08-04T10:19:18-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4279514521.2025,2025-08-04T10:21:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4291221391.2025,2025-08-04T14:42:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1723856886.2025,2025-08-04T14:43:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1431882173.2025,2025-08-04T19:21:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0665928831.2025,2025-08-04T19:23:37-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0663511434.2025,2025-08-04T19:25:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2002870777.2025,2025-08-05T02:40:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2722158697.2025,2025-08-05T02:41:54-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0384185998.2025,2025-08-05T06:36:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2093445726.2025,2025-08-05T06:40:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3871376683.2025,2025-08-05T08:41:35-00:00",
+    "headline": "special air quality statement in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-08-05T08:41:35-00:00",
+    "expires": "2025-08-06T00:41:35-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\nSmoke from forest fires will continue to affect portions of northern Ontario this morning and possibly persist through the day.  \n\nAir quality and visibility due to wildfire smoke can fluctuate over short distances and can vary considerably from hour to hour.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Searchmont - Montreal River Harbour - Batchawana Bay",
+            "polygon": [
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                },
+                {
+                    "lat": 47.2522,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 47.2516,
+                    "lon": -83.9912
+                },
+                {
+                    "lat": 47.2211,
+                    "lon": -83.9911
+                },
+                {
+                    "lat": 46.781,
+                    "lon": -83.9907
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6321,
+                    "lon": -84.7351
+                },
+                {
+                    "lat": 47.2346,
+                    "lon": -84.9134
+                }
+            ]
+        },
+        {
+            "area_description": "Sault Ste. Marie - St. Joseph Island",
+            "polygon": [
+                {
+                    "lat": 46.1874,
+                    "lon": -83.7076
+                },
+                {
+                    "lat": 46.1199,
+                    "lon": -83.7566
+                },
+                {
+                    "lat": 46.1212,
+                    "lon": -83.822
+                },
+                {
+                    "lat": 46.0658,
+                    "lon": -83.905
+                },
+                {
+                    "lat": 46.0553,
+                    "lon": -83.9495
+                },
+                {
+                    "lat": 46.0963,
+                    "lon": -83.9746
+                },
+                {
+                    "lat": 46.1959,
+                    "lon": -84.0972
+                },
+                {
+                    "lat": 46.3104,
+                    "lon": -84.1263
+                },
+                {
+                    "lat": 46.3253,
+                    "lon": -84.1115
+                },
+                {
+                    "lat": 46.3787,
+                    "lon": -84.1426
+                },
+                {
+                    "lat": 46.4183,
+                    "lon": -84.1542
+                },
+                {
+                    "lat": 46.5045,
+                    "lon": -84.112
+                },
+                {
+                    "lat": 46.5297,
+                    "lon": -84.1317
+                },
+                {
+                    "lat": 46.5267,
+                    "lon": -84.1725
+                },
+                {
+                    "lat": 46.5343,
+                    "lon": -84.2218
+                },
+                {
+                    "lat": 46.4968,
+                    "lon": -84.2602
+                },
+                {
+                    "lat": 46.491,
+                    "lon": -84.2943
+                },
+                {
+                    "lat": 46.5045,
+                    "lon": -84.3384
+                },
+                {
+                    "lat": 46.5073,
+                    "lon": -84.3741
+                },
+                {
+                    "lat": 46.4904,
+                    "lon": -84.439
+                },
+                {
+                    "lat": 46.4577,
+                    "lon": -84.4681
+                },
+                {
+                    "lat": 46.4765,
+                    "lon": -84.5588
+                },
+                {
+                    "lat": 46.5491,
+                    "lon": -84.6283
+                },
+                {
+                    "lat": 46.6233,
+                    "lon": -84.6124
+                },
+                {
+                    "lat": 46.6539,
+                    "lon": -84.4985
+                },
+                {
+                    "lat": 46.6516,
+                    "lon": -84.4894
+                },
+                {
+                    "lat": 46.4826,
+                    "lon": -83.8414
+                },
+                {
+                    "lat": 46.1874,
+                    "lon": -83.7076
+                }
+            ]
+        }
+    ]
+}
