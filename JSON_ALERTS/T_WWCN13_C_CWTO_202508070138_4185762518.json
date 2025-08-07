@@ -1,0 +1,118 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.4185762518.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-07T01:40:38-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2749527938.2025,2025-08-06T23:49:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3103471965.2025,2025-08-06T23:51:38-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-08-07T01:40:38-00:00",
+    "expires": "2025-08-07T07:01:38-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.\n\nWhat:\nWind gusts near 90 km/h.\nUp to ping pong ball sized hail.\nHeavy rain leading to total rainfall amounts of up to 50 mm over a few locations.\nRisk of a tornado.\n\nWhen:\nThis evening.\n\nAdditional information:\nA trough of low pressure will lead to isolated to scattered thunderstorm development this evening. Some of these thunderstorms may reach severe thresholds.\n\n###\n\nLocal utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.\n\nHeavy rain can cause flash flooding and significant reductions to visibility.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nBe prepared for severe weather. If threatening weather approaches, take cover in a basement or interior room. If outside, protect yourself from flying debris and hail. When thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Sandy Lake - Weagamow Lake - Deer Lake",
+            "polygon": [
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.6707,
+                    "lon": -95.1632
+                },
+                {
+                    "lat": 52.8415,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.8419,
+                    "lon": -95.153
+                },
+                {
+                    "lat": 53.2523,
+                    "lon": -94.5197
+                },
+                {
+                    "lat": 53.5766,
+                    "lon": -93.9327
+                },
+                {
+                    "lat": 53.7427,
+                    "lon": -93.68
+                },
+                {
+                    "lat": 53.9089,
+                    "lon": -93.4241
+                },
+                {
+                    "lat": 53.7604,
+                    "lon": -92.0407
+                },
+                {
+                    "lat": 53.543,
+                    "lon": -90.5082
+                },
+                {
+                    "lat": 52.9541,
+                    "lon": -90.9516
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.3546,
+                    "lon": -93.4886
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Pickle Lake - Cat Lake",
+            "polygon": [
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.2797,
+                    "lon": -89.8479
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                }
+            ]
+        }
+    ]
+}
