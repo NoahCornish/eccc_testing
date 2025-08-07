@@ -1,0 +1,61 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3137301369.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-07T07:24:31-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2683576814.2025,2025-08-06T18:47:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0542261173.2025,2025-08-06T23:49:28-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1724883554.2025,2025-08-06T23:51:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0746344237.2025,2025-08-07T01:40:38-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2810732862.2025,2025-08-07T04:17:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1210943596.2025,2025-08-07T04:19:55-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3215615441.2025,2025-08-07T04:50:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0367500246.2025,2025-08-07T04:53:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2236138284.2025,2025-08-07T05:51:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1279054517.2025,2025-08-07T05:54:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3216444253.2025,2025-08-07T07:23:02-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-08-07T07:23:02-00:00",
+    "expires": "2025-08-07T10:29:02-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and heavy rain.\n\nWhat:\nWind gusts near 90 km/h.\nHeavy rain leading to total rainfall amounts of up to 50 mm over a few locations.\n\nWhen:\nContinuing tonight.\n\nAdditional information:\nA trough of low pressure will continue to generate scattered thunderstorms tonight. Some of these thunderstorms may reach severe thresholds.\n\n###\n\nLocal utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.\n\nHeavy rain can cause flash flooding and significant reductions to visibility.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year. Don't drive through flooded roadways.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Dryden - Vermilion Bay",
+            "polygon": [
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 49.0996,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                }
+            ]
+        }
+    ]
+}
