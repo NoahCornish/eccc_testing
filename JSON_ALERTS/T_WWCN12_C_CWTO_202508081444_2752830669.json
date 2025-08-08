@@ -1,0 +1,236 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2752830669.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-08T14:44:36-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4114517037.2025,2025-08-08T10:30:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1666747499.2025,2025-08-08T10:33:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0658785004.2025,2025-08-08T12:56:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4273344337.2025,2025-08-08T13:34:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1595330728.2025,2025-08-08T14:08:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0758238439.2025,2025-08-08T14:10:03-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-08-08T14:44:36-00:00",
+    "expires": "2025-08-08T18:59:36-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and heavy rain.\n\n###\n\nLocal utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.\n\nHeavy rain can cause flash flooding and significant reductions to visibility.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Sioux Lookout - Eastern Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Dryden - Vermilion Bay",
+            "polygon": [
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 49.0996,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                }
+            ]
+        },
+        {
+            "area_description": "Ignace - English River",
+            "polygon": [
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                },
+                {
+                    "lat": 48.9922,
+                    "lon": -91.2145
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                }
+            ]
+        },
+        {
+            "area_description": "Seine River Village - Mine Centre",
+            "polygon": [
+                {
+                    "lat": 48.6272,
+                    "lon": -93.3443
+                },
+                {
+                    "lat": 48.8278,
+                    "lon": -93.2232
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 48.9922,
+                    "lon": -91.2145
+                },
+                {
+                    "lat": 48.324,
+                    "lon": -92.4487
+                },
+                {
+                    "lat": 48.3464,
+                    "lon": -92.4697
+                },
+                {
+                    "lat": 48.3708,
+                    "lon": -92.48
+                },
+                {
+                    "lat": 48.4108,
+                    "lon": -92.4591
+                },
+                {
+                    "lat": 48.418,
+                    "lon": -92.4791
+                },
+                {
+                    "lat": 48.4472,
+                    "lon": -92.5116
+                },
+                {
+                    "lat": 48.4396,
+                    "lon": -92.5691
+                },
+                {
+                    "lat": 48.4352,
+                    "lon": -92.6564
+                },
+                {
+                    "lat": 48.4441,
+                    "lon": -92.6931
+                },
+                {
+                    "lat": 48.4616,
+                    "lon": -92.7143
+                },
+                {
+                    "lat": 48.4967,
+                    "lon": -92.6996
+                },
+                {
+                    "lat": 48.5042,
+                    "lon": -92.6322
+                },
+                {
+                    "lat": 48.5413,
+                    "lon": -92.6392
+                },
+                {
+                    "lat": 48.5427,
+                    "lon": -92.6538
+                },
+                {
+                    "lat": 48.5372,
+                    "lon": -92.729
+                },
+                {
+                    "lat": 48.6075,
+                    "lon": -92.9543
+                },
+                {
+                    "lat": 48.6262,
+                    "lon": -92.9539
+                },
+                {
+                    "lat": 48.6217,
+                    "lon": -92.9796
+                },
+                {
+                    "lat": 48.6211,
+                    "lon": -93.177
+                },
+                {
+                    "lat": 48.6402,
+                    "lon": -93.2107
+                },
+                {
+                    "lat": 48.6388,
+                    "lon": -93.255
+                },
+                {
+                    "lat": 48.6272,
+                    "lon": -93.3443
+                }
+            ]
+        }
+    ]
+}
