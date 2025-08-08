@@ -1,0 +1,93 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1674175824.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-08T15:25:57-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1002762197.2025,2025-08-08T15:22:37-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-08-08T15:22:37-00:00",
+    "expires": "2025-08-08T21:59:37-00:00",
+    "description": "\nHeavy rainfall in thunderstorms continues.\n\nWhat:\nHeavy rain with total rainfall amounts near 50 mm. Local amounts exceeding 50 mm is possible.\n\nWhen:\nContinuing into this afternoon.\n\nAdditional information:\nAn area of thunderstorms over Lake Huron will move inland this morning. Radar estimates indicate that some areas have already received 20 to 40 mm from the thunderstorms that moved through earlier this morning. An additional 20 to 40 mm is likely, with locally higher amounts possible.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible. Heavy rainfall in combination with other weather factors, such as hail, wind and lightning will make outdoor activities unsafe.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Bruce Peninsula - Sauble Beach - Tobermory",
+            "polygon": [
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                },
+                {
+                    "lat": 44.6414,
+                    "lon": -81.1122
+                },
+                {
+                    "lat": 44.6267,
+                    "lon": -81.1132
+                },
+                {
+                    "lat": 44.5511,
+                    "lon": -81.1203
+                },
+                {
+                    "lat": 44.5357,
+                    "lon": -81.1971
+                },
+                {
+                    "lat": 44.5229,
+                    "lon": -81.2724
+                },
+                {
+                    "lat": 44.5846,
+                    "lon": -81.2887
+                },
+                {
+                    "lat": 44.5944,
+                    "lon": -81.2913
+                },
+                {
+                    "lat": 44.5866,
+                    "lon": -81.4622
+                },
+                {
+                    "lat": 45.3535,
+                    "lon": -81.8404
+                },
+                {
+                    "lat": 45.3822,
+                    "lon": -81.4145
+                },
+                {
+                    "lat": 45.2717,
+                    "lon": -81.1853
+                },
+                {
+                    "lat": 45.0703,
+                    "lon": -81.0827
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.7311,
+                    "lon": -81.109
+                }
+            ]
+        }
+    ]
+}
