@@ -1,0 +1,254 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0299747234.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-08T09:51:51-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1612394133.2025,2025-08-06T22:29:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1595483166.2025,2025-08-06T22:31:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2204255538.2025,2025-08-07T09:15:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2166106504.2025,2025-08-07T09:17:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1259794248.2025,2025-08-07T18:35:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2037511739.2025,2025-08-07T18:39:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2433934564.2025,2025-08-08T02:00:22-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2490484682.2025,2025-08-08T02:01:36-00:00",
+    "headline": "special air quality statement in effect",
+    "event": "air quality",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Possible",
+    "effective": "2025-08-08T09:51:51-00:00",
+    "expires": "2025-08-09T01:51:51-00:00",
+    "description": "\nSmoke is causing or expected to cause poor air quality and reduced visibility.\n\n###\n\nAs smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.\n\nYou may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.\n\nPeople more likely to be impacted by outdoor air pollution, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.\n\nVisit http://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada.\n",
+    "instruction": "\nWhen indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality, prioritize keeping cool.\n\nProtect your indoor air from wildfire smoke. Actions can include using a clean, good quality air filter in your ventilation system and/or a certified portable air cleaner that can filter fine particles.\n\nIf you must spend time outdoors, a well-constructed, well-fitting and properly worn respirator type mask (such as a NIOSH-certified N95 or equivalent respirator) can reduce your exposure to the fine particles in the smoke. Even though exposure may be reduced, there can still be risks to health.\n\nCheck in on others who are in your care or live nearby who may be more likely to be impacted by outdoor air pollution.\n\nAlways follow guidance from local authorities.\n\nLearn more at https://www.canada.ca/wildfire-smoke.\n",
+    "affected_areas": [
+        {
+            "area_description": "Pickle Lake - Cat Lake",
+            "polygon": [
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 52.2797,
+                    "lon": -89.8479
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                }
+            ]
+        },
+        {
+            "area_description": "Red Lake - Woodland Caribou Park",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.5513,
+                    "lon": -94.5036
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.4257,
+                    "lon": -93.6935
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 50.8325,
+                    "lon": -93.4705
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2863,
+                    "lon": -93.8911
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.3413,
+                    "lon": -94.7122
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.3682,
+                    "lon": -95.1601
+                },
+                {
+                    "lat": 50.3956,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.6658,
+                    "lon": -95.1655
+                },
+                {
+                    "lat": 50.8931,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.2501,
+                    "lon": -95.1961
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Savant Lake - Sturgeon Lake",
+            "polygon": [
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 49.5235,
+                    "lon": -90.0178
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                }
+            ]
+        },
+        {
+            "area_description": "Sioux Lookout - Eastern Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Armstrong - Auden - Wabakimi Park",
+            "polygon": [
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                }
+            ]
+        }
+    ]
+}
