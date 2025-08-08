@@ -1,0 +1,174 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3076866718.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-08T21:21:38-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1503436194.2025,2025-08-08T17:47:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1182980979.2025,2025-08-08T18:04:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1050079546.2025,2025-08-08T19:51:24-00:00",
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-08-08T21:21:38-00:00",
+    "expires": "2025-08-09T02:01:38-00:00",
+    "description": "\nHeavy rainfall in thunderstorms possible today.\n\nWhat:\nLocally heavy rainfall with amounts near 50 mm.\n\nWhen:\nContinuing late this afternoon.\n\nAdditional information:\nSlow moving showers and thunderstorms will continue to move through the region, producing locally heavy rainfall amounts. Rainfall warnings may be issued.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\nHeavy downpours can cause flash floods and water pooling on roads.\n\nLocalized flooding in low-lying areas is possible.\n\nHeavy rainfall in combination with other weather factors, such as hail, wind and lightning will make outdoor activities unsafe.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Midland - Coldwater - Orr Lake",
+            "polygon": [
+                {
+                    "lat": 45.0191,
+                    "lon": -80.1856
+                },
+                {
+                    "lat": 44.933,
+                    "lon": -80.1213
+                },
+                {
+                    "lat": 44.862,
+                    "lon": -80.053
+                },
+                {
+                    "lat": 44.872,
+                    "lon": -79.9107
+                },
+                {
+                    "lat": 44.7847,
+                    "lon": -79.823
+                },
+                {
+                    "lat": 44.7864,
+                    "lon": -79.7087
+                },
+                {
+                    "lat": 44.7803,
+                    "lon": -79.5662
+                },
+                {
+                    "lat": 44.5519,
+                    "lon": -79.6293
+                },
+                {
+                    "lat": 44.6487,
+                    "lon": -79.9704
+                },
+                {
+                    "lat": 44.6517,
+                    "lon": -79.9812
+                },
+                {
+                    "lat": 44.6441,
+                    "lon": -80.2774
+                },
+                {
+                    "lat": 44.8567,
+                    "lon": -80.3295
+                },
+                {
+                    "lat": 45.0191,
+                    "lon": -80.1856
+                }
+            ]
+        },
+        {
+            "area_description": "Orillia - Lagoon City - Washago",
+            "polygon": [
+                {
+                    "lat": 44.4607,
+                    "lon": -79.2606
+                },
+                {
+                    "lat": 44.4157,
+                    "lon": -79.5001
+                },
+                {
+                    "lat": 44.3903,
+                    "lon": -79.6043
+                },
+                {
+                    "lat": 44.3869,
+                    "lon": -79.6284
+                },
+                {
+                    "lat": 44.3911,
+                    "lon": -79.6291
+                },
+                {
+                    "lat": 44.3954,
+                    "lon": -79.6299
+                },
+                {
+                    "lat": 44.5519,
+                    "lon": -79.6293
+                },
+                {
+                    "lat": 44.7803,
+                    "lon": -79.5662
+                },
+                {
+                    "lat": 44.784,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 44.7928,
+                    "lon": -79.3992
+                },
+                {
+                    "lat": 44.7904,
+                    "lon": -79.2988
+                },
+                {
+                    "lat": 44.7824,
+                    "lon": -79.2851
+                },
+                {
+                    "lat": 44.7938,
+                    "lon": -79.2358
+                },
+                {
+                    "lat": 44.8001,
+                    "lon": -79.2089
+                },
+                {
+                    "lat": 44.5413,
+                    "lon": -79.0933
+                },
+                {
+                    "lat": 44.5,
+                    "lon": -79.0746
+                },
+                {
+                    "lat": 44.4862,
+                    "lon": -79.1085
+                },
+                {
+                    "lat": 44.4911,
+                    "lon": -79.1329
+                },
+                {
+                    "lat": 44.4596,
+                    "lon": -79.1418
+                },
+                {
+                    "lat": 44.4551,
+                    "lon": -79.1665
+                },
+                {
+                    "lat": 44.469,
+                    "lon": -79.1724
+                },
+                {
+                    "lat": 44.4675,
+                    "lon": -79.1889
+                },
+                {
+                    "lat": 44.4607,
+                    "lon": -79.2606
+                }
+            ]
+        }
+    ]
+}
