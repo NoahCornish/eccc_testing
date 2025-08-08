@@ -1,0 +1,328 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0758238439.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-08T14:10:03-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4114517037.2025,2025-08-08T10:30:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1666747499.2025,2025-08-08T10:33:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0658785004.2025,2025-08-08T12:56:12-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4273344337.2025,2025-08-08T13:34:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1595330728.2025,2025-08-08T14:08:24-00:00",
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-08-08T14:08:24-00:00",
+    "expires": "2025-08-08T18:59:24-00:00",
+    "description": "\nConditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and heavy rain.\n\nWhat:\nWind gusts up to 90 km/h.\nHeavy rain leading to total rainfall amounts of up to 50 mm over a few locations.\nRisk of tornadoes. \n\nWhen:\nThis morning.\n\nAdditional information:\nA line of thunderstorms is currently tracking northeastward through the region and may produce strong wind gusts and locally heavy rainfall. A tornado is also possible.\n\n###\n\nLocal utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.\n\nHeavy rain can cause flash flooding and significant reductions to visibility.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Kenora - Grassy Narrows - Whitedog",
+            "polygon": [
+                {
+                    "lat": 49.6236,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 49.6482,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.6651,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.8299,
+                    "lon": -95.1694
+                },
+                {
+                    "lat": 49.9987,
+                    "lon": -95.1535
+                },
+                {
+                    "lat": 50.1839,
+                    "lon": -95.1657
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.352,
+                    "lon": -94.7141
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.2983,
+                    "lon": -93.867
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6208,
+                    "lon": -94.3392
+                },
+                {
+                    "lat": 49.609,
+                    "lon": -94.3651
+                },
+                {
+                    "lat": 49.6182,
+                    "lon": -94.4516
+                },
+                {
+                    "lat": 49.633,
+                    "lon": -94.5058
+                },
+                {
+                    "lat": 49.6509,
+                    "lon": -94.5883
+                },
+                {
+                    "lat": 49.6455,
+                    "lon": -94.7554
+                },
+                {
+                    "lat": 49.6174,
+                    "lon": -94.7798
+                },
+                {
+                    "lat": 49.6147,
+                    "lon": -94.814
+                },
+                {
+                    "lat": 49.5853,
+                    "lon": -94.8395
+                },
+                {
+                    "lat": 49.5398,
+                    "lon": -94.9353
+                },
+                {
+                    "lat": 49.539,
+                    "lon": -95.0598
+                },
+                {
+                    "lat": 49.5976,
+                    "lon": -95.1212
+                },
+                {
+                    "lat": 49.5976,
+                    "lon": -95.1533
+                },
+                {
+                    "lat": 49.6032,
+                    "lon": -95.1533
+                },
+                {
+                    "lat": 49.6169,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.6236,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Dryden - Vermilion Bay",
+            "polygon": [
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 49.0996,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                }
+            ]
+        },
+        {
+            "area_description": "Ignace - English River",
+            "polygon": [
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                },
+                {
+                    "lat": 48.9922,
+                    "lon": -91.2145
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 48.9924,
+                    "lon": -91.2142
+                }
+            ]
+        },
+        {
+            "area_description": "Seine River Village - Mine Centre",
+            "polygon": [
+                {
+                    "lat": 48.6272,
+                    "lon": -93.3443
+                },
+                {
+                    "lat": 48.8278,
+                    "lon": -93.2232
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 48.9922,
+                    "lon": -91.2145
+                },
+                {
+                    "lat": 48.324,
+                    "lon": -92.4487
+                },
+                {
+                    "lat": 48.3464,
+                    "lon": -92.4697
+                },
+                {
+                    "lat": 48.3708,
+                    "lon": -92.48
+                },
+                {
+                    "lat": 48.4108,
+                    "lon": -92.4591
+                },
+                {
+                    "lat": 48.418,
+                    "lon": -92.4791
+                },
+                {
+                    "lat": 48.4472,
+                    "lon": -92.5116
+                },
+                {
+                    "lat": 48.4396,
+                    "lon": -92.5691
+                },
+                {
+                    "lat": 48.4352,
+                    "lon": -92.6564
+                },
+                {
+                    "lat": 48.4441,
+                    "lon": -92.6931
+                },
+                {
+                    "lat": 48.4616,
+                    "lon": -92.7143
+                },
+                {
+                    "lat": 48.4967,
+                    "lon": -92.6996
+                },
+                {
+                    "lat": 48.5042,
+                    "lon": -92.6322
+                },
+                {
+                    "lat": 48.5413,
+                    "lon": -92.6392
+                },
+                {
+                    "lat": 48.5427,
+                    "lon": -92.6538
+                },
+                {
+                    "lat": 48.5372,
+                    "lon": -92.729
+                },
+                {
+                    "lat": 48.6075,
+                    "lon": -92.9543
+                },
+                {
+                    "lat": 48.6262,
+                    "lon": -92.9539
+                },
+                {
+                    "lat": 48.6217,
+                    "lon": -92.9796
+                },
+                {
+                    "lat": 48.6211,
+                    "lon": -93.177
+                },
+                {
+                    "lat": 48.6402,
+                    "lon": -93.2107
+                },
+                {
+                    "lat": 48.6388,
+                    "lon": -93.255
+                },
+                {
+                    "lat": 48.6272,
+                    "lon": -93.3443
+                }
+            ]
+        }
+    ]
+}
