@@ -1,0 +1,134 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0560313360.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-10T11:12:06-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0851222762.2025,2025-08-09T13:12:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1778032162.2025,2025-08-09T19:51:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3178610803.2025,2025-08-10T05:15:54-00:00",
+    "headline": "heat warning in effect",
+    "event": "heat",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-08-10T11:12:06-00:00",
+    "expires": "2025-08-11T03:12:06-00:00",
+    "description": "\nHot and humid conditions continue.\n\nWhat:\nDaytime highs near 30 degrees Celsius, with humidex values of 35 to 40.\nOvernight lows near 20 degrees Celsius.\n\nWhen:\nContinuing today.\n\nAdditional information:\nA cooler air mass is expected to arrive this evening, bringing an end to this heat event.\n\n###\n\nHeat warnings are issued when very high temperature or humidity conditions are expected to pose an elevated risk of heat illnesses, such as heat stroke or heat exhaustion.\n\nFor more information: https://www.canada.ca/en/health-canada/services/climate-change-health/extreme-heat/how-protect-yourself.html https://www.canada.ca/en/health-canada/services/climate-change-health/extreme-heat/who-is-at-risk.html\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nTake action to protect yourself and others – extreme heat can affect everyone’s health. Determine if you or others around you are at greater risk of heat illness. Check on older adults, those living alone and other at-risk people in-person or on the phone multiple times a day.\n\nWatch for the early signs of heat exhaustion in yourself and others. Signs may include headache, nausea, dizziness, thirst, dark urine and intense fatigue. Stop your activity and drink water. \n\nHeat stroke is a medical emergency! Call 9-1-1 or your emergency health provider if you, or someone around you, is showing signs of heat stroke which can include red and hot skin, dizziness, nausea, confusion and change in consciousness. While you wait for medical attention, try to cool the person by moving them to a cool place, removing extra clothing, applying cold water or ice packs around the body.\n\nDrink water often and before you feel thirsty to replace fluids. \n\nClose blinds, or shades and open windows if outside is cooler than inside. \n\nTurn on air conditioning, use a fan, or move to a cooler area of your living space. If your living space is hot, move to a cool public space such as a cooling centre, community centre, library or shaded park. \n\nFollow the advice of your region’s public health authority.\n\nPlan and schedule outdoor activities during the coolest parts of the day. \n\nLimit direct exposure to the sun and heat. Wear lightweight, light-coloured, loose-fitting clothing and a wide-brimmed hat. \n\nNever leave people, especially children, or pets inside a parked vehicle. Check the vehicle before locking to make sure no one is left behind.\n",
+    "affected_areas": [
+        {
+            "area_description": "Fort Albany",
+            "polygon": [
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 52.4649,
+                    "lon": -81.6114
+                },
+                {
+                    "lat": 52.4881,
+                    "lon": -81.4236
+                },
+                {
+                    "lat": 51.9724,
+                    "lon": -80.6927
+                },
+                {
+                    "lat": 51.8769,
+                    "lon": -80.8373
+                },
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                },
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                }
+            ]
+        },
+        {
+            "area_description": "Moosonee",
+            "polygon": [
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                },
+                {
+                    "lat": 51.8769,
+                    "lon": -80.8373
+                },
+                {
+                    "lat": 51.9724,
+                    "lon": -80.6927
+                },
+                {
+                    "lat": 51.6003,
+                    "lon": -80.3594
+                },
+                {
+                    "lat": 51.3971,
+                    "lon": -80.2894
+                },
+                {
+                    "lat": 51.3571,
+                    "lon": -80.0462
+                },
+                {
+                    "lat": 51.2605,
+                    "lon": -79.8263
+                },
+                {
+                    "lat": 51.4271,
+                    "lon": -79.8297
+                },
+                {
+                    "lat": 51.5496,
+                    "lon": -79.5979
+                },
+                {
+                    "lat": 51.4684,
+                    "lon": -79.5164
+                },
+                {
+                    "lat": 51.0628,
+                    "lon": -79.496
+                },
+                {
+                    "lat": 50.7219,
+                    "lon": -79.5166
+                },
+                {
+                    "lat": 50.7218,
+                    "lon": -81.4395
+                },
+                {
+                    "lat": 51.3124,
+                    "lon": -82.1596
+                },
+                {
+                    "lat": 51.3164,
+                    "lon": -82.1507
+                },
+                {
+                    "lat": 51.8738,
+                    "lon": -80.8407
+                }
+            ]
+        }
+    ]
+}
