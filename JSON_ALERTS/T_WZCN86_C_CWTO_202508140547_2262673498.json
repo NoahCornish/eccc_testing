@@ -1,0 +1,226 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2262673498.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-14T05:48:40-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1645687283.2025,2025-08-14T05:47:37-00:00",
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-08-14T05:47:37-00:00",
+    "expires": "2025-08-14T15:14:37-00:00",
+    "description": "\nNear zero visibility in fog is expected or occurring.\n\nLocally dense fog has developed and is expected to persist into early Thursday morning before dissipating.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Owen Sound - Blue Mountains - Northern Grey County",
+            "polygon": [
+                {
+                    "lat": 44.7557,
+                    "lon": -81.1515
+                },
+                {
+                    "lat": 44.8546,
+                    "lon": -81.0008
+                },
+                {
+                    "lat": 44.9231,
+                    "lon": -80.9764
+                },
+                {
+                    "lat": 44.9805,
+                    "lon": -80.9105
+                },
+                {
+                    "lat": 44.6441,
+                    "lon": -80.2774
+                },
+                {
+                    "lat": 44.5273,
+                    "lon": -80.2918
+                },
+                {
+                    "lat": 44.2815,
+                    "lon": -80.2349
+                },
+                {
+                    "lat": 44.4005,
+                    "lon": -81.0823
+                },
+                {
+                    "lat": 44.3993,
+                    "lon": -81.1044
+                },
+                {
+                    "lat": 44.4501,
+                    "lon": -81.1219
+                },
+                {
+                    "lat": 44.538,
+                    "lon": -81.1304
+                },
+                {
+                    "lat": 44.7557,
+                    "lon": -81.1515
+                }
+            ]
+        },
+        {
+            "area_description": "Hanover - Dundalk - Southern Grey County",
+            "polygon": [
+                {
+                    "lat": 44.1938,
+                    "lon": -80.406
+                },
+                {
+                    "lat": 44.1809,
+                    "lon": -80.3807
+                },
+                {
+                    "lat": 44.1672,
+                    "lon": -80.3611
+                },
+                {
+                    "lat": 44.152,
+                    "lon": -80.3761
+                },
+                {
+                    "lat": 44.1353,
+                    "lon": -80.3982
+                },
+                {
+                    "lat": 44.0864,
+                    "lon": -80.3822
+                },
+                {
+                    "lat": 44.0392,
+                    "lon": -80.375
+                },
+                {
+                    "lat": 44.0321,
+                    "lon": -80.4028
+                },
+                {
+                    "lat": 44.0271,
+                    "lon": -80.4344
+                },
+                {
+                    "lat": 44.0106,
+                    "lon": -80.4988
+                },
+                {
+                    "lat": 43.9982,
+                    "lon": -80.5691
+                },
+                {
+                    "lat": 43.9875,
+                    "lon": -80.6418
+                },
+                {
+                    "lat": 43.9814,
+                    "lon": -80.7158
+                },
+                {
+                    "lat": 43.9831,
+                    "lon": -80.7198
+                },
+                {
+                    "lat": 43.9855,
+                    "lon": -80.7223
+                },
+                {
+                    "lat": 43.9959,
+                    "lon": -80.7264
+                },
+                {
+                    "lat": 43.9928,
+                    "lon": -80.7328
+                },
+                {
+                    "lat": 43.9955,
+                    "lon": -80.7367
+                },
+                {
+                    "lat": 43.9888,
+                    "lon": -80.7453
+                },
+                {
+                    "lat": 43.9793,
+                    "lon": -80.7513
+                },
+                {
+                    "lat": 43.9768,
+                    "lon": -80.7543
+                },
+                {
+                    "lat": 43.9714,
+                    "lon": -80.791
+                },
+                {
+                    "lat": 43.9678,
+                    "lon": -80.8273
+                },
+                {
+                    "lat": 43.9836,
+                    "lon": -80.8348
+                },
+                {
+                    "lat": 44.0046,
+                    "lon": -80.8357
+                },
+                {
+                    "lat": 43.9933,
+                    "lon": -80.9067
+                },
+                {
+                    "lat": 43.9878,
+                    "lon": -80.9797
+                },
+                {
+                    "lat": 44.188,
+                    "lon": -81.0407
+                },
+                {
+                    "lat": 44.4005,
+                    "lon": -81.0823
+                },
+                {
+                    "lat": 44.2815,
+                    "lon": -80.2349
+                },
+                {
+                    "lat": 44.2689,
+                    "lon": -80.2298
+                },
+                {
+                    "lat": 44.2542,
+                    "lon": -80.2285
+                },
+                {
+                    "lat": 44.2356,
+                    "lon": -80.284
+                },
+                {
+                    "lat": 44.2145,
+                    "lon": -80.4111
+                },
+                {
+                    "lat": 44.2127,
+                    "lon": -80.4082
+                },
+                {
+                    "lat": 44.2,
+                    "lon": -80.4228
+                },
+                {
+                    "lat": 44.1938,
+                    "lon": -80.406
+                }
+            ]
+        }
+    ]
+}
