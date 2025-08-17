@@ -1,0 +1,102 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3348631828.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-08-17T09:19:45-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2134084305.2025,2025-08-16T15:42:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3155480636.2025,2025-08-17T04:09:49-00:00",
+    "headline": "frost advisory in effect",
+    "event": "frost",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-08-17T09:19:45-00:00",
+    "expires": "2025-08-17T15:00:45-00:00",
+    "description": "\nSome plants may be damaged or even destroyed by frost.\n\nPatchy frost is expected early this morning as temperatures drop to near or below the freezing mark.\n\n###\n\nFrost advisories are issued when temperatures are expected to reach the freezing mark during the growing season, leading to potential damage and destruction to plants and crops.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nCover up plants, especially those in frost-prone areas. Take preventative measures to protect frost-sensitive plants and trees.\n",
+    "affected_areas": [
+        {
+            "area_description": "Armstrong - Auden - Wabakimi Park",
+            "polygon": [
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                }
+            ]
+        },
+        {
+            "area_description": "Nakina - Aroland - Pagwa",
+            "polygon": [
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.2465,
+                    "lon": -84.7492
+                },
+                {
+                    "lat": 51.1721,
+                    "lon": -84.5361
+                },
+                {
+                    "lat": 51.2908,
+                    "lon": -84.362
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                }
+            ]
+        }
+    ]
+}
