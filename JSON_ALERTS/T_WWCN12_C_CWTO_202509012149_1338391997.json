@@ -1,0 +1,70 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1338391997.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-01T21:51:34-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1126644357.2025,2025-09-01T21:11:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0555468171.2025,2025-09-01T21:14:47-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2811989522.2025,2025-09-01T21:49:13-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-09-01T21:49:13-00:00",
+    "expires": "2025-09-02T05:59:13-00:00",
+    "description": "\nRain, at times heavy, is expected.\n\nLocalized heavy rainfall in slow-moving thunderstorms.\n\nWhat:\nRainfall amounts of 50 to 75 mm.\n\nWhen:\nContinuing this evening.\n\nAdditional information:\nDue to the slow motion of these thunderstorms, some areas may receive significant rainfall amounts. The heaviest amounts should be highly localized with the vast majority of the region receiving little rainfall.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible. Heavy rainfall in combination with other weather factors, such as hail, wind and lightning will make outdoor activities unsafe.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Beardmore - Jellicoe - Macdiarmid",
+            "polygon": [
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.1129,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                }
+            ]
+        },
+        {
+            "area_description": "Geraldton - Longlac - Caramat",
+            "polygon": [
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                }
+            ]
+        }
+    ]
+}
