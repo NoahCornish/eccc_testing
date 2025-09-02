@@ -476,6 +476,488 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.0364723918.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-09-02T21:44:57-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2076506879.2025,2025-09-02T19:25:16-00:00",
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-09-02T21:44:57-00:00",
+            "expires": "2025-09-03T13:44:57-00:00",
+            "description": "\nRain, at times heavy, is expected.\n\nWhat:\nRain, at times heavy. Total rainfall amounts of 50 to 75 mm.\n\nWhen:\nContinuing through Wednesday night.\n\nAdditional information:\nRain, at times heavy, is expected through Wednesday. Rain will gradually taper in intensity through Wednesday night, but may persist into Thursday as low pressure stalls over far northern Ontario.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nLocalized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Armstrong - Auden - Wabakimi Park",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Nakina - Aroland - Pagwa",
+                    "polygon": [
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.2465,
+                            "lon": -84.7492
+                        },
+                        {
+                            "lat": 51.1721,
+                            "lon": -84.5361
+                        },
+                        {
+                            "lat": 51.2908,
+                            "lon": -84.362
+                        },
+                        {
+                            "lat": 51.3077,
+                            "lon": -84.1527
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 49.9497,
+                            "lon": -84.021
+                        },
+                        {
+                            "lat": 49.9546,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2581673987.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-09-02T21:46:59-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3878900803.2025,2025-09-02T21:43:29-00:00",
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-09-02T21:43:29-00:00",
+            "expires": "2025-09-03T05:59:29-00:00",
+            "description": "\nRain, at times heavy, is expected.\n\nWhat:\nRain, at times heavy. Total rainfall amounts of 50 to 75 mm.\n\nWhen:\nContinuing through this evening.\n\nAdditional information:\nRain, at times heavy, and thunderstorms will continue through this evening before tapering to showers overnight. Areas that receive multiple thunderstorms may receive up to 75 mm locally.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nLocalized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Ignace - English River",
+                    "polygon": [
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        },
+                        {
+                            "lat": 48.9922,
+                            "lon": -91.2145
+                        },
+                        {
+                            "lat": 49.0644,
+                            "lon": -92.7424
+                        },
+                        {
+                            "lat": 49.8671,
+                            "lon": -91.6848
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 49.8681,
+                            "lon": -91.6834
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Gull Bay - Black Sturgeon Lake",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.1129,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.1101,
+                            "lon": -88.6636
+                        },
+                        {
+                            "lat": 49.5235,
+                            "lon": -90.0178
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Upsala - Raith",
+                    "polygon": [
+                        {
+                            "lat": 48.5979,
+                            "lon": -89.6538
+                        },
+                        {
+                            "lat": 48.9922,
+                            "lon": -91.2145
+                        },
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 49.5235,
+                            "lon": -90.0178
+                        },
+                        {
+                            "lat": 49.1101,
+                            "lon": -88.6636
+                        },
+                        {
+                            "lat": 48.7365,
+                            "lon": -89.3858
+                        },
+                        {
+                            "lat": 48.5979,
+                            "lon": -89.6538
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3878900803.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-09-02T21:43:29-00:00",
+            "status": "Actual",
+            "msgType": "Alert",
+            "scope": "Public",
+            "references": null,
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-09-02T21:43:29-00:00",
+            "expires": "2025-09-03T05:59:29-00:00",
+            "description": "\nRain, at times heavy, is expected.\n\n###\n\nLocalized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Ignace - English River",
+                    "polygon": [
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        },
+                        {
+                            "lat": 48.9922,
+                            "lon": -91.2145
+                        },
+                        {
+                            "lat": 49.0644,
+                            "lon": -92.7424
+                        },
+                        {
+                            "lat": 49.8671,
+                            "lon": -91.6848
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 49.8681,
+                            "lon": -91.6834
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Gull Bay - Black Sturgeon Lake",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.1129,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.1101,
+                            "lon": -88.6636
+                        },
+                        {
+                            "lat": 49.5235,
+                            "lon": -90.0178
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Upsala - Raith",
+                    "polygon": [
+                        {
+                            "lat": 48.5979,
+                            "lon": -89.6538
+                        },
+                        {
+                            "lat": 48.9922,
+                            "lon": -91.2145
+                        },
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 49.5235,
+                            "lon": -90.0178
+                        },
+                        {
+                            "lat": 49.1101,
+                            "lon": -88.6636
+                        },
+                        {
+                            "lat": 48.7365,
+                            "lon": -89.3858
+                        },
+                        {
+                            "lat": 48.5979,
+                            "lon": -89.6538
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1699017235.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-09-02T21:44:57-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0492011304.2025,2025-09-02T19:25:16-00:00",
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-09-02T21:44:57-00:00",
+            "expires": "2025-09-03T13:44:57-00:00",
+            "description": "\nRain, at times heavy, is expected.\n\nWhat:\nRain, at times heavy. Total rainfall amounts of 50 to 75 mm.\n\nWhen:\nContinuing through Wednesday night.\n\nAdditional information:\nRain, at times heavy, is expected through Wednesday. Rain will gradually taper in intensity through Wednesday night, but may persist into Thursday as low pressure stalls over far northern Ontario.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nLocalized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Webequie",
+                    "polygon": [
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.7599,
+                            "lon": -88.0338
+                        },
+                        {
+                            "lat": 53.2172,
+                            "lon": -87.9958
+                        },
+                        {
+                            "lat": 54.1733,
+                            "lon": -87.5227
+                        },
+                        {
+                            "lat": 55.0075,
+                            "lon": -87.0122
+                        },
+                        {
+                            "lat": 55.0039,
+                            "lon": -87.008
+                        },
+                        {
+                            "lat": 54.0287,
+                            "lon": -83.7002
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Fort Hope - Lansdowne House - Ogoki",
+                    "polygon": [
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        },
+                        {
+                            "lat": 51.0571,
+                            "lon": -84.4653
+                        },
+                        {
+                            "lat": 51.0622,
+                            "lon": -84.57
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8342
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.4893,
+                            "lon": -83.2673
+                        },
+                        {
+                            "lat": 51.2539,
+                            "lon": -83.9119
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
