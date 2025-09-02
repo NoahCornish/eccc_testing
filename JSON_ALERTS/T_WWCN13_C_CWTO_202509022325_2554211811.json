@@ -1,0 +1,134 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2554211811.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-02T23:27:34-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0492011304.2025,2025-09-02T19:25:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1699017235.2025,2025-09-02T21:44:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1038857085.2025,2025-09-02T23:25:13-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-09-02T23:25:13-00:00",
+    "expires": "2025-09-03T15:25:13-00:00",
+    "description": "\nRain, at times heavy, is expected.\n\nWhat:\nRain, at times heavy. Total rainfall amounts of 50 to 75 mm.\n\nWhen:\nContinuing through Wednesday night.\n\nAdditional information:\nRain, at times heavy, is expected through Wednesday. Rain will gradually taper in intensity through Wednesday night, but may persist into Thursday as low pressure stalls over far northern Ontario.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nLocalized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+    "affected_areas": [
+        {
+            "area_description": "Webequie",
+            "polygon": [
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.7599,
+                    "lon": -88.0338
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 54.1733,
+                    "lon": -87.5227
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                }
+            ]
+        },
+        {
+            "area_description": "Fort Hope - Lansdowne House - Ogoki",
+            "polygon": [
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                },
+                {
+                    "lat": 51.0571,
+                    "lon": -84.4653
+                },
+                {
+                    "lat": 51.0622,
+                    "lon": -84.57
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8342
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.4893,
+                    "lon": -83.2673
+                },
+                {
+                    "lat": 51.2539,
+                    "lon": -83.9119
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                }
+            ]
+        }
+    ]
+}
