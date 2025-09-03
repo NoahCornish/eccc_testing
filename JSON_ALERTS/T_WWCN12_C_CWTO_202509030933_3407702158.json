@@ -1,0 +1,127 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3407702158.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-03T09:36:27-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2076506879.2025,2025-09-02T19:25:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0364723918.2025,2025-09-02T21:44:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0645589165.2025,2025-09-02T23:25:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2450877278.2025,2025-09-02T23:27:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1552003093.2025,2025-09-03T03:37:35-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-09-03T09:36:27-00:00",
+    "expires": "2025-09-04T01:36:27-00:00",
+    "description": "\nRain, at times heavy, is expected.\n\nWhat:\nRain, at times heavy. Total rainfall amounts of 50 to 75 mm.\n\nWhen:\nContinuing into this evening. \n\nAdditional information:\nRain, at times heavy, is expected today. Rain will gradually taper in intensity tonight, but may persist into Thursday as low pressure stalls over far northern Ontario.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nLocalized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+    "affected_areas": [
+        {
+            "area_description": "Armstrong - Auden - Wabakimi Park",
+            "polygon": [
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                }
+            ]
+        },
+        {
+            "area_description": "Beardmore - Jellicoe - Macdiarmid",
+            "polygon": [
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.1129,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                }
+            ]
+        },
+        {
+            "area_description": "Nakina - Aroland - Pagwa",
+            "polygon": [
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.2465,
+                    "lon": -84.7492
+                },
+                {
+                    "lat": 51.1721,
+                    "lon": -84.5361
+                },
+                {
+                    "lat": 51.2908,
+                    "lon": -84.362
+                },
+                {
+                    "lat": 51.3077,
+                    "lon": -84.1527
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 49.9497,
+                    "lon": -84.021
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                }
+            ]
+        }
+    ]
+}
