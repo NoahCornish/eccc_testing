@@ -1,0 +1,134 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1994666036.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-03T22:40:49-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0492011304.2025,2025-09-02T19:25:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1699017235.2025,2025-09-02T21:44:57-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1038857085.2025,2025-09-02T23:25:13-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2554211811.2025,2025-09-02T23:27:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3292027081.2025,2025-09-03T03:37:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3310266181.2025,2025-09-03T09:36:27-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4246579382.2025,2025-09-03T13:07:59-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4160143658.2025,2025-09-03T13:09:35-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3830106357.2025,2025-09-03T14:31:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2595649952.2025,2025-09-03T14:37:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2903634760.2025,2025-09-03T20:04:16-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-09-03T22:40:49-00:00",
+    "expires": "2025-09-04T14:40:49-00:00",
+    "description": "\nRain, at times heavy, continues.\n\nWhat:\nRain, at times heavy. Total rainfall amounts of 50 to 90 mm.\n\nWhen:\nContinuing through Thursday.\n\nAdditional information:\nAs of 6 p.m. EDT, observations and radar estimates indicate 50 to 80 mm has fallen from Lake Nipigon to Ogoki Post, including 79 mm at Nakina, 62 mm at Jellicoe, and 60 mm at Ogoki Post.\n\nFor areas from Fort Hope to Ogoki to Webequie, an additional 20 to 45 mm is expected through Thursday afternoon. For locations from Lake Nipigon to Nakina, an additional 10 to 20 mm is forecast through Thursday afternoon.\n\nRain will taper in intensity from south to north through Thursday as low pressure stalls over far northern Ontario.\n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nLocalized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+    "affected_areas": [
+        {
+            "area_description": "Webequie",
+            "polygon": [
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.7599,
+                    "lon": -88.0338
+                },
+                {
+                    "lat": 53.2172,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 54.1733,
+                    "lon": -87.5227
+                },
+                {
+                    "lat": 55.0075,
+                    "lon": -87.0122
+                },
+                {
+                    "lat": 55.0039,
+                    "lon": -87.008
+                },
+                {
+                    "lat": 54.0287,
+                    "lon": -83.7002
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                }
+            ]
+        },
+        {
+            "area_description": "Fort Hope - Lansdowne House - Ogoki",
+            "polygon": [
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                },
+                {
+                    "lat": 51.0571,
+                    "lon": -84.4653
+                },
+                {
+                    "lat": 51.0622,
+                    "lon": -84.57
+                },
+                {
+                    "lat": 51.1686,
+                    "lon": -84.8479
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -87.9904
+                },
+                {
+                    "lat": 52.2455,
+                    "lon": -83.0383
+                },
+                {
+                    "lat": 52.2453,
+                    "lon": -83.0302
+                },
+                {
+                    "lat": 51.9291,
+                    "lon": -82.9115
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8342
+                },
+                {
+                    "lat": 51.8669,
+                    "lon": -82.8343
+                },
+                {
+                    "lat": 51.4893,
+                    "lon": -83.2673
+                },
+                {
+                    "lat": 51.2539,
+                    "lon": -83.9119
+                },
+                {
+                    "lat": 51.1582,
+                    "lon": -84.05
+                },
+                {
+                    "lat": 51.1626,
+                    "lon": -84.3362
+                }
+            ]
+        }
+    ]
+}
