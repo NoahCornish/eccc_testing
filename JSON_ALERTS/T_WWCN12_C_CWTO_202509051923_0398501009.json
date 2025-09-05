@@ -1,0 +1,105 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0398501009.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-05T19:23:12-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2989980084.2025,2025-09-04T20:57:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3998461189.2025,2025-09-05T09:00:42-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3936961967.2025,2025-09-05T09:03:10-00:00",
+    "headline": "wind warning in effect",
+    "event": "wind",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-09-05T19:23:12-00:00",
+    "expires": "2025-09-05T23:59:12-00:00",
+    "description": "\n###\n\nDamage to buildings, such as to roof shingles and windows, may occur. Gusty winds can damage soft shelters, tents and awnings at outdoor events. Loose objects may be tossed by the wind and cause injury or damage. High winds may toss loose objects or cause tree branches to break. Utility outages may occur.\n\nWind warnings are issued when there is a significant risk of damaging winds.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nBe prepared to adjust your driving with changing road conditions due to high winds. Avoid wooded areas to prevent injury from falling trees or branches. Campers should move to sturdy shelters.\n",
+    "affected_areas": [
+        {
+            "area_description": "Espanola - Killarney",
+            "polygon": [
+                {
+                    "lat": 45.8581,
+                    "lon": -81.6008
+                },
+                {
+                    "lat": 45.9078,
+                    "lon": -81.6625
+                },
+                {
+                    "lat": 45.8959,
+                    "lon": -81.8967
+                },
+                {
+                    "lat": 45.9727,
+                    "lon": -81.8832
+                },
+                {
+                    "lat": 45.9888,
+                    "lon": -81.9598
+                },
+                {
+                    "lat": 45.9754,
+                    "lon": -82.0969
+                },
+                {
+                    "lat": 46.0965,
+                    "lon": -82.0476
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -82.0579
+                },
+                {
+                    "lat": 46.2733,
+                    "lon": -81.4263
+                },
+                {
+                    "lat": 46.1701,
+                    "lon": -81.4263
+                },
+                {
+                    "lat": 46.1701,
+                    "lon": -80.9338
+                },
+                {
+                    "lat": 46.0992,
+                    "lon": -80.9338
+                },
+                {
+                    "lat": 46.106,
+                    "lon": -80.6965
+                },
+                {
+                    "lat": 46.0178,
+                    "lon": -80.5701
+                },
+                {
+                    "lat": 45.8856,
+                    "lon": -80.5706
+                },
+                {
+                    "lat": 45.8899,
+                    "lon": -80.7251
+                },
+                {
+                    "lat": 45.8894,
+                    "lon": -80.7432
+                },
+                {
+                    "lat": 45.8248,
+                    "lon": -80.8486
+                },
+                {
+                    "lat": 45.849,
+                    "lon": -81.3805
+                },
+                {
+                    "lat": 45.8581,
+                    "lon": -81.6008
+                }
+            ]
+        }
+    ]
+}
