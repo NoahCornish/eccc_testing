@@ -1,0 +1,147 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.0760955964.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-05T21:06:43-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3718782589.2025,2025-09-04T08:51:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3305612601.2025,2025-09-04T21:01:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0820283779.2025,2025-09-05T09:05:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2887903793.2025,2025-09-05T19:23:41-00:00",
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-09-05T21:06:43-00:00",
+    "expires": "2025-09-06T01:59:43-00:00",
+    "description": "\nStrong winds today.\n\nWhat:\nWind gusts of 70 to 90 km/h possible.\n\nWhen:\nEnding this evening.\n\nAdditional Information:\nStrong northwesterly winds will ease this evening.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "South River - Burk's Falls",
+            "polygon": [
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.901,
+                    "lon": -79.7785
+                },
+                {
+                    "lat": 45.9047,
+                    "lon": -79.6173
+                },
+                {
+                    "lat": 45.9261,
+                    "lon": -79.5385
+                },
+                {
+                    "lat": 45.9989,
+                    "lon": -79.2711
+                },
+                {
+                    "lat": 45.5697,
+                    "lon": -79.0368
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                }
+            ]
+        },
+        {
+            "area_description": "Western Algonquin Park - Lake of Two Rivers",
+            "polygon": [
+                {
+                    "lat": 45.4143,
+                    "lon": -78.8593
+                },
+                {
+                    "lat": 45.531,
+                    "lon": -78.918
+                },
+                {
+                    "lat": 45.5074,
+                    "lon": -79.0029
+                },
+                {
+                    "lat": 45.5697,
+                    "lon": -79.0368
+                },
+                {
+                    "lat": 45.9989,
+                    "lon": -79.2711
+                },
+                {
+                    "lat": 46.1756,
+                    "lon": -78.6213
+                },
+                {
+                    "lat": 45.561,
+                    "lon": -78.3131
+                },
+                {
+                    "lat": 45.4802,
+                    "lon": -78.5804
+                },
+                {
+                    "lat": 45.4143,
+                    "lon": -78.8593
+                }
+            ]
+        },
+        {
+            "area_description": "Huntsville - Baysville",
+            "polygon": [
+                {
+                    "lat": 45.3891,
+                    "lon": -78.9392
+                },
+                {
+                    "lat": 45.1515,
+                    "lon": -78.8118
+                },
+                {
+                    "lat": 45.1471,
+                    "lon": -78.8439
+                },
+                {
+                    "lat": 45.1449,
+                    "lon": -78.8427
+                },
+                {
+                    "lat": 45.1057,
+                    "lon": -78.9997
+                },
+                {
+                    "lat": 45.1399,
+                    "lon": -79.3895
+                },
+                {
+                    "lat": 45.5573,
+                    "lon": -79.5935
+                },
+                {
+                    "lat": 45.5697,
+                    "lon": -79.0368
+                },
+                {
+                    "lat": 45.5074,
+                    "lon": -79.0029
+                },
+                {
+                    "lat": 45.531,
+                    "lon": -78.918
+                },
+                {
+                    "lat": 45.4143,
+                    "lon": -78.8593
+                },
+                {
+                    "lat": 45.3891,
+                    "lon": -78.9392
+                }
+            ]
+        }
+    ]
+}
