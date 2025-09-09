@@ -1,0 +1,57 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2074158238.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-09T16:13:03-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-09-09T16:13:03-00:00",
+    "expires": "2025-09-10T08:13:03-00:00",
+    "description": "\nNear zero visibility in fog is expected or occurring.\n\nDense fog patches are expected to remain in place through today. The fog is expected to become more widespread tonight and remain in place into Wednesday morning.\n\n###\n\nVisibility may be significantly and suddenly reduced to near zero. Travel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf travelling, be prepared for areas of near-zero visibility.\n",
+    "affected_areas": [
+        {
+            "area_description": "Marathon - Schreiber",
+            "polygon": [
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                }
+            ]
+        }
+    ]
+}
