@@ -1,0 +1,523 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1441544277.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-13T10:56:48-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3430998125.2025,2025-09-13T10:44:48-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1916163671.2025,2025-09-13T10:48:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0421839838.2025,2025-09-13T10:49:08-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0765675250.2025,2025-09-13T10:56:00-00:00",
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-09-13T10:56:00-00:00",
+    "expires": "2025-09-13T16:59:00-00:00",
+    "description": "\nNear zero visibility in fog is expected or occurring over some areas.\n\nFog is expected to dissipate later this morning.\n\n###\n\nVisibility may be significantly and suddenly reduced to near zero. Travel is expected to be hazardous due to reduced visibility.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf travelling, be prepared for areas of near-zero visibility. If visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+    "affected_areas": [
+        {
+            "area_description": "Red Lake - Woodland Caribou Park",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.5513,
+                    "lon": -94.5036
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.4257,
+                    "lon": -93.6935
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 50.8325,
+                    "lon": -93.4705
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2863,
+                    "lon": -93.8911
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.3413,
+                    "lon": -94.7122
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.3682,
+                    "lon": -95.1601
+                },
+                {
+                    "lat": 50.3956,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.6658,
+                    "lon": -95.1655
+                },
+                {
+                    "lat": 50.8931,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 51.2501,
+                    "lon": -95.1961
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Savant Lake - Sturgeon Lake",
+            "polygon": [
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 49.5235,
+                    "lon": -90.0178
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                }
+            ]
+        },
+        {
+            "area_description": "Sioux Lookout - Eastern Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Kenora - Grassy Narrows - Whitedog",
+            "polygon": [
+                {
+                    "lat": 49.6236,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 49.6482,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.6651,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.8299,
+                    "lon": -95.1694
+                },
+                {
+                    "lat": 49.9987,
+                    "lon": -95.1535
+                },
+                {
+                    "lat": 50.1839,
+                    "lon": -95.1657
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 50.352,
+                    "lon": -94.7141
+                },
+                {
+                    "lat": 50.3452,
+                    "lon": -94.2739
+                },
+                {
+                    "lat": 50.2983,
+                    "lon": -93.867
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6208,
+                    "lon": -94.3392
+                },
+                {
+                    "lat": 49.609,
+                    "lon": -94.3651
+                },
+                {
+                    "lat": 49.6182,
+                    "lon": -94.4516
+                },
+                {
+                    "lat": 49.633,
+                    "lon": -94.5058
+                },
+                {
+                    "lat": 49.6509,
+                    "lon": -94.5883
+                },
+                {
+                    "lat": 49.6455,
+                    "lon": -94.7554
+                },
+                {
+                    "lat": 49.6174,
+                    "lon": -94.7798
+                },
+                {
+                    "lat": 49.6147,
+                    "lon": -94.814
+                },
+                {
+                    "lat": 49.5853,
+                    "lon": -94.8395
+                },
+                {
+                    "lat": 49.5398,
+                    "lon": -94.9353
+                },
+                {
+                    "lat": 49.539,
+                    "lon": -95.0598
+                },
+                {
+                    "lat": 49.5976,
+                    "lon": -95.1212
+                },
+                {
+                    "lat": 49.5976,
+                    "lon": -95.1533
+                },
+                {
+                    "lat": 49.6032,
+                    "lon": -95.1533
+                },
+                {
+                    "lat": 49.6169,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.6236,
+                    "lon": -95.1536
+                }
+            ]
+        },
+        {
+            "area_description": "Sioux Narrows - Nestor Falls - Morson",
+            "polygon": [
+                {
+                    "lat": 49.3554,
+                    "lon": -95.025
+                },
+                {
+                    "lat": 49.3532,
+                    "lon": -95.0582
+                },
+                {
+                    "lat": 49.3704,
+                    "lon": -95.1286
+                },
+                {
+                    "lat": 49.3847,
+                    "lon": -95.1539
+                },
+                {
+                    "lat": 49.4435,
+                    "lon": -95.1592
+                },
+                {
+                    "lat": 49.4999,
+                    "lon": -95.1534
+                },
+                {
+                    "lat": 49.5976,
+                    "lon": -95.1533
+                },
+                {
+                    "lat": 49.5976,
+                    "lon": -95.1212
+                },
+                {
+                    "lat": 49.539,
+                    "lon": -95.0598
+                },
+                {
+                    "lat": 49.5398,
+                    "lon": -94.9353
+                },
+                {
+                    "lat": 49.5853,
+                    "lon": -94.8395
+                },
+                {
+                    "lat": 49.6147,
+                    "lon": -94.814
+                },
+                {
+                    "lat": 49.6174,
+                    "lon": -94.7798
+                },
+                {
+                    "lat": 49.6455,
+                    "lon": -94.7554
+                },
+                {
+                    "lat": 49.6509,
+                    "lon": -94.5883
+                },
+                {
+                    "lat": 49.633,
+                    "lon": -94.5058
+                },
+                {
+                    "lat": 49.6182,
+                    "lon": -94.4516
+                },
+                {
+                    "lat": 49.609,
+                    "lon": -94.3651
+                },
+                {
+                    "lat": 49.6208,
+                    "lon": -94.3392
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.0996,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 48.8244,
+                    "lon": -94.7016
+                },
+                {
+                    "lat": 48.8242,
+                    "lon": -94.7042
+                },
+                {
+                    "lat": 48.8318,
+                    "lon": -94.702
+                },
+                {
+                    "lat": 48.8354,
+                    "lon": -94.6975
+                },
+                {
+                    "lat": 48.84,
+                    "lon": -94.6855
+                },
+                {
+                    "lat": 48.8534,
+                    "lon": -94.693
+                },
+                {
+                    "lat": 48.8569,
+                    "lon": -94.692
+                },
+                {
+                    "lat": 48.869,
+                    "lon": -94.6923
+                },
+                {
+                    "lat": 48.8723,
+                    "lon": -94.6843
+                },
+                {
+                    "lat": 48.8841,
+                    "lon": -94.6834
+                },
+                {
+                    "lat": 49.0987,
+                    "lon": -94.7496
+                },
+                {
+                    "lat": 49.1205,
+                    "lon": -94.7727
+                },
+                {
+                    "lat": 49.1486,
+                    "lon": -94.7819
+                },
+                {
+                    "lat": 49.1978,
+                    "lon": -94.7979
+                },
+                {
+                    "lat": 49.2143,
+                    "lon": -94.7973
+                },
+                {
+                    "lat": 49.2943,
+                    "lon": -94.8255
+                },
+                {
+                    "lat": 49.3213,
+                    "lon": -94.8162
+                },
+                {
+                    "lat": 49.3333,
+                    "lon": -94.8782
+                },
+                {
+                    "lat": 49.3501,
+                    "lon": -94.9091
+                },
+                {
+                    "lat": 49.3701,
+                    "lon": -94.9573
+                },
+                {
+                    "lat": 49.3687,
+                    "lon": -94.987
+                },
+                {
+                    "lat": 49.3564,
+                    "lon": -95.0141
+                },
+                {
+                    "lat": 49.3554,
+                    "lon": -95.025
+                }
+            ]
+        },
+        {
+            "area_description": "Dryden - Vermilion Bay",
+            "polygon": [
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                },
+                {
+                    "lat": 49.0813,
+                    "lon": -93.0991
+                },
+                {
+                    "lat": 49.0996,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 49.6218,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 49.8671,
+                    "lon": -91.6848
+                },
+                {
+                    "lat": 49.0644,
+                    "lon": -92.7424
+                }
+            ]
+        }
+    ]
+}
