@@ -1,0 +1,45 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2275191966.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-15T13:31:29-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-09-15T13:31:29-00:00",
+    "expires": "2025-09-15T18:00:29-00:00",
+    "description": "\nNear zero visibility in fog is expected or occurring.\n\nFog is expected to dissipate later this morning.\n\n###\n\nVisibility may be significantly and suddenly reduced to near zero. Travel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Geraldton - Longlac - Caramat",
+            "polygon": [
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9546,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                }
+            ]
+        }
+    ]
+}
