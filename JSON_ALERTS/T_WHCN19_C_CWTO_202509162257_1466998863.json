@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1466998863.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-16T22:57:51-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "squall warning in effect",
+    "event": "squall",
+    "urgency": "Immediate",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-09-16T22:57:51-00:00",
+    "expires": "2025-09-17T01:56:51-00:00",
+    "description": "\nSqualls with wind gusts up to 35 knots and hail up to 2 centimetres are expected or occurring in the area.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+    "instruction": "\nMariners are advised to prepare for squalls. If underway, seek safe harbour immediately.\n",
+    "affected_areas": [
+        {
+            "area_description": "Lake Nipigon",
+            "polygon": [
+                {
+                    "lat": 49.9835,
+                    "lon": -87.8416
+                },
+                {
+                    "lat": 49.2307,
+                    "lon": -88.0709
+                },
+                {
+                    "lat": 49.4676,
+                    "lon": -89.1369
+                },
+                {
+                    "lat": 49.8803,
+                    "lon": -89.1904
+                },
+                {
+                    "lat": 50.2395,
+                    "lon": -89.03
+                },
+                {
+                    "lat": 50.4305,
+                    "lon": -88.4301
+                },
+                {
+                    "lat": 49.9835,
+                    "lon": -87.8416
+                }
+            ]
+        }
+    ]
+}
