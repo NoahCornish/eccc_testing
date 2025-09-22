@@ -1,0 +1,57 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2817836665.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-22T17:03:18-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3618412144.2025,2025-09-21T20:10:36-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2470803996.2025,2025-09-22T03:17:33-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3697768144.2025,2025-09-22T03:18:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1607086623.2025,2025-09-22T09:09:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0696045082.2025,2025-09-22T11:04:26-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1731452952.2025,2025-09-22T11:05:17-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1075104623.2025,2025-09-22T13:23:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3974272308.2025,2025-09-22T13:25:44-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4061142491.2025,2025-09-22T13:44:56-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2501747424.2025,2025-09-22T15:12:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2930805284.2025,2025-09-22T15:14:16-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1477736999.2025,2025-09-22T15:38:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1877971453.2025,2025-09-22T15:40:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3654777183.2025,2025-09-22T16:08:01-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1070808499.2025,2025-09-22T16:09:05-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1157229809.2025,2025-09-22T17:00:36-00:00",
+    "headline": "fog advisory in effect",
+    "event": "fog",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-09-22T17:00:36-00:00",
+    "expires": "2025-09-22T19:59:36-00:00",
+    "description": "\nNear zero visibility in fog is expected or occurring over some areas.\n\nFog patches are expected to dissipate near midday or early this afternoon.\n\n###\n\nVisibility may be significantly and suddenly reduced to near zero. Travel is expected to be hazardous due to reduced visibility in some locations.\n\nFog advisories are issued when near zero visibilities in fog are expected or occurring.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+    "affected_areas": [
+        {
+            "area_description": "Marathon - Schreiber",
+            "polygon": [
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.8844,
+                    "lon": -85.9469
+                },
+                {
+                    "lat": 48.7455,
+                    "lon": -86.0931
+                },
+                {
+                    "lat": 48.5796,
+                    "lon": -86.2679
+                },
+                {
+                    "lat": 48.5745,
+                    "lon": -86.2839
+                },
+                {
+                    "lat": 48.2984,
+                    "lon": -86.5309
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                }
+            ]
+        }
+    ]
+}
