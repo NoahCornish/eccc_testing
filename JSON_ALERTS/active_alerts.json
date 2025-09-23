@@ -5483,6 +5483,63 @@
             ]
         },
         {
+            "identifier": "urn:oid:2.49.0.1.124.2457879612.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-09-23T21:58:29-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0632572181.2025,2025-09-23T09:18:45-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3474270824.2025,2025-09-23T16:45:29-00:00",
+            "headline": "special weather statement ended",
+            "event": "weather",
+            "urgency": "Past",
+            "severity": "Minor",
+            "certainty": "Observed",
+            "effective": "2025-09-23T21:58:29-00:00",
+            "expires": "2025-09-23T22:58:29-00:00",
+            "description": "\n\n###\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "Gogama - Foleyet",
+                    "polygon": [
+                        {
+                            "lat": 47.581,
+                            "lon": -81.0762
+                        },
+                        {
+                            "lat": 46.97,
+                            "lon": -81.0754
+                        },
+                        {
+                            "lat": 46.9696,
+                            "lon": -81.939
+                        },
+                        {
+                            "lat": 46.9695,
+                            "lon": -82.6356
+                        },
+                        {
+                            "lat": 47.221,
+                            "lon": -82.631
+                        },
+                        {
+                            "lat": 48.2543,
+                            "lon": -82.6293
+                        },
+                        {
+                            "lat": 48.2526,
+                            "lon": -81.0729
+                        },
+                        {
+                            "lat": 47.581,
+                            "lon": -81.0762
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "identifier": "urn:oid:2.49.0.1.124.3953831258.2025",
             "sender": "cap-pac@canada.ca",
             "sent": "2025-09-23T21:12:51-00:00",
@@ -5615,6 +5672,265 @@
                         {
                             "lat": 47.2211,
                             "lon": -83.9911
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2669696531.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-09-23T21:58:52-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2350329132.2025,2025-09-23T03:24:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1109159601.2025,2025-09-23T09:15:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3656409518.2025,2025-09-23T12:52:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3586823314.2025,2025-09-23T12:56:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3804056250.2025,2025-09-23T15:34:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1116283556.2025,2025-09-23T15:36:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3150539407.2025,2025-09-23T15:51:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0799851271.2025,2025-09-23T15:55:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2830626692.2025,2025-09-23T16:39:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3803632016.2025,2025-09-23T16:40:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0544444758.2025,2025-09-23T19:51:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2003219684.2025,2025-09-23T19:52:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3953831258.2025,2025-09-23T21:12:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3979998904.2025,2025-09-23T21:14:19-00:00",
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-09-23T21:58:52-00:00",
+            "expires": "2025-09-24T01:59:52-00:00",
+            "description": "\nRain, at times heavy, continues.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nIf visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Chapleau - Missinaibi Lake",
+                    "polygon": [
+                        {
+                            "lat": 47.2211,
+                            "lon": -83.9911
+                        },
+                        {
+                            "lat": 47.2516,
+                            "lon": -83.9912
+                        },
+                        {
+                            "lat": 48.1107,
+                            "lon": -83.9939
+                        },
+                        {
+                            "lat": 48.5499,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5501,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5526,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 49.1609,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        },
+                        {
+                            "lat": 48.2543,
+                            "lon": -82.6293
+                        },
+                        {
+                            "lat": 47.221,
+                            "lon": -82.631
+                        },
+                        {
+                            "lat": 47.2211,
+                            "lon": -83.9911
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2865777996.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-09-23T22:01:02-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2350329132.2025,2025-09-23T03:24:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1109159601.2025,2025-09-23T09:15:31-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3656409518.2025,2025-09-23T12:52:29-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3586823314.2025,2025-09-23T12:56:43-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3804056250.2025,2025-09-23T15:34:39-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1116283556.2025,2025-09-23T15:36:15-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3150539407.2025,2025-09-23T15:51:58-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0799851271.2025,2025-09-23T15:55:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2830626692.2025,2025-09-23T16:39:04-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3803632016.2025,2025-09-23T16:40:10-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0544444758.2025,2025-09-23T19:51:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2003219684.2025,2025-09-23T19:52:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3953831258.2025,2025-09-23T21:12:51-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3979998904.2025,2025-09-23T21:14:19-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2669696531.2025,2025-09-23T21:58:52-00:00",
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-09-23T21:58:52-00:00",
+            "expires": "2025-09-24T01:59:52-00:00",
+            "description": "\nRain, at times heavy, continues.\n\nWhat:\nAdditional local rainfall amounts of 20 to 30 mm possible.\n\nWhen:\nContinuing today.\n\nAdditional information:\nRainfall amounts near 70 mm have been observed over the Chapleau area. The rain is expected to ease early this evening.  \n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nIf visibility is reduced while driving, slow down, watch for tail lights ahead and be prepared to stop.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Chapleau - Missinaibi Lake",
+                    "polygon": [
+                        {
+                            "lat": 47.2211,
+                            "lon": -83.9911
+                        },
+                        {
+                            "lat": 47.2516,
+                            "lon": -83.9912
+                        },
+                        {
+                            "lat": 48.1107,
+                            "lon": -83.9939
+                        },
+                        {
+                            "lat": 48.5499,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5501,
+                            "lon": -84.002
+                        },
+                        {
+                            "lat": 48.5526,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 49.1609,
+                            "lon": -84.0021
+                        },
+                        {
+                            "lat": 49.1616,
+                            "lon": -82.6268
+                        },
+                        {
+                            "lat": 48.2543,
+                            "lon": -82.6293
+                        },
+                        {
+                            "lat": 47.221,
+                            "lon": -82.631
+                        },
+                        {
+                            "lat": 47.2211,
+                            "lon": -83.9911
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1902601408.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-09-23T22:12:17-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2355558462.2025,2025-09-23T18:30:57-00:00",
+            "headline": "squall watch in effect",
+            "event": "squall",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Possible",
+            "effective": "2025-09-23T22:12:17-00:00",
+            "expires": "2025-09-24T05:59:17-00:00",
+            "description": "\nConditions are favourable for the development of squalls with wind gusts up to 40 knots and frequent lightning.\n\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.\n",
+            "instruction": "\nMariners are advised to prepare for potential squalls. Vulnerable vessels are most at risk and should seek safe harbour if underway. Consider delaying or postponing travel in areas under the Squall Watch.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Southern Georgian Bay",
+                    "polygon": [
+                        {
+                            "lat": 45.0691,
+                            "lon": -81.3006
+                        },
+                        {
+                            "lat": 45.084,
+                            "lon": -81.2621
+                        },
+                        {
+                            "lat": 45.4348,
+                            "lon": -80.3795
+                        },
+                        {
+                            "lat": 45.4463,
+                            "lon": -80.3467
+                        },
+                        {
+                            "lat": 45.4746,
+                            "lon": -80.2717
+                        },
+                        {
+                            "lat": 45.4391,
+                            "lon": -80.2411
+                        },
+                        {
+                            "lat": 45.4713,
+                            "lon": -80.0831
+                        },
+                        {
+                            "lat": 45.4214,
+                            "lon": -79.9767
+                        },
+                        {
+                            "lat": 45.2279,
+                            "lon": -79.9461
+                        },
+                        {
+                            "lat": 44.984,
+                            "lon": -79.7338
+                        },
+                        {
+                            "lat": 44.9087,
+                            "lon": -79.5624
+                        },
+                        {
+                            "lat": 44.6863,
+                            "lon": -79.6269
+                        },
+                        {
+                            "lat": 44.7198,
+                            "lon": -79.9597
+                        },
+                        {
+                            "lat": 44.5341,
+                            "lon": -79.8685
+                        },
+                        {
+                            "lat": 44.4138,
+                            "lon": -80.1135
+                        },
+                        {
+                            "lat": 44.5384,
+                            "lon": -80.5757
+                        },
+                        {
+                            "lat": 44.6266,
+                            "lon": -80.7497
+                        },
+                        {
+                            "lat": 44.5256,
+                            "lon": -80.9647
+                        },
+                        {
+                            "lat": 44.734,
+                            "lon": -80.9948
+                        },
+                        {
+                            "lat": 44.719,
+                            "lon": -81.1538
+                        },
+                        {
+                            "lat": 44.8415,
+                            "lon": -81.113
+                        },
+                        {
+                            "lat": 44.9572,
+                            "lon": -81.2633
+                        },
+                        {
+                            "lat": 45.0173,
+                            "lon": -81.2985
+                        },
+                        {
+                            "lat": 45.0691,
+                            "lon": -81.3006
                         }
                     ]
                 }
