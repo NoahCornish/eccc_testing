@@ -1,0 +1,57 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.3474270824.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-23T16:45:29-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0632572181.2025,2025-09-23T09:18:45-00:00",
+    "headline": "special weather statement in effect",
+    "event": "weather",
+    "urgency": "Future",
+    "severity": "Minor",
+    "certainty": "Possible",
+    "effective": "2025-09-23T16:45:29-00:00",
+    "expires": "2025-09-24T02:06:29-00:00",
+    "description": "\nLocally heavy rain continues.\n\nWhat:\nAdditional local rainfall amounts of 15 to 25 mm possible.\n\nWhen:\nContinuing today.\n\nAdditional information:\nRadar estimates some areas have already received  near 40 mm of rainfall. Scattered showers are expected to continue this afternoon for the town of Gogama as well as for the areas to the northwest.\n\nHeavy downpours can cause flash floods and water pooling on roads. \nLocalized flooding in low-lying areas is possible. \n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details.\n\n###\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Gogama - Foleyet",
+            "polygon": [
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                },
+                {
+                    "lat": 46.97,
+                    "lon": -81.0754
+                },
+                {
+                    "lat": 46.9696,
+                    "lon": -81.939
+                },
+                {
+                    "lat": 46.9695,
+                    "lon": -82.6356
+                },
+                {
+                    "lat": 47.221,
+                    "lon": -82.631
+                },
+                {
+                    "lat": 48.2543,
+                    "lon": -82.6293
+                },
+                {
+                    "lat": 48.2526,
+                    "lon": -81.0729
+                },
+                {
+                    "lat": 47.581,
+                    "lon": -81.0762
+                }
+            ]
+        }
+    ]
+}
