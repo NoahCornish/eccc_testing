@@ -1,0 +1,53 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2809830352.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-09-24T14:57:21-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1909955913.2025,2025-09-24T12:05:55-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0400368363.2025,2025-09-24T14:10:31-00:00",
+    "headline": "fog advisory ended",
+    "event": "fog",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-09-24T14:57:21-00:00",
+    "expires": "2025-09-24T15:57:21-00:00",
+    "description": "\nVisibilities have improved and are no longer expected to meet fog advisory criteria.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Nipigon - Rossport",
+            "polygon": [
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                },
+                {
+                    "lat": 49.1129,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.1383,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 48.4447,
+                    "lon": -87.4467
+                },
+                {
+                    "lat": 48.475,
+                    "lon": -87.9958
+                },
+                {
+                    "lat": 48.6611,
+                    "lon": -88.1405
+                },
+                {
+                    "lat": 49.1101,
+                    "lon": -88.6636
+                }
+            ]
+        }
+    ]
+}
