@@ -1627,6 +1627,63 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.0485897590.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-09-25T17:00:41-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2023959179.2025,2025-09-25T09:03:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2751001962.2025,2025-09-25T11:52:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3406936104.2025,2025-09-25T15:00:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0407054616.2025,2025-09-25T15:03:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2841674105.2025,2025-09-25T16:09:34-00:00",
+            "headline": "fog advisory in effect",
+            "event": "fog",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-09-25T17:00:41-00:00",
+            "expires": "2025-09-25T22:02:41-00:00",
+            "description": "\nDense fog has developed and near zero visibility continues in some locales. Visibility will improve as the fog starts to dissipate early this afternoon.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Marathon - Schreiber",
+                    "polygon": [
+                        {
+                            "lat": 48.4447,
+                            "lon": -87.4467
+                        },
+                        {
+                            "lat": 49.1383,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 48.8844,
+                            "lon": -85.9469
+                        },
+                        {
+                            "lat": 48.7455,
+                            "lon": -86.0931
+                        },
+                        {
+                            "lat": 48.5796,
+                            "lon": -86.2679
+                        },
+                        {
+                            "lat": 48.5745,
+                            "lon": -86.2839
+                        },
+                        {
+                            "lat": 48.2984,
+                            "lon": -86.5309
+                        },
+                        {
+                            "lat": 48.4447,
+                            "lon": -87.4467
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
