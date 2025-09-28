@@ -1,9 +1,142 @@
 {
     "alerts": [
         {
-            "identifier": "urn:oid:2.49.0.1.124.2023959179.2025",
+            "identifier": "urn:oid:2.49.0.1.124.1311153684.2025",
             "sender": "cap-pac@canada.ca",
-            "sent": "2025-09-25T09:03:03-00:00",
+            "sent": "2025-09-28T10:29:50-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.4224873418.2025,2025-09-28T10:28:16-00:00",
+            "headline": "fog advisory in effect",
+            "event": "fog",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-09-28T10:28:16-00:00",
+            "expires": "2025-09-28T15:48:16-00:00",
+            "description": "\nNear zero visibility in fog is expected or occurring.\n\nLocally dense fog will persist into early this morning before dissipating.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": null,
+            "affected_areas": [
+                {
+                    "area_description": "North Bay - Powassan - Mattawa",
+                    "polygon": [
+                        {
+                            "lat": 46.3783,
+                            "lon": -78.6857
+                        },
+                        {
+                            "lat": 46.344,
+                            "lon": -78.6878
+                        },
+                        {
+                            "lat": 46.3403,
+                            "lon": -78.5836
+                        },
+                        {
+                            "lat": 46.3158,
+                            "lon": -78.4765
+                        },
+                        {
+                            "lat": 46.3144,
+                            "lon": -78.3748
+                        },
+                        {
+                            "lat": 46.2912,
+                            "lon": -78.3344
+                        },
+                        {
+                            "lat": 46.2631,
+                            "lon": -78.3382
+                        },
+                        {
+                            "lat": 46.2607,
+                            "lon": -78.3417
+                        },
+                        {
+                            "lat": 46.2468,
+                            "lon": -78.3597
+                        },
+                        {
+                            "lat": 46.2441,
+                            "lon": -78.3696
+                        },
+                        {
+                            "lat": 46.1756,
+                            "lon": -78.6213
+                        },
+                        {
+                            "lat": 45.9989,
+                            "lon": -79.2711
+                        },
+                        {
+                            "lat": 45.9261,
+                            "lon": -79.5385
+                        },
+                        {
+                            "lat": 46.1138,
+                            "lon": -79.5388
+                        },
+                        {
+                            "lat": 46.3273,
+                            "lon": -79.5554
+                        },
+                        {
+                            "lat": 46.554,
+                            "lon": -79.5386
+                        },
+                        {
+                            "lat": 46.7145,
+                            "lon": -79.5386
+                        },
+                        {
+                            "lat": 46.7147,
+                            "lon": -79.151
+                        },
+                        {
+                            "lat": 46.7147,
+                            "lon": -79.1099
+                        },
+                        {
+                            "lat": 46.7145,
+                            "lon": -79.1058
+                        },
+                        {
+                            "lat": 46.7207,
+                            "lon": -79.0624
+                        },
+                        {
+                            "lat": 46.6951,
+                            "lon": -79.0486
+                        },
+                        {
+                            "lat": 46.6586,
+                            "lon": -78.984
+                        },
+                        {
+                            "lat": 46.5625,
+                            "lon": -78.953
+                        },
+                        {
+                            "lat": 46.4674,
+                            "lon": -78.8477
+                        },
+                        {
+                            "lat": 46.403,
+                            "lon": -78.7063
+                        },
+                        {
+                            "lat": 46.3783,
+                            "lon": -78.6857
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.4224873418.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-09-28T10:28:16-00:00",
             "status": "Actual",
             "msgType": "Alert",
             "scope": "Public",
@@ -13,1730 +146,121 @@
             "urgency": "Future",
             "severity": "Moderate",
             "certainty": "Likely",
-            "effective": "2025-09-25T09:03:03-00:00",
-            "expires": "2025-09-25T15:02:03-00:00",
-            "description": "\nDense fog has developed and near zero visibility is expected in some locales early this morning. Visibility will improve as the fog starts to dissipate this morning.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
-            "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
-            "affected_areas": [
-                {
-                    "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
-                    "polygon": [
-                        {
-                            "lat": 49.1616,
-                            "lon": -82.6268
-                        },
-                        {
-                            "lat": 49.1609,
-                            "lon": -84.0021
-                        },
-                        {
-                            "lat": 49.9497,
-                            "lon": -84.021
-                        },
-                        {
-                            "lat": 49.9497,
-                            "lon": -84.0149
-                        },
-                        {
-                            "lat": 49.5091,
-                            "lon": -81.4419
-                        },
-                        {
-                            "lat": 49.1637,
-                            "lon": -81.4426
-                        },
-                        {
-                            "lat": 49.1616,
-                            "lon": -82.6268
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Timmins - Cochrane - Iroquois Falls",
-                    "polygon": [
-                        {
-                            "lat": 48.6069,
-                            "lon": -79.5174
-                        },
-                        {
-                            "lat": 48.5243,
-                            "lon": -79.5062
-                        },
-                        {
-                            "lat": 48.4498,
-                            "lon": -79.5174
-                        },
-                        {
-                            "lat": 48.3417,
-                            "lon": -79.5072
-                        },
-                        {
-                            "lat": 48.2511,
-                            "lon": -79.5175
-                        },
-                        {
-                            "lat": 48.2526,
-                            "lon": -81.0729
-                        },
-                        {
-                            "lat": 48.2543,
-                            "lon": -82.6293
-                        },
-                        {
-                            "lat": 49.1616,
-                            "lon": -82.6268
-                        },
-                        {
-                            "lat": 49.1637,
-                            "lon": -81.4426
-                        },
-                        {
-                            "lat": 49.5091,
-                            "lon": -81.4419
-                        },
-                        {
-                            "lat": 49.1428,
-                            "lon": -79.5172
-                        },
-                        {
-                            "lat": 48.9319,
-                            "lon": -79.5076
-                        },
-                        {
-                            "lat": 48.6069,
-                            "lon": -79.5174
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Chapleau - Missinaibi Lake",
-                    "polygon": [
-                        {
-                            "lat": 47.2211,
-                            "lon": -83.9911
-                        },
-                        {
-                            "lat": 47.2516,
-                            "lon": -83.9912
-                        },
-                        {
-                            "lat": 48.1107,
-                            "lon": -83.9939
-                        },
-                        {
-                            "lat": 48.5499,
-                            "lon": -84.002
-                        },
-                        {
-                            "lat": 48.5501,
-                            "lon": -84.002
-                        },
-                        {
-                            "lat": 48.5526,
-                            "lon": -84.0021
-                        },
-                        {
-                            "lat": 49.1609,
-                            "lon": -84.0021
-                        },
-                        {
-                            "lat": 49.1616,
-                            "lon": -82.6268
-                        },
-                        {
-                            "lat": 48.2543,
-                            "lon": -82.6293
-                        },
-                        {
-                            "lat": 47.221,
-                            "lon": -82.631
-                        },
-                        {
-                            "lat": 47.2211,
-                            "lon": -83.9911
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Gogama - Foleyet",
-                    "polygon": [
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        },
-                        {
-                            "lat": 46.97,
-                            "lon": -81.0754
-                        },
-                        {
-                            "lat": 46.9696,
-                            "lon": -81.939
-                        },
-                        {
-                            "lat": 46.9695,
-                            "lon": -82.6356
-                        },
-                        {
-                            "lat": 47.221,
-                            "lon": -82.631
-                        },
-                        {
-                            "lat": 48.2543,
-                            "lon": -82.6293
-                        },
-                        {
-                            "lat": 48.2526,
-                            "lon": -81.0729
-                        },
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Kirkland Lake - Englehart",
-                    "polygon": [
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        },
-                        {
-                            "lat": 48.2526,
-                            "lon": -81.0729
-                        },
-                        {
-                            "lat": 48.2511,
-                            "lon": -79.5175
-                        },
-                        {
-                            "lat": 47.833,
-                            "lon": -79.5176
-                        },
-                        {
-                            "lat": 47.6938,
-                            "lon": -79.5064
-                        },
-                        {
-                            "lat": 47.5701,
-                            "lon": -79.5175
-                        },
-                        {
-                            "lat": 47.5715,
-                            "lon": -79.6092
-                        },
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.2751001962.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-09-25T11:52:30-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2023959179.2025,2025-09-25T09:03:03-00:00",
-            "headline": "fog advisory in effect",
-            "event": "fog",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Likely",
-            "effective": "2025-09-25T11:52:30-00:00",
-            "expires": "2025-09-25T17:51:30-00:00",
-            "description": "\nDense fog has developed and near zero visibility is expected in some locales early this morning. Visibility will improve as the fog starts to dissipate this morning.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
-            "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
-            "affected_areas": [
-                {
-                    "area_description": "City of Thunder Bay",
-                    "polygon": [
-                        {
-                            "lat": 48.5448,
-                            "lon": -89.0388
-                        },
-                        {
-                            "lat": 48.5001,
-                            "lon": -89.0231
-                        },
-                        {
-                            "lat": 48.4482,
-                            "lon": -89.0071
-                        },
-                        {
-                            "lat": 48.3079,
-                            "lon": -89.1102
-                        },
-                        {
-                            "lat": 48.3096,
-                            "lon": -89.1933
-                        },
-                        {
-                            "lat": 48.3065,
-                            "lon": -89.2028
-                        },
-                        {
-                            "lat": 48.3101,
-                            "lon": -89.2143
-                        },
-                        {
-                            "lat": 48.3119,
-                            "lon": -89.271
-                        },
-                        {
-                            "lat": 48.334,
-                            "lon": -89.3597
-                        },
-                        {
-                            "lat": 48.3528,
-                            "lon": -89.3957
-                        },
-                        {
-                            "lat": 48.3838,
-                            "lon": -89.4298
-                        },
-                        {
-                            "lat": 48.4198,
-                            "lon": -89.4449
-                        },
-                        {
-                            "lat": 48.484,
-                            "lon": -89.432
-                        },
-                        {
-                            "lat": 48.519,
-                            "lon": -89.4061
-                        },
-                        {
-                            "lat": 48.551,
-                            "lon": -89.3458
-                        },
-                        {
-                            "lat": 48.59,
-                            "lon": -89.1847
-                        },
-                        {
-                            "lat": 48.5859,
-                            "lon": -89.1228
-                        },
-                        {
-                            "lat": 48.568,
-                            "lon": -89.0639
-                        },
-                        {
-                            "lat": 48.5448,
-                            "lon": -89.0388
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Manitouwadge - Hornepayne",
-                    "polygon": [
-                        {
-                            "lat": 48.5501,
-                            "lon": -84.002
-                        },
-                        {
-                            "lat": 48.5499,
-                            "lon": -84.002
-                        },
-                        {
-                            "lat": 48.5511,
-                            "lon": -84.0089
-                        },
-                        {
-                            "lat": 48.8844,
-                            "lon": -85.9469
-                        },
-                        {
-                            "lat": 49.9546,
-                            "lon": -85.9469
-                        },
-                        {
-                            "lat": 49.9497,
-                            "lon": -84.021
-                        },
-                        {
-                            "lat": 49.1609,
-                            "lon": -84.0021
-                        },
-                        {
-                            "lat": 48.5526,
-                            "lon": -84.0021
-                        },
-                        {
-                            "lat": 48.5501,
-                            "lon": -84.002
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Cloud Bay - Dorion",
-                    "polygon": [
-                        {
-                            "lat": 48.2896,
-                            "lon": -88.9702
-                        },
-                        {
-                            "lat": 48.5107,
-                            "lon": -88.828
-                        },
-                        {
-                            "lat": 48.4482,
-                            "lon": -89.0071
-                        },
-                        {
-                            "lat": 48.5001,
-                            "lon": -89.0231
-                        },
-                        {
-                            "lat": 48.5448,
-                            "lon": -89.0388
-                        },
-                        {
-                            "lat": 48.568,
-                            "lon": -89.0639
-                        },
-                        {
-                            "lat": 48.5859,
-                            "lon": -89.1228
-                        },
-                        {
-                            "lat": 48.59,
-                            "lon": -89.1847
-                        },
-                        {
-                            "lat": 48.551,
-                            "lon": -89.3458
-                        },
-                        {
-                            "lat": 48.519,
-                            "lon": -89.4061
-                        },
-                        {
-                            "lat": 48.484,
-                            "lon": -89.432
-                        },
-                        {
-                            "lat": 48.4198,
-                            "lon": -89.4449
-                        },
-                        {
-                            "lat": 48.3838,
-                            "lon": -89.4298
-                        },
-                        {
-                            "lat": 48.3528,
-                            "lon": -89.3957
-                        },
-                        {
-                            "lat": 48.334,
-                            "lon": -89.3597
-                        },
-                        {
-                            "lat": 48.3119,
-                            "lon": -89.271
-                        },
-                        {
-                            "lat": 48.3101,
-                            "lon": -89.2143
-                        },
-                        {
-                            "lat": 48.3065,
-                            "lon": -89.2028
-                        },
-                        {
-                            "lat": 48.3096,
-                            "lon": -89.1933
-                        },
-                        {
-                            "lat": 48.3079,
-                            "lon": -89.1102
-                        },
-                        {
-                            "lat": 48.2327,
-                            "lon": -88.9231
-                        },
-                        {
-                            "lat": 48.034,
-                            "lon": -89.2481
-                        },
-                        {
-                            "lat": 47.9704,
-                            "lon": -89.6069
-                        },
-                        {
-                            "lat": 48.0095,
-                            "lon": -89.6337
-                        },
-                        {
-                            "lat": 48.7365,
-                            "lon": -89.3858
-                        },
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        },
-                        {
-                            "lat": 48.6611,
-                            "lon": -88.1405
-                        },
-                        {
-                            "lat": 48.475,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 48.3327,
-                            "lon": -88.5412
-                        },
-                        {
-                            "lat": 48.2896,
-                            "lon": -88.9702
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Nipigon - Rossport",
-                    "polygon": [
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        },
-                        {
-                            "lat": 49.1129,
-                            "lon": -88.5445
-                        },
-                        {
-                            "lat": 49.1383,
-                            "lon": -87.4321
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        },
-                        {
-                            "lat": 48.475,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 48.6611,
-                            "lon": -88.1405
-                        },
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Marathon - Schreiber",
-                    "polygon": [
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        },
-                        {
-                            "lat": 49.1383,
-                            "lon": -87.4321
-                        },
-                        {
-                            "lat": 48.8844,
-                            "lon": -85.9469
-                        },
-                        {
-                            "lat": 48.7455,
-                            "lon": -86.0931
-                        },
-                        {
-                            "lat": 48.5796,
-                            "lon": -86.2679
-                        },
-                        {
-                            "lat": 48.5745,
-                            "lon": -86.2839
-                        },
-                        {
-                            "lat": 48.2984,
-                            "lon": -86.5309
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        }
-                    ]
-                },
-                {
-                    "area_description": "White River - Dubreuilville",
-                    "polygon": [
-                        {
-                            "lat": 48.0981,
-                            "lon": -84.2352
-                        },
-                        {
-                            "lat": 48.0978,
-                            "lon": -84.2401
-                        },
-                        {
-                            "lat": 48.2896,
-                            "lon": -85.2219
-                        },
-                        {
-                            "lat": 48.7455,
-                            "lon": -86.0931
-                        },
-                        {
-                            "lat": 48.8844,
-                            "lon": -85.9469
-                        },
-                        {
-                            "lat": 48.5511,
-                            "lon": -84.0089
-                        },
-                        {
-                            "lat": 48.5499,
-                            "lon": -84.002
-                        },
-                        {
-                            "lat": 48.1107,
-                            "lon": -83.9939
-                        },
-                        {
-                            "lat": 48.1106,
-                            "lon": -83.996
-                        },
-                        {
-                            "lat": 48.0981,
-                            "lon": -84.2352
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Kapuskasing - Hearst - Smooth Rock Falls",
-                    "polygon": [
-                        {
-                            "lat": 49.1616,
-                            "lon": -82.6268
-                        },
-                        {
-                            "lat": 49.1609,
-                            "lon": -84.0021
-                        },
-                        {
-                            "lat": 49.9497,
-                            "lon": -84.021
-                        },
-                        {
-                            "lat": 49.9497,
-                            "lon": -84.0149
-                        },
-                        {
-                            "lat": 49.5091,
-                            "lon": -81.4419
-                        },
-                        {
-                            "lat": 49.1637,
-                            "lon": -81.4426
-                        },
-                        {
-                            "lat": 49.1616,
-                            "lon": -82.6268
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Timmins - Cochrane - Iroquois Falls",
-                    "polygon": [
-                        {
-                            "lat": 48.6069,
-                            "lon": -79.5174
-                        },
-                        {
-                            "lat": 48.5243,
-                            "lon": -79.5062
-                        },
-                        {
-                            "lat": 48.4498,
-                            "lon": -79.5174
-                        },
-                        {
-                            "lat": 48.3417,
-                            "lon": -79.5072
-                        },
-                        {
-                            "lat": 48.2511,
-                            "lon": -79.5175
-                        },
-                        {
-                            "lat": 48.2526,
-                            "lon": -81.0729
-                        },
-                        {
-                            "lat": 48.2543,
-                            "lon": -82.6293
-                        },
-                        {
-                            "lat": 49.1616,
-                            "lon": -82.6268
-                        },
-                        {
-                            "lat": 49.1637,
-                            "lon": -81.4426
-                        },
-                        {
-                            "lat": 49.5091,
-                            "lon": -81.4419
-                        },
-                        {
-                            "lat": 49.1428,
-                            "lon": -79.5172
-                        },
-                        {
-                            "lat": 48.9319,
-                            "lon": -79.5076
-                        },
-                        {
-                            "lat": 48.6069,
-                            "lon": -79.5174
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Chapleau - Missinaibi Lake",
-                    "polygon": [
-                        {
-                            "lat": 47.2211,
-                            "lon": -83.9911
-                        },
-                        {
-                            "lat": 47.2516,
-                            "lon": -83.9912
-                        },
-                        {
-                            "lat": 48.1107,
-                            "lon": -83.9939
-                        },
-                        {
-                            "lat": 48.5499,
-                            "lon": -84.002
-                        },
-                        {
-                            "lat": 48.5501,
-                            "lon": -84.002
-                        },
-                        {
-                            "lat": 48.5526,
-                            "lon": -84.0021
-                        },
-                        {
-                            "lat": 49.1609,
-                            "lon": -84.0021
-                        },
-                        {
-                            "lat": 49.1616,
-                            "lon": -82.6268
-                        },
-                        {
-                            "lat": 48.2543,
-                            "lon": -82.6293
-                        },
-                        {
-                            "lat": 47.221,
-                            "lon": -82.631
-                        },
-                        {
-                            "lat": 47.2211,
-                            "lon": -83.9911
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Gogama - Foleyet",
-                    "polygon": [
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        },
-                        {
-                            "lat": 46.97,
-                            "lon": -81.0754
-                        },
-                        {
-                            "lat": 46.9696,
-                            "lon": -81.939
-                        },
-                        {
-                            "lat": 46.9695,
-                            "lon": -82.6356
-                        },
-                        {
-                            "lat": 47.221,
-                            "lon": -82.631
-                        },
-                        {
-                            "lat": 48.2543,
-                            "lon": -82.6293
-                        },
-                        {
-                            "lat": 48.2526,
-                            "lon": -81.0729
-                        },
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Kirkland Lake - Englehart",
-                    "polygon": [
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        },
-                        {
-                            "lat": 48.2526,
-                            "lon": -81.0729
-                        },
-                        {
-                            "lat": 48.2511,
-                            "lon": -79.5175
-                        },
-                        {
-                            "lat": 47.833,
-                            "lon": -79.5176
-                        },
-                        {
-                            "lat": 47.6938,
-                            "lon": -79.5064
-                        },
-                        {
-                            "lat": 47.5701,
-                            "lon": -79.5175
-                        },
-                        {
-                            "lat": 47.5715,
-                            "lon": -79.6092
-                        },
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.3406936104.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-09-25T15:00:41-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2023959179.2025,2025-09-25T09:03:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2751001962.2025,2025-09-25T11:52:30-00:00",
-            "headline": "fog advisory in effect",
-            "event": "fog",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Likely",
-            "effective": "2025-09-25T15:00:41-00:00",
-            "expires": "2025-09-25T20:02:41-00:00",
-            "description": "\nDense fog has developed and near zero visibility continues in some locales. Visibility will improve as the fog starts to dissipate early this afternoon.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
-            "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
-            "affected_areas": [
-                {
-                    "area_description": "City of Thunder Bay",
-                    "polygon": [
-                        {
-                            "lat": 48.5448,
-                            "lon": -89.0388
-                        },
-                        {
-                            "lat": 48.5001,
-                            "lon": -89.0231
-                        },
-                        {
-                            "lat": 48.4482,
-                            "lon": -89.0071
-                        },
-                        {
-                            "lat": 48.3079,
-                            "lon": -89.1102
-                        },
-                        {
-                            "lat": 48.3096,
-                            "lon": -89.1933
-                        },
-                        {
-                            "lat": 48.3065,
-                            "lon": -89.2028
-                        },
-                        {
-                            "lat": 48.3101,
-                            "lon": -89.2143
-                        },
-                        {
-                            "lat": 48.3119,
-                            "lon": -89.271
-                        },
-                        {
-                            "lat": 48.334,
-                            "lon": -89.3597
-                        },
-                        {
-                            "lat": 48.3528,
-                            "lon": -89.3957
-                        },
-                        {
-                            "lat": 48.3838,
-                            "lon": -89.4298
-                        },
-                        {
-                            "lat": 48.4198,
-                            "lon": -89.4449
-                        },
-                        {
-                            "lat": 48.484,
-                            "lon": -89.432
-                        },
-                        {
-                            "lat": 48.519,
-                            "lon": -89.4061
-                        },
-                        {
-                            "lat": 48.551,
-                            "lon": -89.3458
-                        },
-                        {
-                            "lat": 48.59,
-                            "lon": -89.1847
-                        },
-                        {
-                            "lat": 48.5859,
-                            "lon": -89.1228
-                        },
-                        {
-                            "lat": 48.568,
-                            "lon": -89.0639
-                        },
-                        {
-                            "lat": 48.5448,
-                            "lon": -89.0388
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Cloud Bay - Dorion",
-                    "polygon": [
-                        {
-                            "lat": 48.2896,
-                            "lon": -88.9702
-                        },
-                        {
-                            "lat": 48.5107,
-                            "lon": -88.828
-                        },
-                        {
-                            "lat": 48.4482,
-                            "lon": -89.0071
-                        },
-                        {
-                            "lat": 48.5001,
-                            "lon": -89.0231
-                        },
-                        {
-                            "lat": 48.5448,
-                            "lon": -89.0388
-                        },
-                        {
-                            "lat": 48.568,
-                            "lon": -89.0639
-                        },
-                        {
-                            "lat": 48.5859,
-                            "lon": -89.1228
-                        },
-                        {
-                            "lat": 48.59,
-                            "lon": -89.1847
-                        },
-                        {
-                            "lat": 48.551,
-                            "lon": -89.3458
-                        },
-                        {
-                            "lat": 48.519,
-                            "lon": -89.4061
-                        },
-                        {
-                            "lat": 48.484,
-                            "lon": -89.432
-                        },
-                        {
-                            "lat": 48.4198,
-                            "lon": -89.4449
-                        },
-                        {
-                            "lat": 48.3838,
-                            "lon": -89.4298
-                        },
-                        {
-                            "lat": 48.3528,
-                            "lon": -89.3957
-                        },
-                        {
-                            "lat": 48.334,
-                            "lon": -89.3597
-                        },
-                        {
-                            "lat": 48.3119,
-                            "lon": -89.271
-                        },
-                        {
-                            "lat": 48.3101,
-                            "lon": -89.2143
-                        },
-                        {
-                            "lat": 48.3065,
-                            "lon": -89.2028
-                        },
-                        {
-                            "lat": 48.3096,
-                            "lon": -89.1933
-                        },
-                        {
-                            "lat": 48.3079,
-                            "lon": -89.1102
-                        },
-                        {
-                            "lat": 48.2327,
-                            "lon": -88.9231
-                        },
-                        {
-                            "lat": 48.034,
-                            "lon": -89.2481
-                        },
-                        {
-                            "lat": 47.9704,
-                            "lon": -89.6069
-                        },
-                        {
-                            "lat": 48.0095,
-                            "lon": -89.6337
-                        },
-                        {
-                            "lat": 48.7365,
-                            "lon": -89.3858
-                        },
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        },
-                        {
-                            "lat": 48.6611,
-                            "lon": -88.1405
-                        },
-                        {
-                            "lat": 48.475,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 48.3327,
-                            "lon": -88.5412
-                        },
-                        {
-                            "lat": 48.2896,
-                            "lon": -88.9702
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Nipigon - Rossport",
-                    "polygon": [
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        },
-                        {
-                            "lat": 49.1129,
-                            "lon": -88.5445
-                        },
-                        {
-                            "lat": 49.1383,
-                            "lon": -87.4321
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        },
-                        {
-                            "lat": 48.475,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 48.6611,
-                            "lon": -88.1405
-                        },
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Marathon - Schreiber",
-                    "polygon": [
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        },
-                        {
-                            "lat": 49.1383,
-                            "lon": -87.4321
-                        },
-                        {
-                            "lat": 48.8844,
-                            "lon": -85.9469
-                        },
-                        {
-                            "lat": 48.7455,
-                            "lon": -86.0931
-                        },
-                        {
-                            "lat": 48.5796,
-                            "lon": -86.2679
-                        },
-                        {
-                            "lat": 48.5745,
-                            "lon": -86.2839
-                        },
-                        {
-                            "lat": 48.2984,
-                            "lon": -86.5309
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Kirkland Lake - Englehart",
-                    "polygon": [
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        },
-                        {
-                            "lat": 48.2526,
-                            "lon": -81.0729
-                        },
-                        {
-                            "lat": 48.2511,
-                            "lon": -79.5175
-                        },
-                        {
-                            "lat": 47.833,
-                            "lon": -79.5176
-                        },
-                        {
-                            "lat": 47.6938,
-                            "lon": -79.5064
-                        },
-                        {
-                            "lat": 47.5701,
-                            "lon": -79.5175
-                        },
-                        {
-                            "lat": 47.5715,
-                            "lon": -79.6092
-                        },
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.0407054616.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-09-25T15:03:49-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2023959179.2025,2025-09-25T09:03:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2751001962.2025,2025-09-25T11:52:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3406936104.2025,2025-09-25T15:00:41-00:00",
-            "headline": "fog advisory in effect",
-            "event": "fog",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Likely",
-            "effective": "2025-09-25T15:03:49-00:00",
-            "expires": "2025-09-25T20:05:49-00:00",
-            "description": "\nDense fog has developed and near zero visibility continues in some locales. Visibility will improve as the fog starts to dissipate early this afternoon.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
-            "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
-            "affected_areas": [
-                {
-                    "area_description": "Cloud Bay - Dorion",
-                    "polygon": [
-                        {
-                            "lat": 48.2896,
-                            "lon": -88.9702
-                        },
-                        {
-                            "lat": 48.5107,
-                            "lon": -88.828
-                        },
-                        {
-                            "lat": 48.4482,
-                            "lon": -89.0071
-                        },
-                        {
-                            "lat": 48.5001,
-                            "lon": -89.0231
-                        },
-                        {
-                            "lat": 48.5448,
-                            "lon": -89.0388
-                        },
-                        {
-                            "lat": 48.568,
-                            "lon": -89.0639
-                        },
-                        {
-                            "lat": 48.5859,
-                            "lon": -89.1228
-                        },
-                        {
-                            "lat": 48.59,
-                            "lon": -89.1847
-                        },
-                        {
-                            "lat": 48.551,
-                            "lon": -89.3458
-                        },
-                        {
-                            "lat": 48.519,
-                            "lon": -89.4061
-                        },
-                        {
-                            "lat": 48.484,
-                            "lon": -89.432
-                        },
-                        {
-                            "lat": 48.4198,
-                            "lon": -89.4449
-                        },
-                        {
-                            "lat": 48.3838,
-                            "lon": -89.4298
-                        },
-                        {
-                            "lat": 48.3528,
-                            "lon": -89.3957
-                        },
-                        {
-                            "lat": 48.334,
-                            "lon": -89.3597
-                        },
-                        {
-                            "lat": 48.3119,
-                            "lon": -89.271
-                        },
-                        {
-                            "lat": 48.3101,
-                            "lon": -89.2143
-                        },
-                        {
-                            "lat": 48.3065,
-                            "lon": -89.2028
-                        },
-                        {
-                            "lat": 48.3096,
-                            "lon": -89.1933
-                        },
-                        {
-                            "lat": 48.3079,
-                            "lon": -89.1102
-                        },
-                        {
-                            "lat": 48.2327,
-                            "lon": -88.9231
-                        },
-                        {
-                            "lat": 48.034,
-                            "lon": -89.2481
-                        },
-                        {
-                            "lat": 47.9704,
-                            "lon": -89.6069
-                        },
-                        {
-                            "lat": 48.0095,
-                            "lon": -89.6337
-                        },
-                        {
-                            "lat": 48.7365,
-                            "lon": -89.3858
-                        },
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        },
-                        {
-                            "lat": 48.6611,
-                            "lon": -88.1405
-                        },
-                        {
-                            "lat": 48.475,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 48.3327,
-                            "lon": -88.5412
-                        },
-                        {
-                            "lat": 48.2896,
-                            "lon": -88.9702
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Nipigon - Rossport",
-                    "polygon": [
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        },
-                        {
-                            "lat": 49.1129,
-                            "lon": -88.5445
-                        },
-                        {
-                            "lat": 49.1383,
-                            "lon": -87.4321
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        },
-                        {
-                            "lat": 48.475,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 48.6611,
-                            "lon": -88.1405
-                        },
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Marathon - Schreiber",
-                    "polygon": [
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        },
-                        {
-                            "lat": 49.1383,
-                            "lon": -87.4321
-                        },
-                        {
-                            "lat": 48.8844,
-                            "lon": -85.9469
-                        },
-                        {
-                            "lat": 48.7455,
-                            "lon": -86.0931
-                        },
-                        {
-                            "lat": 48.5796,
-                            "lon": -86.2679
-                        },
-                        {
-                            "lat": 48.5745,
-                            "lon": -86.2839
-                        },
-                        {
-                            "lat": 48.2984,
-                            "lon": -86.5309
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Kirkland Lake - Englehart",
-                    "polygon": [
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        },
-                        {
-                            "lat": 48.2526,
-                            "lon": -81.0729
-                        },
-                        {
-                            "lat": 48.2511,
-                            "lon": -79.5175
-                        },
-                        {
-                            "lat": 47.833,
-                            "lon": -79.5176
-                        },
-                        {
-                            "lat": 47.6938,
-                            "lon": -79.5064
-                        },
-                        {
-                            "lat": 47.5701,
-                            "lon": -79.5175
-                        },
-                        {
-                            "lat": 47.5715,
-                            "lon": -79.6092
-                        },
-                        {
-                            "lat": 47.581,
-                            "lon": -81.0762
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.2841674105.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-09-25T16:09:34-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2023959179.2025,2025-09-25T09:03:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2751001962.2025,2025-09-25T11:52:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3406936104.2025,2025-09-25T15:00:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0407054616.2025,2025-09-25T15:03:49-00:00",
-            "headline": "fog advisory in effect",
-            "event": "fog",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Likely",
-            "effective": "2025-09-25T16:09:34-00:00",
-            "expires": "2025-09-25T21:11:34-00:00",
-            "description": "\nDense fog has developed and near zero visibility continues in some locales. Visibility will improve as the fog starts to dissipate early this afternoon.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
-            "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
-            "affected_areas": [
-                {
-                    "area_description": "Cloud Bay - Dorion",
-                    "polygon": [
-                        {
-                            "lat": 48.2896,
-                            "lon": -88.9702
-                        },
-                        {
-                            "lat": 48.5107,
-                            "lon": -88.828
-                        },
-                        {
-                            "lat": 48.4482,
-                            "lon": -89.0071
-                        },
-                        {
-                            "lat": 48.5001,
-                            "lon": -89.0231
-                        },
-                        {
-                            "lat": 48.5448,
-                            "lon": -89.0388
-                        },
-                        {
-                            "lat": 48.568,
-                            "lon": -89.0639
-                        },
-                        {
-                            "lat": 48.5859,
-                            "lon": -89.1228
-                        },
-                        {
-                            "lat": 48.59,
-                            "lon": -89.1847
-                        },
-                        {
-                            "lat": 48.551,
-                            "lon": -89.3458
-                        },
-                        {
-                            "lat": 48.519,
-                            "lon": -89.4061
-                        },
-                        {
-                            "lat": 48.484,
-                            "lon": -89.432
-                        },
-                        {
-                            "lat": 48.4198,
-                            "lon": -89.4449
-                        },
-                        {
-                            "lat": 48.3838,
-                            "lon": -89.4298
-                        },
-                        {
-                            "lat": 48.3528,
-                            "lon": -89.3957
-                        },
-                        {
-                            "lat": 48.334,
-                            "lon": -89.3597
-                        },
-                        {
-                            "lat": 48.3119,
-                            "lon": -89.271
-                        },
-                        {
-                            "lat": 48.3101,
-                            "lon": -89.2143
-                        },
-                        {
-                            "lat": 48.3065,
-                            "lon": -89.2028
-                        },
-                        {
-                            "lat": 48.3096,
-                            "lon": -89.1933
-                        },
-                        {
-                            "lat": 48.3079,
-                            "lon": -89.1102
-                        },
-                        {
-                            "lat": 48.2327,
-                            "lon": -88.9231
-                        },
-                        {
-                            "lat": 48.034,
-                            "lon": -89.2481
-                        },
-                        {
-                            "lat": 47.9704,
-                            "lon": -89.6069
-                        },
-                        {
-                            "lat": 48.0095,
-                            "lon": -89.6337
-                        },
-                        {
-                            "lat": 48.7365,
-                            "lon": -89.3858
-                        },
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        },
-                        {
-                            "lat": 48.6611,
-                            "lon": -88.1405
-                        },
-                        {
-                            "lat": 48.475,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 48.3327,
-                            "lon": -88.5412
-                        },
-                        {
-                            "lat": 48.2896,
-                            "lon": -88.9702
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Nipigon - Rossport",
-                    "polygon": [
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        },
-                        {
-                            "lat": 49.1129,
-                            "lon": -88.5445
-                        },
-                        {
-                            "lat": 49.1383,
-                            "lon": -87.4321
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        },
-                        {
-                            "lat": 48.475,
-                            "lon": -87.9958
-                        },
-                        {
-                            "lat": 48.6611,
-                            "lon": -88.1405
-                        },
-                        {
-                            "lat": 49.1101,
-                            "lon": -88.6636
-                        }
-                    ]
-                },
-                {
-                    "area_description": "Marathon - Schreiber",
-                    "polygon": [
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        },
-                        {
-                            "lat": 49.1383,
-                            "lon": -87.4321
-                        },
-                        {
-                            "lat": 48.8844,
-                            "lon": -85.9469
-                        },
-                        {
-                            "lat": 48.7455,
-                            "lon": -86.0931
-                        },
-                        {
-                            "lat": 48.5796,
-                            "lon": -86.2679
-                        },
-                        {
-                            "lat": 48.5745,
-                            "lon": -86.2839
-                        },
-                        {
-                            "lat": 48.2984,
-                            "lon": -86.5309
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.0485897590.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-09-25T17:00:41-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2023959179.2025,2025-09-25T09:03:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2751001962.2025,2025-09-25T11:52:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3406936104.2025,2025-09-25T15:00:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0407054616.2025,2025-09-25T15:03:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2841674105.2025,2025-09-25T16:09:34-00:00",
-            "headline": "fog advisory in effect",
-            "event": "fog",
-            "urgency": "Future",
-            "severity": "Moderate",
-            "certainty": "Likely",
-            "effective": "2025-09-25T17:00:41-00:00",
-            "expires": "2025-09-25T22:02:41-00:00",
-            "description": "\nDense fog has developed and near zero visibility continues in some locales. Visibility will improve as the fog starts to dissipate early this afternoon.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
-            "instruction": "\nIf visibility is reduced while driving, turn on your lights and maintain a safe following distance.\n",
-            "affected_areas": [
-                {
-                    "area_description": "Marathon - Schreiber",
-                    "polygon": [
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        },
-                        {
-                            "lat": 49.1383,
-                            "lon": -87.4321
-                        },
-                        {
-                            "lat": 48.8844,
-                            "lon": -85.9469
-                        },
-                        {
-                            "lat": 48.7455,
-                            "lon": -86.0931
-                        },
-                        {
-                            "lat": 48.5796,
-                            "lon": -86.2679
-                        },
-                        {
-                            "lat": 48.5745,
-                            "lon": -86.2839
-                        },
-                        {
-                            "lat": 48.2984,
-                            "lon": -86.5309
-                        },
-                        {
-                            "lat": 48.4447,
-                            "lon": -87.4467
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "urn:oid:2.49.0.1.124.2405927366.2025",
-            "sender": "cap-pac@canada.ca",
-            "sent": "2025-09-25T18:35:22-00:00",
-            "status": "Actual",
-            "msgType": "Update",
-            "scope": "Public",
-            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2023959179.2025,2025-09-25T09:03:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2751001962.2025,2025-09-25T11:52:30-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3406936104.2025,2025-09-25T15:00:41-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0407054616.2025,2025-09-25T15:03:49-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2841674105.2025,2025-09-25T16:09:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0485897590.2025,2025-09-25T17:00:41-00:00",
-            "headline": "fog advisory ended",
-            "event": "fog",
-            "urgency": "Past",
-            "severity": "Minor",
-            "certainty": "Observed",
-            "effective": "2025-09-25T18:35:22-00:00",
-            "expires": "2025-09-25T19:35:22-00:00",
-            "description": "\nVisibilities have improved and are no longer expected to meet fog advisory criteria.\n\n\n###\n",
+            "effective": "2025-09-28T10:28:16-00:00",
+            "expires": "2025-09-28T15:48:16-00:00",
+            "description": "\nNear zero visibility in fog is expected or occurring.\n\n###\n\nTravel is expected to be hazardous due to reduced visibility in some locations.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
             "instruction": null,
             "affected_areas": [
                 {
-                    "area_description": "Marathon - Schreiber",
+                    "area_description": "North Bay - Powassan - Mattawa",
                     "polygon": [
                         {
-                            "lat": 48.4447,
-                            "lon": -87.4467
+                            "lat": 46.3783,
+                            "lon": -78.6857
                         },
                         {
-                            "lat": 49.1383,
-                            "lon": -87.4321
+                            "lat": 46.344,
+                            "lon": -78.6878
                         },
                         {
-                            "lat": 48.8844,
-                            "lon": -85.9469
+                            "lat": 46.3403,
+                            "lon": -78.5836
                         },
                         {
-                            "lat": 48.7455,
-                            "lon": -86.0931
+                            "lat": 46.3158,
+                            "lon": -78.4765
                         },
                         {
-                            "lat": 48.5796,
-                            "lon": -86.2679
+                            "lat": 46.3144,
+                            "lon": -78.3748
                         },
                         {
-                            "lat": 48.5745,
-                            "lon": -86.2839
+                            "lat": 46.2912,
+                            "lon": -78.3344
                         },
                         {
-                            "lat": 48.2984,
-                            "lon": -86.5309
+                            "lat": 46.2631,
+                            "lon": -78.3382
                         },
                         {
-                            "lat": 48.4447,
-                            "lon": -87.4467
+                            "lat": 46.2607,
+                            "lon": -78.3417
+                        },
+                        {
+                            "lat": 46.2468,
+                            "lon": -78.3597
+                        },
+                        {
+                            "lat": 46.2441,
+                            "lon": -78.3696
+                        },
+                        {
+                            "lat": 46.1756,
+                            "lon": -78.6213
+                        },
+                        {
+                            "lat": 45.9989,
+                            "lon": -79.2711
+                        },
+                        {
+                            "lat": 45.9261,
+                            "lon": -79.5385
+                        },
+                        {
+                            "lat": 46.1138,
+                            "lon": -79.5388
+                        },
+                        {
+                            "lat": 46.3273,
+                            "lon": -79.5554
+                        },
+                        {
+                            "lat": 46.554,
+                            "lon": -79.5386
+                        },
+                        {
+                            "lat": 46.7145,
+                            "lon": -79.5386
+                        },
+                        {
+                            "lat": 46.7147,
+                            "lon": -79.151
+                        },
+                        {
+                            "lat": 46.7147,
+                            "lon": -79.1099
+                        },
+                        {
+                            "lat": 46.7145,
+                            "lon": -79.1058
+                        },
+                        {
+                            "lat": 46.7207,
+                            "lon": -79.0624
+                        },
+                        {
+                            "lat": 46.6951,
+                            "lon": -79.0486
+                        },
+                        {
+                            "lat": 46.6586,
+                            "lon": -78.984
+                        },
+                        {
+                            "lat": 46.5625,
+                            "lon": -78.953
+                        },
+                        {
+                            "lat": 46.4674,
+                            "lon": -78.8477
+                        },
+                        {
+                            "lat": 46.403,
+                            "lon": -78.7063
+                        },
+                        {
+                            "lat": 46.3783,
+                            "lon": -78.6857
                         }
                     ]
                 }
