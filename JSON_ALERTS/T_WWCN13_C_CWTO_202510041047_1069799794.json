@@ -1,0 +1,73 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.1069799794.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-10-04T10:47:43-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1751244329.2025,2025-10-04T03:24:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1736075130.2025,2025-10-04T08:41:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3701594220.2025,2025-10-04T09:06:47-00:00",
+    "headline": "severe thunderstorm watch ended",
+    "event": "thunderstorm",
+    "urgency": "Past",
+    "severity": "Minor",
+    "certainty": "Observed",
+    "effective": "2025-10-04T10:47:43-00:00",
+    "expires": "2025-10-04T11:47:43-00:00",
+    "description": "\nConditions are no longer favourable for the development of severe thunderstorms.\n\n\n###\n",
+    "instruction": null,
+    "affected_areas": [
+        {
+            "area_description": "Pikangikum - Poplar Hill - MacDowell",
+            "polygon": [
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.0344,
+                    "lon": -95.169
+                },
+                {
+                    "lat": 52.4201,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4841,
+                    "lon": -95.1536
+                },
+                {
+                    "lat": 52.4148,
+                    "lon": -93.4852
+                },
+                {
+                    "lat": 52.2405,
+                    "lon": -91.5246
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.4154,
+                    "lon": -93.733
+                },
+                {
+                    "lat": 51.4733,
+                    "lon": -93.9542
+                },
+                {
+                    "lat": 51.5309,
+                    "lon": -94.5283
+                },
+                {
+                    "lat": 51.6128,
+                    "lon": -95.1536
+                }
+            ]
+        }
+    ]
+}
