@@ -1,0 +1,115 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2815058659.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-10-05T17:00:34-00:00",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "references": null,
+    "headline": "severe thunderstorm watch in effect",
+    "event": "thunderstorm",
+    "urgency": "Expected",
+    "severity": "Severe",
+    "certainty": "Likely",
+    "effective": "2025-10-05T17:00:34-00:00",
+    "expires": "2025-10-06T05:03:34-00:00",
+    "description": "\nConditions are favourable for the development of dangerous thunderstorms that may be capable of producing damaging wind gusts.\n\nHazards:\nStrong wind gusts up to 100 km/h possible.\nRisk of tornadoes.\n\nTiming:\nThis afternoon into this evening.\n\nDiscussion:\nAn unseasonable mild and unstable air mass will allow for the development of severe thunderstorms this afternoon.  Any thunderstorms that develop may produce strong wind gusts up to 100 km/h. Some storms may have the potential to produce tornadoes, but confidence in the tornado threat is low.\n\n###\n\nUtility outages are possible. Significant damage to property, buildings and trees is possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+    "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+    "affected_areas": [
+        {
+            "area_description": "Savant Lake - Sturgeon Lake",
+            "polygon": [
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 49.5235,
+                    "lon": -90.0178
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                }
+            ]
+        },
+        {
+            "area_description": "Sioux Lookout - Eastern Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Armstrong - Auden - Wabakimi Park",
+            "polygon": [
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 51.1568,
+                    "lon": -87.9963
+                },
+                {
+                    "lat": 51.159,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9482,
+                    "lon": -87.4321
+                },
+                {
+                    "lat": 49.9338,
+                    "lon": -88.5445
+                }
+            ]
+        }
+    ]
+}
