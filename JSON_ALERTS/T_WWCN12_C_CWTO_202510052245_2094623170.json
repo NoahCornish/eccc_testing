@@ -1,0 +1,111 @@
+{
+    "identifier": "urn:oid:2.49.0.1.124.2094623170.2025",
+    "sender": "cap-pac@canada.ca",
+    "sent": "2025-10-05T22:45:47-00:00",
+    "status": "Actual",
+    "msgType": "Update",
+    "scope": "Public",
+    "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2867674135.2025,2025-10-04T10:51:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3871218023.2025,2025-10-04T17:09:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0288009852.2025,2025-10-04T17:11:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2093073606.2025,2025-10-05T03:56:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3205472934.2025,2025-10-05T09:11:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3084211160.2025,2025-10-05T09:16:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4061941931.2025,2025-10-05T16:46:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0508408003.2025,2025-10-05T16:47:46-00:00",
+    "headline": "rainfall warning in effect",
+    "event": "rainfall",
+    "urgency": "Future",
+    "severity": "Moderate",
+    "certainty": "Likely",
+    "effective": "2025-10-05T22:45:47-00:00",
+    "expires": "2025-10-06T05:59:47-00:00",
+    "description": "\nRain, at times heavy, is expected.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+    "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+    "affected_areas": [
+        {
+            "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 50.2367,
+                    "lon": -93.4874
+                },
+                {
+                    "lat": 50.8079,
+                    "lon": -93.5092
+                },
+                {
+                    "lat": 51.3669,
+                    "lon": -93.4873
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        },
+        {
+            "area_description": "Savant Lake - Sturgeon Lake",
+            "polygon": [
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                },
+                {
+                    "lat": 49.5235,
+                    "lon": -90.0178
+                },
+                {
+                    "lat": 49.5614,
+                    "lon": -90.2392
+                },
+                {
+                    "lat": 49.8681,
+                    "lon": -91.6834
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 51.1354,
+                    "lon": -89.9953
+                },
+                {
+                    "lat": 49.9131,
+                    "lon": -90.0123
+                }
+            ]
+        },
+        {
+            "area_description": "Sioux Lookout - Eastern Lac Seul",
+            "polygon": [
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                },
+                {
+                    "lat": 51.1193,
+                    "lon": -92.3388
+                },
+                {
+                    "lat": 51.1282,
+                    "lon": -91.0434
+                },
+                {
+                    "lat": 49.8683,
+                    "lon": -91.6842
+                },
+                {
+                    "lat": 50.1283,
+                    "lon": -92.9179
+                }
+            ]
+        }
+    ]
+}

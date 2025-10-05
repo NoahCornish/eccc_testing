@@ -12991,6 +12991,1255 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2366923948.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:43:54-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1696854573.2025,2025-10-05T16:58:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2252704417.2025,2025-10-05T21:36:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3905230369.2025,2025-10-05T21:38:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4092498748.2025,2025-10-05T22:42:53-00:00",
+            "headline": "severe thunderstorm watch in effect",
+            "event": "thunderstorm",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:42:53-00:00",
+            "expires": "2025-10-06T01:29:53-00:00",
+            "description": "\nConditions are favourable for the development of dangerous thunderstorms that may be capable of producing damaging wind gusts.\n\nHazards:\nStrong wind gusts up to 100 km/h possible.\n\nTiming:\nOver the next two hours.\n\nDiscussion:\nAn unseasonable mild and unstable air mass will allow for the development of severe thunderstorms this afternoon.  Any thunderstorms that develop may produce strong wind gusts up to 100 km/h.\n\n###\n\nUtility outages are possible. Significant damage to property, buildings and trees is possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+            "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Ignace - English River",
+                    "polygon": [
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        },
+                        {
+                            "lat": 48.9922,
+                            "lon": -91.2145
+                        },
+                        {
+                            "lat": 49.0644,
+                            "lon": -92.7424
+                        },
+                        {
+                            "lat": 49.8671,
+                            "lon": -91.6848
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 49.8681,
+                            "lon": -91.6834
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.4092498748.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:42:53-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1696854573.2025,2025-10-05T16:58:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2252704417.2025,2025-10-05T21:36:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3905230369.2025,2025-10-05T21:38:03-00:00",
+            "headline": "severe thunderstorm watch in effect",
+            "event": "thunderstorm",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:42:53-00:00",
+            "expires": "2025-10-06T01:29:53-00:00",
+            "description": "\nConditions are favourable for the development of dangerous thunderstorms that may be capable of producing damaging wind gusts.\n\n###\n\nUtility outages are possible. Significant damage to property, buildings and trees is possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+            "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Ignace - English River",
+                    "polygon": [
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        },
+                        {
+                            "lat": 48.9922,
+                            "lon": -91.2145
+                        },
+                        {
+                            "lat": 49.0644,
+                            "lon": -92.7424
+                        },
+                        {
+                            "lat": 49.8671,
+                            "lon": -91.6848
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 49.8681,
+                            "lon": -91.6834
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.0792119016.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:44:20-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2815058659.2025,2025-10-05T17:00:34-00:00",
+            "headline": "severe thunderstorm watch in effect",
+            "event": "thunderstorm",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:44:20-00:00",
+            "expires": "2025-10-06T04:59:20-00:00",
+            "description": "\nConditions are favourable for the development of dangerous thunderstorms that may be capable of producing damaging wind gusts.\n\n###\n\nUtility outages are possible. Significant damage to property, buildings and trees is possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+            "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Savant Lake - Sturgeon Lake",
+                    "polygon": [
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 49.5235,
+                            "lon": -90.0178
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 49.8681,
+                            "lon": -91.6834
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Armstrong - Auden - Wabakimi Park",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3747055964.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:46:16-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2815058659.2025,2025-10-05T17:00:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0792119016.2025,2025-10-05T22:44:20-00:00",
+            "headline": "severe thunderstorm watch in effect",
+            "event": "thunderstorm",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:44:20-00:00",
+            "expires": "2025-10-06T04:59:20-00:00",
+            "description": "\nConditions are favourable for the development of dangerous thunderstorms that may be capable of producing damaging wind gusts.\n\nHazards:\nStrong wind gusts up to 100 km/h possible.\nRisk of tornadoes.\n\nTiming:\nContinuing into this evening.\n\nDiscussion:\nAn unseasonable mild and unstable air mass will allow for the development of severe thunderstorms into this evening.  Any thunderstorms that develop may produce strong wind gusts up to 100 km/h. Some storms may have the potential to produce tornadoes, but confidence in the tornado threat is low.\n\n###\n\nUtility outages are possible. Significant damage to property, buildings and trees is possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+            "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Savant Lake - Sturgeon Lake",
+                    "polygon": [
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 49.5235,
+                            "lon": -90.0178
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 49.8681,
+                            "lon": -91.6834
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Armstrong - Auden - Wabakimi Park",
+                    "polygon": [
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9482,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 49.9338,
+                            "lon": -88.5445
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.0417815389.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:47:16-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2867674135.2025,2025-10-04T10:51:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3871218023.2025,2025-10-04T17:09:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0288009852.2025,2025-10-04T17:11:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2093073606.2025,2025-10-05T03:56:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3205472934.2025,2025-10-05T09:11:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3084211160.2025,2025-10-05T09:16:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4061941931.2025,2025-10-05T16:46:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0508408003.2025,2025-10-05T16:47:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2094623170.2025,2025-10-05T22:45:47-00:00",
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:45:47-00:00",
+            "expires": "2025-10-06T05:59:47-00:00",
+            "description": "\nRain, at times heavy, is expected.\n\nWhat:\nTotal rainfall amounts of 50 to 75 mm. Amounts in excess of 75 mm are possible for areas that receive multiple thunderstorms.\n\nWhen:\nTapering off this evening.\n\nAdditional information:\nShowers, at times heavy, and thunderstorms are expected to move through northwestern Ontario ahead of a low pressure system. The significant rainfall will move from southwest to northeast, with multiple rounds of heavy showers possible for some areas, before tapering off this evening. \n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+                    "polygon": [
+                        {
+                            "lat": 50.1283,
+                            "lon": -92.9179
+                        },
+                        {
+                            "lat": 50.2367,
+                            "lon": -93.4874
+                        },
+                        {
+                            "lat": 50.8079,
+                            "lon": -93.5092
+                        },
+                        {
+                            "lat": 51.3669,
+                            "lon": -93.4873
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 50.1283,
+                            "lon": -92.9179
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Savant Lake - Sturgeon Lake",
+                    "polygon": [
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 49.5235,
+                            "lon": -90.0178
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 49.8681,
+                            "lon": -91.6834
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Sioux Lookout - Eastern Lac Seul",
+                    "polygon": [
+                        {
+                            "lat": 50.1283,
+                            "lon": -92.9179
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 50.1283,
+                            "lon": -92.9179
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.2094623170.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:45:47-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.2867674135.2025,2025-10-04T10:51:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3871218023.2025,2025-10-04T17:09:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0288009852.2025,2025-10-04T17:11:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2093073606.2025,2025-10-05T03:56:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3205472934.2025,2025-10-05T09:11:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3084211160.2025,2025-10-05T09:16:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4061941931.2025,2025-10-05T16:46:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.0508408003.2025,2025-10-05T16:47:46-00:00",
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:45:47-00:00",
+            "expires": "2025-10-06T05:59:47-00:00",
+            "description": "\nRain, at times heavy, is expected.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Ear Falls - Perrault Falls - Western Lac Seul",
+                    "polygon": [
+                        {
+                            "lat": 50.1283,
+                            "lon": -92.9179
+                        },
+                        {
+                            "lat": 50.2367,
+                            "lon": -93.4874
+                        },
+                        {
+                            "lat": 50.8079,
+                            "lon": -93.5092
+                        },
+                        {
+                            "lat": 51.3669,
+                            "lon": -93.4873
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 50.1283,
+                            "lon": -92.9179
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Savant Lake - Sturgeon Lake",
+                    "polygon": [
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        },
+                        {
+                            "lat": 49.5235,
+                            "lon": -90.0178
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 49.8681,
+                            "lon": -91.6834
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 49.9131,
+                            "lon": -90.0123
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Sioux Lookout - Eastern Lac Seul",
+                    "polygon": [
+                        {
+                            "lat": 50.1283,
+                            "lon": -92.9179
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 50.1283,
+                            "lon": -92.9179
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.0430387391.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:47:39-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.1696854573.2025,2025-10-05T16:58:24-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2252704417.2025,2025-10-05T21:36:21-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3905230369.2025,2025-10-05T21:38:03-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4092498748.2025,2025-10-05T22:42:53-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2366923948.2025,2025-10-05T22:43:54-00:00",
+            "headline": "severe thunderstorm watch in effect",
+            "event": "thunderstorm",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:47:39-00:00",
+            "expires": "2025-10-06T01:29:39-00:00",
+            "description": "\nConditions are favourable for the development of dangerous thunderstorms that may be capable of producing damaging wind gusts.\n\n###\n\nUtility outages are possible. Significant damage to property, buildings and trees is possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+            "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Ignace - English River",
+                    "polygon": [
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        },
+                        {
+                            "lat": 48.9922,
+                            "lon": -91.2145
+                        },
+                        {
+                            "lat": 49.0644,
+                            "lon": -92.7424
+                        },
+                        {
+                            "lat": 49.8671,
+                            "lon": -91.6848
+                        },
+                        {
+                            "lat": 49.8683,
+                            "lon": -91.6842
+                        },
+                        {
+                            "lat": 49.8681,
+                            "lon": -91.6834
+                        },
+                        {
+                            "lat": 49.5614,
+                            "lon": -90.2392
+                        },
+                        {
+                            "lat": 48.9924,
+                            "lon": -91.2142
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1276803460.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:46:16-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0778330884.2025,2025-10-05T17:00:34-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1524614641.2025,2025-10-05T22:44:20-00:00",
+            "headline": "severe thunderstorm watch in effect",
+            "event": "thunderstorm",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:44:20-00:00",
+            "expires": "2025-10-06T04:59:20-00:00",
+            "description": "\nConditions are favourable for the development of dangerous thunderstorms that may be capable of producing damaging wind gusts.\n\nHazards:\nStrong wind gusts up to 100 km/h possible.\nRisk of tornadoes.\n\nTiming:\nContinuing into this evening.\n\nDiscussion:\nAn unseasonable mild and unstable air mass will allow for the development of severe thunderstorms into this evening.  Any thunderstorms that develop may produce strong wind gusts up to 100 km/h. Some storms may have the potential to produce tornadoes, but confidence in the tornado threat is low.\n\n###\n\nUtility outages are possible. Significant damage to property, buildings and trees is possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+            "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Pickle Lake - Cat Lake",
+                    "polygon": [
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 52.2797,
+                            "lon": -89.8479
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Fort Hope - Lansdowne House - Ogoki",
+                    "polygon": [
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        },
+                        {
+                            "lat": 51.0571,
+                            "lon": -84.4653
+                        },
+                        {
+                            "lat": 51.0622,
+                            "lon": -84.57
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8342
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.4893,
+                            "lon": -83.2673
+                        },
+                        {
+                            "lat": 51.2539,
+                            "lon": -83.9119
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1524614641.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:44:20-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.0778330884.2025,2025-10-05T17:00:34-00:00",
+            "headline": "severe thunderstorm watch in effect",
+            "event": "thunderstorm",
+            "urgency": "Expected",
+            "severity": "Severe",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:44:20-00:00",
+            "expires": "2025-10-06T04:59:20-00:00",
+            "description": "\nConditions are favourable for the development of dangerous thunderstorms that may be capable of producing damaging wind gusts.\n\n###\n\nUtility outages are possible. Significant damage to property, buildings and trees is possible.\n\nSevere thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n\nFor more information: https://www.ontario.ca/page/be-prepared-emergency.\n",
+            "instruction": "\nWhen thunder roars, go indoors! Lightning kills and injures Canadians every year.\n\nEmergency Management Ontario recommends that you take cover immediately if threatening weather approaches.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Pickle Lake - Cat Lake",
+                    "polygon": [
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 52.2797,
+                            "lon": -89.8479
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Fort Hope - Lansdowne House - Ogoki",
+                    "polygon": [
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        },
+                        {
+                            "lat": 51.0571,
+                            "lon": -84.4653
+                        },
+                        {
+                            "lat": 51.0622,
+                            "lon": -84.57
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8342
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.4893,
+                            "lon": -83.2673
+                        },
+                        {
+                            "lat": 51.2539,
+                            "lon": -83.9119
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.1941167637.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:45:47-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3220267165.2025,2025-10-04T10:51:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1858039987.2025,2025-10-04T17:09:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2673499634.2025,2025-10-04T17:11:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4091233939.2025,2025-10-05T03:56:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2056002984.2025,2025-10-05T09:11:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4191037980.2025,2025-10-05T09:16:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3667517336.2025,2025-10-05T16:46:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3033693105.2025,2025-10-05T16:47:46-00:00",
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:45:47-00:00",
+            "expires": "2025-10-06T05:59:47-00:00",
+            "description": "\nRain, at times heavy, is expected.\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Summer Beaver - Wunnummin Lake - Kingfisher Lake",
+                    "polygon": [
+                        {
+                            "lat": 53.2172,
+                            "lon": -87.9958
+                        },
+                        {
+                            "lat": 52.7534,
+                            "lon": -87.9569
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.237,
+                            "lon": -89.76
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 52.9445,
+                            "lon": -91.0141
+                        },
+                        {
+                            "lat": 53.543,
+                            "lon": -90.5082
+                        },
+                        {
+                            "lat": 53.4188,
+                            "lon": -89.3718
+                        },
+                        {
+                            "lat": 53.2172,
+                            "lon": -87.9958
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Pickle Lake - Cat Lake",
+                    "polygon": [
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 52.2797,
+                            "lon": -89.8479
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Webequie",
+                    "polygon": [
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.7599,
+                            "lon": -88.0338
+                        },
+                        {
+                            "lat": 53.2172,
+                            "lon": -87.9958
+                        },
+                        {
+                            "lat": 54.1733,
+                            "lon": -87.5227
+                        },
+                        {
+                            "lat": 55.0075,
+                            "lon": -87.0122
+                        },
+                        {
+                            "lat": 55.0039,
+                            "lon": -87.008
+                        },
+                        {
+                            "lat": 54.0287,
+                            "lon": -83.7002
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Fort Hope - Lansdowne House - Ogoki",
+                    "polygon": [
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        },
+                        {
+                            "lat": 51.0571,
+                            "lon": -84.4653
+                        },
+                        {
+                            "lat": 51.0622,
+                            "lon": -84.57
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8342
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.4893,
+                            "lon": -83.2673
+                        },
+                        {
+                            "lat": 51.2539,
+                            "lon": -83.9119
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "urn:oid:2.49.0.1.124.3649641416.2025",
+            "sender": "cap-pac@canada.ca",
+            "sent": "2025-10-05T22:47:16-00:00",
+            "status": "Actual",
+            "msgType": "Update",
+            "scope": "Public",
+            "references": "cap-pac@canada.ca,urn:oid:2.49.0.1.124.3220267165.2025,2025-10-04T10:51:52-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1858039987.2025,2025-10-04T17:09:25-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2673499634.2025,2025-10-04T17:11:23-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4091233939.2025,2025-10-05T03:56:02-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.2056002984.2025,2025-10-05T09:11:00-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.4191037980.2025,2025-10-05T09:16:32-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3667517336.2025,2025-10-05T16:46:40-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.3033693105.2025,2025-10-05T16:47:46-00:00 cap-pac@canada.ca,urn:oid:2.49.0.1.124.1941167637.2025,2025-10-05T22:45:47-00:00",
+            "headline": "rainfall warning in effect",
+            "event": "rainfall",
+            "urgency": "Future",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "effective": "2025-10-05T22:45:47-00:00",
+            "expires": "2025-10-06T05:59:47-00:00",
+            "description": "\nRain, at times heavy, is expected.\n\nWhat:\nTotal rainfall amounts of 50 to 75 mm. Amounts in excess of 75 mm are possible for areas that receive multiple thunderstorms.\n\nWhen:\nTapering off this evening.\n\nAdditional information:\nShowers, at times heavy, and thunderstorms are expected to move through northwestern Ontario ahead of a low pressure system. The significant rainfall will move from southwest to northeast, with multiple rounds of heavy showers possible for some areas, before tapering off this evening. \n\nFor information concerning flooding, please consult your local Conservation Authority or Ontario Ministry of Natural Resources office. Visit Ontario.ca/floods for the latest details\n\n###\n\nHeavy downpours can cause flash floods and water pooling on roads. Localized flooding in low-lying areas is possible.\n\nPlease continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on X using #ONStorm.\n",
+            "instruction": "\nWatch for possible washouts near rivers, creeks and culverts.\n",
+            "affected_areas": [
+                {
+                    "area_description": "Summer Beaver - Wunnummin Lake - Kingfisher Lake",
+                    "polygon": [
+                        {
+                            "lat": 53.2172,
+                            "lon": -87.9958
+                        },
+                        {
+                            "lat": 52.7534,
+                            "lon": -87.9569
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.237,
+                            "lon": -89.76
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 52.9445,
+                            "lon": -91.0141
+                        },
+                        {
+                            "lat": 53.543,
+                            "lon": -90.5082
+                        },
+                        {
+                            "lat": 53.4188,
+                            "lon": -89.3718
+                        },
+                        {
+                            "lat": 53.2172,
+                            "lon": -87.9958
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Pickle Lake - Cat Lake",
+                    "polygon": [
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 51.1354,
+                            "lon": -89.9953
+                        },
+                        {
+                            "lat": 51.1282,
+                            "lon": -91.0434
+                        },
+                        {
+                            "lat": 51.1193,
+                            "lon": -92.3388
+                        },
+                        {
+                            "lat": 52.2405,
+                            "lon": -91.5246
+                        },
+                        {
+                            "lat": 52.2797,
+                            "lon": -89.8479
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Webequie",
+                    "polygon": [
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.7599,
+                            "lon": -88.0338
+                        },
+                        {
+                            "lat": 53.2172,
+                            "lon": -87.9958
+                        },
+                        {
+                            "lat": 54.1733,
+                            "lon": -87.5227
+                        },
+                        {
+                            "lat": 55.0075,
+                            "lon": -87.0122
+                        },
+                        {
+                            "lat": 55.0039,
+                            "lon": -87.008
+                        },
+                        {
+                            "lat": 54.0287,
+                            "lon": -83.7002
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        }
+                    ]
+                },
+                {
+                    "area_description": "Fort Hope - Lansdowne House - Ogoki",
+                    "polygon": [
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        },
+                        {
+                            "lat": 51.0571,
+                            "lon": -84.4653
+                        },
+                        {
+                            "lat": 51.0622,
+                            "lon": -84.57
+                        },
+                        {
+                            "lat": 51.1686,
+                            "lon": -84.8479
+                        },
+                        {
+                            "lat": 51.159,
+                            "lon": -87.4321
+                        },
+                        {
+                            "lat": 51.1568,
+                            "lon": -87.9963
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -87.9904
+                        },
+                        {
+                            "lat": 52.2455,
+                            "lon": -83.0383
+                        },
+                        {
+                            "lat": 52.2453,
+                            "lon": -83.0302
+                        },
+                        {
+                            "lat": 51.9291,
+                            "lon": -82.9115
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8342
+                        },
+                        {
+                            "lat": 51.8669,
+                            "lon": -82.8343
+                        },
+                        {
+                            "lat": 51.4893,
+                            "lon": -83.2673
+                        },
+                        {
+                            "lat": 51.2539,
+                            "lon": -83.9119
+                        },
+                        {
+                            "lat": 51.1582,
+                            "lon": -84.05
+                        },
+                        {
+                            "lat": 51.1626,
+                            "lon": -84.3362
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
